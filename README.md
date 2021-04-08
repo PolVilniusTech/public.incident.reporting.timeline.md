@@ -18,4 +18,4 @@
 
 ### About Competence and Resilience
 
-Facts shows that in total View we could count Competent People on our fingers [Cybersecurity Competence Survey](https://ec.europa.eu/jrc/en/research-topic/cybersecurity/cybersecurity-competence-survey)
+Facts shows that in total View we could count Competent People on our fingers, [Cybersecurity Competence Survey](https://ec.europa.eu/jrc/en/research-topic/cybersecurity/cybersecurity-competence-survey)
