@@ -17,7 +17,7 @@ Other sources:
 ```
 ##### R esults 
 
-These attacks kept the whole state in chaos for weeks. Although North Atlantic Treaty Organization (following — NATO) responded to Estonia’s call for assistance, it was restrained by the legal limitations, but also by the lack of necessary capabilities. [@Latvian Institute of International Affairs](https://www.liia.lv/en/publications/the-riga-conference-papers-2019-nato-at-70-in-the-baltic-sea-region-815)
+According [@Latvian Institute of International Affairs](https://www.liia.lv/en/publications/the-riga-conference-papers-2019-nato-at-70-in-the-baltic-sea-region-815) these attacks kept the whole state in chaos for weeks. Although North Atlantic Treaty Organization (following — NATO) responded to Estonia’s call for assistance, it was restrained by the legal limitations, but also by the lack of necessary capabilities. 
 ```
 
 ```
