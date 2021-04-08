@@ -2,7 +2,7 @@
 [Only Public Sources are allowed]
 
 (by timeline)
-1. Incident 
+1. Incident (i.e. [Incident Classification Taxonomy](https://www.trusted-introducer.org/Incident-Classification-Taxonomy.pdf))
 2. Results 
 3. Learning from Mistake(s)
 
