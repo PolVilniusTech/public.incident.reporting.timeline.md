@@ -19,3 +19,4 @@
 ### About Competence and Resilience
 
 Facts shows that in total View we could count Competent People on our fingers, [Cybersecurity Competence Survey](https://ec.europa.eu/jrc/en/research-topic/cybersecurity/cybersecurity-competence-survey)
+These facts allows to do Conclusion to take account the IT Baseline Protection (IT-Grundschutz) methodology, [Horizon 2020](https://ec.europa.eu/jrc/en/publication/proposal-european-cybersecurity-taxonomy)
