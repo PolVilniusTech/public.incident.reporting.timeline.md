@@ -58,6 +58,212 @@ Other ideas related to Physical Devices:
 ```
 
 ```
+### 2017
+
+##### I ncident
+
+According [@lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/247992/strigo-vrk-puslapis-didelis-srautas-lauze-sistema) connectivity to the Web Site(s) for VRK to do their job is jamming because of huge data flow.
+```
+
+```
+##### R esults 
+
+According @lrt.lt the view of newest results, interactive maps is jamming.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Test out, if Hardware has enough resources to function properly.
+* Test out the characteristics of the Web Server.
+* Look for the ways how to upgrade the Hardware and the Web Server.
+* Check if Servers Ethernet interface needs upgrade into latest fiber-optic Ethernet. 
+* Distributing Resources and aligning to the Server capability at serving the Customers.
+* Look for cache capability for speeding up processes.
+```
+
+```
+##### I ncident
+
+According [@Delfi.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/188552/antradieni-ryte-buvo-sutrikusi-dalis-telia-paslaugu) there was a disruption to the operation of „Telia“ platform for sending the SMS. Partly because of this „Ežys“ web site didn't work either.
+```
+
+```
+##### R esults 
+
+Failure on one Service lied into disruption of second Service.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Look for ways how to implement functionality with processes to fail safely.
+* Depending by Tasks of the specific Service use separated operational Environments.
+* Test out processes that one failure would not do any impact to other process.
+```
+
+```
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/179665/liuties-padariniai-portalas-meteo-lt-neatlaiko-vartotoju-srauto-ir-luzineja) Lithuanian Hydromeorological Service Web Site meteo.lt no longer withstand Data flows. According to the senior specialist, the Web Site can only withstand up to 1,000 Connections at a Time. After completion of the improvements, 10 thousand Users will be able to read the Forecasts at the same Time.
+```
+
+```
+##### R esults 
+
+Website no longer withstand Data flows because the Server does not have such capability.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Increase Servers capability to manage more Clients at one time.
+* Usage of Round-robin DNS and similar techniques.
+* Technique of DNS Failover & non-stop Monitoring for distributing Users from 2 to N Web Servers.
+* [Configuring Web Server Functionality](https://docs.oracle.com/cd/E14571_01/web.1111/e13701/web_server.htm#CNFGD192)
+* [Avoiding and Managing Overload](https://docs.oracle.com/cd/E14571_01/web.1111/e13701/overload.htm#CNFGD146)
+```
+
+```
+### 2019
+
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1067988/lietuvos-interneto-vartotoju-duomenys-be-ju-zinios-per-yandex-ir-toliau-keliauja-i-rusija) in local market it's possible to purchase routers with integrated DNS service, which operates outside of the Country.
+According E.Kerza during communication with the DNS server DNS data requests and responses are sended outside of the Country, this data potentially are stored there. „<...> routers does not meet security requirements. Users main router passwords are stored in unencrypted form, updates and data from the control servers flows unencrypted“. Given advices:
+* to use DNS servers, which are offered of the Internet Service Providers;
+* change routers non-secure factory settings, passwords into more secure ones.
+```
+
+```
+##### R esults 
+
+According E.Kerza there are companies who sell poor quality Goods and Services, which does not ensure the minimal security requirements of the EU.
+Let's form the Question: Does there are enough Goods and Services for blocking the Malicious Content (i.e. adult, gambling sites and darknet limited access sites)?:
+* https://www.iwf.org.uk/what-we-do
+* https://www.betterinternetforkids.eu/
+* https://www.draugiskasinternetas.lt/kas-mes/apie-programa/
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Internet Service Providers typically provides recursive and caching name servers for their customers.
+* I.e. to prevent for the DNS Iterator to get more information DNSSEC and previous recursive Chain of Trust could be implemented.
+* ISP providers are registering their Incident Resonse Teams and are shown in ENISA portal [CSIRTs list](https://www.enisa.europa.eu/topics/csirts-in-europe/csirt-inventory/certs-by-country-interactive-map#country=Lithuania)
+
+For Buyers:
+* If DNS server is returning outdated or incorrect results, then it's better to change your DNS servers and flush the DNS cache.
+* [DNS Lookup Service](https://dnschecker.org/)
+* [About DNS and it's configuration on Windows, Mac, Ubuntu](https://dnschecker.org/dns-articles/how-dns-works-how-to-find-dns-of-your-pc.html)
+```
+
+```
+### 2021
+
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1349079/kada-tiksliai-buvo-pavogti-citybee-klientu-duomenys-atsakymas-gali-lemti-20-mln-euru-bauda) more than 100 thousand Clients of the Automobile sharing Service „CityBee“ got notified about Anonymous intruders who disclosed their private information. 
+```
+
+```
+##### R esults 
+
+From database were leaked Client data like:
+* names
+* surnames
+* personal identification codes
+* phone numbers
+* e-mails
+* address of current residence
+* drivers license numbers
+* hashed passwords
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Keep less quantity of the Data as much as possible (You can't lose the Data, which You don't Own)
+* Does while registering for new Customer there would be possible to build WorkFlow in Stages 1-N? i.e. during Stage 1 You collect required data about the Driver, on other Stage for finishing making Service Available You are removing some personal data of the Client and leave only essential data for the Service like "date when license of the Driver expires" or so?
+* Testing for Security Flaws regarding access to the Database.
+* Management of the Database backups; testing functionality of those backups.
+* Does there are defined policy(-ies) who should be able to access those backups?  
+* [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+* [Authentication (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) 
+```
+
+```
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1349079/kada-tiksliai-buvo-pavogti-citybee-klientu-duomenys-atsakymas-gali-lemti-20-mln-euru-bauda) more than 275 thousand of Personal Accounts were leaked from Web Site of Orakulas.lt. 
+```
+
+```
+##### R esults 
+
+Personal Account Data leak. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Fix issues of the Security Flaw and report to the Clients to change Login Credentials.   
+* [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+* [Authentication (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) 
+```
+
+```
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1349079/kada-tiksliai-buvo-pavogti-citybee-klientu-duomenys-atsakymas-gali-lemti-20-mln-euru-bauda) more than 400 thousand of Personal Data were leaked from Web Site of DarniPora.lt. 
+```
+
+```
+##### R esults 
+
+Leaked email addresses and Login Credentials.
+According @Lrt.lt there is way to purchase desired Client Data.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Fix issues of the Security Flaw and report to the Clients to change Login Credentials.
+* Use General Data Protection Regulation and legal documents in Your favour to remove the Data and protect Your Clients.   
+* [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+* [Authentication (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) 
+```
+
+```
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1349079/kada-tiksliai-buvo-pavogti-citybee-klientu-duomenys-atsakymas-gali-lemti-20-mln-euru-bauda) more than 65 thousand of Personal Data were leaked from Web Site of the Filmai.in. 
+```
+
+```
+##### R esults 
+
+Leaked email addresses and Login Credentials.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Fix issues of the Security Flaw and report to the Clients to change Login Credentials.
+* Filling the Gap of local Video Streaming Service Industry by paying taxes would allow to use more legal ways to protect Your Clients. 
+* [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+* [Authentication (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) 
+```
+
+```
 
 TODO.
 
