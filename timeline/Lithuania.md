@@ -264,6 +264,30 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [@TheGuardian.com](https://www.rtlnieuws.nl/tech/artikel/5226954/deepfake-rusland-navalny-europese-politici) Lithuanian parlamentarian had video chat with other person, who used deepfake technology using distance audio-video communication Solution.
+```
+
+```
+##### R esults 
+
+Original person, „participant of video chat“, using Social Network Service approved that it were not him.   
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Authentication of the person is boundless and makes headaches.
+* In recommendation to use more than one technique, which helps to answer to the question(s): 
+    * What I know? (password,one time token...)
+    * What I am? (looks, speech...)
+    * What I have? (card, certificate, phone...)
+    * What I do? (in total results in non-existing damage, in total results in catastrophic damage)
+```
+
+```
 
 TODO.
 
