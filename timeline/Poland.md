@@ -36,7 +36,7 @@ Other ideas related to Physical Devices:
 
 ##### I ncident
 
-According [@TheGuardian.com](https://www.rtlnieuws.nl/tech/artikel/5226954/deepfake-rusland-navalny-europese-politici) Estonian parlamentarian had video chat with other person, who used deepfake technology using distance audio-video communication Solution.
+According [@TheGuardian.com](https://www.rtlnieuws.nl/tech/artikel/5226954/deepfake-rusland-navalny-europese-politici) parlamentarians from European Union had video chat with other person, who used deepfake technology using distance audio-video communication Solution.
 ```
 
 ```
