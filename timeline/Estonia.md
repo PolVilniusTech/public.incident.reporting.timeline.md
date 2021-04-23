@@ -92,7 +92,7 @@ From such incidents there are possible to learn a lot. I.e.:
     * What I know? (password,one time token...)
     * What I am? (looks, speech...)
     * What I have? (card, certificate, phone...)
-    * What I do? (in total results in minimal damage, in total results in catastrophic damage)
+    * What I do? (in total results in non-existing damage, in total results in catastrophic damage)
 ```
 
 ```
