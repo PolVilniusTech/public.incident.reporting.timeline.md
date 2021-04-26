@@ -48,7 +48,7 @@ Website were filled with various messages for remembering what happened with the
 
 From such incidents there are possible to learn a lot. I.e.:
 * If the System would be in list of the Critical Infrastructure, then build Website with tools like Microsoft FrontPage, which would write the Website main code, for example, without use of programming language(s).
-* Take into the account that, if there are going to be build SCADA system for the Critical Infrastructure, does it neccessary to Deploy it with 100 percent precautions?
-* It's necessary to asses the Risks for making real world decissions.   
+* Take into the account that, if there are going to be build SCADA system for the Critical Infrastructure, it necessary to asses the Risks for making real world decissions.
+* Does it's neccessary to Deploy such SCADA System with 100 percent precautions?   
 
 TODO.
