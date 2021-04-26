@@ -30,5 +30,25 @@ Other ideas related to Physical Devices:
 ```
 
 ```
+### 2021
+
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1395012/i-baltarusijos-atomines-elektrines-interneto-svetaine-isilauze-programisiai-pranese-apie-gresiancia-tragedija) there were incident in the Website of the Nuclear Power Plant.
+```
+
+```
+##### R esults 
+
+Website were filled with various messages for remembering what happened with the past Nuclear Power Plant in the region of the Europe and other concerns.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* If the System would be in list of the Critical Infrastructure, then build Website with tools like Microsoft FrontPage, which would write the Website main code, for example, without use of programming language(s).
+* Take into the account that, if there are going to be build SCADA system for the Critical Infrastructure, does it neccessary to Deploy it with 100 percent precautions?
+* It's necessary to asses the Risks for making real world decissions.   
 
 TODO.
