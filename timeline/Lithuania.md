@@ -1,6 +1,6 @@
 ### References for the Research:
 * site-check.cert.lt
-* https://www.cert.orange.pl/aktualnosci/raport-cert-orange-polska-za-2020-rok
+* https://www.cert.orange.pl/aktualnosci/raport-cert-orange-polska-za-2020-rok 6-13 p.
 
 ### 2016
 
