@@ -28,3 +28,7 @@
 
 Facts shows that in total View we could count Competent People on our fingers, [Cybersecurity Competence Survey](https://ec.europa.eu/jrc/en/research-topic/cybersecurity/cybersecurity-competence-survey)
 These facts allows to do Conclusion to take account the IT Baseline Protection (IT-Grundschutz) methodology, [Horizon 2020](https://ec.europa.eu/jrc/en/publication/proposal-european-cybersecurity-taxonomy)
+
+### About Security Responses
+
+Tech Industry Companies reports an broad range of various Security related Information for it's Customers, i.e. [Microsoft](https://www.microsoft.com/en-us/msrc)
