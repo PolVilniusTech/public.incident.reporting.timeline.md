@@ -1,4 +1,4 @@
-#
+# Website Security Tests: site-check.cert.lt
 
 ### 2016
 
@@ -64,6 +64,28 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+### 2021
+
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1395012/i-baltarusijos-atomines-elektrines-interneto-svetaine-isilauze-programisiai-pranese-apie-gresiancia-tragedija) there were incident in the Website of the Nuclear Power Plant.
+```
+
+```
+##### R esults 
+
+Website were filled with various messages for remembering what happened with the past Nuclear Power Plant in the region of the Europe and other concerns.
+
+According [ESET](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1397448/kibernetinio-saugumo-ekspertas-ivertino-incidenta-astravo-ae-tinklapyje-pateke-i-svarbia-sistema-programisiai-sugebetu-sustabdyti-ir-elektros-tiekima) for Website Security exists Web Application Firewall's, which enhances security from possible Vulnerabilities. Regular updates of the Website and it's Components, two-factor Authentication, Internal and External Security Tests are additional recommendation. And more examples from events, which were involved with Critical Infrastructure.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* If the System would be in list of the Critical Infrastructure, then build Website with tools like Microsoft FrontPage, which would write the Website main code, for example, without use of programming language(s).
+* Take into the account that, if there are going to be build SCADA system for the Critical Infrastructure, it necessary to asses the Risks for making real world decissions.
+* Does it's neccessary to Deploy such SCADA System with 100 percent precautions?   
 
 TODO.
 
