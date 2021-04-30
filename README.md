@@ -32,3 +32,7 @@ These facts allows to do Conclusion to take account the IT Baseline Protection (
 ### About Security Responses
 
 Tech Industry Companies reports an broad range of various Security related Information for it's Customers, i.e. [Microsoft](https://www.microsoft.com/en-us/msrc)
+
+### About Security Verification
+
+Tech Industry Companies builds tools, which allows to vertify i.e. Governance [IBM](https://www.ibm.com/products/verify-governance) and are compilat to specific controls of GDPR or so.
