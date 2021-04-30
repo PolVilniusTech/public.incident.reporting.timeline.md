@@ -41,6 +41,8 @@ According [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1395012/i-baltarusij
 ##### R esults 
 
 Website were filled with various messages for remembering what happened with the past Nuclear Power Plant in the region of the Europe and other concerns.
+
+According [ESET](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1397448/kibernetinio-saugumo-ekspertas-ivertino-incidenta-astravo-ae-tinklapyje-pateke-i-svarbia-sistema-programisiai-sugebetu-sustabdyti-ir-elektros-tiekima) for Website Security exists Web Application Firewall's, which enhances security from possible Vulnerabilities. Regular updates of the Website and it's Components, two-factor Authentication, Internal and External Security Tests are additional recommendation. And more examples from events, which were involved with Critical Infrastructure.
 ```
 
 ```
