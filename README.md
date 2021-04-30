@@ -36,3 +36,7 @@ Tech Industry Companies reports an broad range of various Security related Infor
 ### About Security Verification
 
 Tech Industry Companies builds tools, which allows to vertify i.e. Governance [IBM](https://www.ibm.com/products/verify-governance) and are compilat to specific controls of GDPR or so.
+
+### About Real-Time Incident Handling helper tools 
+
+Visualization helps get the big Picture of the Situation in the CyberSpace / Internet [CERT](https://www.cert.orange.pl/mapa)
