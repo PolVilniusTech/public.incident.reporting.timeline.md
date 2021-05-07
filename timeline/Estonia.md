@@ -56,7 +56,7 @@ According [@err.ee](https://www.err.ee/357975/fbi-usa-taotleb-eestis-vahistatud-
 
 From such incidents there are possible to learn a lot. I.e.:
 * Against such Malware exists tools like this one [malwarebytes.com](https://blog.malwarebytes.com/detections/trojan-dnschanger/);
-* For such Incidents when Case are Closed, then there should be available the Raport(s) how to fix the Problem(s), i.e. [fbi.com](https://www.fbi.gov/file-repository/dns-changer-malware.pdf/view).
+* For such Incidents there should be available the Raport(s), including how to fix the Problem(s), i.e. [fbi.com](https://www.fbi.gov/file-repository/dns-changer-malware.pdf/view).
 ```
 
 ```
