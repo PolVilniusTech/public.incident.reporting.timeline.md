@@ -38,6 +38,28 @@ Other helpful tech:
 ```
 
 ```
+### 2011
+
+##### I ncident
+
+According [@err.ee](https://www.err.ee/357975/fbi-usa-taotleb-eestis-vahistatud-kuberkurjategijate-valjaandmist) the Criminals have taken control of millions of Computers around the World with Malware called DNSChanger. 
+```
+
+```
+##### R esults 
+
+According [@err.ee](https://www.err.ee/357975/fbi-usa-taotleb-eestis-vahistatud-kuberkurjategijate-valjaandmist) the Malware allowed the Victims to be redirected into mallicious Places and made them susceptible to other Malware.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Against such Malware exists tools like this one [malwarebytes.com](https://blog.malwarebytes.com/detections/trojan-dnschanger/);
+* For such Incidents when Case are Closed, then there should be available the Raport(s) how to fix the Problem(s), i.e. [fbi.com](https://www.fbi.gov/file-repository/dns-changer-malware.pdf/view).
+```
+
+```
 ### 2016
 
 ##### I ncident
