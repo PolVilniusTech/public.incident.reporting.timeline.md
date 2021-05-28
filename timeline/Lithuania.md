@@ -408,6 +408,30 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1417661/viesojoje-erdveje-pradejo-plisti-netikra-galimybiu-paso-interneto-svetaine) exists Web Portal with similar functionallity.
+```
+
+```
+##### R esults 
+Around the Interwebs Citizens could click on the „masked“ Links and onwards They would get redirected into different Web Portal of Their choice.
+Does Web Portal could be Trusted? and there exists no harm into entering Personal (or not for Public) data?
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*   Before using some resource in the Interwebs You shall ask the following "rhetorical" Questions for Yourself:
+*        Do You really need for such Service?
+*        Does Your data in such Service are going to be safe or missused?
+*   Need to get some awareness training for the Basic Security Measures while surfing the Interwebs.
+*   Professional Services provides some Guidelines how to avoid negative Impact from Criminals or people, who spread Misinformation unintentionally.
+*   There may be troubles in handling for such Services, especially when they are spread accross the Interwebs, so Professional Responce helps to avoid higher total Damage to the Citizens. 
+```
+
+```
 
 TODO.
 
