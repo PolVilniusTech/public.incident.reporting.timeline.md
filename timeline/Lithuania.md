@@ -432,6 +432,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/1421635/lietuvos-bankas-nurode-blokuoti-dvi-interneto-svetaines) in the Global Network of the Internet exists illegal Web Sites, which offers their (e-)Services without legal backing in the Homeland.
+```
+
+```
+##### R esults 
+Internet Service Providers are implementing blocking measures, so their Customers (Citizens) would be Safe from such illegal Content.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*   There should be Way to privide the proof of the (e-)Service legitimity, i.e. for local Business certificates: [VMI.lt](https://www.vmi.lt/cms/verslo-liudijimu-duomenu-tikrinimas1). 
+   
+```
+
+```
 
 TODO.
 
