@@ -425,7 +425,7 @@ Does Web Portal could be Trusted? and there exists no harm into entering Persona
 From such incidents there are possible to learn a lot. I.e.:
 *   Before using some resource in the Interwebs You shall ask the following "rhetorical" Questions for Yourself:
 *        Do You really need for such Service?
-*        Does Your data in such Service are going to be safe or missused?
+*        Does Your data in such Service are going to be safe or misused?
 *   Need to get some awareness training for the Basic Security Measures while surfing the Interwebs.
 *   Professional Services provides some Guidelines how to avoid negative Impact from Criminals or people, who spread Misinformation unintentionally.
 *   There may be troubles in handling for such Services, especially when they are spread accross the Interwebs, so Professional Responce helps to avoid higher total Damage to the Citizens. 
