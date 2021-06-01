@@ -449,7 +449,7 @@ From such incidents there are possible to learn a lot. I.e.:
 *   There should be Way to privide the proof of the (e-)Service legitimity, i.e. for local Business certificates: [VMI.lt](https://www.vmi.lt/cms/verslo-liudijimu-duomenu-tikrinimas1).
 *   For other Way: 
 *        Does in Your Country exists such (e-)Service, which offers their (e-)Services legally?
-*        Does similar and legal (e-)Services has some drawbacks, which decreases their popularity? What are these? 
+*        Does similar and legal (e-)Services has some drawbacks, which decreases their popularity? What are those drawbacks? 
    
 ```
 
