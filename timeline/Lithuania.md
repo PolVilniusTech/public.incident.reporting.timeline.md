@@ -446,7 +446,10 @@ Internet Service Providers are implementing blocking measures, so their Customer
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-*   There should be Way to privide the proof of the (e-)Service legitimity, i.e. for local Business certificates: [VMI.lt](https://www.vmi.lt/cms/verslo-liudijimu-duomenu-tikrinimas1). 
+*   There should be Way to privide the proof of the (e-)Service legitimity, i.e. for local Business certificates: [VMI.lt](https://www.vmi.lt/cms/verslo-liudijimu-duomenu-tikrinimas1).
+*   For other Way: 
+*        Does in Your Country exists such (e-)Service, which offers their (e-)Services legally?
+*        Does similar and legal (e-)Services has some drawbacks, which decreases their popularity? What are these? 
    
 ```
 
