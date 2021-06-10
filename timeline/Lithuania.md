@@ -463,18 +463,20 @@ According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1428867/nutekin
 ##### R esults 
 About 191 thousand chunks of Data of the e-Shop Clients were lost including name, surname, email address, phone number, living apartament adress, encoded passwords.
 
-According Privacy Policy of the e-Shop: [kilobaitas.lt](https://www.kilobaitas.lt/Pub/default.aspx?Page=privatumopolitika) there exists huge chance:
-* Data of the Bank Account No. are leaked too.
-* Data, which are needed to protect the Homeland Security, with Criminal code related issues and etc. (i.e. IP address, device number and other)
+According Privacy Policy of the e-Shop [kilobaitas.lt](https://www.kilobaitas.lt/Pub/default.aspx?Page=privatumopolitika):
+* exists huge chance that Data of the Bank Account No. are leaked too.
+* Data, which are needed to protect the Homeland Security, with Criminal code related issues and etc. (i.e. IP address, device number and other) are in Question.
+* To retrieve goods anyone could identify themselves by providing name, surname, e-mail address.
 ```
 
 ```
 ##### L earning from Mistakes 
 
-From such incidents there are possible to learn a lot. I.e.:
+From such incidents there are possible to learn a lot. I.e. for Customers/e-Shops:
 *   Don't use the same password in different Software Systems.
 *   If there is no need, then don't provide Personal Data.
 *   Use password managers, i.e. physical notebooks w/o risky Networks.
+*   In physical shops does not ask for personal data, unless purchase are done using electronic means.
 
 For e-Shops:
 *  For how long You are going to keep the Data?  
