@@ -463,7 +463,9 @@ According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1428867/nutekin
 ##### R esults 
 About 191 thousand chunks of Data of the e-Shop Clients were lost including name, surname, email address, phone number, living apartament adress, encoded passwords.
 
-According Privacy Policy of the e-Shop: [kilobaitas.lt](https://www.kilobaitas.lt/Pub/default.aspx?Page=privatumopolitika) there exists huge chance that Bank Account No. are leaked too.
+According Privacy Policy of the e-Shop: [kilobaitas.lt](https://www.kilobaitas.lt/Pub/default.aspx?Page=privatumopolitika) there exists huge chance:
+* Data of the Bank Account No. are leaked too.
+* Data, which are needed to protect the Homeland Security, with Criminal code related issues and etc. (i.e. IP address, device number and other)
 ```
 
 ```
