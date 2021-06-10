@@ -454,6 +454,34 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1428867/nutekinta-didele-apimtis-kilobaitas-lt-klientu-duomenu-rekomenduojama-pakeisti-slaptazodzius) there were found the data leak from the e-Shop.
+```
+
+```
+##### R esults 
+About 191 thousand chunks of Data of the e-Shop Clients were lost including name, surname, email address, phone number, living apartament adress, encoded passwords.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*   Don't use the same password in different Software Systems.
+*   If there is no need, then don't provide Personal Data.
+*   Use password managers, i.e. physical notebooks w/o risky Networks.
+
+For e-Shops:
+*  For how long You are going to keep the Data?  
+*  What purpose of collecting personal data of the Citizens?
+*  Does such Data are required to use every day/week/month/year?  
+*  Does there are way to authorize Customers to the Service using, i.e. e-Government Gateway solutions and not keep the Data at all?
+*  Does politics about Incident Response is in place and effective?
+   
+```
+
+```
 
 TODO.
 
