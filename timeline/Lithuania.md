@@ -457,6 +457,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1428867/nutekinta-didele-apimtis-kilobaitas-lt-klientu-duomenu-rekomenduojama-pakeisti-slaptazodzius) there were found the data leak in the e-Shop Kilobaitas.lt.
+Privacy Policy of the e-Shop: [kilobaitas.lt](https://www.kilobaitas.lt/Pub/default.aspx?Page=privatumopolitika)
 ```
 
 ```
