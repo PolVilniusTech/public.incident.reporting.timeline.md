@@ -482,7 +482,7 @@ For e-Shops:
 *  Does politics about Incident Response is in place and effective?
 *  If you accept or process payment cards data, the PCI Data Security Standards apply to you, which one of the Goals — "Protect Cardholder Data". 
 *  [PCI Security](https://www.pcisecuritystandards.org/pci_security/standards_overview)
-*  Regularly Install Security Patches and Use Security Scan Tool from Official Site of the e-Commerce.
+*  Regularly Install Security Patches and Use Security Scan Tool from Official Site of the [cert.lt](site-check.cert.lt).
    
 ```
 
