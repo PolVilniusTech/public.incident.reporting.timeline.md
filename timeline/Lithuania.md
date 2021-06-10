@@ -457,12 +457,13 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1428867/nutekinta-didele-apimtis-kilobaitas-lt-klientu-duomenu-rekomenduojama-pakeisti-slaptazodzius) there were found the data leak in the e-Shop Kilobaitas.lt.
-Privacy Policy of the e-Shop: [kilobaitas.lt](https://www.kilobaitas.lt/Pub/default.aspx?Page=privatumopolitika)
 ```
 
 ```
 ##### R esults 
 About 191 thousand chunks of Data of the e-Shop Clients were lost including name, surname, email address, phone number, living apartament adress, encoded passwords.
+
+According Privacy Policy of the e-Shop: [kilobaitas.lt](https://www.kilobaitas.lt/Pub/default.aspx?Page=privatumopolitika) there exists huge chance that Bank Account No. are leaked too.
 ```
 
 ```
@@ -479,6 +480,9 @@ For e-Shops:
 *  Does such Data are required to use every day/week/month/year?  
 *  Does there are way to authorize Customers to the Service using, i.e. e-Government Gateway solutions and not keep the Data at all?
 *  Does politics about Incident Response is in place and effective?
+*  If you accept or process payment cards data, the PCI Data Security Standards apply to you, which one of the Goals — "Protect Cardholder Data". 
+*  [PCI Security](https://www.pcisecuritystandards.org/pci_security/standards_overview)
+*  Regularly Install Security Patches and Use Security Scan Tool from Official Site of the e-Commerce.
    
 ```
 
