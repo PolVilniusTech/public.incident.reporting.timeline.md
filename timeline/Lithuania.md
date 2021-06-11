@@ -491,6 +491,29 @@ For e-Shops:
 ```
 
 ```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1429971/sukciai-megino-prisijungti-prie-tele2-programeles-naudotoju-paskyru) some persons got access to the e-Service Accounts of specific People and took some Money from their Account Balance.
+```
+
+```
+##### R esults 
+Affected Persons lost Security of the e-Service.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e for Customers/e-Services.
+* If the Client owns the Device of the e-Service, then it should be a way to try and enforce 2 (two-way) Authentication for selected dangerious operations. 
+* Usage of the strong Passwords are only one Side of the Grail.
+* If the e-Service gives You the Device and can't enforce more Secure Authentication mechanismus, then You are lucky, if Your loss are/got compensated.
+
+For e-Services:
+* Generiousity could be abused in long term.
+* Most often the prisoners get hands on such scam.
 
 TODO.
+```
 
+```
