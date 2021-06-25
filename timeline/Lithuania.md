@@ -415,6 +415,7 @@ According [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1417661/viesojoje-er
 
 ```
 ##### R esults 
+
 Around the Interwebs Citizens could click on the „masked“ Links and onwards They would get redirected into different Web Portal of Their choice.
 Does Web Portal could be Trusted? and there exists no harm into entering Personal (or not for Public) data?
 ```
@@ -439,6 +440,7 @@ According [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/1421635/lietuvos-banka
 
 ```
 ##### R esults 
+
 Internet Service Providers are implementing blocking measures, so their Customers (Citizens) would be Safe from such illegal Content.
 ```
 
@@ -461,6 +463,7 @@ According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1428867/nutekin
 
 ```
 ##### R esults 
+
 About 191 thousand chunks of Data of the e-Shop Clients were lost including name, surname, email address, phone number, living apartament adress, encoded passwords.
 
 According Privacy Policy of the e-Shop [kilobaitas.lt](https://www.kilobaitas.lt/Pub/default.aspx?Page=privatumopolitika):
@@ -498,6 +501,7 @@ According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1429971/sukciai
 
 ```
 ##### R esults 
+
 Affected Persons lost Security of the e-Service.
 ```
 
@@ -512,8 +516,31 @@ From such incidents there are possible to learn a lot. I.e for Customers/e-Servi
 For e-Services:
 * Generiousity could be abused in long term.
 * Most often the prisoners get hands on such scam.
+```
+
+```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/ru/novosti/17/1439369/ne-rabotaet-sait-seima-litvy-vnutrennie-informatsionnye-sistemy) some of the e-Parlament & e-Government Systems are not accessible because of the electricity loss.
+```
+
+```
+##### R esults 
+
+Internal and External Users lost access to the e-Services.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e for Customers/e-Services.
+* Additional Source of the electricity is able to feed the Equipment or adding the possibility to switch into separate electricity Line could help. 
+* Uninterrupted Power Supplies (UPS) helps to solve the Problem for some Time.
+
+For e-Gov:
+* Ministry of Economics and Innovation are knowledgable about Company which could help in such occasion with Example of the Australia.
+```
+
+```
 
 TODO.
-```
-
-```
