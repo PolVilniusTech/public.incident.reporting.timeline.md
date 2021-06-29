@@ -558,7 +558,7 @@ People may pay for false Service, which in reallity were not Orderd.
 
 From such incidents there are possible to learn a lot. I.e for Customers/e-Services.
 * If Your are not waiting for the Parcel to come, then it's no point to trust for such Notification. 
-* Don't spread the Word around the World Wide Web for other people that You are waiting for the Parcel to come.
+* Don't spread the Word around the World Wide Web to other people that You are waiting for the Parcel to come.
 * According [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/1441302/prisidengiant-lietuvos-pasto-vardu-plinta-apgaulingi-laiskai-kuriuose-prasoma-sumoketi-muito-mokescius) all post related notifications are send from Domain Name of the „post.lt“. Beware of the similar Domain Names „pos1.lt“ and other tricks of hidding the real Domain Name from the Customer.  
 
 
