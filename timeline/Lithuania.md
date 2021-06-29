@@ -542,5 +542,32 @@ For e-Gov:
 ```
 
 ```
+##### I ncident
 
+According [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/1441302/prisidengiant-lietuvos-pasto-vardu-plinta-apgaulingi-laiskai-kuriuose-prasoma-sumoketi-muito-mokescius) some people are getting Notifications to pay the Tax for the International Parcels.
+```
+
+```
+##### R esults 
+
+People may pay for false Service, which in reallity were not Orderd.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e for Customers/e-Services.
+* If Your are not waiting for the Parcel to come, then it's no point to trust for such Notification. 
+* Don't spread the Word around the World Wide Web for other people that You are waiting for the Parcel to come.
+* According [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/1441302/prisidengiant-lietuvos-pasto-vardu-plinta-apgaulingi-laiskai-kuriuose-prasoma-sumoketi-muito-mokescius) all post related notifications are send from Domain Name of the „post.lt“. Beware of the similar Domain Names „pos1.lt“ and other tricks of hidding the real Domain Name from the Customer.  
+
+
+For e-Post:
+* State Tax Inspectorate [VMI.lt](https://www.vmi.lt/) are cappable to locate local Bank Accounts and People who owns them.
+* Only small number of people are using the Cryptocurrencies in the Country, so damage from such payments are void.
+* Does there already exist platform for paying Some Kind of Taxes? If yes, then does it would be cheaper for the Country to Pay them with the same Infrastructure?
+* Does it would be much simpler for the Customer himself that after the purchase in the e-Shops there would be made a Ticket in some kind of e-Post System? If yes, then does in the Country exists Services with some kind of API's (Application programming Interfaces) [lt.wiki](https://lt.wikipedia.org/wiki/Aplikacij%C5%B3_programavimo_s%C4%85saja)?
+```
+
+```
 TODO.
