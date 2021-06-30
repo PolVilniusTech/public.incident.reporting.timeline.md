@@ -94,4 +94,37 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1349079/kada-tiksliai-buvo-pavogti-citybee-klientu-duomenys-atsakymas-gali-lemti-20-mln-euru-bauda) more than 100 thousand Clients of the Automobile sharing Service „CityBee“ got notified about Anonymous intruders who disclosed their private information. 
+```
+
+```
+##### R esults 
+
+From database were leaked Client data like:
+* names
+* surnames
+* personal identification codes
+* phone numbers
+* e-mails
+* address of current residence
+* drivers license numbers
+* hashed passwords
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Keep less quantity of the Data as much as possible (You can't lose the Data, which You don't Own)
+* Does while registering for new Customer there would be possible to build WorkFlow in Stages 1-N? i.e. during Stage 1 You collect required data about the Driver, on other Stage for finishing making Service Available You are removing some personal data of the Client and leave only essential data for the Service like "date when license of the Driver expires" or so?
+* Testing for Security Flaws regarding access to the Database.
+* Management of the Database backups; testing functionality of those backups.
+* Does there are defined policy(-ies) who should be able to access those backups?  
+* [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+* [Authentication (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) 
+```
+
+```
 TODO.
