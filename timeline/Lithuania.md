@@ -614,4 +614,25 @@ From such incidents there are possible to learn a lot. I.e.:
 *   Does e-Services, which main aim aligns, does not cooperate with each other for the Main Task of creating Universal Best Practice Rulebook for their Customers? Threat for one e-Service could be the same and for other. 
 ```
 
+```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1467245/bandyta-surengti-kibernetine-ataka-pries-uzsienio-reikalu-ministerija) and LRT TV () in Darknet Site is possible to purchase leaked public electronic mail-box of the Ministry of Foreign Affairs of Republic of Lithuania (following — Ministry). Ministry not provided any real useful comments on this event. 
+```
+
+```
+##### R esults 
+
+There exists possibility that data leak happen for real and between the data even existed Confidential Documents, Confidential Conversations.    
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*   Public electronic mail-box, phone lines, mobile phones, Internet are not suited for Confidential Document transfer and Confidential Communication, Conversation.
+*   Confidential Communication Networks shall be separated from Public Communication Networks and Communication shall be incapsulated with strong background of functioning Crypto Ciphers, so no leak from third party would be feasible.
+*   In 21st Century there are Countries where Government, Ministries and Foreign embassies operates with each other in Secrecy "Chambers" and whitecollars have chance to register for Conversation using specific Handset or Device in the "Chamber" only.   
+```
+
 TODO.
