@@ -635,4 +635,25 @@ From such incidents there are possible to learn a lot. I.e.:
 *   In 21st Century there are Countries where Government, Ministries and Foreign embassies operates with each other in Secrecy "Chambers" and whitecollars have chance to register for Conversation using specific Handset or Device in the "Chamber" only.   
 ```
 
+```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1488684/ekspertai-ispeja-naujas-kibernetinio-sukciavimo-budas-lietuvoje-gali-apgauti-net-budriausius) experts reports that there exists unknown subject who resells e-services by offering them with x20 higher price. 
+```
+
+```
+##### R esults 
+
+Worst situation for some company would be: lost money, because the e-service is a lot cheaper, and (or) lost purchase. And there is possibility for being dependent by unknown party without legit background.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Every time try to find out, if offered e-services are legit. Look for guidance in [State Tax Inspectorate](https://www.vmi.lt/)
+* Every time try to find out, if company, which offering the e-service is legit. Look for guidance in [State Tax Inspectorate](https://www.vmi.lt/)
+* Try to answer the question, if You really need such service: — Does in local Market there are e-services, which offers what I need, instead cheaper and for the same or better deal. If Your Customers comes from world-wide, then instead of "local" Market look for "local and global" Market.   
+```
+
 TODO.
