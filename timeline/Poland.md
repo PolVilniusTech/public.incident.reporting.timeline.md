@@ -137,7 +137,27 @@ From such incidents there are possible to learn a lot. I.e.:
 *   Does Customer uses Social Networks or other Public means, which could let get more information about him? This information could be used against him during Social Engineering attack.
 *   Does e-Services, which main aim aligns, does not cooperate with each other for the Main Task of creating Universal Best Practice Rulebook for their Customers? Threat for one e-Service could be the same and for other. 
 ```
+
+```
+##### I ncident
+
+According [wyborcza.pl](https://wyborcza.pl/7,173236,27247035,polish-authorities-ignored-early-reports-of-cyber-attacks-on.html) and other Polish Sites the Government officials were attacked by Internet from external Criminals.   
+
+```
+
+```
+##### R esults 
+
+Private and even sensitive data of Government officials were leaked.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*   Country Officials (incl. Government) don't have Securely pre-installed devices for communication between each other.
+*   For Internal and External Criminals over Internet and other Communication Sources there are no proper legislation implemented. If there exists such legislation, then it not works.
+```
+
+```
 TODO.
-
-
-
