@@ -133,6 +133,34 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [@Delfi.lt](https://www.lrt.lt/naujienos/lietuvoje/2/172790/dar-vienas-ispuolis-pries-vilniaus-inovatyvios-medicinos-centra) in some Computers-Servers of the Santara Valley were breached and some of their documents were encrypted for the Ransom.
+```
+
+```
+##### R esults 
+
+Breach into the Server of the internal Network.
+The Subject does National-wide long-term Academic Research, Collaborative experiments, the Aid to the various Institutions, which are related to Medical Protection.  
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Increase System capability to detect Internal Breaches.
+* Learn how to handle different backups with various timestamps.
+* Does new technologies and research on them has correct importance in the Country level and are the Engine of Innovations? 
+```
+
+```
+#### I ncident
+
+@2019 Data leak of the Website "Grožio chirurgija"
+```
+
+```
 ### 2018
 
 #### I ncident
@@ -193,6 +221,30 @@ Chance of data loss.
 From such incidents there are possible to learn a lot. I.e.:
 * Check functionality and test out the Configuration of the System.
 * Check legal documents and ensure that System are tested for Governance Compliance.
+```
+
+```
+##### I ncident
+
+According [@BNS](https://www.lrt.lt/naujienos/lietuvoje/2/232540/grozio-klinikos-klientu-duomenu-vagystes-reketininkai-is-mediku-norejo-0-5-mln-euru) One Person leaked and Two disclosed Personal data from the Website of Grožio chirurgija.
+```
+
+```
+##### R esults 
+
+Personal data of Local and Foreign People were leaked. 
+Ransom money by specific Clients of the Grožio chirurgija with aim to not disclose it were paid.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* If exists Personal data, before disclosing it, You have to get Approval of the Person to which it belongs.
+* Documents, with misinformation for sharing data to the third party does not always are correct, because the Person, who Approves could misunderstood on some points, so more "checkboxes" for vital points have to be checked.
+* Limit access to the Authentication mechanism for the external Entities and Users. 
+* Answer to the Question(s): Does there should be History related information of All/Many/Some the Clients accessible for some User Account? If yes, then what were the Impact to the Company, if such data would be lost?
+* Programming Applications, Software, Devices with functionality to scan and breach the Websites, Portals, or even Systems, according the [@BNS](https://www.lrt.lt/naujienos/lietuvoje/2/232540/grozio-klinikos-klientu-duomenu-vagystes-reketininkai-is-mediku-norejo-0-5-mln-euru), are illegal (p.s. if it is used in Computer Network(s), Websites, Portals, or even Systems without proper or legal Approval). It's in the list of dual-purpose objects, which could be used for testing Security with Aim to fix, or vica versa.   
 ```
 
 ```
