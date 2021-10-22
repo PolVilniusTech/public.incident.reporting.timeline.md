@@ -133,6 +133,14 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+### 2018
+
+#### I ncident
+
+@2021 Flaw of the System of e.sveikata 
+```
+
+```
 ### 2019
 
 ##### I ncident
@@ -697,6 +705,28 @@ From such incidents there are possible to learn a lot. I.e.:
 * Do backups of the System more often, i.e. when the Network load is at minimum, compared to the statistic of relevant period of time, would be good and safe choice.
 * Get to Know, who have access to the Data, and create separate limited Accounts for person, or the system, which has to use the Data.
 * After high impact incident(s) conduct awareness training for the employees, so they would be able to detect these incidents, would know how to act during the incident and to respond faster to the right place.      
+```
+
+```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/verslas/4/224408/registru-centra-paliko-e-sveikata-kuraves-a-bagdonavicius) e.sveikata Portal has Flaws. According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1365413/programisiu-atakoms-tesiantis-ekspertams-didziausia-nerima-kelia-e-sveikata-saugumo-spragu-cia-yra-iki-siol) e.sveikata portal, which helps for the doctors to communicate with their patients, still has flaws, because of possible data leak. According [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/218723/e-sveikatos-spraga-aptikes-specialistas-si-sistema-tokiu-pinigu-neverta) Security Expert found the Flaw in the Architecture of the e.sveikata Portal. 
+```
+
+```
+##### R esults 
+
+Possibility of Data loss of the Local and Foreign Citizens. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Lack of Security Architects of the Information Systems would lead into poor quality of the System.
+* Proper Security checks were not implemented during Design and Prototyping.
+* System were not tested manually for dangerious possible User Input of the System.
+* Automated tools lacks functionality to test out from different User Roles perspective, because mostly Automated tools don't know or can't be Configured to find out, what these Roles should be able to do or what they should see.       
 ```
 
 TODO.
