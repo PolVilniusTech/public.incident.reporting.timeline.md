@@ -656,4 +656,27 @@ From such incidents there are possible to learn a lot. I.e.:
 * Try to answer the question, if You really need such service: — Does in local Market there are e-services, which offers what I need, instead cheaper and for the same or better deal. If Your Customers comes from world-wide, then instead of "local" Market look for "local and global" Market.   
 ```
 
+```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1366793/policija-pradejo-ikiteismini-tyrima-del-duomenu-nutekinimo-is-vilniaus-kolegijos) [I.]() were found data leak in one Lithuanian College and [II.]() Computer Systems were infected with Ransomware in the Lithuanian University. 
+```
+
+```
+##### R esults 
+
+Personal Information related with person and his competence, were disclosed for the Public.
+Systems had to be restored from the Backups to get rid of the Ransomware.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* It's required to test out the Security of the Channel(s) between two or more Systems.
+* Do backups of the System more often, i.e. when the Network load is at minimum, compared to the statistic of relevant period of time, would be good and safe choice.
+* Get to Know, who have access to the Data, and create separate limited Accounts for person, or the system, which has to use the Data.
+* After high impact incident(s) conduct awareness training for the employees, so they would be able to detect these incidents, would know how to act during the incident and to respond faster to the right place.      
+```
+
 TODO.
