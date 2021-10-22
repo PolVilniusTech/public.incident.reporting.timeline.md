@@ -227,6 +227,11 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According [@BNS](https://www.lrt.lt/naujienos/lietuvoje/2/232540/grozio-klinikos-klientu-duomenu-vagystes-reketininkai-is-mediku-norejo-0-5-mln-euru) One Person leaked and Two disclosed Personal data from the Website of Grožio chirurgija.
+More references:
+* [@15min.lt](https://www.lrt.lt/naujienos/lietuvoje/2/170482/is-grozio-klinikos-pavogti-garsiu-klientu-duomenys-ir-intymios-nuotraukos)
+* [@Delfi.lt](https://www.lrt.lt/naujienos/lietuvoje/2/170816/duomenu-is-grozio-chirurgijos-vagyste-santazistai-paskelbe-savo-reikalavimus)
+* [@15min.lt](https://www.lrt.lt/naujienos/lietuvoje/2/174796/paviesinti-visi-grozio-klinikos-duomenys-uz-siuntimasi-gresia-baudziamoji-atsakomybe)
+* [@BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1112648/grozio-chirurgijos-duomenu-vagystes-byla-i-teisma-negrizta-sprendziant-del-kvalifikavimo)
 ```
 
 ```
