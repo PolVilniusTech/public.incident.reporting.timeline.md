@@ -168,6 +168,26 @@ For Buyers:
 ```
 
 ```
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/1079449/vmi-gresia-iki-60-tukst-euru-bauda-del-nutekejusiu-duomenu) in the Portal of the State Tax Inspectorate [VMI.lt]() "Mano VMI" were possible to view Confidential Information of legal persons and subjects for limited number of people. 
+```
+
+```
+##### R esults 
+
+Chance of data loss.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Check functionality and test out the Configuration of the System.
+* Check legal documents and ensure that System are tested for Governance Compliance.
+```
+
+```
 ### 2021
 
 ##### I ncident
