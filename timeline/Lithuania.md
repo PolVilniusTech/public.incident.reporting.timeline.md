@@ -785,5 +785,26 @@ From such incidents there are possible to learn a lot. I.e.:
 * System were not tested manually for dangerious possible User Input of the System.
 * Automated tools lacks functionality to test out from different User Roles perspective, because mostly Automated tools don't know or can't be Configured to find out, what these Roles should be able to do or what they should see.       
 ```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1538042/buhaltere-ikliuvo-i-sukciu-pinkles-o-prienu-savivaldybes-istaiga-neteko-daugiau-nei-35-tukst-euru) Article  specific Employee of the Institution got fabricated e-mail with the Request from Director of this Institution. 
+```
+
+```
+##### R esults 
+The Request of the Director were completed successfully. 
+The Director denies that the Request were sended by him.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* According the Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1538042/buhaltere-ikliuvo-i-sukciu-pinkles-o-prienu-savivaldybes-istaiga-neteko-daugiau-nei-35-tukst-euru) it suggesting to use additional method to prove that the Request is correct. Then more Networking Technologies would be needed to manage at the same time, then does Institution will pay for that? Does longer period of time to complete the Request is Acceptable?
+* Regular e-mail's problem is the Signature, which is plain text of Statements, which describes the Person or in this Sample (Requestor). If Anyone would try to send the e-mail with the same Text as Signature, then even in this Situation exist chance to be Victim of fabricated e-mail. Being Pro in finding out that e-mail is fabricated in long term will not help, because You still someday would do the Mistake and no warranties in protecting Yourself from this.
+* There exist Asymmetric Cryptography for helping in this Situation and by having two Parts of Information (Public and Private) would be possible to protect e-mails, like everyday HTTPS tries to prove that Site, which You are browsing is original and not fabricated one. Does applications allows Protection of e-mail Signatures? each Person in Institution would send his e-mails by signing it with help of Digital Signature.
+* The Site where Emploee work lists pretty much all Contact information of Institution and it's Employees, so this is not only Problem for the e-mails. If Director is "Public" Person, then he probably have to provide alot of Data about him.
+* If Money would be sended to Foreign Country, then does it would not look too suspicious? would it be possible after some time to retain Money, if it would be sended to this specific Bank Account? Not all Payments are "Instant".
+```
 
 TODO.
