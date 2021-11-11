@@ -785,6 +785,8 @@ From such incidents there are possible to learn a lot. I.e.:
 * System were not tested manually for dangerious possible User Input of the System.
 * Automated tools lacks functionality to test out from different User Roles perspective, because mostly Automated tools don't know or can't be Configured to find out, what these Roles should be able to do or what they should see.       
 ```
+
+```
 ##### I ncident
 
 According [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1538042/buhaltere-ikliuvo-i-sukciu-pinkles-o-prienu-savivaldybes-istaiga-neteko-daugiau-nei-35-tukst-euru) Article  specific Employee of the Institution got fabricated e-mail with the Request from Director of this Institution. 
@@ -807,4 +809,5 @@ From such incidents there are possible to learn a lot. I.e.:
 * If Money would be sended to Foreign Country, then does it would not look too suspicious? would it be possible after some time to retain Money, if it would be sended to this specific Bank Account? Not all Payments are "Instant".
 ```
 
+```
 TODO.
