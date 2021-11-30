@@ -258,6 +258,8 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1349079/kada-tiksliai-buvo-pavogti-citybee-klientu-duomenys-atsakymas-gali-lemti-20-mln-euru-bauda) more than 100 thousand Clients of the Automobile sharing Service „CityBee“ got notified about Anonymous intruders who disclosed their private information. 
+More references:
+* [@Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/1553145/del-nutekejusiu-duomenu-110-tukst-euru-bauda-citybee-valdanciai-prime-leasing)
 ```
 
 ```
