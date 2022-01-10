@@ -704,13 +704,18 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1467245/bandyta-surengti-kibernetine-ataka-pries-uzsienio-reikalu-ministerija) and LRT TV () in Darknet Site is possible to purchase leaked public electronic mail-box of the Ministry of Foreign Affairs of Republic of Lithuania (following — Ministry). Ministry not provided any real useful comments on this event. 
+According [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1467245/bandyta-surengti-kibernetine-ataka-pries-uzsienio-reikalu-ministerija) and LRT TV () in Darknet Site is possible to purchase leaked public electronic mail-box of the Ministry of Foreign Affairs of Republic of Lithuania (following — Ministry). Ministry not provided any real useful comments on this event.
+
+More sources:
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1495642/ziniasklaida-informacija-apie-tyrima-del-kibernetinio-isilauzimo-i-urm-islaptinta)
 ```
 
 ```
 ##### R esults 
 
-There exists possibility that data leak happen for real and between the data even existed Confidential Documents, Confidential Conversations.    
+There exists possibility that data leak happen for real.
+There exists possibility that between the data exists Confidential Documents and (or) Confidential Conversations.
+State Control of Republic of Lithuania in the Past evaluated Ministry of Foreign Affairs of Republic of Lithuania Systems as Ad-hoc level.
 ```
 
 ```
@@ -719,7 +724,7 @@ There exists possibility that data leak happen for real and between the data eve
 From such incidents there are possible to learn a lot. I.e.:
 *   Public electronic mail-box, phone lines, mobile phones, Internet are not suited for Confidential Document transfer and Confidential Communication, Conversation.
 *   Confidential Communication Networks shall be separated from Public Communication Networks and Communication shall be incapsulated with strong background of functioning Crypto Ciphers, so no leak from third party would be feasible.
-*   In 21st Century there are Countries where Government, Ministries and Foreign embassies operates with each other in Secrecy "Chambers" and whitecollars have chance to register for Conversation using specific Handset or Device in the "Chamber" only.   
+*   In 21st Century there are Countries where Government, Ministries and Foreign embassies operates with each other in Secrecy "Chambers" and whitecollars have chance to register for Conversation using specific Handset or Device in the "Chamber" only.  
 ```
 
 ```
@@ -809,6 +814,110 @@ From such incidents there are possible to learn a lot. I.e.:
 * There exist Asymmetric Cryptography for helping in this Situation and by having two Parts of Information (Public and Private) would be possible to protect e-mails, like everyday HTTPS tries to prove that Site, which You are browsing is original and not fabricated one. Does applications allows Protection of e-mail Signatures? each Person in Institution would send his e-mails by signing it with help of Digital Signature.
 * The Site where Emploee work lists pretty much all Contact information of Institution and it's Employees, so this is not only Problem for the e-mails. If Director is "Public" Person, then he probably have to provide alot of Data about him.
 * If Money would be sended to Foreign Country, then does it would not look too suspicious? would it be possible after some time to retain Money, if it would be sended to this specific Bank Account? Not all Payments are "Instant".
+```
+
+```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1470479/vel-uzfiksuotas-isilauzimas-i-prienu-savivaldybes-puslapi-paskelbta-melaginga-zinute-apie-migrantu-neva-nuzudyta-kuniga) in August were noticed breach in website of prienai.lt
+```
+
+```
+##### R esults 
+Criminals posted false information about event, which does not happen.
+The posted information were Publicly Denied by Local Law Enforcement.
+There were more past breach incidents to this Portal.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Allow Administration of the Portal with Privileges to post information only for Auth Personnel.
+* Deny false information in broader range of Public Information Feeds, which are collected and reported about this and similar Incidents (Events).
+* If this Incident repeats would be good to conduct Risk Assesment for determining possible loss of Trust as Online Portal.
+```
+
+```
+##### I ncident
+
+According [ELTA](https://www.lrt.lt/naujienos/verslas/4/1477558/lietuvos-bankas-dave-nurodyma-blokuoti-viena-interneto-svetaine) exists Portals, which offers illegal Services or e-Services.
+```
+
+```
+##### R esults 
+Government asks to block the Public Access to these Services or e-Services.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Keep Documentation of Service and e-Service up to date.
+* Register Service and e-Service and meet the Legal Requirements for serving such Service and (or) e-Service.
+* Get Approval as Legal Entity, which would have its own Entity Code and all the Rights to offer its Services and (or) e-Services.
+```
+
+```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1488684/ekspertai-ispeja-naujas-kibernetinio-sukciavimo-budas-lietuvoje-gali-apgauti-net-budriausius) exists fake Institutions or Companies who offers Services and (or) e-Services illegally.
+```
+
+```
+##### R esults 
+Citizen are not backed by Country Legislation. 
+Such Service and e-Service could be Scam.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Find Out Attributes, which could help to Identify that Service or e-Service is Real and could offer their Services.
+* Find Out ways how to Report that You don't accept Spam messages, i.e. automatic-reply for messages, which has huge chance to be Scam and Spam.
+```
+
+```
+##### I ncident
+
+According [LRT.lt, ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/1559305/seime-chaosas-del-interneto-trikdziu-kuri-laika-neveike-svetaine-dalis-politiku-neprisijungia-prie-teises-aktu-sistemu) for some time Website of Seimas were not Available. There were problems with the Server (Hardware and (or) Software).
+```
+
+```
+##### R esults 
+People who require the Information of this Website could not get it.
+
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Test Website Updates not on Production environment.
+* Additional Server with Load Balancing could help to Serve Data until other Server is in Faulty Status.
+```
+
+```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1572040/sukciai-elektroniniu-pastu-platina-kenkejiskas-programas-prisidengdami-valstybes-institucijomis-specialistai-pataria-kaip-isvengti-tokiu-atveju) over email Citizens of Baltic States get Malicious Programs. They are sended as from legal entities.
+```
+
+```
+##### R esults 
+By opening Infected File there are Possibility to spread Misinformation, Infect Your Device, participate in sending similar Programs to other Entities without knowing.
+
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* More Security Tools for various range of Devices needed.
+* The European Computer Driving Licence (ECDL) should help to know more about Devices and how to use them Safely. Citizens should get backup from Country Government, so more Citizens would have easier access and would know how to operate during extreme Events and Incidents.
+* Paying reasonable Price for Security tools and legal Operating Systems would be the option to keep better Safety. Some Linux Operating Systems are Free of Charge, but needs to be learned how to be used Safely.
+* Need to have common sense in Actions You do. 
 ```
 
 ```
