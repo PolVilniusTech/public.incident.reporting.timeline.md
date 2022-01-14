@@ -119,7 +119,30 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
 
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/1588486/pries-ukraina-surengta-milziniska-kibernetine-ataka-i-pagalba-ateina-es) huge number of sites and portal were hacked.
+```
+
+```
+##### R esults 
+A lot of e-services were not Available.
+Probable loss of Data Integrity and Data changes.
+Probable loss of Data Confidentiality and Privacy of most regular Citizens of Country.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Sophisticated attacks mostly are backed by some Entity, which has the Power of backing it up. 
+* Fixing with one "Criminal Entity", which are dangerious, would not solve the problem, because of the Power, which could get other Entity in days to do the same.
+* Such Events are destroying reliability and Trust of the Internet and all good concepts what Tim Berners-Lee were done for.
+* World Wide Web would Decentralise even more. Even less Truth and Trust in the Technology.
+* Even small Kids could form a Team, but here huge Powers can't even decide on International Level what is Right and what is Wrong.
+```
+
+```
 TODO.
 
 
