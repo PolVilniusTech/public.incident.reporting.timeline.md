@@ -143,6 +143,28 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/1601480/kijevas-pranesa-apie-naujas-kibernetines-atakas) Citizens are getting email messages together with in-build attachment containing backdoor functionality. E-mail messages looks legitimate, because of being sended from one e-Mail Service, which belongs to the Institution of the Country.
+```
+
+```
+##### R esults 
+People losing their Safety, because of negative consequences from the backdoor and it's usage.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* programs after their launch has to update themselves or limit functionality, if they can't work safely.
+* if You are not waiting for email Messages from some Institution, like Courthouse, then don't open attachments.
+* before opening attachments of some Kind, would be wise to call to the Institution for the proof. For Contacts would be better to look in Yeallow Pages, Address Books.
+* Country could own (e)mail, parcel exchange Service which would be available on the Net, i.e. Lithuanian e-Pristatymas. Citizen has payless Account for Communicating with Government and Institutions unless he would need to pay for printed and (or) physical Mail.
+* having Institution and (or) Corporation with expertise of handling e-Mail and with such Services related functionality could help to solve problems faster, i.e. staff members for handling and responding to the Incidents.
+```
+
+```
 TODO.
 
 
