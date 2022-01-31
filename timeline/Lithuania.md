@@ -253,6 +253,57 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+### 2020
+
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1176660/ekspertas-yandex-taxi-programele-gauna-prieiga-prie-visu-duomenu-ir-siuncia-juos-i-rusija) Application of the Business subject in democratic country are collecting and sharing Private data of the Citizens with the Servers from non-democratic order.
+
+More:
+@2019 Flaw of the System of Yandex
+```
+
+```
+##### R esults 
+Privacy of People can't be established.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*  In democratic country even Policeman or Parlamentarian don't have any chance to Win in Courthouse, if they would tried without Citizens consent to dig into the private data of the Citizen.
+*  In non-democratic country any subject could be stated as Terrorist and by their request has to lose Privacy in all around the World.
+*  don't use Service, if it would require to provide Private Data (Name, Surname, etc.)
+*  pay in non electronic Cash and pay without change
+*  in Country, where exists democratic order, subjects from non-democratic country should abide the order. Sharing Private data in this case would lead into the consequences to the non-democratic Government, who are requesting the data from the subject.
+*  in Country, where exists non-democratic order, subjects from democratic country has to abide the order where they are doing the Business. 
+```
+
+```
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1144796/isilauzta-i-panevezio-teritorines-ligoniu-kasos-internetine-svetaine) Application creators thought to use Services, which are serving it's functionality from abroad of country, which supports different order of the country.
+```
+
+```
+##### R esults 
+Privacy of People, who are using such functionality can't be established.
+Possible Safety and Information Security Issues.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*  ease availability of the functionality, which You are Searching, in the Start should be valued the same as Phishing attack.
+*  functionality providers has to persuade their Users that they are working in specific country and order, which would help to see the possible consequences of using such Service.
+*  conducting Risk analysis to the Data of the Application would easily show the possible consequences.
+*  control of functionality of the system should be distributed into different roles with to role aligned privileges.
+*  organisational and technical control, documentation/legislation are required for sending or leaving notice(s) of unknown and uncontrollable access to the system and it's Data. Integrity of such information should be preserved.
+```
+
+```
 ### 2021
 
 ##### I ncident
