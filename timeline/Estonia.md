@@ -195,6 +195,28 @@ From such incidents there are possible to learn a lot. I.e.:
 *   Does Customer uses Social Networks or other Public means, which could let get more information about him? This information could be used against him during Social Engineering attack.
 *   Does e-Services, which main aim aligns, does not cooperate with each other for the Main Task of creating Universal Best Practice Rulebook for their Customers? Threat for one e-Service could be the same and for other. 
 ```
+
+```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1601514/puga-estijoje-sutrikde-skrydzius-eisma-elektros-tiekima) people in some regions lost access to the electricity.
+```
+
+```
+##### R esults 
+
+Blizzard damaged Peoples Assets, they lost access to the electricity.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*   like Internet connection could be used from multiple sources, look for electricity from multiple sources.
+*   own uninterruptible power supply (UPS), so You would be able to finish the work and (or) save Your work.
+*   for specific period of time electricity from gas, oil, renewable could be used as additional source, Datacenters with special information system Services has such way for prolonging it's uninterruptible work.
+*   with multiple sources of Connectivity and (or) Electricity would need to maintain it's functionality and safety.
+```
 TODO.
 
 
