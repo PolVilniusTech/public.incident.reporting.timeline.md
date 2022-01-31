@@ -921,4 +921,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/1601557/sekmadienio-ryta-be-elektros-buvo-apie-9-tukst-namu-ukiu-daugumai-elektra-atstatyta) in some regions people lost access to the electricity.
+```
+
+```
+##### R esults 
+Blizzard destroyed peoples Assets and access to the electricity.
+
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*  like Internet connection could be used from multiple sources, look for electricity from multiple sources.
+*  own uninterruptible power supply (UPS), so You would be able to finish the work and (or) save Your work.
+*  for specific period of time electricity from gas, oil, renewable could be used as additional source, Datacenters with special information system Services has such way for prolonging it's uninterruptible work.
+*  with multiple sources of Connectivity and (or) Electricity would need to maintain it's functionality and safety.
+```
+
+```
 TODO.
