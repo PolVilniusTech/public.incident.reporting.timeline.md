@@ -165,6 +165,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/1598864/ukrainoje-nacionalines-gvardijos-karys-fabrike-nusove-maziausiai-penkis-zmones) there were Incident in the Aero and Cosmos (eng. Aerospace) Factory.
+```
+
+```
+##### R esults 
+People lost their Lives because of the Incident.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Aerospace Technologies are in Great Demand and in Great Danger, if there are Existing Entities, who have the Power to take what they want.
+* Depending by the Incident usually investors in such Technologies Demand for Non-Violatile-Malicious Environment in which the Factory is build on. Investors demand for Safe Development of the AeroSpace Technologies.
+* From Union Perspective and (or) Contracts exists the Chance to Export Technologies and (or) the Factory in the more Safe Continent, so the Future Attack-Crimes-Stealing Incident could be prevented. 
+```
+
+```
+
 TODO.
-
-
