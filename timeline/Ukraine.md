@@ -185,5 +185,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
 
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/1616814/ukrainos-ministerijos-ir-valstybiniai-bankai-patiria-kibernetine-ataka) and [-](https://www.lrt.lt/naujienos/pasaulyje/6/1617323/kibernetine-ataka-pries-ukraina-tesiasi-bet-yra-kontroliuojama) Banks and Other Institutions of the Country constantly are getting requests with aim to fill up all the data traffic, so legitimate users would not be able to access their i-Services.
+```
+
+```
+##### R esults 
+i-Service users lost / may lose their Accessibility and Availability to the i-Service. Data Integrity and Confidentiality in Question.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Test out, if the data traffic path are correct and there are no connections to Your i-Service through Unknown-Unreleable-Untrusted Servers. If path of the data has multiple Nodes, then does these Nodes are in the same Country? Safe and Secure with latest updates?
+* Having multiple Telecommunication Companies, who are using different Paths of the Internet through Ground&Sea Cables to the Outside, could help to implement better Load Balancing of the Server(s). Different Telecommunication Technologies could be used for the same Reason. 
+* Does Ground&Sea Cables, which go through Untrusted Area could be Trusted? If yes, then does Encipher&Decipher of the Data traffic are necessary? or does Telecommunication Companies are doing it and how well?
+* Does Jurisdiction-Legislation of the Country permit such fill ups of data traffic? If it's not prohibited, then there are no Incident, which usually are solved by International Computer Response Teams with cooperation and help of the International Law. If such events would be stated as Violatile-Malicious-Criminal Activity, then connections with the Agencies like Interpol would be necessary. p.s. the Country need to build it's Expertise and Cooperation in the International Level.
+```
+
+```
 TODO.
