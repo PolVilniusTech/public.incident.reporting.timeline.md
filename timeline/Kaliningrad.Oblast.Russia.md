@@ -59,3 +59,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+
+#
+### 2022
+
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/1622741/paysera-stabdys-pervedimus-i-ir-is-rusijos-uzdarys-saskaitas-rusijos-klientams) e-Service which helps to pay for Goods and Services are quiting from the Country.
+```
+
+```
+##### R esults 
+Internet Service Users will need use more physical Cash and more walking-driving to take their Purchased Assets.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*  New Payment e-Service would need to have International Recognition to successfully operate in Other Countries.
+*  Lack of Payment choices over Internet would increase Shadow Market which operates with illegal conditions and Consumer can't get Help for being together in complicity with this Community. 
+```
+
+```
