@@ -78,7 +78,8 @@ Internet Service Users will need use more physical Cash and more walking-driving
 
 From such incidents there are possible to learn a lot. I.e.:
 *  New Payment e-Service would need to have International Recognition to successfully operate in Other Countries.
-*  Lack of Payment choices over Internet would increase Shadow Market which operates with illegal conditions and Consumer can't get Help for being together in complicity with this Community. 
+*  Lack of Payment choices over Internet would increase Shadow Market which operates with illegal conditions and Consumer can't get Help for being together in complicity with this Community.
+*  Shadow Market does not have stake and interest, if other entities from the Shadow Market, are going to breach theyr Consumers Well-being, Privacy and Security.   
 ```
 
 ```
