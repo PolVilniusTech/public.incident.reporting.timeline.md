@@ -85,4 +85,28 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1624312/pasaulis-smerkia-rusijos-puolima-pries-ukraina-tai-neisprovokuota-ir-nepateisinama-ir-neliks-be-atsako) and other Sources Country have to be blocked in the Cyberspace and Physical Border.  
+```
+
+```
+##### R esults 
+Depending by e-Services, the Users of these Services will not be able to get Access, if they depend by them. 
+There are possible negative effects from all around the World like CyberTerrorism or CyberDefence.
+
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* The CyberTerrorist usually takes what not belong to them in the Current Legal Scope and the CyberDefence are protective means that CyberTerrorists would not exists.
+* It would be Good to think about from which Country negative events happens and usually every evenkus thinks that the Country from which Border everything started are Aggressor or it would be good to learn Internetaional Law about such events.
+* Usually Cowards hides behind Heroes, but Heroes usually dies Faster, so would be good to take negative Impact from Friends and Foes.
+* Organisations does Penetration tests from Internal and External Sources, they are cappable to hold themselves depending their expertise, assets and knowledge. Those events always depend by Contract, i.e. B2B. In other hand, if we are talking about Country-Global wide events, then there could be used Services like G2B or B2G.  
+```
+
+```
+
 TODO.
