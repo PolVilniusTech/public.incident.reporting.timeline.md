@@ -112,4 +112,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
 
+According [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1627780/del-kibernetines-atakos-vel-neveikia-roskosmos-tinklalapis) some Entity could Shut Down the the Roskosmos Page on the Internet.
+```
+
+```
+##### R esults 
+If Page provides access to the Sattelite Data and (or) Control, then Users of the e-Service would not be able to use the Service.  
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    There were Jokes/News in Academic Community that International Space Station still Powered with Floppy Disks, so it looks like the Counry has non-existend Cosmic Power.
+*    If there exists News about some civil-international War near the Borders of Belarus and Russia and (or) Puny-Puppet Countries around Ukraine, then there are High Chance that who does Invasion is another Burglar-Thief in the Stage of Your-Our ONE World.
+*    e-Service level ad-hoc.
+```
+
+```
