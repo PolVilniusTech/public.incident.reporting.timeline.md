@@ -218,4 +218,33 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/lietuvoje/2/1628142/simasius-skelbia-atsaukiamas-leidimas-didziajam-seimos-gynimo-marsui-stabdys-yandex-veikla-vilniuje) more and more Services are Closed in the Lithuania which are providing e-Services to the Entities-States which Operates more or less by 1% rules and 99% obeys of Political form.
+
+More sources:
+* [@Lrt.lt](https://www.lrt.lt/naujienos/eismas/7/1629105/minske-maziau-pavezeju-bolt-traukiasi-is-baltarusijos)
+* [-](https://www.lrt.lt/naujienos/verslas/4/1627182/aibe-stabdo-rusisku-ir-baltarusisku-prekiu-tiekima-ukrainai-skirs-100-tukst-euru)
+* [-](https://www.lrt.lt/naujienos/verslas/4/1625935/pigu-lt-nutraukia-prekyba-rusiskomis-ir-baltarusiskomis-prekemis)
+* [-](https://www.lrt.lt/naujienos/verslas/4/1626204/lietuvos-pastas-stabdo-rusisku-ir-baltarusisku-prekiu-bei-leidiniu-platinima)
+* [-](https://www.lrt.lt/naujienos/verslas/4/1626363/ekoagros-stabdo-veikla-rusijoje-ir-baltarusijoje)
+
+```
+
+```
+##### R esults 
+Opposite Side would do the same. Usually thats like Monkey Sindrome. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    Something is wrong with Geopolitical situation when half of people shout about Ukraine: Crisis and other half - (non-international) War. 
+*    High chance of Puppet regimes to Puppet individuals who are easily used of to do something unethical.
+*    Nowadays most of Discussions happen in the Internet.
+*    Only Internet won't help to the Physical Security of the Country, so there would be needed to increase spending to the Security of all ranges to the 5 GDP.
+```
+
+```
 TODO.
