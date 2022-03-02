@@ -138,7 +138,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1628781/anonymous-kibernetini-kara-paskelbe-ir-baltarusijai), [-](https://www.lrt.lt/naujienos/pasaulyje/6/1628525/anonymous-programisiu-ataka-baltarusijoje-neveikia-kariuomenes-banku-instituciju-tinklalapiai) and [-](https://www.lrt.lt/naujienos/pasaulyje/6/1629626/anonymous-paneige-informacija-apie-kovo-3-iosios-dienos-ataka-mes-neatakuojame-zmoniu) private-group codenamed as Anonymous send the World-wide Report about their Success inprivate-group codenamed as Anonymous send the World-wide Report about their Success of Shutting Down the Banking Sector and State Defence and their affiliates related Web Pages.
+According [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1628781/anonymous-kibernetini-kara-paskelbe-ir-baltarusijai), [-](https://www.lrt.lt/naujienos/pasaulyje/6/1628525/anonymous-programisiu-ataka-baltarusijoje-neveikia-kariuomenes-banku-instituciju-tinklalapiai) and [-](https://www.lrt.lt/naujienos/pasaulyje/6/1629626/anonymous-paneige-informacija-apie-kovo-3-iosios-dienos-ataka-mes-neatakuojame-zmoniu) private-group codenamed as Anonymous send the World-wide Report about their Success of Shutting Down the Banking Sector and State Defence and their affiliates related Web Pages.
 ```
 
 ```
