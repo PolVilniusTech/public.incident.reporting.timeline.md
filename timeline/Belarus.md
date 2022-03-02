@@ -161,4 +161,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/verslas/4/1633004/malta-sustabde-auksiniu-pasu-isdavima-rusijos-ir-baltarusijos-pilieciams) there exists Countries who stopped providing easier access to the Financial Systems including Digital-Electronical ones.
+```
+
+```
+##### R esults 
+There will be less chance to do International Purchases and Payments for Services and Goods using Digital-Electronical means.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    Building logistic Centers would allow to use (Space), Air, Land and (or) Sea to Travel and get what You need.
+*    Non-existent opposition in political system or puppet opposition in it would not change the Future, because there are no one who have the cappability to Control Country-State. 
+```
+
+```
+
 TODO.
