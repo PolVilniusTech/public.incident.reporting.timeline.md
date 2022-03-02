@@ -206,4 +206,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/1632374/ziniasklaida-janukovycius-yra-minske-rusai-ji-skelbs-ukrainos-prezidentu) and [-](https://www.lrt.lt/naujienos/pasaulyje/6/1632267/zelenskis-sako-kad-rusija-nori-istrinti-ukraina) there are Incident to the Information Security.
+```
+
+```
+##### R esults 
+People in Power are trying to keep Right Side of History as their Ideology and (or) form of Government allows that.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Best Technological example of such Event would be The Quantum Computing which does not operate simply as Zero and One (True and False).
+* Only People-Citizens are deciding their Future. Tearing up the Voting Flyer, Leaving Country-State, fighting for Your Right Side of History.
+* Question about [International Space Station](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1629375/itampa-zemeje-i-kosmosa-dar-nepersikele-rusija-ir-jav-kol-kas-nenutraukia-savo-bendradarbiavimo-tks) when Ordinary Terrans not working together and self-fishly using exhaustive Supplies and Goods.
+```
+
+```
 TODO.
