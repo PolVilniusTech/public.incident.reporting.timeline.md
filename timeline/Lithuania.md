@@ -1084,7 +1084,7 @@ Internet Service and Service could have some Interruptions.
 
 From such incidents there are possible to learn a lot. I.e.:
 * For Regular there are hard to distinguish, if the Site are Real Site, in these Concerns would need to prove it's Availability with True Intentions if there were App/Site Dynamic Code directly taken from such sites like VMI.lt (nowadays we already have a lot of online sources like pretty icons or bootstrap), so if State-Country can't provide Technological means, then every Person has to waste their time with Mobile Phones and search the Untrusted Web especialy, if there would be DNS Secure not implemented.
-* Someone have left notice that: Information technologies Security Doctrine does not work.
+* Someone have left notice that: Information technologies Security Doctrine does not work. Maybe that's only something like this: While were asked only for some food, the People took and gave some Weapons?
 * Similar Sites could be created nowadays in split of second, so who do You Trust? are these Actions is Real? why everything are going that each State-Country would live in their own Bubble of Information?
 ```
 
