@@ -191,6 +191,7 @@ From such incidents there are possible to learn a lot. I.e.:
 *    If Interpol does not cope in two weeks to stop Invasion Side which were done without provided strong evidence why they are doing it, then such organisation is Rusty in World-Wide Problems related to the Armies and Special Forces.
 *    If some Country could be attacked and usurbt faster than in two weeks then does these actions would be legitimized and approved later by some kind of Decorations? the Interpol can't cope with such Invasions.
 *    Organisations should by white to black or black to white shall show the Sides which they Partner with. 
+*    Assume: if checking of some background person in Internet would be plausible for International Interpol Forces, then losing access to such information would plausibly stop assasinations of regular Commoners.  
 ```
 
 ```
