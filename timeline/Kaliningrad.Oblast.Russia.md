@@ -174,4 +174,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/1636870/vakaru-salys-praso-isaldyti-rusijos-naryste-interpole) and [-](https://www.lrt.lt/naujienos/pasaulyje/6/1642265/interpolas-imasi-riboti-rusijos-dalyvavima-organizacijos-veikloje) the Interpol which helps to solve World-Wide Crimes are stopping their Aid to the Side which are mass murdering the regular Commoner People.
+```
+
+```
+##### R esults
+In the Country where Interpol does not Aid would be much harder to solve Internationaly related Crimes.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    If Interpol does not cope in two weeks to stop Invasion Side which were done without provided strong evidence why they are doing it, then such organisation is Rusty in World-Wide Problems related to the Armies and Special Forces.
+*    If some Country could be attacked and usurbt faster than in two weeks then does these actions would be legitimized and approved later by some kind of Decorations? the Interpol can't cope with such Invasions.
+*    Organisations should by white to black or black to white shall show the Sides which they Partner with. 
+```
+
+```
 TODO.
