@@ -195,4 +195,28 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1646634/rusijoje-iskeltos-pirmos-bylos-pagal-drakoniska-istatyma-del-tariamu-melagienu-apie-kariuomene) few people will need to attend the Court for spreading disinformation. 
+```
+
+```
+##### R esults
+According the Law there exists up to fifteen (15) year of inprisonment for spreading disinformation according stated rules.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    If person will not care for their device Security, then somebody could break in and post misinformation on Your behalf.
+*    If person will not care for their social media Security, then somebody could break in and post misinformation on Your behalf.
+*    If Systems and internet Services would not try to stop misinformation for spreading then more people may be Jailed in specific Countries because of their draconic rules.
+*    Limiting access to the Young persons, which are easily fooled, could help for their Parents to breathe a bit at ease, but there would be question about building up negative energy which wants to be to blown up and sometimes without thinking about consequences.
+*    Does Country provides the help for the people for accessing Independent and neutral News for showing the Events where Person could do his own Decisions? Proof?
+*    Does Country has Control in Place for International Human Rights or the bare minimum which International Community committed to Protect as Granted? Proof?
+*    Don't read the News or History in the Internet because there a chance to find misinformation unless there are possibility to Secure it within Blockchain and Committment for said, showed, writed Sentences. 
+```
+
+```
 TODO.
