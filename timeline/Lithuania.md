@@ -1089,4 +1089,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [Lrt.lt](https://www.lrt.lt/naujienos/sportas/10/1653136/balciunas-nemato-kliuciu-maksvyciui-dirbti-zalgiryje-mums-tai-nera-naujiena-apie-tai-su-treneriu-buvo-kalbeta) there are some unknown surname for well known Trainer Name Only who Trained Good Amount of Time in the China.
+```
+
+```
+##### R esults 
+Possibility of the Propaganda. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Maybe People are fleeing from the East and Baltic States gets new Wind.
+* Changing Your Name and Surname is not so simple.
+* Impersonation and Control is the Food of the Totalitarian Regime.
+* There are Chace that Internet-based Services in the Country Level could be effected and Secure Network not fully working as Secure as it seems. 
+```
+
+```
 TODO.
