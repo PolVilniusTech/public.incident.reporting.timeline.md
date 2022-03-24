@@ -1091,7 +1091,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [Lrt.lt](https://www.lrt.lt/naujienos/sportas/10/1653136/balciunas-nemato-kliuciu-maksvyciui-dirbti-zalgiryje-mums-tai-nera-naujiena-apie-tai-su-treneriu-buvo-kalbeta) there are some unknown surname for well known Trainer Name Only who Trained Good Amount of Time in the China. (At the same time there are News about IT Sector Migrants from Some Bad Reputation Countries according local True Side of History)
+According [Lrt.lt](https://www.lrt.lt/naujienos/sportas/10/1653136/balciunas-nemato-kliuciu-maksvyciui-dirbti-zalgiryje-mums-tai-nera-naujiena-apie-tai-su-treneriu-buvo-kalbeta) there are some unknown surname for well known Trainer Name Only who Trained Good Amount of Time in the China. (Paranoa is Virtue)
 ```
 
 ```
