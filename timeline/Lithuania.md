@@ -1106,7 +1106,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Maybe People are fleeing from the East and Baltic States gets new Wind.
 * Changing Your Name and Surname is not so simple.
 * Impersonation and Control is the Food of the Totalitarian Regime.
-* There are Chace that Internet-based Services in the Country Level could be effected and Secure Network not fully working as Secure as it seems. 
+* There are chance that Internet-based Services in the Country Level could be effected and Secure Network not fully working as Secure as it seems. 
 ```
 
 ```
