@@ -1091,22 +1091,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [Lrt.lt](https://www.lrt.lt/naujienos/sportas/10/1653136/balciunas-nemato-kliuciu-maksvyciui-dirbti-zalgiryje-mums-tai-nera-naujiena-apie-tai-su-treneriu-buvo-kalbeta) there are some unknown surname for well known Trainer Name Only who Trained Good Amount of Time in the China. (Paranoa is Virtue)
+According Various Sources around the Inter-webs People spreading News, when they not even Signed by Required Authorities. (Paranoa is Virtue)
 ```
 
 ```
 ##### R esults 
-Possibility of the Propaganda. 
+Possibility of Information to be an miss-information. 
 ```
 
 ```
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* Maybe People are fleeing from the East and Baltic States gets new Wind.
-* Changing Your Name and Surname is not so simple.
-* Impersonation and Control is the Food of the Totalitarian Regime.
-* There are chance that Internet-based Services in the Country Level could be effected and Secure Network not fully working as Secure as it seems. 
+* mur mur jurisdiction.
+* signing with e-signature, e-stamp and (or) using e.document system with public view would give better proof of the events, which should or should not happen.
+* Placing the Bet or Bid of the events in this Country has huge Regulations already.
 ```
 
 ```
