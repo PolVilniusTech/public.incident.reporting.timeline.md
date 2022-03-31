@@ -219,4 +219,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/verslas/4/1659609/rusijos-vyriausybe-legalizavo-produkcijos-importa-be-ju-prekiu-zenklu-savininku-sutikimo) "Gray" import is legal.
+```
+
+```
+##### R esults
+Micro, Small and Medium Enterprises could appear and offer their Services.
+```
+
+```
+##### L earning from Mistakes 
+From such incidents there are possible to learn a lot. I.e.:
+*    Banning "Gray" import would mean that only Goods and Services by Will of Producer could be sold. Or the Purchase of Goods and Services from Other Places in the World without Consent of the Producer should not be possible.
+*    Financial literacy would be needed to improve, if those terms is too hard to grasp.
+*    Programming mistakes could mean Financial Crisis, i.e. which happen in 2008 yr. in some part of the World.
+```
+
+```
 TODO.
