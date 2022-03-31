@@ -250,7 +250,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [-](https://www.err.ee/1608541747/nyt-iisrael-blokeeris-eestis-ja-ukrainas-pegasuse-nuhkvara-kasutamise) some entity, who has not integral borders by 100%, don't allowed to use their Software Applications.
+According [-](https://www.err.ee/1608541747/nyt-iisrael-blokeeris-eestis-ja-ukrainas-pegasuse-nuhkvara-kasutamise) some entity, who has not integral borders by 100% (The Gaza Strip), don't allowed to use their Software Applications.
 ```
 
 ```
