@@ -1132,4 +1132,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/en/news-in-english/19/1658475/fearing-russia-threat-germans-cancel-trips-to-lithuania-s-neringa) described events, which looks like that someone fears for the Incident like in Islands of the Japanese people.
+```
+
+```
+##### R esults 
+People don't travel near the border with the Bully.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Bullying is the same problem as Cyberbullying in the Internet.
+* If someone does their Idealogy by stepping in someones turf only for that to make his Borders disputible and not integral to the Laws (and maybe specific ones), which requires 100% of Border Integrity, then such places would have serious consequences from the Stronger Side. Maybe not in instant fashion but in longer period of time, when they get back the Chance.
+* Grabbing land by small pieces is nothing new, J.G.Caesar had his phrase, which well known for that. Normally it looks like unfaithful person, who pick ups around him on his wishes, but without any consent from other side. For first try to deal with that with the Phrase: "Shame on You!".
+* Building more secure demilitarized area with border patrol would be way to go. And would need create rotation of personel from Defence Forces and Other personel who has right to hold a Weapon-Gun in his hands. Usually Health checkup for these People are more Strict than regulars-citizens-commoners who would not step up on the different side of the border by accident. 
+```
+
+```
 TODO.
