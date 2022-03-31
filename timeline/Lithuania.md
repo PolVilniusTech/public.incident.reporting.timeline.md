@@ -972,6 +972,9 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+
+### 2022
+
 ##### I ncident
 
 According [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/1601557/sekmadienio-ryta-be-elektros-buvo-apie-9-tukst-namu-ukiu-daugumai-elektra-atstatyta) in some regions people lost access to the electricity.
