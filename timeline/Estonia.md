@@ -197,6 +197,9 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+
+### 2022
+
 ##### I ncident
 
 According [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1601514/puga-estijoje-sutrikde-skrydzius-eisma-elektros-tiekima) people in some regions lost access to the electricity.
