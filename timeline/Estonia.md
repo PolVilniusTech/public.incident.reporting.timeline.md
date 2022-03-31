@@ -245,4 +245,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.err.ee/1608541747/nyt-iisrael-blokeeris-eestis-ja-ukrainas-pegasuse-nuhkvara-kasutamise) some entity, who has not integral borders by 100%, don't allowed to use their Software Applications.
+```
+
+```
+##### R esults 
+State could not use specific Software Application for their needs. High chance that this are related with International Law.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Terms and Conditions of the [NSO Group Pegasus licence](https://www.nsogroup.com/terms-conditions/) looks more like Criminal Code of Specific Country or State, so at least You would know the Consequences, if You would wish to attemt and do something Fishy. Unfortunately other Country or State Law not equal to another Country or State Law, or has huge-smaller Similarities.
+* Reglaments during the War and for so called Special Operations with Army, Militants, Military, Special Forces which would negatively effect the Country and (or) other Countries, Regulars and Commoners may not work as it should. And later on by Wasting of the Time would lead into searching for ScapeRabbit.
+* Problems with Countries with Institutions who are using such Apps usualy lack or without concern of having Specialists who would approve and permit usage of such App. These Specialists could be linked to the Human Rights, Law Enforcement. Who would wish to tie their Arms? Some Immigrants had tied their Arms while in Lithuania. Who asked, if they are dangerious?
+* If such Apps would be used by Corrupted States-Countries. It would be needed to Ban the usage of mobile phones, laptops, smart gadgets in specific Sector where information leak would negatively affect Global Security Rating (counting cost of the loss and count of total damage).
+* Such Apps could work by following (random ideas): I. reporting the Weakness and (or) Glitch to the Product of Tech Company and until it is not fixed by update or patch. Until then this Weakness would be used against somebody; II. by not having some Weakness and (or) Glitch to the Product of Tech Company would lead into not working App of Such Company as desired; III. some Weakness and (or) Glitch could be created with the intention and it is especially dangerious when there would be no Tech Professionals who would Fix it or in other words - the Product is too dangerious to be keept in the Production.
+```
+
+```
 TODO.
