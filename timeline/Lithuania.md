@@ -1109,4 +1109,27 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/verslas/4/1659104/premjere-reikia-nepamirsti-kad-dideli-rusijos-bankai-dar-neatjungti-nuo-swift) Some States wanted to Turn Off the Financial Stream on International Channels for specific Object.
+```
+
+```
+##### R esults 
+Turnin OFF in International Level probably are Impossible because of lack of personel.
+Prices of i-Goods and i-Services and their Diversity would change.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* If International Communication made-done using Public channels, which has the chance to be faked with disinformation, then News and Information could not be trusted for 100 percent.
+* Lack of personel could be made-done by having High requirements to which no one wants to apply. And sometimes, if You would take such person, the Higher Ups would Strip You down. Building better atmosphere in the Workplace would be good way for showing that Leaders and Mid-Bosses are Human and has to take the Action to solve every day Problems. Problems, which Higher-Boss, don't want to solve, but in contrast, if these Problems gonna build Up, then later on it could to Blow with more Damage.
+* If people lack of Knowledge, then they could be given some time to Learn Stuff including specific Rules, Policies and Legislations for specific Job. Periodical check-up of new updates and full Active document would be needed to take into the consideration. Usually such checks are made for Practice on First-Aid and Fire Protection knowledge and actions check-up.
+* Conducting Risk Assessment on various organisational Risks is First for Organisations with High Profit and In Huge countity of Personnel. Smaller Organisations could not catch up with Risk Assessment and Management.    
+```
+
+```
 TODO.
