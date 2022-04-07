@@ -23,6 +23,9 @@
 
 * [Ukraine](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/tree/main/timeline/Ukraine.md)
 
+### Tea Break after the Research:
+
+* [RandomCorner](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/tree/main/timeline/RandomCorner.md)
 
 ### About Competence and Resilience
 
