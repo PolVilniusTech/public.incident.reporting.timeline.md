@@ -1156,4 +1156,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1665362/sutriko-vyriausybes-interneto-svetaines-veikla) there were some interruption in Government Web-Site.
+```
+
+```
+##### R esults 
+During the time of interruption no one could access the Web-Site and get their e-Services (probably including second domain of *.lrv.lt).
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Data Center usualy tries to Secure Availability 24 (twenty-four) hours per week and 7 (seven) days per Month.
+* From Public Space were given nothing informative regarding this Incident. 
+```
+
+```
 TODO.
