@@ -1175,4 +1175,27 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://web.archive.org/web/20220420093617/http://eimin-lrv.lt/lt/naujienos/ministerija-pateike-premjerei-ingridai-simonytei-siulymus-del-valstybes-valdomu-imoniu-optimizavimo) there were registered second level domain address (i.e. http://third.second.top) which are very similar to the other portal of third level domain [@lrv](https://eimin.lrv.lt/) and according of [domreg.lt](https://www.domreg.lt/paslaugos/whois/?search=eimin-lrv.lt) one of them were blocked.
+```
+
+```
+##### R esults 
+People may be in confussion because of not knowing which of those domains are real and which ones a copy and (or) wrong one.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Lithuania have around two organisations which cares for Copyright rights and defends the Authors of their Authorship.
+* Such organisations in long run could start to defend Authorship of Authors Voice (i.e. for AudioBooks) and Authors Face (i.e. against "Photoshoped" Pictures and Videos) as intelectual property of the Author in usage of various Technological Situations, unless Authors allows it.
+* In more early beginning people have to get Technological literacy which would help to distinguish which is real and which one is not (the impersonation).
+* In search of History Defending Sides. Usually smaller Side can't Protect themselves good enough, because they do not have capacity to do it and in example some Culture may drop Poorest ones.
+* You need to pass the data, which are given to You, and if You know that the Site could be Trusted then try to search for specific Path for Yourself to the Object about which You are interested. Usual Law for Countries to offer Three Click rule to the access to the Sites Content.
+* By opening random documents they may lead into some (un-)known vulnerabilities. Your Desktop would be more Secure, if You would use Minimal Installation from the Start. Finding and responsibly reporting such vulnerabilities could help for some organisation to fix their poor Quality Products. Such vulnerabilities may harm Your own Products, if they are not prone to these vulnerabilities.    
+```
+
+```
 TODO.
