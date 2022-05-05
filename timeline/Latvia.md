@@ -249,4 +249,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1686353/latvijoje-sutriko-virtines-valstybiniu-istaigu-tinklalapiu-darbas) some institutions of the Public Service had issues with their e-Services.  
+```
+
+```
+##### R esults 
+The Technical Issues of the Assets. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Having Access to new Assets as replacement helps solve Anomalies of the Current Assets with Issues.
+* Usualy Updates of the e-Systems are done after Hours, but does People would Pay more for the Night Shift?
+* Public Service, which e-Services works in regular-common Way. Only the Idea for owning more Wider Data Center with better Quality of Work. 
+```
+
+```
 TODO.
