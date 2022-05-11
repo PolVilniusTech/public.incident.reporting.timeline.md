@@ -1198,4 +1198,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the [-](https://www.lrt.lt/naujienos/verslas/4/1691880/sukciai-vel-siaucia-siuncia-sms-pranesimus-su-fiktyviomis-swedbank-nuorodomis) SmartPhones has Security issues regarding spread of Short Message Service with internet-based-links.
+```
+
+```
+##### R esults 
+SmartPhone users possibly could leak sensitive information or even inject their Phone with Malware code, which are directed to (specific) Phones.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Usual approach during the Work for Law enforcement Sector — prohibited use of Personal Phones, SmartGadgets.
+* Usual approach for Children up to 12-14 (Years) — prohibited use of Personal Phones during Lessons in the School time.
+* Rest is up to You, because Phones are every time with You. Any small direct vulnerability could lead into specific leak of information (location, voice recognition service, microphone control, data in physical storage, data in dynamic storage). By knowing location it's only question of how precise data is which could lead into unknown consequences, if they would be leaked into bad-negative intentions toward You containing entity.
+* Look for indications of possible phishing Site. In last resort it's always is good point to know where is Physical Office of the Service, which You are owning, in Your Country. 
+* Various Professional Services has Monitoring Capabilities and sends notifications, if something is up, just like in this case.
+```
+
+```
 TODO.
