@@ -238,4 +238,40 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [ELTA](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1691230/del-kibernetines-atakos-neveikia-rusijos-vaizdo-irasu-dalijimosi-platforma-rutube) the popular Media exchange service does not work.
+```
+
+```
+##### R esults
+Customers of the Media exchange Service can't access their Content.
+```
+
+```
+##### L earning from Mistakes 
+From such incidents there are possible to learn a lot. I.e.:
+*    No additional technical details were given regarding the popular Media exchange service.
+```
+
+```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1659578/rusija-stengiasi-nukopijuoti-uzdraustas-socialiniu-tinklu-platformas-kurejai-vadina-tai-visisku-meslu) more and more Foreign services in Digital Space are quiting their presence in the Russian Federation. 
+```
+
+```
+##### R esults
+Country is trying to clone and (or) copy these services, and offer them to their Citizens instead.
+```
+
+```
+##### L earning from Mistakes 
+From such incidents there are possible to learn a lot. I.e.:
+*    It's very bad, if the Customer would be fooled with the Same Product and even it's Brand Logo.
+*    Copyringt rules exists not even for Brand Logos, but for (e-)Documentation, (e-)Books, Hardware, Software and Company specific Products-Wares. For this reason exists Registration Authorities accross the Continent-World, which has enough Power to Defend various Companies and Organisations for their Copyright Law.
+*    Nowadays even Sites in the Internet contains the Symbol of (©) which by default states that any "copy of the content" shall be provided with reference to the Original Site, just like this feed of Incident-Results-Learning from Mistakes.
+```
+
+```
 TODO.
