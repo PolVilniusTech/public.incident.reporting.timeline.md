@@ -1220,4 +1220,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [-](https://www.lrt.lt/naujienos/lietuvoje/2/1693454/stiprus-kartu-kreipesi-i-policija-del-sukciavimo-atsiradus-istaigai-identisku-pavadinimu) the Police have to interfere for solving the problem of two distinct and similar entities, which has one year difference in registration.
+```
+
+```
+##### R esults 
+People could be fooled by not knowing of their wanted entity.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Internet is horrible place, because when You are registering hostname-domain name then everything are take cared by registration authority, if some name are already taken, then they would suggest similar name and sometimes not pretty one, incl. numbers, symbols, etc.
+* One of those entities has electronic mail, other does not have yet, so one of them has already registered hostname-domain name.
+* In comparison there should not be allowed to register microsoft.<country_initials>, google.<country_initials> because You would sued for phishing attack on the Big Tech Company. There still exists problem for names like m1crosoft.<country_initials> or goog1e.<country_initials>, because this could be used for creating fake hostname-domain name services over Internet, over Digital e.Space.
+* By returning back to previous entities, they sound similar, but one of them are with longer sentence. Usually people are too lazy to type more, so with shorter sentence hostname-domain name already with advantage, rest is only question of quality of service. Does those (up to year old) services saying the Truth in their Slogans. Checking legitimacy for Payed Taxes to the Country Budget could be begint-started at first.
+* Nowadays big tech companies are extending their Volume-Size by Creating Bigger Brand Name, so if those entities align in the purpose, which has the same target Audience, then it would be wise to do collab entity. Your Customers don't need to pay, i.e. twice with less money in both places. But if something happends with one fishy deal, other could reach the required destination.  
+```
+
+```
 TODO.
