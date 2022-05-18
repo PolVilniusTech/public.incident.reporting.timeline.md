@@ -1243,4 +1243,27 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [-](https://www.lrt.lt/en/news-in-english/19/1697439/lithuania-s-mod-website-targeted-by-massive-cyber-attack) Ministry of Defence had "massive" Cyber Attack.
+```
+
+```
+##### R esults 
+Not enough details of the attack.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Let's say guess: one Department updated functionality, second Department tested security in Production env., no report were made for updating-testing their own Product.
+* website update could mean: it contain full server swap with new and more robust server, before testing it's security using automated tools-instruments according the Law from the Constitution and International Order down to Law of Institution level would need to communicate for Availability of security-pentesting.
+* if website would be updated into popular known frameworks, then would require to check for keeping it updated in regular basis.
+* if website would be used only for representation reasons, then does full capacity of flashy functionality would be needed? probably not so, if security is a mission. 
+* Hardening the server would mean: adding aditional security measures, minimizing it's functionality for required only. 
+* What You don't know could be the issue for the Unknown consequences. Separation of public website from internal portal would help to minimize consequences of outside attack. 
+```
+
+```
 TODO.
