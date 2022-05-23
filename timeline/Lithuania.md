@@ -1273,7 +1273,7 @@ According this Article [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/1700185/al
 
 ```
 ##### R esults 
-Law inforcement will need to do more purchases. 
+Law enforcement will need to do more purchases. 
 People who pay taxes gonna pay for it.
 ```
 
