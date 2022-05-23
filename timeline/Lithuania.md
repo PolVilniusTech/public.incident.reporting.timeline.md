@@ -1268,7 +1268,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/1700185/alytaus-rajone-pasikesinta-i-vidutinio-greicio-matuokli-ji-nupjove-ir-apgadino) someone damaged Cameras which collects speed data of the Cars.
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/1700185/alytaus-rajone-pasikesinta-i-vidutinio-greicio-matuokli-ji-nupjove-ir-apgadino) someone damaged Cameras which collects speed data of the Vehicles.
 ```
 
 ```
