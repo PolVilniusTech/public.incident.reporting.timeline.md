@@ -1266,4 +1266,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/1700185/alytaus-rajone-pasikesinta-i-vidutinio-greicio-matuokli-ji-nupjove-ir-apgadino) someone damaged Cameras which collects speed data of the Cars.
+```
+
+```
+##### R esults 
+Law inforcement will need to do more purchases. 
+People who pay taxes gonna pay for it.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Usually speed data collection could be done in these ways: Using Automobile with or without integrated Spec Camera; Stationary Cameras, which were damaged according the Article; Mobile (small-medium size) Cameras, which could be used by Law enforcement Specialist or with Protection; Speed collection using Satellites from Above.
+* When last one Tech will come in place, then there will be no motivation to do such things which were shown in the Article.
+```
+
+```
 TODO.
