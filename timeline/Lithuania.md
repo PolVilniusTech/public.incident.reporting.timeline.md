@@ -1286,4 +1286,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/1700557/policija-pasidalijo-draguno-sulaikymo-irasu-atlikejas-pludosi-necenzuriniais-zodziais-ir-pasipriesino-pareigunams) were shown how Police arrest Suspect for holding something in his hand while Driving.
+```
+
+```
+##### R esults 
+Suspect does not have phone holder in his Vehicle for using phones correctly.
+Police does not have laptop holder in their vehicle for using laptop correctly.
+Both sides are in error.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Nowadays You could Purchase electric Vehicle's with Cameras and Control device with IPad in-build in the Vehicle.
+* There are lacking of awareness trainings of the Commoners for using specific devices for pedestrians, drivers, pilots.
+```
+
+```
 TODO.
