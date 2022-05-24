@@ -1302,7 +1302,7 @@ Both sides are in error.
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* Nowadays You could Purchase electric Vehicle's with Cameras and Control device with IPad in-build in the Vehicle.
+* Nowadays You could Purchase electric Vehicle's with Cameras and in-build IPad Control device directly in the Vehicle.
 * There are lacking of awareness trainings of the Commoners for using specific devices for pedestrians, drivers, pilots.
 ```
 
