@@ -1325,7 +1325,7 @@ Who would be responsible for comming Guided Missle?
 
 From such incidents there are possible to learn a lot. I.e.:
 * Various devices are leaving coordinate metadata and that is positive approach.
-* Does there should be Located Law enforcement Forces with permission of the Eurojust (against violation to the Law) and (or) the Europol (against Terrorists)? In the Article there are lacking data for presence of International Order.
+* Does there should be Located Law enforcement Forces with permission of the Eurojust (against violation to the Law) and (or) the Europol (against Terrorists)? In the Article there are lacking data for presence of more International Order.
 ```
 
 ```
