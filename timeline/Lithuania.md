@@ -1304,6 +1304,7 @@ Both sides are in error.
 From such incidents there are possible to learn a lot. I.e.:
 * Nowadays You could Purchase electric Vehicle's with Cameras and in-build IPad Control device directly in the Vehicle.
 * There are lacking of awareness trainings of the Commoners for using specific devices for pedestrians, drivers, pilots.
+* Idea: Does everything could be ended up to 3:17 with the Notice for need to pay for the error, which were done by the driver, if final cost of the Punishment is very low?
 ```
 
 ```
