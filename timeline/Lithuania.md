@@ -1329,4 +1329,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [-](https://www.lrt.lt/naujienos/sveikata/682/1702044/prasoma-atimti-gydytojo-licencija-uz-kysininkavima-nuteistam-dar-vienam-chirurgui-uz-operacijas-eme-nuo-100-iki-400-euru) doctor lost his License.
+```
+
+```
+##### R esults 
+Doctor can't use his expertise which were build in many Years of Education in the Medicine Sector.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Nowadays even beggars, e.beggars (electronic device), i.beggars (internet platform) has electronic devices to collect Tips which are given by anyone who has smart device or card.
+* Hospitals lack of electronic devices and Managers to collect money from Patients which unfortunately later on would be distributed evenly to all the Doctors and Nurses, who has the same Work in the Operation Room. Additionaly event from such Actions - Taxes should be payed too.
+```
+
+```
 TODO.
