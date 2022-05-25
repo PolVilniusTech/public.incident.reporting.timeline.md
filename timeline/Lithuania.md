@@ -1345,6 +1345,7 @@ Doctor can't use his expertise which were build in many Years of Education in th
 From such incidents there are possible to learn a lot. I.e.:
 * Nowadays even beggars, e.beggars (electronic device), i.beggars (internet platform) has electronic devices to collect Tips which are given by anyone who has smart device or card.
 * Hospitals lack of electronic devices and Managers to collect money from Patients which unfortunately later on would be distributed evenly to all the Doctors and Nurses, who has the same Work in the Operation Room. Additionaly event from such Actions - Taxes should be payed too.
+* There would be a lot of questions, in example, this Article [-](https://www.lrt.lt/naujienos/nuomones/3/1702078/marija-verner-kaip-pasauliui-sekasi-de-kolonizuoti-moteru-kunus) lacks gender neutral Job Names which something are done in here [-](https://www.unwomen.org/en/csw), but the Results could be not so [-](https://www.lrt.lt/naujienos/gyvenimas/13/1702004/makalius-apie-solo-keliones-yra-poru-kasmet-keliaujanciu-tuo-paciu-metu-bet-skirtingomis-kryptimis) and when in the Operation comes more than three Nurses, does this much are needed for simple Cut, Take out and Clean, Sew in example: the Human Condition:Cist'it-Cyst'yt.
 ```
 
 ```
