@@ -1349,4 +1349,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1692619/lrt-faktai-vis-daugiau-pasaulio-valstybiu-skelbia-rusija-teroristine-valstybe-ka-tai-reiskia) resolution were Deployed for evaluating the Entity as "terrorists".
+```
+
+```
+##### R esults 
+International Order could be Damaged and People would be Confused.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* To Implement such resolutions there are possibility that would be needed to create "referendum" where people would specify who in particular are "terrorists"?
+* According this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1692002/zacharova-po-seimo-sprendimo-apkaltino-lietuva-ekstremizmu) there are the Confusion.
+* Presidents of the Countries in the NATO does not support the terrorist by any means, ref. [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/1699778/turkijos-prezidentas-ragina-svedija-neberemti-teroristu)
+```
+
+```
 TODO.
