@@ -182,5 +182,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
 
+According this Information System funded by EU [rsc.lt](https://www.rsc.lt/radis/) there are one scanning station for the Gama Rays which exeeds the value of 500 nSv/h in the territory flaged as "BY".
+```
+
+```
+##### R esults 
+EUROPEAN RADIOACTIVITY DATA EXCHANGE PLATFORM does not have response function. 
+This information only shall be taken for the awareness of Your own well being.
+People could get sick by the Radioactivity.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* In Lithuania the parameter bigger than 300 nSv/h shows that it exceeds (non-Maximum) the "Highest" Value for the Nuclear Event to be Reported.
+* In the Pharmacies at the Lithuania in the Year of 2022 there were already given POTASSIUM IODIDE (expiry date of 12 2024) for free - 4 (four) per Family. The use of these Pills are Dangerious, so it's only counter-measure, if You are already affected, but in long term it's very not good to be dependent by them. 
+* Don't use Equipment from the Nuclear Power Stations, even if they look Cool. These instruments may have left Gama Radioactivity. For this Reason there exists various physical instruments to scan the suroundings to catch the Gama radiation with using specific parameter values like Russian eq. of Ecovisor F4. 
+```
+
+```
 TODO.
