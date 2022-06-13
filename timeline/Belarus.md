@@ -201,7 +201,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * In Lithuania the parameter bigger than 300 nSv/h shows that it exceeds (non-Maximum) the "Highest" Value for the Nuclear Event to be Reported.
 * In the Pharmacies at the Lithuania in the Year of 2022 there were already given POTASSIUM IODIDE (expiry date of 12 2024) for free - 4 (four) per Family. The use of these Pills are Dangerious, so it's only counter-measure, if You are already affected, but in long term it's very not good to be dependent by them. 
 * Don't use Equipment from the Nuclear Power Stations, even if they look Cool. These instruments may have left Gama Radioactivity. For this Reason there exists various physical instruments to scan the suroundings to catch the Gama radiation with using specific parameter values like Russian eq. of Ecovisor F4.
-* Alternatively for the same Data there are e-service for "Gamma Dose Rate", which are displayed in here, URL: https://remap.jrc.ec.europa.eu/Simple.aspx 
+* Alternatively for the same Data there are e-service for "Gamma Dose Rate", which are displayed in here, URL: https://remap.jrc.ec.europa.eu/Simple.aspx (Luxembourg)
 ```
 
 ```
