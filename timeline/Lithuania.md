@@ -1369,4 +1369,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Vilnius.lt](https://vilnius.lt/lt/gyvenamosios-vietos-vilniuje-deklaravimas/) there are given link to get Information for Foreign Entities how successfully declare their Residence Location in Vilnius. The links given for LT, EN, EU, etc. The EU link are directed to Russian speaking section (non Ukrainian). 
+```
+
+```
+##### R esults 
+No translations given for simple Service as Declaring Your Residence Location in Vilnius.
+Confussion for people.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Adding link for Foreign Future Citizens and linking it named as "LT" according LST ISO 8601:2006 and LST ISO 3166-1:2020 in Informative Annex D for "Lithuanian" citizen is not appropriate enough. Could be added at least: "News for LT", "For interesants of LT", etc.
+* The web-site gives the Question for which Citizens according LST ISO 3166-1:2020 are given Guidance: uk/ukr and (or) ru/rus?
+* Reading the old and well known News in the Media does not show that "LT" Country is treated as with Democratic Background Country/State or whatever [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/77745/lietuvis-paryziuje-gali-valyti-langus-ne-visur-trukdo-kilme-ir-svetima-istorija) 
+```
+
+```
 TODO.
