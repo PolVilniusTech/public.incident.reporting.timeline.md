@@ -288,6 +288,7 @@ People tend to be lazy for Signing the Papers with current information, which is
 ##### L earning from Mistakes 
 From such incidents there are possible to learn a lot. I.e.:
 *    It is required at the beginning to a meet all the Requirements of the Helsinki Final Act, some references Available from here: https://en.wikipedia.org/wiki/Helsinki_Accords
+*    It does not seem that from previous Option is possible to Abstain like in this case: https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_217
 ```
 
 ```
