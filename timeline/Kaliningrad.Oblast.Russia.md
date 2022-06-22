@@ -274,4 +274,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/1725373/maskva-sako-kad-jk-atsisako-isduoti-vizas-rusijos-delegacijai-esbo-pa) Country which does not belong to the Organisation want to Participate in the OSCE PA.
+```
+
+```
+##### R esults
+People tend to be lazy for Signing the Papers with current information, which is especially important (specially) for International relations to begin with.
+```
+
+```
+##### L earning from Mistakes 
+From such incidents there are possible to learn a lot. I.e.:
+*    It is required at the beginning to a meet all the Requirements of the Helsinki Final Act, some references Available from here: https://en.wikipedia.org/wiki/Helsinki_Accords
+```
+
+```
 TODO.
