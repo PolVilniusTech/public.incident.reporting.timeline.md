@@ -269,4 +269,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1695112/baltarusija-bevizi-rezima-lietuvos-ir-latvijos-pilieciams-pratese-iki-2022-uju-pabaigos) and [-](https://www.lrt.lt/naujienos/pasaulyje/6/1725945/baltarusija-i-psichiatrine-uzdare-latvijos-pilieti-kuris-sms-zinuteje-kritikavo-lukasenka) Phone Networks are not Secure in the Foreign Country of Belarus.
+```
+
+```
+##### R esults 
+This looks like Phishing Attack.
+People has the chance to be Prisoner and lose the Face in his own Homeland which is not the Belarus itself.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* If SMS thing would be forged, what the chance to tell that You have not sended such Message?
+* If Your Phone is Vulnerable, what the chance that their own Friends not sended such Message?
+* To what kind of Country People are Traveling, if there Privacy does not exists and no Freedom of Speech with known Etics code for speaking. 
+```
+
+```
 TODO.
