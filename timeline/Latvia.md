@@ -305,7 +305,7 @@ There are expressions that such attack would do only Terrorist Country.
 
 From such incidents there are possible to learn a lot. I.e.:
 * According [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1725884/kasciunas-apie-estijos-premjeres-zodzius-ismintingai-kelia-politine-temperatura) there are Concerns with more Militaty Units to the Region from the Allies.
-* Does [OSCE](https://en.wikipedia.org/wiki/Organization_for_Security_and_Co-operation_in_Europe) has any meaning in Security of the Europe, if Final Helsinki Act in which such members of U.S.S.R (nor America, nor Russia), United States of America has approved long ago?
+* Does [EDSO](https://lv.wikipedia.org/wiki/Eiropas_Dro%C5%A1%C4%ABbas_un_sadarb%C4%ABbas_organiz%C4%81cija) has any meaning in Security of the Europe, if Final Helsinki Act in which such members of U.S.S.R (nor America, nor Russia), United States of America has approved long ago?
 * Does [The North Atlantic Treaty Organization](https://lt.wikipedia.org/wiki/NATO) even has the Power in full occupation from abroad countries to restore Order and return back the Control to Rightful Owners of the Land? Not Afghanistan example, because the Country has to Support and really wish for Presence of the Supportive Forces. 
 * Linguistic way for Word "sovereign" in some "Act" documents shown Democratic approach for Land Borders to be with 100% of "Integrity" (from maximum of 100%) and being as whole "Entity".
 ```
