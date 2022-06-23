@@ -292,4 +292,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1692619/lrt-faktai-vis-daugiau-pasaulio-valstybiu-skelbia-rusija-teroristine-valstybe-ka-tai-reiskia) resolution were Deployed for evaluating the Entity as "terrorists".
+```
+
+```
+##### R esults 
+International Order could be Damaged and People would be Confused.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* To Implement such resolutions there are possibility that would be needed to create "referendum" where people would specify who in particular are "terrorists"?
+* According this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1692002/zacharova-po-seimo-sprendimo-apkaltino-lietuva-ekstremizmu) there are the Confusion.
+* Presidents of the Countries in the NATO does not support the terrorist by any means, ref. [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/1699778/turkijos-prezidentas-ragina-svedija-neberemti-teroristu)
+* According this Video [LRT.lt](https://www.lrt.lt/mediateka/irasas/2000221621/zinios-salys-pirkusios-rusiskas-dujas-iesko-alternatyvaus-kuro-laikinai-griztama-prie-anglies) Countries gonna need to return back and live with the Coal as regular energy source. Probably that are not so bad, if in "Sustainable Development and Climate Action" of the UN with the seventeen Aims, starting from first one, problems would lie only from 6th, 7th, 13th, 14th, 15th and 17th Aim. 
+```
+
+```
 TODO.
