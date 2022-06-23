@@ -270,4 +270,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/1725792/estijos-premjere-su-dabartiniu-nato-gynybos-planu-salis-butu-nusluota) the Country which even does not have Border with Kaliningrad Oblast Russia are Threatened with the Ambush.
+```
+
+```
+##### R esults 
+There are expressions that such attack would do only Terrorist Country.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* According [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1725884/kasciunas-apie-estijos-premjeres-zodzius-ismintingai-kelia-politine-temperatura) there are Concerns with more Militaty Units to the Region from the Allies.
+* Does [OSCE](https://www.osce.org/) has any meaning in Security of the Europe, if Final Helsinki Act in which such members of U.S.S.R (nor America, nor Russia), United States of America has approved long ago?
+* Does [The North Atlantic Treaty Organization](https://www.nato.int/) even has the Power in full occupation from abroad countries to restore Order and return back the Control to Rightful Owners of the Land? Not Afghanistan example, because the Country has to Support and really wish for Presence of the Supportive Forces. 
+```
+
+```
 TODO.
