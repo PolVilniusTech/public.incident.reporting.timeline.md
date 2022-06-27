@@ -232,7 +232,7 @@ Micro, Small and Medium Enterprises could appear and offer their Services.
 ```
 ##### L earning from Mistakes 
 From such incidents there are possible to learn a lot. I.e.:
-*    Banning "Gray" import would mean that only Goods and Services by Will of Producer could be sold. Or the Purchase of Goods and Services from Other Places in the World without Consent of the Producer should not be possible.
+*    Banning "Gray" import would mean that only Goods and Services by Will of Producer could be sold. Or the Purchase of Goods and Services from Other Places in the World without Consent of the Producer should not be possible. Sample for re-sellers presence could be found in this Article [-](https://www.lrt.lt/naujienos/verslas/4/1727920/lietuviskas-alus-randa-kelia-i-rusijos-parduotuviu-lentynas-volfas-engelman-vadovas-situacijos-paaiskinti-negali-nenustebciau-jei-padirbineja).
 *    Financial literacy would be needed to improve, if those terms is too hard to grasp.
 *    Programming mistakes could mean Financial Crisis, i.e. which happen in 2008 yr. in some part of the World.
 ```
@@ -257,7 +257,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1659578/rusija-stengiasi-nukopijuoti-uzdraustas-socialiniu-tinklu-platformas-kurejai-vadina-tai-visisku-meslu) more and more Foreign services in Digital Space are quiting their presence in the Russian Federation. 
+According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1659578/rusija-stengiasi-nukopijuoti-uzdraustas-socialiniu-tinklu-platformas-kurejai-vadina-tai-visisku-meslu) more and more Foreign services in Digital Space are quiting their presence in the Russia. 
 ```
 
 ```
