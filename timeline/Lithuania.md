@@ -1396,4 +1396,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [-](https://www.lrt.lt/naujienos/verslas/4/1727711/del-saugumo-laikinai-sustabdytos-vmi-informacines-sistemos) in Information Systems and Websites of the Lithuania are spreading harmful automatic logins as non-stop repetition to get access into these Systems.       
+```
+
+```
+##### R esults 
+Does automatic tool and (or) person has real Rights to access some System to get e.Service?
+Systems could get DDoS with those repeatitive actions.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Review of Treaties, Agreements, Contracts would be wise way to find solution for such attacks to stop.
+* Does System and (or) simple Application has Security Controls in place to make such attack wasteful for the Attacker?
+* All Country Systems has meet at least minimal Requirements which are enforced by help of National Cyber Security Center of Republic Lithuania under Ministry of National Defence. 
+```
+
+```
 TODO.
