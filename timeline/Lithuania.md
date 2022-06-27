@@ -1398,7 +1398,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [-](https://www.lrt.lt/naujienos/verslas/4/1727711/del-saugumo-laikinai-sustabdytos-vmi-informacines-sistemos) in Information Systems and Websites of the Lithuania are spreading harmful automatic logins as non-stop repetition to get access into these Systems.       
+According this Article [LRT.lt](https://www.lrt.lt/pl/wiadomosci/1261/1727874/trwa-zmasowany-cyberatak-na-rzadowe-witryny-internetowe-i-uslugi-cyfrowe-wladz-publicznych) in Information Systems and Websites of the Lithuania are spreading harmful automatic logins as non-stop repetition to get access into these Systems.       
 ```
 
 ```
