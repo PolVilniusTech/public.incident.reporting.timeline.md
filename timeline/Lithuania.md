@@ -1370,4 +1370,29 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/1726347/lietuvos-gelezinkeliai-susiduria-su-kibernetinemis-atakomis-keleiviams-interneto-svetaines-gali-buti-laikinai-nepasiekiamos) Train Public Infrastructure, i.e. Websites which allows to Purchase Tickets, are getting DDoS attacks.   
+```
+
+```
+##### R esults 
+Regular Customers has issues for Services over Internet like:
+* purchasing e.Ticket
+* viewing Train Routes and Timetable
+* reading Service related information 
+other Customers, who communicate over Internet for their e.Services, could be Jammed for new Requests. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* use other communication network like payd phone service;
+* printed brochures and booklets with planned Routes and Timetables;
+* temporarily exchanging signed documents with e.signature via other platforms like Google Docs; 
+* look for own Country Cappability to build Internet Service for their Institutions, Critical Infrastructure which is similar to those Services offered by [Cloudflare](https://www.cloudflare.com/). 
+```
+
+```
 TODO.
