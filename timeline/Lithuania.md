@@ -1381,7 +1381,8 @@ Regular Customers has issues for Services over Internet like:
 * purchasing e.Ticket
 * viewing Train Routes and Timetable
 * reading Service related information 
-other Customers, who communicate over Internet for their e.Services, could be Jammed for new Requests. 
+
+Other Customers, who communicate over Internet for their e.Services, could be Jammed for their new Requests and get Responses back. 
 ```
 
 ```
