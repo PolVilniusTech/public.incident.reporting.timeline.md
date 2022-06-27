@@ -66,6 +66,8 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According [@Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/1622741/paysera-stabdys-pervedimus-i-ir-is-rusijos-uzdarys-saskaitas-rusijos-klientams) e-Service which helps to pay for Goods and Services are quiting from the Country.
+More sources:
+* [-](https://www.lrt.lt/naujienos/verslo-pozicija/692/1727912/antanas-sagatauskas-verslo-pasitraukimo-is-rusijos-pamokos)
 ```
 
 ```
@@ -79,7 +81,8 @@ Internet Service Users will need use more physical Cash and more walking-driving
 From such incidents there are possible to learn a lot. I.e.:
 *  New Payment e-Service would need to have International Recognition to successfully operate in Other Countries.
 *  Lack of Payment choices over Internet would increase Shadow Market which operates with illegal conditions and Consumer can't get Help for being together in complicity with this Community.
-*  Shadow Market does not have stake and interest, if other entities from the Shadow Market, are going to breach theyr Consumers Well-being, Privacy and Security.   
+*  Shadow Market does not have stake and interest, if other entities from the Shadow Market, are going to breach theyr Consumers Well-being, Privacy and Security.
+*  All Market has to comply with [Sanctionsmap.eu](https://sanctionsmap.eu/#/main)   
 ```
 
 ```
