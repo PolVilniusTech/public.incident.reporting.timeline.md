@@ -1433,7 +1433,7 @@ Possible Threat to the Citizens-Persons who stays in the Terrorist Supporting Co
 From such incidents there are possible to learn a lot. I.e.:
 * Private Sector are stopping ties with the Agressor Country. Currently it counts about 1100 Abroad Companies who left the Russia and (or) Russian Federation (following — Aggressor Country).
 * According the results of this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1728031/lietuvos-konsulas-apie-z-raidemis-apipaisyto-automobilio-incidenta-reguliariai-gauname-bjaurasties-su-visokiais-palinkejimais) there could be uncertainty for Republic of Lithuania who still have employees (diplomats, consul, etc.) in named Agressor Country. Who will take care for security of these employees in the engl. Moscow (Capital) / rus. Москвe (Cтолицe) of the Aggresor Country?
-* One Issue would be for how many ties Aggresor Country has with Afghanistan (Taliban in power) and for next one: how much Taliban is Democratic who are representing whole Afghanistan in United Nations Organisation.
+* One Issue would be for how many ties Aggresor Country has with Afghanistan (Taliban in power) and for next one: in how many Ways the Taliban are Democratic who are representing whole Afghanistan in United Nations Organisation.
 * Uncertainty in Country Official ranks, because The People's Republic of China sended "Trustee of Issues" instead of any other diplomats and consuls, when the specific Institution in Republic of Lithuania was named as it was requested by Taipei Taiwan. It's unclear for following rhetoric Question: does someone forged the e-mail for such thing to happen, or it's huge differences in ethics, traditions and etc. between the Entities in Communication. 
 ```
 
