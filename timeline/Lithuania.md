@@ -1417,4 +1417,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Resolution [LRT.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/7ccfdcc0cf8511ecb69ea7b9ba9d787b?positionInSearchResults=12&searchModelUUID=5013b01b-5740-45f3-91f6-d2cec93cdc67) it's required to change status of the defined Country into Terrorist Supporting Subject.
+```
+
+```
+##### R esults 
+Possible Threat to the Citizens-Persons who stays in the Terrorist Supporting Country.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Private Sector are stopping ties with the Agressor Country. Currently it counts about 1100 Abroad Companies who left the Russia and (or) Russian Federation (following — Aggressor Country).
+* According the results of this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1728031/lietuvos-konsulas-apie-z-raidemis-apipaisyto-automobilio-incidenta-reguliariai-gauname-bjaurasties-su-visokiais-palinkejimais) there could be uncertainty for Republic of Lithuania who still have employees (diplomats, consul, etc.) in named Agressor Country. Who will take care for security of these employees in the engl. Moscow (Capital) / rus. Москвe (Cтолицe) of the Aggresor Country?
+* One Issue would be for how many ties Aggresor Country has with Afghanistan (Taliban in power) and for next one: how much Taliban is Democratic who are representing whole Afghanistan in United Nations Organisation.
+* Uncertainty in Country Official ranks, because The People's Republic of China sended "Trustee of Issues" instead of any other diplomats and consuls, when the specific Institution in Republic of Lithuania was named as it was requested by Taipei Taiwan. It's unclear for following rhetoric Question: does someone forged the e-mail for such thing to happen, or it's huge differences in ethics, traditions and etc. between the Entities in Communication. 
+```
+
+```
 TODO.
