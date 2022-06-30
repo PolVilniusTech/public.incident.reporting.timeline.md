@@ -277,4 +277,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According of the Media [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1730050/amnesty-international-mariupolio-teatra-subombardavo-rusai-tai-karo-nusikaltimas) „Amnesty International“ lists Theater Bombing as worth event for the War Tribunal.
+```
+
+```
+##### R esults 
+Bombing destroyed the Theater, surroundings and there was a lot of victims. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* There are question: from where the bombing were done (ground or air)?
+* There are question: from which Side the bombing were done (Axis or not the Axis)?
+* Does there are strong Chain of Evidence for the Offensive, Crime, Forensic Investigation?
+* Nowadays Sattelites from the Space collects the data for various planes, Rocket Defence Systems sees every "Giant-Bug" in their Radars, Airports has some stuff to offer. If Axis would complete something like this from the Air, then it should be possible to add additional material into the document from the Previous Axis Invasion where Citizens from all of Europe lost their lives "Malaysia Plane Incident" which were done by Separatists from the Ground.
+* There exists the term "false-flag" saying that the Entity which is at fault has done everything in their own allegations, in other words: killing your own kin. unfortunately from previous events of the Axis where they took off the flag of the Poland [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/1729655/zacharova-del-rusofobiskos-varsuvos-politikos-lenkijos-veliavai-ne-vieta-rusijos-memorialiniuose-kompleksuose) from the "Katyn Incident" (1940) it has the look for thinking that they are not guilty for this incident. Now after XXth century does everyone already forgot the Polands plane Crash with their High ranking Officials in the same Axis Soil? In that case Axis hidden all the Evidence and had not showing to anyone for long, long time. So it would be Wise to do properly and get International Team who could documment everything with Proper International agreement with exception that the Entity whos at fault should not use it's veto or anything, unless they have what to Hide. Usage of Cloud Document Management System with the access from various places of the World would be good Public backup. Cybersecurity in here would be required, i.e. every change has to be docummented until everyone comply with the final version. 
+```
+
+```
 TODO.
