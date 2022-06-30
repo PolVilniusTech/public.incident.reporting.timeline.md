@@ -1445,7 +1445,7 @@ According this Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1730350
 
 ```
 ##### R esults 
-Middle Man gets "strong friendship with the People’s Republic of China" by sending them propaganda from "Lithuania". 
+Middle Man gets "strong friendship with the People’s Republic of China" by sending them propaganda as it was from the "Republic of Lithuania". 
 ```
 
 ```
