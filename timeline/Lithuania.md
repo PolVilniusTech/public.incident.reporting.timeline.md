@@ -1456,3 +1456,23 @@ From such incidents there are possible to learn a lot. I.e.:
 * Does there are at least Sanctions for those Disinformation spreaders, officers and higher ups? 
 * If You send a pille of digital/crypto Money, then after transaction, would be wise to safely ask from other side for the real numbers (Income) and the (Digital/Crypto) Currency.
 * Well not good for "People’s Republic of China", because the Propagandists Country(-ies) probably has cappability to create/are creating "(Small) Sattelite Republics" and makes more the word of "Republic" dirty, unpleasant. 
+```
+
+```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1730599/scholzas-maskvos-kaltinimai-imperializmu-absurdiski) there is High Chance for need of the Global Awareness training about the Cyberbullying.
+```
+
+```
+##### R esults 
+Entity Country would be bullied through the Web, because it is very easy to do so.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Nowadays even Mayor of the City in Modern way stream his Cabinet (Online/Live) for wanting to be Available for everyone to Judge his Work.
+* It's not rare that Higher Position of the Person, then Higher Effects of Cyberbullying would be done.
+* In the Web exists more dangers to find Fake and Untrusted Information, i.e. with Photoshopped or Media-Video Edited Content, from which Popular-Influental Peoples Face-Body-Voice would be used against their Will to make some "meme" Content with hidden idea/aim of the Message. Maybe it would be Wise to try and send back all the message. Maybe it would help to find out, if sender really mean that, or it was just "in the Mind" of his or someone. 
