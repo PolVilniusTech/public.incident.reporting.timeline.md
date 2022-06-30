@@ -1454,3 +1454,4 @@ Middle Man gets "strong friendship with the People’s Republic of China" by sen
 From such incidents there are possible to learn a lot. I.e.:
 * Middle Man could survive for very long, i.e. get Payments, which are directed not for them, spread disinformation between separate Countries-States, create Situation of War for their part of Economy Machine, i.e. Rockets. But History knows that Best Rocket Engineers took the United States of America (USA) after WWII.
 * Does there are at least Sanctions for those Disinformation spreaders, officers and higher ups? 
+* Well not good for "People’s Republic of China", because the Propagandists Country(-ies) probably has cappability to create/are creating "(Small) Sattelite Republics" and makes more the word of "Republic" dirty, unpleasant. 
