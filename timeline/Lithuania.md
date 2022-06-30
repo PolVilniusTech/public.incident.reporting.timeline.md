@@ -1438,4 +1438,19 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
-TODO.
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1730350/pekinas-uzsipuole-nato-del-visiskai-beprasmisko-ispejimo-kinijos-atzvilgiu) is easy to see that there are Sample of "Man-in-the-Middle" attack. For example there are many articles like this with Sentences [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/1729443/nato-vadovas-sustiprintos-greitojo-reagavimo-pajegos-bus-pasirengusios-veikti-2023-iaisiais) for „Rusija kelia grėsmę ne tik Europai, bet ir visai NATO“.
+```
+
+```
+##### R esults 
+Middle Man gets "strong friendship with the People’s Republic of China" by sending them propaganda from "Lithuania". 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Middle Man could survive for very long, i.e. get Payments, which are directed not for them, spread disinformation between separate Countries-States, create Situation of War for their part of Economy Machine, i.e. Rockets. But History knows that Best Rocket Engineers took the United States of America (USA) after WWII.
+* Does there are at least Sanctions for those Disinformation spreaders, officers and higher ups? 
