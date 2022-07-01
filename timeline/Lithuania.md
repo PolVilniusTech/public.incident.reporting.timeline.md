@@ -1476,3 +1476,26 @@ From such incidents there are possible to learn a lot. I.e.:
 * Nowadays even Mayor of the City in Modern way stream his Cabinet (Online/Live) for wanting to be Available for everyone to Judge his Work.
 * It's not rare that Higher Position of the Person, then Higher Effects of Cyberbullying would be done.
 * In the Web exists more dangers to find Fake and Untrusted Information, i.e. with Photoshopped or Media-Video Edited Content, from which Popular-Influental Peoples Face-Body-Voice would be used against their Will to make some "meme" Content with hidden idea/aim of the Message. Maybe it would be Wise to try and send back all the message. Maybe it would help to find out, if sender really mean that, or it was just "in the Mind" of his or someone. 
+```
+
+```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1731366/taivano-premjeras-honkongo-laisve-ir-demokratija-isnyko) shows that nothing to change were suggested for 50 (Fifty) Years and only after 25 (Twenty Five) Years has changed a lot.
+```
+
+```
+##### R esults 
+Promises are not met and people are upset.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* More bureaucracy with signatures of those promises would be suggested for such Situation to not happen... the Problem, when Entity has a lot of bureaucracy those documents tend to get not good alignment nor horizontally not vertically. In this case it is necessary to know total number of employees which could be kept in the bureaucratic system according the Budget and Incomes.
+* Qualified e.signature could be used to help and switch/swap into electronical document management which would provide the chance for International and own Citizens to find out more about those regulations. Then they could provide feedback, especially if something fishy could/would be found. There could be following problems with various jurisdictions documents, because all of these documents are not linked properly, hard to find needed information, have poor search, no keywords which represents the document are provided, accompanying similar documents are not properly attached to specific place, no language translations between those Countries which want to Start the Business and etc.
+* In other Case from the History exists such Entities, who had given specific time, i.e. 100 (hundred) Years, and after then this Entity should be Independent. Does People after such Time would wish for such a Thing? or does that was just Tweet which are the same as talking gibberish and has nothing to do with current times, but something has changed like clothing and food, Internet.
+```
+
+```
