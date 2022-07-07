@@ -1502,4 +1502,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1733853/vdai-pradejo-tyrima-del-svaros-broliu-klientu-duomenu-saugumo) there was Incident who lead into loss of information of the Internet Service Users from the following: name, surname, e.mail, phone no., automobile registration plate. 
+
+```
+
+```
+##### R esults 
+50 thousand of users lost their personally identifiable information.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* From some Information Security Professionals usualy nowadays You can hear to write only Information with the Asterisk* - required. Systems could hold Information in separated environments, i.e. from Public Website registration form the Information could be taken into Internal Network Site which does not have any direct and (or) physical links with Public website.
+* Automobile registration plates are popular in various Parking Places which helps to remind where You have left the Automobile and (or) drive in/out the Parking Place. For getting the Identity of the Owner the Road Police Systems and other sensitive information Databases could be the Target in External/Internal fashion.  
+* According [The State Data Protection Inspectorate](https://vdai.lrv.lt/en/) Personal data - any information about natural Person which Identity has been determined or could be determined. According [THE EUROPEAN PARLIAMENT AND OF THE COUNCIL](https://eur-lex.europa.eu/) No. 2016/679 regulation of General Data Protection Regulation's (GDPR) 30th preamble displays the concern of Internet Protocol (IP) address which were used to determine the Attackers of the Site. The Problem with the Article - it does not say, if natural persons has lost/not lost their IP addresses. Leaked IP addresses could be used further to penetrate into deeper Network for finding out the real Identity of the Natural person and in this case such Telecommunication Networks of Tele2, Telia, Bitė would be the next Target. If the Internet Service Providers (ISP) distribute Static IP Addresses, then information of IP address would be personally identifiable information for Years in their Databases. If we would assume small - medium size ISP, then there would be question: does You with the Client renew the Contract with Customers? because of new regulations around, i.e. GDPR.  
+```
+
+```
 TODO
