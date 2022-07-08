@@ -299,4 +299,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
-TODO.
+##### I ncident
+
+According of the Media Article [MSN](https://www.msn.com/en-xl/europe/top-stories/nasa-issues-rare-rebuke-to-russia-for-using-the-space-station-as-war-propaganda/ar-AAZlaWB?ocid=entnewsntp&cvid=f5eec205fff94e01b71cbd60036b35f1) the International Space Station are used for the Propaganda, fakes and lies.
+```
+
+```
+##### R esults 
+One Side of History are creating everything what they Wish by dismissing all weak points of the Humanity. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* The China has a lot of names and one of them for International English is "People’s Republic of China".
+* The Article shows the names of "Luhansk People’s Republic" and "Donetsk People’s Republic". With what happening in these Places it's for sure are the Attack to the Asia Continent.
+* Someone deliberately want to Shut-In and prevent Trolling, and show everything justifiably by doing the stuff in these "People’s Republic's". Does these Entities have solved their Problems with the Ukraine instead? or they don't care for the Future of Eurasia Continent? sellfish, greedy, imperialist people.
+```
+
+```
