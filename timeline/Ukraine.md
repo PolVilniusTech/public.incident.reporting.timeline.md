@@ -315,7 +315,8 @@ One Side of History are creating everything what they Wish by dismissing all wea
 From such incidents there are possible to learn a lot. I.e.:
 * The China has a lot of names and one of them for International English is "People’s Republic of China".
 * The Article shows the names of "Luhansk People’s Republic" and "Donetsk People’s Republic". With what happening in these Places it's for sure are the Attack to the Asia Continent.
-* Someone deliberately want to Shut-In and prevent Trolling, and show everything justifiably by doing the stuff in these "People’s Republic's". Does these Entities have solved their Problems with the Ukraine instead? or they don't care for the Future of Eurasia Continent? sellfish, greedy, imperialist people.
+* Someone deliberately want to Shut-In and prevent Trolling, and show everything justifiably by doing the stuff in these "People’s Republic's". Does these Entities have solved their Problems with the Ukraine instead? or they don't care for the Future of Eurasia Continent? there could exists various people, i.e. sellfish, greedy, imperialist. Show what is your Friend, then it would be possible to say what are You?
+* By Organisational View Point dismantle of the International Space Station, because of various non-existing coincidence points by the Team Countries on the Future would be the advice.
 ```
 
 ```
