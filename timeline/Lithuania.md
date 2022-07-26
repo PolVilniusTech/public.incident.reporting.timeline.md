@@ -1526,7 +1526,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1735660/ignitis-grupe-skelbia-patirianti-didziausia-kibernetine-ataka-per-desimtmeti-atnaujinta-svetainiu-veikla) Web Site(s) of the e.Service are getting DDoS attacks. 
-
 ```
 
 ```
@@ -1544,4 +1543,43 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
 
+According this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1738954/alio-lt-skelbia-patyrusi-kibernetine-ataka-galejo-nuteketi-345-tukst-klientu-duomenys) somebody tried to guess real account ID's and phone numbers in the Portal alio.lt
+```
+
+```
+##### R esults
+Up to 345 thousand of Customer data like email, phone no. including credential related information could be leaked.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Sensitive information: Bank Account No., Payment Card Data, Personal Codes, Home Address were not stored in the Portal alio.lt.
+* Exists probability that Portals functionality upon creation were not tested for inputing specific information from Universal Resource Locator place.
+```
+
+```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1730298/killnet-smoge-ir-verslios-lietuvos-klientams-pranesama-apie-pavogtus-asmeninius-duomenis) were stolen Customer Information who were registered for use of https://skaiciuokle.verslilietuva.lt Calculator.
+```
+
+```
+##### R esults
+Customer information like first name, last name, email address, phone no., home address and credential related information were stolen.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* If home address information were lost, then it would be called as Sensitive information.
+* Finance related information were not collected for registration to use Calculator.
+* The Question: Does the Calculator is really worth for the Registration Form? 
+* Nowadays exists number of Calculators who would help for the Small-Medium Businesses to make their bureaucratic work simplier and faster. More benefits for the Portal would be instead of Registration form to provide "Money Donation" link for specific "Business Goal" and (or) cause.
+```
+
+```
