@@ -1583,3 +1583,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1769335/turto-bankas-patyre-kibernetine-ataka-buvo-sutrikusi-svetainiu-veikla) the WebSites like turtas.lt and valstybesturtas.lt were not accessible for 30 (thirty) minutes becauso of the DDoS attack.
+```
+
+```
+##### R esults
+Some Service in described period of time would be not served to the true Customers. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* There exists Risks that some Customer could Bid in Auction and DDoS for Winning his Bet.
+* There exists Risks that Institution choosen not appropriate term of "putinOut". "Put" means "to Place something somewhere", "in" could start with Cap letter for meaning "to get something into/inside" and "Out" means "to get something outo/outside". The only question how is it related to the electricity bills?
+* For proper naming it would be advisible to use native language letters [vlkk.lt](https://vlkk.lt/naujienos/kitos-naujienos/internetas-darosi-daugiakalbis-ir-lietuviskas) or, if there is meaning related to specific foreign language, then use this specific language, because in other words it is stupid.
+```
+
+```
