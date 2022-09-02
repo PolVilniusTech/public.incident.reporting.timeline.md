@@ -1585,7 +1585,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1769335/turto-bankas-patyre-kibernetine-ataka-buvo-sutrikusi-svetainiu-veikla) the WebSites like turtas.lt and valstybesturtas.lt were not accessible for 30 (thirty) minutes becauso of the DDoS attack.
+According this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1769335/turto-bankas-patyre-kibernetine-ataka-buvo-sutrikusi-svetainiu-veikla) the WebSites like turtas.lt and valstybesturtas.lt were not accessible for 30 (thirty) minutes becaus of the DDoS attack.
 ```
 
 ```
