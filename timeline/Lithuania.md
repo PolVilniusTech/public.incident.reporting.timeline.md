@@ -1603,3 +1603,19 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/1779812/ziniasklaida-uber-planuoja-uzdaryti-it-padalini-lietuvoje) Technology companies meet shortage of human resources in the IT field. Because of this reason they will need to leave from the region.
+```
+
+```
+##### R esults
+Less of advanced technology sector companies gonna lead into even less inovations in the sector for which tech company are good at.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Information technology (IT) sector is one building block in successful technology management in the company. By having not enough personel could lead into situation when proper organisation management are not possible and Quality of Customer Service in longer term would decrease drastically.
+* IT sector and Advanced IT companies are challenged by Risks to area of their Information and Information technology Security and CyberSecurity. Relocating their assets is only one approach of managing current-future Risks.
