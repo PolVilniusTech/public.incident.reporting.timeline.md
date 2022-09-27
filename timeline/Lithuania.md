@@ -1619,3 +1619,25 @@ Less of advanced technology sector companies gonna lead into even less inovation
 From such incidents there are possible to learn a lot. I.e.:
 * Information technology (IT) sector is one building block in successful technology management in the company. By having not enough personel could lead into situation when proper organisation management are not possible and Quality of Customer Service in longer term would decrease drastically.
 * IT sector and Advanced IT companies are challenged by Risks to area of their Information and Information technology Security and CyberSecurity. Relocating their assets is only one approach of managing current-future Risks.
+```
+
+```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/1787006/bankines-sistemos-tiekeja-bankinglab-patyre-kibernetine-ataka-pradetas-tyrimas) BALTIC AMBER SOLUTIONS (private limited liability company) Site had intrusion from external sources and some private data were leaked. Representative of the company are telling that no critical private information were leaked and access to the money is secured.
+```
+
+```
+##### R esults
+Some of Customer data were leaked.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Incidents and breaches has to be reported according Cybersecurity Law like following formulation "The cyber security policy is implemented by the National Cyber Security Center, the State Data Protection Inspectorate, the Lithuanian Police and other institutions whose functions are related to cyber security.".
+* The private limited liability company has the Site of URL	https://bankinglab.com which are using popular Content Management System which in the year of 2022 accumulated around of 1000 security vulnerabilities. Regular approach of Security in here to keep up with the updates which fix the problems.
+```
+
+```
