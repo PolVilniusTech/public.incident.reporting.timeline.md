@@ -1638,6 +1638,7 @@ Some of Customer data were leaked.
 From such incidents there are possible to learn a lot. I.e.:
 * Incidents and breaches has to be reported according Cybersecurity Law like following formulation "The cyber security policy is implemented by the National Cyber Security Center, the State Data Protection Inspectorate, the Lithuanian Police and other institutions whose functions are related to cyber security.".
 * The private limited liability company has the Site of URL	https://bankinglab.com which are using popular Content Management System which in the year of 2022 accumulated around of 1000 security vulnerabilities. Regular approach of Security in here to keep up with the updates which fix the problems.
+* Specific Banking applications and it Hardware & Software manufacturers must provide their Issues in the same way how these companies are doing URL: [Oracle.com](https://www.oracle.com/security-alerts/#SecurityAlerts), because they want to be Available in such Banking Transactions.
 * Does Certificates of the Public key Cryptography of the SSH should be regularly updated like SSL Certs for Site Security? 
 ```
 
