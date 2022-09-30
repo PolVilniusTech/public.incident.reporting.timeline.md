@@ -320,3 +320,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+Number of Reports of Annex'ation of Land which is impossible according the Law of UN.
+```
+
+```
+##### R esults 
+Huge number of people are getting disinformation.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Asian Region may create it's own copy of UN which would cost huge number of cash to operate. In this case countries in the Habitable Planet would be divided into two separate entities with mostly the same or similar Aims. Number of Countries would need get their representatives into all the places which is money consuming and other bureucratic level for commoner shoulders.
+* Countries who join Unions are getting into Contracts with all Community and does not keep the promises, commitments which were signed regularly or digitaly.
+* Cyber-attacks could increase to shut Tax Payers with opinion of which some sum of money goes to the budget of these Unions. 
+```
+
+```
