@@ -322,7 +322,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-Number of Reports, i.e. [Радио «Cвобода»](https://www.lrt.lt/ru/novosti/17/1790958/putin-obiavil-ob-anneksii-khersonskoi-zaporozhskoi-donetskoi-i-luganskoi-oblastei-ukrainy) of Annex'ation of Land which is impossible according the Law of UN.
+Number of Reports, i.e. [Радио «Cвобода»](https://www.lrt.lt/ru/novosti/17/1790958/putin-obiavil-ob-anneksii-khersonskoi-zaporozhskoi-donetskoi-i-luganskoi-oblastei-ukrainy), [UN.org](https://press.un.org/en/2022/sc15036.doc.htm) of Annex'ation of Land which is impossible according the Law of UN.
 ```
 
 ```
