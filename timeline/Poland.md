@@ -178,6 +178,7 @@ Plausible Service interruptions for the citizens who are in need of this Service
 From such incidents there are possible to learn a lot. I.e.:
 * EU jurisdictional acts has ties with UN legislation. The Security Council of the UN has the powers to decide restrictive measures binding for all UN members.
 * Information Cyber-Security related restrictive measures has to be implemented by all UN members and displayed in instance of known place: [sanctionsmap.eu](https://www.sanctionsmap.eu/)
+* There are way to find specific documents which explain the situation, i.e. [finance.ec.europa.eu](https://finance.ec.europa.eu/publications/intellectual-property-rights_en). These documents are not perfect, additional notice that I. instead of "person or entity" could be described as "person entity or organisation entity" and II. instead of "Annex" would be used "Attachment", unless You want include some pages to the main document, then "Annex" section would be not needed anymore.
 
 ```
 
