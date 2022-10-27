@@ -160,4 +160,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
-TODO.
+### 2022
+
+##### I ncident
+
+According [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/1810554/lenkijos-senato-serveriai-patyre-kibernetine-ataka) some Cyber-Security attack were done to the site of Polish Parlament.
+```
+
+```
+##### R esults 
+Plausible Service interruptions for the citizens who are in need of this Service. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* EU jurisdictional acts has ties with UN legislation. The Security Council of the UN has the powers to decide restrictive measures binding for all UN members.
+* Information Cyber-Security related restrictive measures has to be implemented by all UN members and displayed in instance of known place: [sanctionsmap.eu](https://www.sanctionsmap.eu/)
+
+```
+
+```
