@@ -169,7 +169,9 @@ According [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/1810554/lenkijos-senat
 
 ```
 ##### R esults 
-Plausible Service interruptions for the citizens who are in need of this Service. 
+Plausible:
+* Service interruptions for the citizens who are in need of this Service
+* Offline Internal Network
 ```
 
 ```
