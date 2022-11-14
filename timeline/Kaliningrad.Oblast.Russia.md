@@ -316,4 +316,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
-TODO.
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1656517/rusijos-antivirusiniu-programu-gamintoja-kaspersky-jav-paskelbe-gresme-nacionaliniam-saugumui) U.S. (America) has forbidden to use specific Software and Applications, which are from this Region. The E.U. are making their decisions too.
+```
+
+```
+##### R esults 
+Specific Software and Applications has to be removed and the Market for these Producers or their off-shore Companies would be shut down in specific sectors.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* For actual forbid/deny action to happen Entities has to Vote and Documentation has to appear in [here](https://www.un.org/securitycouncil/sanctions/information) and [here](https://www.sanctionsmap.eu/#/main). Yet there are nothing mentioned about Software and Hardware.
+* Support and Utilities created by those Companies which Software was banned may be Forbidden too.
+* There exists problems, if according pre-build Software even by Big Company [Apple](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1366027/rusijos-ziniasklaida-apple-sutinka-is-anksto-idiegti-rusiska-programine-iranga-savo-irenginiuose), such Products would be Imported in Places where this specific Software are Forbidden.
+* Other question on influence of Forbidden Company Employees, because they are trying their best to Promote their Software [here](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1137324/ar-jusu-el-pastas-saugus-ir-kodel-kompiuterio-kameros-uzdengimas-jau-nelaikomas-paranoja), [here](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1113187/biometrijos-pavojai-slaptazodis-visam-gyvenimui-ir-kaip-tapatybe-gali-pavogti-slapias-popierius-su-zelatina) and [here](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1094116/kibernetiniai-nusikalteliai-kenkejiskas-programas-slepia-net-moksliniuose-vadoveliuose) and in some point above other Software producers. Forbidding Software would make no point for those Employees to promote Safety and Security of their Software around the Region.
+```
+
+```
