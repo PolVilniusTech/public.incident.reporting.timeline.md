@@ -1643,3 +1643,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1187414/lrt-faktai-vagystes-is-bekontaktes-korteles-ar-galima-ja-laikyti-kelniu-kiseneje) strange Videos are comming from Internet Social Networks, high chance that is from Foreign Country. People are attacked by Pickpocketers with Contactless Payment Card Scanners.
+```
+
+```
+##### R esults
+People would lose money, if someone would approach with such Device with intent to scan Your card.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* In normal environment of the Equivalent Exchange Bank Instritutions and Gov Regulations it would be impossible to use Localy selld devices in the E.U. Banking system.
+* Who knows, if there would be Foreign Devices and Foreign Services which would be able to do the scans. 
+```
+
+```
