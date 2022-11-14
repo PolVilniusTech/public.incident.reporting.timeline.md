@@ -1657,7 +1657,7 @@ People would lose money, if someone would approach with such Device with intent 
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* In normal environment of the Banking Instritutions and Gov Regulations it would be impossible to use locally selld devices in the E.U. Banking system.
+* In normal environment of the Banking Institutions and Gov Regulations it would be impossible to use locally selld devices in the E.U. Banking system.
 * Who knows, if there would be Foreign Devices and Foreign Services which would be able to do the scans. 
 ```
 
