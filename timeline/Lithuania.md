@@ -1682,3 +1682,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/1832729/daliai-vartotoju-sutriko-mano-vmi-veikla) State Tax Inspectorate Site over the Internet has irregular Workflow.
+```
+
+```
+##### R esults
+Part of the Clients can't access their Services as usual.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Irregularities could be caused by Application/System Wide update(s), system policy change, i.e. password policy.
+* Not proper SSL/TLS Certificate change(s) would find Internet Browser Apps. 
+* Common Service provider Apps which are installed into the SmartPhone are another part of the Clients who are accessing the Site Infrastructure. 
+```
+
+```
