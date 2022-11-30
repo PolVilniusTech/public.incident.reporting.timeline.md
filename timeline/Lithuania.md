@@ -1702,3 +1702,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/en/news-in-english/19/1833149/over-220-000-lithuanian-numbers-among-leaked-whatsapp-data-media) Single Service of American Company Meta had huge data leak of User Private information.
+```
+
+```
+##### R esults
+Two hundred twenty thousand Users from Lithuania are potential victims of this Service.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Big Tech Companies are promoting Huge Security Shields in which case You have to share the Private information like Mobile Phone Number.
+* Two step verification in usual fashion may require/requires mobile phone number, or System are directly connected to the specific Telephone Number.
+* Nation/Union/State promoting easier way to swap their Telecommunication Company Service with moving their Mobile Phone Numbers between them, but in this case if Private data are leaked, then every Script-Kiddie would be able to link specific phone number with some Individual. In many cases Individual loses his Private Life, if the data would be used, i.e. for Fraud and Scam attacks by calling to the elderly for the Ransom or Racket.
+* There are jurisdictional questions about the Place of the data which were kept during the Leak and does the Citizens from Countries like Lithuania has a chance to say "General Data protection Reglament" or so. There are lacking for various Services where People would leave their opinion on further actions with more ease.
+```
+
+```
