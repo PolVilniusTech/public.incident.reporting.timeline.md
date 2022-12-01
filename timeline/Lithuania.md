@@ -1723,3 +1723,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/1834461/sutriko-elektroniniu-valdzios-vartu-veikla-gyventojai-pranesa-negalintys-prisijungti-prie-sveikatos-ir-administraciniu-paslaugu) exists messages with problems to Authenticate via epaslaugos.lt
+```
+
+```
+##### R esults
+Some Customers will not be able to access their Services for some duration. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Via Platforms there are number of ways to connect, i.e. Direct-connection, Bank-link, Single sign-on, Identity Card. Providing more detailed information, which Auth mechanism has problems would give more Ideas and more rich Picture about what is happening.
+```
+
+```
