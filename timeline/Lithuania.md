@@ -1741,3 +1741,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1849845/maskolija-ir-putino-zombiai-nesuprasdamas-lietuviu-kalbos-facebook-blokuoja-net-ir-renkancius-parama-ukrainai) the foreign service - Facebook (Meta) does not block (according Google translate "questionnaire's") and probably data puts, and posts, which directly questions & asks to do threat to the Human by taking his life.  
+```
+
+```
+##### R esults
+AI with human error functionality are not perfect, which has chance to lead into Atomic Nuclear Disaster & Catastrophe in the Future.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Minority languages and ethnic groups usually has less data for machine learning. If the language are not used, then there are no way that somebody would create tool or instrument for small size Community.
+* Usually language could be misinterpret, if there would be taken wrong mapping of the dual-language data or some mistake were done by some adversary with the intent.
+```
+
+```
