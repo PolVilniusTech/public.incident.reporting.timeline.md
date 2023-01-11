@@ -1481,29 +1481,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1731366/taivano-premjeras-honkongo-laisve-ir-demokratija-isnyko) shows that nothing to change were suggested for 50 (Fifty) Years and only after 25 (Twenty Five) Years has changed a lot.
-```
-
-```
-##### R esults 
-Promises are not met and people are upset.
-```
-
-```
-##### L earning from Mistakes 
-
-From such incidents there are possible to learn a lot. I.e.:
-* More bureaucracy with signatures of those promises would be suggested for such Situation to not happen... the Problem, when Entity has a lot of bureaucracy those documents tend to get not good alignment nor horizontally not vertically. In this case it is necessary to know total number of employees which could be kept in the bureaucratic system according the Budget and Incomes.
-* Qualified e.signature could be used to help and switch/swap into electronical document management which would provide the chance for International and own Citizens to find out more about those regulations. Then they could provide feedback, especially if something fishy could/would be found. There could be following problems with various jurisdictions documents, because all of these documents are not linked properly, hard to find needed information, have poor search, no keywords which represents the document are provided, accompanying similar documents are not properly attached to specific place, no language translations between those Countries which want to Start the Business and etc.
-* If we would take in the Account the information about Potsdam Conference [Wikipedia](https://en.wikipedia.org/wiki/Potsdam_Conference) as "a Soviet-backed group was recognized as the legitimate government of Poland (rus. Польша)" Viewed 2022-07-07 then the Question could arise: How those Democratic Countries of "Soviet Union", "the United Kingdom" and "the United States" could decide the future of the Nation of Poland which was already Independent Nation and were the first in line to collapse in the WWII? After Japanese surrendering from so called Atomic Bombs "Soviet Union" annexed their Kuril Islands. And Today as with the new Named Entity (probably for confussion reasons, so none would know) don't comply with most of International Acts, which were Signed with previous name of "Soviet Union". In this regard best action would be to prohibit of usage of the term "Soviet Union" and disband it from all the International Acts, which were Signed with this Old Name until the New One meets all of these criteria/criterion. New and Modern Aggressions with support of Historical Events are only Personal Whim and does not meet any current International Law and does not show the Modern Democratic - Socialist Way.
-* By taking into the Account the Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1731655/25-honkongo-metai-kinijoje-kitoks-pekino-laisves-isivaizdavimas-ir-demokratijos-erozija) "People’s Republic of China" has National Security Act. According such Act(s), the Country would not join in hands with the Agressor Country in no means (killing other language, culture, traditions, people). The term "Democratic" does not mean the American Sample, the Country has find their own way how they understand the Term. Does there are more Democratic approach when for each main languages of the Bunch from the Countries, who join in hands, all the Acts are translated in their native language, that everyone would understand everything correctly. And does by pushing out only Your own Culture, Language and everything for the rest of the World would show the glimpse of "Imperialism"? 
-* According this Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1732140/specialiai-lrt-is-taivano-rusijai-uzpuolus-ukraina-taivano-valdzia-nerimauja-kad-kinija-gali-pradeti-kara-pries-sala) shown the need for International Help for Defending Yourself from the possible and approaching "Tsunami". In other eye, does these two words "Integrity" and "Integration" are the same? Take in the Account two Sources: (1) [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9751814) "ensure the integrity of a large amount of data information verification" and (2) [CityU](http://repository.cityu.edu/handle/20.500.11803/1780) "Integrity is making sure information is not tampered with." There a lot of literature, media in the same sample of understanding, which were shown in (1st) and (2nd) Samples. Let's now compare other two words of "saw" and "sovereign" (because someone does not read old Act's - this is directed to Agressors and Opressors)...
-* Final Practical Conclusion with a bit of Game Theory. Let us take Google translator - {гри (hry) гра (hra)} Ukrainian translates into English {games, game}. Let us take Google translator - {гри гра} Russian translates into English {gris, gra} in reallity that should be the same meaning (attach the "и"). So now let us take English words of "Integrity" and "Integration" and look for previous Google translations. We gonna have "Inte(gri)ty" and "Inte(gra)tion", assume You would see the similar meaning to ~Entity~ and ~Intention~. If we gonna sum it up, then "гри" are in plural and "гра" in singular. So we do "Integrity" with many stuff and later one with one sweep get on "Integration". What would say the "Sun Tzu"? would he suggest to avoid the American Democracy and Russian Agression..., because even the Organisation of Alphabet (the Google) could be a Weapon for those Translations.
-```
-
-```
-##### I ncident
-
 According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1733853/vdai-pradejo-tyrima-del-svaros-broliu-klientu-duomenu-saugumo) there was Incident who lead into loss of information of the Internet Service Users from the following: name, surname, e.mail, phone no., automobile registration plate. 
 
 ```
@@ -1519,7 +1496,7 @@ According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1733853/vd
 From such incidents there are possible to learn a lot. I.e.:
 * From some Information Security Professionals nowadays You could hear suggestions to write only Information with the Asterisk* - required. Systems could hold Information in separated environments, i.e. from Public Website registration form the Information could be taken into Internal Network Site which does not have any direct and (or) physical links with Public website.
 * Automobile registration plates are popular in various Parking Places which helps to remind where You have left the Automobile and (or) drive in/out the Parking Place. For getting the Identity of the Owner the Road Police Systems and other sensitive information Databases could be the Target in External/Internal fashion.  
-* According [The State Data Protection Inspectorate](https://vdai.lrv.lt/en/) Personal data - any information about natural Person which Identity has been determined or could be determined. According [THE EUROPEAN PARLIAMENT AND OF THE COUNCIL](https://eur-lex.europa.eu/) No. 2016/679 regulation of General Data Protection Regulation's (GDPR) 30th preamble displays the concern of Internet Protocol (IP) address which were used to determine the Attackers of the Site. The Problem with the Article - it does not say, if natural persons has lost/not lost their IP addresses. Leaked IP addresses could be used further to penetrate into deeper Network for finding out the real Identity of the Natural person and in this case such Telecommunication Networks of Tele2, Telia, Bitė would be the next Target. If the Internet Service Providers (ISP) distribute Static IP Addresses, then information of IP address would be personally identifiable information for Years in their Databases. If we would assume small - medium size ISP, then there would be question: does You with the Client renew the Contract with Customers? because of new regulations around, i.e. GDPR.  
+* According [The State Data Protection Inspectorate](https://vdai.lrv.lt/en/) Personal data - any information about natural Person which Identity has been determined or could be determined. According [THE EUROPEAN PARLIAMENT AND OF THE COUNCIL](https://eur-lex.europa.eu/) No. 2016/679 regulation of General Data Protection Regulation's (GDPR) 30th preamble displays the concern of Internet Protocol (IP) address which were used to determine the Attackers of the Site. The Problem with the Article - it does not say, if natural persons has lost/not lost their IP addresses. Leaked IP addresses could be used further to penetrate into deeper Network for finding out the real Identity of the Natural person and in this case such Telecommunication Networks of "Tele2", "Telia", "Bitė" would be the next Target. If the Internet Service Providers (ISP) distribute Static IP Addresses, then information of IP address would be personally identifiable information for Years in their Databases. If we would assume small - medium size ISP, then there would be question: does You with the Client renew the Contract with Customers? because of new regulations around, i.e. GDPR.  
 ```
 
 ```
@@ -1598,7 +1575,7 @@ Some Service in described period of time would be not served to the true Custome
 
 From such incidents there are possible to learn a lot. I.e.:
 * There exists Risks that some Customer could Bid in Auction and DDoS for Winning his Bet.
-* There exists Risks that Institution choosen not appropriate term of "putinOut". "Put" means "to Place something somewhere", "in" could start with Cap letter for meaning "to get something into/inside" and "Out" means "to get something outo/outside". The only question how is it related to the electricity bills?
+* There exists Risks that Institution choosen not appropriate term of "putinOut". "Put" means "to Place something somewhere", "in" could start with Cap letter for meaning "to get something into/inside" and "Out" means "to get something outo/outside". The only question how is it related to the electricity bills? these tricks are usualy found in produced "Postage Stamps" or even "Envelopes".
 * For proper naming it would be advisible to use native language letters [vlkk.lt](https://vlkk.lt/naujienos/kitos-naujienos/internetas-darosi-daugiakalbis-ir-lietuviskas) or, if there is meaning related to specific foreign language, then use this specific language, because in other words it is stupid.
 ```
 
@@ -1658,13 +1635,13 @@ People would lose money, if someone would approach with such Device with intent 
 
 From such incidents there are possible to learn a lot. I.e.:
 * In normal environment of the Banking Institutions and Gov Regulations it would be impossible to use locally selld devices in the E.U. Banking system.
-* Who knows, if there would be Foreign Devices and Foreign Services which would be able to do the scans. 
+* Who knows, if there would be Foreign Devices and Foreign Services which would be able to do the Scans. 
 ```
 
 ```
 ##### I ncident
 
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1820550/melynu-varneliu-chaosas-twitter-apsisaukeliai-apsimeta-itakingais-asmenimis-o-platforma-nezino-kaip-su-tuo-tvarkytis) .
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1820550/melynu-varneliu-chaosas-twitter-apsisaukeliai-apsimeta-itakingais-asmenimis-o-platforma-nezino-kaip-su-tuo-tvarkytis) Crow Sign/Symbol does not every time/always mean: What You See Is What You Are.
 ```
 
 ```
@@ -1757,6 +1734,27 @@ AI with human error functionality are not perfect, which has chance to lead into
 From such incidents there are possible to learn a lot. I.e.:
 * Minority languages and ethnic groups usually has less data for machine learning. If the language are not used, then there are no way that somebody would create tool or instrument for small size Community.
 * Usually language could be misinterpret, if there would be taken wrong mapping of the dual-language data or some mistake were done by some adversary with the intent.
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1863426/vegele-tikina-neregistraves-internetinio-domeno-prezidento-rinkimams) there were registered Web Domain from Unknown Source.
+```
+
+```
+##### R esults
+Anyone are cappable to register any Unique and non-registered Domain, i.e. www.uniqlo.lt which does not exist in the Republic of Lithuania at this time. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Domain Name tells nothing, begause "vegele2024.lt" could be misstook/taken something as following URL https://www.vegeta.us.com
+* There exists chance that some huge Brand would move into some Continent/Region and somebody want be re-sellers of the Domain in higher sum of Money.
+* Usual price of a Domain could start from single one EUR'o, the Electricity prices and Administration cost increases it exponentialy.
+* The Main Problem for Domains - does they belong to UTF-8 Charset or by default American Standard Code for Information Interchange one. The "xn--" solution are a "hack", which helps people live with the same tech for some longer time and more Internationalization. Opening "raštija.lt" it does not feel like it even looks like this: "https://xn--ratija-ckb.lt/" or in some gibberish serialized syntax.
 ```
 
 ```
