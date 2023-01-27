@@ -1758,3 +1758,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1876521/perspejami-gyventojai-veikia-piratine-spis-svetaines-kopija) information system of the Ministry has similar public copy, which operates in Internet and to which could be gain access by clicking phishing link.
+
+```
+
+```
+##### R esults
+Probable loss of contact and personal information of Individual and open doors to more security and privacy related issues.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Probable purchase of domain naime are not checked by simple List of Critical or not so Critical Information Systems, where there would be added limitations how similar are domain names, which already exists and new wish of domain from some new entity, i.e. l and 1 are similar in used encoding table, so it means, when You purchase, i.e. domain name of "love", the "1ove" would be added in the Basked too, just to overcome such phisching scam from someone, in this sample the Victim is who does not have what to offer.  
+
+```
+
+```
