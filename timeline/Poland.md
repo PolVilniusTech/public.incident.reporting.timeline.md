@@ -185,3 +185,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [Kinga Wysocka, EurActiv](https://www.lrt.lt/pl/wiadomosci/1261/1888756/czasopisma-politycy-i-media-jak-rosja-i-chiny-sieja-dezinformacje) there are issues with Foreign Countries for Disinformation. And because Media does not understand the Polish language, they have copied three magazines from the Europe.
+```
+
+```
+##### R esults 
+Some under 18 years old may be affected.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Before posting check, if You understand the Content, which will be sended for Search Engines to index.
+* Before posting check, if there are no magazines, which are "labeled" with 18+ or so, freely accessable over the Internet. By going into such Websites asking for "Cookies" are one, and asking if You are "18+" are other issue. Probably in this information age no-one remembers Compact Discs and their markings.
+* Ethics code of the Media in Question, open magazines, which readers/auditorium probably are all 18+ just were posted in National Website.   
+
+```
+
+```
