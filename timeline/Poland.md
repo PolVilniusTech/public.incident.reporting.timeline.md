@@ -201,7 +201,9 @@ Some under 18 years old may be affected.
 From such incidents there are possible to learn a lot. I.e.:
 * Before posting check, if You understand the Content, which will be sended for Search Engines to index.
 * Before posting check, if there are no magazines, which are "labeled" with 18+ or so, freely accessable over the Internet. By going into such Websites asking for "Cookies" are one, and asking if You are "18+" are other issue. Probably in this information age no-one remembers Compact Discs and their markings.
-* Ethics code of the Media in Question, open magazines, which readers/auditorium probably are all 18+ just were posted in National Website.   
+* Ethics code of the Media in Question, open magazines, which readers/auditorium probably are all 18+ just were posted in National Website.
+* The Website [EURACTIV.pl](https://www.euractiv.pl/) shows Partners number of entities, including [Wyborcza.pl](https://wyborcza.pl/). By look of Wyborcza there are around five/ten links of those "Partners" and no EURACTIV. Assume one-sided disinformation Site of the EURACTIVE.pl
+* Probably other Countries could be affected with such professional Content found in here/or not.
 
 ```
 
