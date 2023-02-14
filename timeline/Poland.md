@@ -192,7 +192,8 @@ According [Kinga Wysocka, EurActiv](https://www.lrt.lt/pl/wiadomosci/1261/188875
 
 ```
 ##### R esults 
-Some under 18 years old may be affected.
+* Some under 18 years old may be affected.
+* The trend for Disinformation of disinformation.
 ```
 
 ```
