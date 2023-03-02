@@ -1778,3 +1778,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1926863/banko-darbuotoja-prisistaciusi-moteris-is-vyriskio-isviliojo-beveik-8-5-tukst-euru) there exists case of situation, when person is robbed by somebody by Fraud and Money Laundering attack.  
+```
+
+```
+
+##### R esults
+Person got punished by criminal law for such event.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The situation provided that "bank employee is calling by phone to the client" is not enough to get full picture of what happened. In this case would need to question how big case could exists when somebody leave specific flaws in the technological phone application, which would allow for the bank to communicate with their customers in more secure way. These flaws would affect not only one person and instead every user of such app — affected.
+* By taking first point as main, then there already exists number of services who offers telecomunication payments. If person could purchase something with help of "SMS" message, then there could be dangers, does this technological peace of equipment — phone technology is really without the flaws of being abused in similar fashion (pretending for donor care).
+* Questioning about Bank services: Does bank offer service over the phone - call center? In this case client would call to bank instead i.e. to ask for some changes in the contract between the bank and person. If specific peace of information is enough to get money transfer done, then how would be dangerious, if someone else would get exact same peace info and for what reason would be using that? 
+```
+
+```
