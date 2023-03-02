@@ -1737,6 +1737,8 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+### 2023
+
 ##### I ncident
 
 According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1863426/vegele-tikina-neregistraves-internetinio-domeno-prezidento-rinkimams) there were registered Web Domain from Unknown Source.
@@ -1765,6 +1767,7 @@ According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1876521
 ```
 
 ```
+
 ##### R esults
 Probable loss of contact and personal information of Individual and open doors to more security and privacy related issues.
 ```
