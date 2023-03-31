@@ -294,7 +294,7 @@ From such incidents there are possible to learn a lot. I.e.:
 
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1950560/bilietai-lt-vadovas-klientu-finansiniai-duomenys-nebuvo-nutekinti) the Site of "Bilietai.lt" have/had flaw in source code which allows/allowed to access e.tickets data. Bilesuserviss.lv has a chance to have something in common.
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1950560/bilietai-lt-vadovas-klientu-finansiniai-duomenys-nebuvo-nutekinti) the Site of "Bilietai.lt" have/had flaw in source code which allows/allowed to access e.tickets data. [Bilesuserviss.lv](www.bilesuserviss.lv) has a chance to have something in common.
 ```
 
 ```
