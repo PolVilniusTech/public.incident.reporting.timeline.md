@@ -206,4 +206,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
-TODO.
+### 2023
+
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1950560/bilietai-lt-vadovas-klientu-finansiniai-duomenys-nebuvo-nutekinti) the Site of "Bilietai.lt" have/had flaw in source code which allows/allowed to access e.tickets data. [Kvitki.by](https://www.kvitki.by/eng/frontpage) has a chance to have something in common.
+```
+
+```
+##### R esults
+E.Service Clients data are/was leaked, which includes e.ticket information, Client first name, Client last (family) name, Client e.mail address, Client phone No. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* If content linking mechanism could have flaw, then by finding "previous e.tickets" does not provide warranties that "current e.tickets" are not exposed to a flaw. 
+* Awareness training [privacy and data protection of an entity](https://www.prisijungusi.lt/medziaga/norm/3) has a proper guidance how to deal with privacy and not only that.
+* The Question for e.Service: Does the Site operate in Lithuania only? if not, then more Countries could be affected.
+```
+
+```
