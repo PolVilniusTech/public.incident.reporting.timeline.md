@@ -1821,7 +1821,26 @@ From such incidents there are possible to learn a lot. I.e.:
 * Exists domain name forwarding, i.e. by going into "vmi.net" could be made Browser forwarding from Server side into a Site of "vmi.lt". In this case everything could end up better than described in the "R esults".
 * Bi-polar situation in the LTU, when there exists Site's like [Data Agency of the Country](https://www.stat.gov.lt/), when ".gov" domain name in use just after ".lt". And in the end we own normal domain ".gov.lt" for the Government domain + LTU domain. Now let us take the situation of sample domain of Lithuanian institution [IVPK](https://ivpk.lrv.lt/), which produce ".lrv" domain + ".lt" domain. This is equal situation of Government domain + LTU domain. Who should answer the Question for the regulars, citizens, which one could be Trusted? or does they both (.gov.lt) and (.lrv.lt) are Trusted domains? where first represent TopLevelDomain + CountryCodeTopLevelDomain and second represent some simple Domain + CountryCodeTopLevelDomain.
 * If there would be poor Country with small amount of technical personnel and skills maybe would be greater to pass such situation into those who control ".net" TopLevelDomain and would handle it according their jurisdiction. Some Samples with SecondLevelDomains could be found in here [Wikipedia](https://en.wikipedia.org/wiki/Subdomain).
+```
 
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1950560/bilietai-lt-vadovas-klientu-finansiniai-duomenys-nebuvo-nutekinti) the Site of "Bilietai.lt" have/had flaw in source code which allows/allowed to access e.tickets data.
+```
+
+```
+##### R esults
+E.Service Clients data are/was leaked, which includes e.ticket information, Client first name, Client last (family) name, Client e.mail address, Client phone No. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* If content linking mechanism could have flaw, then by finding "previous e.tickets" does not provide warranties that "current e.tickets" are not exposed to a flaw. 
+* Awareness training [privacy and data protection of an entity](https://www.prisijungusi.lt/medziaga/norm/3) has a proper guidance how to deal with privacy and not only that.
+* The Question for e.Service: Does the Site operate in Lithuania only? if not, then more Countries could be affected.
 ```
 
 ```
