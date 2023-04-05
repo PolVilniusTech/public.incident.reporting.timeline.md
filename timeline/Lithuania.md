@@ -1826,21 +1826,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1950560/bilietai-lt-vadovas-klientu-finansiniai-duomenys-nebuvo-nutekinti) the Site of "Bilietai.lt" have/had flaw in source code which allows/allowed to access e.tickets data.
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/1956730/vyriausybe-is-esmes-pritaria-seimo-nariu-siulymui-atsisakyti-ribojimu-imoniu-pavadinimams) there is no incident yet. Article provide ideas about allowing various type of entity names Registration, which would include letters and numbers, which "could not be understood as words".
 ```
 
 ```
 ##### R esults
-E.Service Clients data are/was leaked, which includes e.ticket information, Client first name, Client last (family) name, Client e.mail address, Client phone No. 
+Assume someone want to register "ąpple.lt" domain name or some other site, which could have risk to be used as fake Site.
 ```
 
 ```
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* If content linking mechanism could have flaw, then by finding "previous e.tickets" does not provide warranties that "current e.tickets" are not exposed to a flaw. 
-* Awareness training [privacy and data protection of an entity](https://www.prisijungusi.lt/medziaga/norm/3) has a proper guidance how to deal with privacy and not only that.
-* The Question for e.Service: Does the Site operate in Lithuania only? if not, then more Countries could be affected.
+* Let us take idea that Universities has better Knowledge in specific areas as in this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1257917/mokslininkai-kibernetinio-saugumo-terminu-zodyna-rengia-pasitelke-ir-neuroniniu-tinklu-technologijas).
+* Let us take the idea that official public acts, which show specific programmes incl. here [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/89b5405490cb11eb998483d0ae31615c/asr) Attachment|Appendix|Annex provides 3.1. point for "Supporting academical <...> Dictionaries <...> File Sets of those Terms and Definitions", which would include in seven Year period to spend in total 1 million 365 thousand EUR.
+* For number of Years public instututions provide links to Trusted Sources like in this Site [vlkk.lt](https://vlkk.lt/nuorodos/zodynai). Data Sync and Update from various Databases are yet simple. Common people can't get access in one place by specific regular Search "Tree", i.e. first link to Knowledgebase of Cybersecurity Terms and Definitions. By checking this [terminai.vlkk.lt](http://terminai.vlkk.lt/paieska?search=Cyberbullying&zodzio_dalis=0&kalba=2&kaip0=on&sritys=&statusas=0&rykiavimas=0) out, non-NULL result given, simple Zero.
+* Zhōngwén or similar languages could be selected by terminai.vlkk.lt in Advanced Search Settings by clicking checkbox on the last option "All lang.". This option represents the same Ideas as the original Article. 
 ```
 
 ```
+
