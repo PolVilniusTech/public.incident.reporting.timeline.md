@@ -18,3 +18,21 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+According [lt.wikipedia.org](https://lt.wikipedia.org/wiki/Lietuva) provide enough information about Lithuania.
+```
+
+```
+##### R eseach 
+Yet there is not enough data for a Foreigners, who could Research beforehand about the Type(s) of this Country. Tourism is just one sector, where these Foreigners are Welcome. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* LR Constitution, which Available [Online](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.1890) in "1st Article" describe Republic of Lithuania as Sovereign Democratic Republic. 
+* United Nations provide proper document(s) [Online](https://treaties.un.org/doc/source/titles/english.pdf) about International Treaties(Agreements), i.e. Chapter II. "Pacific Settlements of International Disputes", Chapter XXI. "Law of the Sea", Chapter XXIII. "Law of Treaties", Chapter XXIV. "OuterSpace", Chapter XXV. "Telecommunications". How well each Country, like Lithuania, meet these Requirements could help to get bigger Picture. Yet no stats given neither from Outside, neither from Inside.
+* Treaties and Agreements database in the European Union Available [Online](https://www.consilium.europa.eu/en/documents-publications/treaties-agreements/?Parties=LT&Title=&DateType=signature&DateFrom=&DateTo=&DocLanguage=en&DoSearch=true). Lithuania involved in 187 results of these Searches. How well these Agreements is working. The Encyclopedia does not collect such information, because there could be a lot of bias from the Contributor perspective either from Inside, either from Outside.  
+```
