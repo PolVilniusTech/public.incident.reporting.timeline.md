@@ -1845,4 +1845,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
 
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/1971075/paspaudus-elektroniniu-pastu-gauta-nuoroda-moteris-neteko-daugiau-nei-8-tukst-euru) Citizen of the Republic of Lithuania is victim of CyberSecurity Incident. Citizen not only clicked the link, he even entered proper Credentials where it were requested.
+```
+
+```
+##### R esults
+Citizen lost (some) Money. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* By clicking the link the Computer System probably has received request to sign in into the Computer System over common functionality of Computer System. This functionality often is used for letting fix some Computer Issues like Installation of AntiVirus Software. Citizen were not aware of pop-up Window and Clicked a Button, which let some Entity In the Computer System. This Entity probably even clearly seen what a Citizen is doing.
+* Commonly approval of each Financial Transaction requires to enter challenge code, which Observer can't known. In this case: Does this even a Bank organisation? 
+* CyberSecurity Law of Republic of Lithuania [e.seimas](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/f6958c2085dd11e495dc9901227533ee/asr) and [vlkk.lt](http://terminai.vlkk.lt/paieska?search=Cyber) does not help at all in building of CyberSecurity term|definition Bank for Naming Crystal clear Situations in a CyberSpace.
+```
+
+```
