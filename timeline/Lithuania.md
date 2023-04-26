@@ -1861,7 +1861,7 @@ Citizen lost (some) Money.
 From such incidents there are possible to learn a lot. I.e.:
 * By clicking the link the Computer System probably has received request to sign in into the Computer System over common functionality of Computer System. This functionality often is used for letting fix some Computer Issues like Installation of AntiVirus Software. Citizen were not aware of pop-up Window and Clicked a Button, which let some Entity In the Computer System. This Entity probably even clearly seen what a Citizen is doing.
 * Commonly approval of each Financial Transaction requires to enter challenge code, which Observer can't known. In this case: Does this even a Bank organisation? 
-* CyberSecurity Law of Republic of Lithuania [e.seimas](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/f6958c2085dd11e495dc9901227533ee/asr) and [vlkk.lt](http://terminai.vlkk.lt/paieska?search=Cyber) does not help at all in building of CyberSecurity term|definition Bank for Naming Crystal clear Situations in a CyberSpace.
+* CyberSecurity Law of Republic of Lithuania [e.seimas](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/f6958c2085dd11e495dc9901227533ee/asr) and [vlkk.lt](http://terminai.vlkk.lt/paieska?search=Cyber&zodzio_dalis=0&kalba=2&kaip0=on&sritys=&statusas=0&rykiavimas=0) does not help much in building the CyberSecurity term|definition Bank to name Crystal clear Situations in a CyberSpace. CTRL + F and type „sukčiavimas“.
 ```
 
 ```
