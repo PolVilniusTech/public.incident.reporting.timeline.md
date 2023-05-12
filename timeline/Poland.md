@@ -230,7 +230,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Let's take into consideration — how well the some company will secure the data, which is private information of the entity. Does the company would use the same techniques of a Private Company Senses - poor hashing algorithms to protect the data? data leak would mean that somebody would get more private data, which would lead into possibility to access more critical information of the person.
 * Some people willingly selling their Brand for shows. Does data leaks in this case would lead in more damage to common people by creating impersonating media content?
 * Here is Regulation of facial recognition in the EU in-depth analysis, which should be taken in consideration [europarl.europa.eu](https://www.europarl.europa.eu/RegData/etudes/IDAN/2021/698021/EPRS_IDA(2021)698021_EN.pdf). Nor other Union, Nor State, Nor Country have any kind of regulation for stopping these Experimens of the Private Companies. AI question is only data to which this piece of technology could take his(her) hands on. Damaging data would lead into Unknown Consequences, unless You read [europa.eu](https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:52021PC0206&from=EN) Reglament from the Brussels. 
-* There is something [nist.gov](https://www.nist.gov/artificial-intelligence/ai-fundamental-research-security)   
+* There is something [nist.gov](https://www.nist.gov/artificial-intelligence/ai-fundamental-research-security) & [iso.org](https://www.iso.org/foresight/tech-risks.html).
 ```
 
 ```
