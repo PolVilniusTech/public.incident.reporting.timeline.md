@@ -1488,6 +1488,7 @@ According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1733853/vd
 ```
 ##### R esults 
 50 thousand of users lost their personally identifiable information.
+[ELTA](https://www.lrt.lt/naujienos/verslas/4/1993539/svaros-broliai-neskus-vdai-sprendimo-del-dalies-klientu-nutekintu-duomenu).
 ```
 
 ```
