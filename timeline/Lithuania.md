@@ -1888,7 +1888,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1997501/jav-ir-microsoft-kinu-kibernetinis-veikejas-atakuoja-ypatingos-svarbos-infrastruktura) Name of the Link: exists chinese person who constantly attacks Critical Infrastructure over internet. In Articles's Content the plot shows that this person left notification as informative approach.
+According this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1997501/jav-ir-microsoft-kinu-kibernetinis-veikejas-atakuoja-ypatingos-svarbos-infrastruktura) Name of the Link: one actor constantly attacks Critical Infrastructure over internet. In Articles's Content the plot shows that this actor left notification as his common informative approach.
 ```
 
 ```
