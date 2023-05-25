@@ -1886,3 +1886,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/1997501/jav-ir-microsoft-kinu-kibernetinis-veikejas-atakuoja-ypatingos-svarbos-infrastruktura) Name of the Link: exists chinese person who constantly attacks Critical Infrastructure over internet. In Articles's Content the plot shows that this person left notification as informative approach.
+```
+
+```
+##### R esults
+No idea about a damage done.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Information related to Critical Infrastructure is secured via number of locks and security labels, so public information mostly does not ring a bell.
+* Usual News Agency trick — to make hyperbolic title, when the content does not catch up. The Worker(s) of a News Agency probably has though time and live from bill to bill.
+* Artificial Intelligence (AI) Feeds potentially are taking out the Bread from the News Agencies. The problem for the Consumer — Does there exists regulation and (or) even notification, that the Content is (are) generated from AI?
+```
+
+```
