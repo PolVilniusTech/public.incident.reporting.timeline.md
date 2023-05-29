@@ -1906,3 +1906,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According these Articles of [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2000374/del-techniniu-problemu-neveikia-seimo-interneto-svetaine) and [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1991368/laikinai-buvo-sutrikusi-seimo-interneto-svetaines-veikla) exists technical glitch in the e.Seimas Portal and (or) technical Support.
+```
+
+```
+##### R esults
+E.Service does not Available for at least of 141 persons and their Support.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* E.Citizen may lack need to use such e.Seimas Portal, because nowadays in this Modern era there are more debates in Social Media Networks.
+* Technical glich is best as You could get as Public Report, because everything is hidden according the Law, which may be accessible from the same Site-Portal.
+* Paper version of „Valstybės žinios“ are not Available for many Years, so there exists backup e.Service [InfoLex.lt](https://www.infolex.lt/) for Jurisdictional Information.
+```
+
+```
