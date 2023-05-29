@@ -1913,7 +1913,7 @@ According these Articles of [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/20003
 
 ```
 ##### R esults
-E.Service does not Available for at least of 141 persons and their Support.
+E.Service does not Available for at least of 141 persons and their Support for some time.
 ```
 
 ```
