@@ -123,3 +123,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+
+#
+### 2023
+
+##### I ncident
+According [-](https://www.lrt.lt/ru/novosti/17/2000496/na-saite-patriarkha-kirilla-khakery-opublikovali-molitvu-za-kontrnastuplenie-vsu) there exists Vulnerabilities in the Public Sites and Portals.
+```
+
+```
+##### R esults 
+Integrity and Authenticity of these Documents and Post's in Vulnerable Sites are highly questionable.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    Poor Incident Management in CIS makes Vulnerable other Sites and Portals, including Gov. and SCADA systems, which has bad (Cyber) Security and privacy Policy(-ies) in theory and (or) practice.
+```
+
+```
