@@ -144,3 +144,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+According [-](https://www.lrt.lt/ua/novini/1263/2001252/kiberataki-na-litovs-ki-kompaniyi-ta-ustanovi) Distributed denial-of-service attacks affected Small-Medium Enterprise Web Sites.
+```
+
+```
+##### R esults 
+Possible loss of Availability for some time in Small-Medium Enterprise Web Sites.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Usualy those who don't have much has to lose even more because of being "easy" target.
+* Awareness and (Cyber) Security training is a waste of time, the Tactics - "just do it for Yourself".
+```
+
+```
