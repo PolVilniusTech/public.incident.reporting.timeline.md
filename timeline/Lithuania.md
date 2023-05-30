@@ -1926,3 +1926,45 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2001164/lietuvos-imonems-smoge-ddos-atakos-buvo-sutrikusi-interneto-svetainiu-veikla) Private Sector companies are getting DDoS attack's.
+```
+
+```
+##### R esults
+e.Clients can't access their e.Services.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* According State Enterprise Centre of Registers the „Akcinė bendrovė“ "City Service" is unregistered. The entity [City Service, UAB](http://www.cityservice.eu) is not registered.
+* National Cyber Security Center got honeypot Nets in place and keeps communication with entities, which are affected.
+* Does there exists entity E.U. wide registration Form, which would be accepted in some way in the State Enterprise Centre of Registers?
+* The lack of CyberSecurity Magazine for daily basis could be felt near Magazine Kiosk also, if they gets support by the Republic.
+```
+
+```
+##### I ncident
+
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2001263/avia-solutions-group-patiria-ilgalaike-kibernetine-ataka-is-rusijos) Cyber Attacks, which are conducted without any kind of coordination could be handled by any Professional entity.
+```
+
+```
+##### R esults
+No effect.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* By having capability to close Nation Wide (well) known VPN public-private networks in the Foreign Country could be one step to more Secure Plan for handling these Cyber Attacks.
+* Exists Private and Public Web Sites, which usualy at minimum and at least provide knowledge based service over internet.
+* National Cyber Security Center got their hands on [National Firewall](https://www.nksc.lt/uzkarda.html), which could help in some way for small and medium Enterprises.
+* From jurisdictional acts, which asking for people to input their Contacts online for everyone to surf, does this just pointing out that all of those contacts only helping out for them to conduct their Operations?
+```
+
+```
