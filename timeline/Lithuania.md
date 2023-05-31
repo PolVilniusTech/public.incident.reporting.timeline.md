@@ -1954,7 +1954,7 @@ According the Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/200
 
 ```
 ##### R esults
-No effect.
+Disruption of e.service.
 ```
 
 ```
@@ -1965,6 +1965,26 @@ From such incidents there are possible to learn a lot. I.e.:
 * Exists Private and Public Web Sites, which usualy at minimum and at least provide knowledge based service over internet.
 * National Cyber Security Center got their hands on [National Firewall](https://www.nksc.lt/uzkarda.html), which could help in some way for small and medium Enterprises.
 * From jurisdictional acts, which asking for people to input their Contacts online for everyone to surf, does this just pointing out that all of those contacts only helping out for them to conduct their Operations?
+```
+
+```
+##### I ncident
+
+In this Article [BNS,LRT.lt](https://www.lrt.lt/ru/novosti/17/2001245/predpriiatiia-i-uchrezhdeniia-litvy-podverglis-kiberatakam) shown Image from one of „хакерским“ toolset.
+```
+
+```
+##### R esults
+Promotion to use „хакерским“ toolset.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* This Sample just shows that a Certified Journalism promote and advertise to spread of dual-purpose Software toolsets.
+* In normal lawful Countries these toolsets are banned, unless the User has proper competencies and is employed to use toolsets like shown in the Image.
+* The event like this does not differ from storing and spreading unknown Software products in open repositories for catching (fishing) out "kiddies" to step on the Rake.    
 ```
 
 ```
