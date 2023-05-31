@@ -157,7 +157,7 @@ Possible loss of Availability for some time in Small-Medium Enterprise Web Sites
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* .
+* Each country should clean up its garden to prevent criminal activity from developing and germinating in there.
 ```
 
 ```
