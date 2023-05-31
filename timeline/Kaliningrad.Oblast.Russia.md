@@ -157,7 +157,8 @@ Possible loss of Availability for some time in Small-Medium Enterprise Web Sites
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* Each country should clean up its garden to prevent criminal activity from developing and germinating in there.
+* Small and Medium companies lack of knowledge and specialists who could help to secure their Equipment, which are attached to the World Wide Web.
+* Each Country has their own Minimum Wages, which does not meet an expectations of previous, current and (or) new Employees as usual.
 ```
 
 ```
