@@ -1988,3 +1988,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In this Article [ELTA](https://www.lrt.lt/naujienos/eismas/7/2014006/jonavoje-uzfiksuotas-rekordinis-pazeidejas-mieste-leke-173-km-val-greiciu) is displayed way to avoid security instrument.
+```
+
+```
+##### R esults
+No information about damage done.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   12th section in the Ethical Rules of participation in Traffic reminds to [Lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.203613/asr) waste Your accumulator Power from a beginning of Journey till an end.
+```
+
+```
