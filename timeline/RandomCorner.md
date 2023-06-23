@@ -52,7 +52,7 @@ Each Citizen (not including those who in Warranty Electricity Grid) is paying fo
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-*  People don't use Smart Electricity Stream Counters or any regular one with which they could Understand the Amount of their Electricity usage.
+*  Does people don't use Smart Electricity Stream Counters or any regular one with which they could Understand the Amount of their Electricity usage?
 *  The Warranty Electricity Grid Service should not ask from Citizen's who are in Warranty Electricity Grid to Pay Up. Just use Free Electricity from other Citizen's Pocket. 
 ```
 
