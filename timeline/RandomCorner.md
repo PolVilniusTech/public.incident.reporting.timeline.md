@@ -38,22 +38,3 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
-##### I nnocent
-
-According [-](https://www.lrt.lt/naujienos/verslas/4/2019864/perlas-energijos-vadovas-imone-butu-nepajegi-sumoketi-3-5-mln-euru) provide Idea that people, who gets connected into Warranty Electricity Grid, will get Free Electricity until they Find the Electricity Service and register there.
-```
-
-```
-##### R eseach
-Each Citizen (not including those who in Warranty Electricity Grid) is paying for those Citizens who are in Warranty Electricity Grid.
-```
-
-```
-##### L earning from Mistakes 
-
-From such innocents there are possible to learn a lot. I.e.:
-*  Does people don't use Smart Electricity Stream Counters or any regular one with which they could Understand the Amount of their Electricity usage?
-*  The Warranty Electricity Grid Service should not ask from Citizen's who are in Warranty Electricity Grid to Pay Up. Just use Free Electricity from other Citizen's Pocket. 
-```
-
-```
