@@ -36,3 +36,24 @@ From such innocents there are possible to learn a lot. I.e.:
 * United Nations provide proper document(s) [Online](https://treaties.un.org/doc/source/titles/english.pdf) about International Treaties(Agreements), i.e. Chapter II. "Pacific Settlements of International Disputes", Chapter XXI. "Law of the Sea", Chapter XXIII. "Law of Treaties", Chapter XXIV. "OuterSpace", Chapter XXV. "Telecommunications". How well each Country, like Lithuania, meet these Requirements could help to get bigger Picture. Yet no stats given neither from Outside, neither from Inside.
 * Treaties and Agreements database in the European Union Available [Online](https://www.consilium.europa.eu/en/documents-publications/treaties-agreements/?Parties=LT&Title=&DateType=signature&DateFrom=&DateTo=&DocLanguage=en&DoSearch=true). Lithuania involved in 187 results of these Searches. How well these Agreements is working. The Encyclopedia does not collect such information, because there could be a lot of bias from the Contributor perspective either from Inside, either from Outside.  
 ```
+
+```
+##### I nnocent
+
+According [-](https://www.lrt.lt/naujienos/verslas/4/2019864/perlas-energijos-vadovas-imone-butu-nepajegi-sumoketi-3-5-mln-euru) provide Idea that people, who gets connected into Warranty Electricity Grid, will get Free Electricity until they Find the Electricity Service and register there.
+```
+
+```
+##### R eseach
+Each Citizen (not including those who in Warranty Electricity Grid) is paying for those Citizens who are in Warranty Electricity Grid.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+*  People don't use Smart Electricity Stream Counters or any regular one with which they could Understand the Amount of their Electricity usage.
+*  The Warranty Electricity Grid Service should not ask from Citizen's who are in Warranty Electricity Grid to Pay Up. Just use Free Electricity from other Citizen's Pocket. 
+```
+
+```
