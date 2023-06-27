@@ -2006,3 +2006,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2022644/sutriko-vyriausybes-elektroniniu-valdzios-vartu-tinklalapiu-veikla) is provided Report that Certain Firewall Malfunction lead into several Services, which were not Available for e.Citizens.
+```
+
+```
+##### R esults
+Loss of Availablity to get e.Services.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   There could be given Question for an Owners of their e.Service: What, if there is Requirement for e.Citizen to Access and View & Read & Sign some Very Important Document? and the Document has to be Available up to limited Amount of Time Only. I.e. Somebody could DDOS his opponents for Winning the Bet on the Auction...
+*   Common Firmware or Software update could lead into Misconfiguration and Not Available e.Service. If there are Available Warm Site, which has spare Equipment to test out these Updates & Upgrades, then You are happy Administrator of a System.
+*   Security Instruments could be affected and not working, i.e. Sending Data from Speed limit Cameras to an e.Citizen, if they not Rotated into wrong Side by a Third Party.
+```
+
+```
