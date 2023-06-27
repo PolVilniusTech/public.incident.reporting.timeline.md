@@ -9,6 +9,8 @@
 
 ### Research Object:
 
+* [E.U.](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/tree/main/timeline/E.U.md)
+
 * [Belarus](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/tree/main/timeline/Belarus.md)
 
 * [Estonia](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/tree/main/timeline/Estonia.md)
