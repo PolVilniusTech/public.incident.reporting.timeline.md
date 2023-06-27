@@ -2008,7 +2008,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-In this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2022644/sutriko-vyriausybes-elektroniniu-valdzios-vartu-tinklalapiu-veikla) is provided Report that Certain Firewall Malfunction lead into several Services, which were not Available for e.Citizens.
+In these Articles [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2022644/sutriko-vyriausybes-elektroniniu-valdzios-vartu-tinklalapiu-veikla), [LRT.lt](https://www.lrt.lt/ru/novosti/17/2022652/proizoshel-massovyi-sboi-v-rabote-veb-saitov-pravitel-stva-i-elektronnykh-uslug) is provided Report that Certain Firewall Malfunction lead into several Services, which were not Available for e.Citizens.
 ```
 
 ```
