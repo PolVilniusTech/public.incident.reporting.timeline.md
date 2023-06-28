@@ -2026,3 +2026,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In these Articles [BNS](https://www.lrt.lt/naujienos/eismas/7/2023289/vilniuje-sutriko-m-ticket-ir-m-parking-programeliu-veikla) given explanation that Apps for the Public Transport in the Capital is not in Working Condition.
+```
+
+```
+##### R esults
+Payment for the Public Service is not Available from e.Service App.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   Exists chance that not working e.Service App could be related with not working e.Service Devices within the same Public Transport.
+*   Usual approach for creating another Module of the System or Subsystem is to keep remaining System Components intact and not affected by Failing Component.
+*   Application Architecture from the beginning could have limited amount of possibilities and staying with only e.Service Solution like that could be costly in a long run, i.e. Free Ride with the Public Transport. 
+```
+
+```
