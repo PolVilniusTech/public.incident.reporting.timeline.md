@@ -2061,7 +2061,7 @@ No Comment.
 
 From such incidents there are possible to learn a lot. I.e.:
 *   Exists Entities, which could spread false information from abroad.
-*   e.Services has Secure Signature Authentication via HTTPS. Each Post in WebSite could be Signed with some e.SecureSignature just like in Document Management Systems.  
+*   Web e.Services has Secure Signature Authentication via HTTPS. Each Post in WebSite could be Signed with some e.SecureSignature just like in Document Management Systems.  
 ```
 
 ```
