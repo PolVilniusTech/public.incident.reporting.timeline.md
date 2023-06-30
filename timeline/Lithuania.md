@@ -2060,7 +2060,7 @@ Loss of Authentication. Human-Error in public data leak.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*   Search Engine Hacks were known from the early days of Search Engine(s). Web Site Security could use ISO/IEC 27001 approach and to take Information Security, Cybersecurity, Privacy at the same Level. Each of these Terms is important.
+*   Search Engine Hacks were known from the early days of Search Engine(s). Web Site Security could use ISO/IEC 27001 approach and to take Information Security, Cybersecurity, Privacy. Each of these Terms is at the same Level and important.
 *   If Web Site has number of Authentication Levels (i.e. public Site, Authenticated Site) then Web Administrator should get proper requests, which could explain on which Level Job should be completed.
 *   If there were no extra Job, then the Audit Logs could answer to the Question: what happened? unless the Security incident happen which lead into loss of Integrity and Authenticity of Journaling Data Logs.  
 *   General Data protection Reglament only works in Private Sector. For Public Sector it would need to look into the local Regulations and to Report the Issue.
