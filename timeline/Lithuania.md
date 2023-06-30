@@ -2048,20 +2048,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-In this Article [-](https://www.lrt.lt/ru/novosti/17/2023282/rossiiskii-sud-oshtrafoval-google-na-4-milliarda-rublei) provided information contradicts with information in [CNET](https://www.cnet.com/news/politics/companies-that-have-left-russia-the-list-across-tech-entertainment-finance-sports/).
+In this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2025590/seimo-kanceliarija-aiskinasi-kodel-interneto-svetainese-matyti-asmens-duomenys) provide idea that finding non-public documents in public internet is Not related with CyberSecurity in any way. Information of Public Persons, like Home Address, Date of Birthday, Phone No. and more were indexed by common Search Engines. 
 ```
 
 ```
 ##### R esults
-No Comment.
+Loss of Authentication. Human-Error in public data leak.
 ```
 
 ```
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*   Exists Entities, which could spread false information from abroad.
-*   Web e.Services has Secure Signature Authentication via HTTPS. Each Post in WebSite could be Signed with some e.SecureSignature just like in Document Management Systems.  
+*   Search Engine Hacks were known from the early of Search Engine Boom! Web Site Security as if ISO/IEC 27001 takes Information Security, Cybersecurity, Privacy at the same Level and each of them is important.
+*   If Web Site has number of Authentication Levels (i.e. public Site, Authenticated Site) then Web Administrator should get proper requests, which could explain on which Level Job should be completed.
+*   If there were no extra Job, then the Audit Logs could answer to the Question: what happened? unless the Security incident happen which lead into loss of Integrity and Authenticity of Journaling Data Logs.  
+*   General Data protection Reglament only works in Private Sector. For Public Sector it would need to look into the local Regulations and to Report the Issue.
+*   Common Automated Security Check tools can't tell, which information should be Public and which - Not. OpenAI Bot allow to Set Up Your Learning Data, then it could be good to find out the problem, which were given in the previous Sentence.
 ```
 
 ```
