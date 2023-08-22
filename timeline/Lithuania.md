@@ -2157,7 +2157,7 @@ Not clear enough.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*   By digesting the Article the previous Data Leaks could mean that Person may lose Safety of this type of Factor for the Eternity. More advanced loss, if there could be somebody with natural|unatural similar Biometrics Data. At least the Automobile Industry don't permit to start the Automobile without Dead Tissues & Skin.
+*   By digesting the Article the previous Data Leaks could mean that Person may lose Safety of this type of Factor for the Eternity. More advanced loss, if there could be somebody with natural|unatural similar Biometrics Data. At least the Automobile Industry don't permit to start the Automobile with Dead Tissues & Skin.
 ```
 
 ```
