@@ -2068,3 +2068,96 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In this Article [-](https://www.lrt.lt/naujienos/lietuvoje/2/2030905/pries-nato-susitikima-kibernetiniai-ispuoliai-radijuje-ir-prekybos-centre-skambejo-propagandines-zinutes) shown Cybersecurity breaches to IT System of the Shopping Center and Radio Broadcast Station. DDOS attacks against m.Ticket and govilnius.lt
+```
+
+```
+##### R esults
+Not clear enough.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  No comments. 
+```
+
+```
+##### I ncident
+
+In this Article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2041252/ekspertai-ispeja-socialiniuose-tinkluose-zaibiskai-plinta-netikros-nuorodos-kuriose-tyko-programisiai) shown that People are getting links to forged Sites, which mean to steal Personal Information. 
+```
+
+```
+##### R esults
+Not clear enough.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   If these Companies are going with Two-factor Authentication, then there are huge Risk, that they gonna keep more Personal Information about You, Me and everyone. Giving out more Personal Information (Factors) could mean that upon loss of this Data exists chance that somebody could pretend as You, Me or everyone to get some Goods and Services.
+*   Going Two-Factor Authentication without Security Options per Factor-basis? Indifferent look to brute-force Logins for possible Account Breaches is pretty the same as no Authentication. It means that Site lacks for Security Option(s) which prohibit unlimited and non-successful Logins.
+*   Sight from User Perspective, which are using some Service. If Service are permitting to break the Service for the User, then how good is the Security Stance of the Service. White Hats only working as Sample of this Site [vilnius.lt](https://vilnius.lt/lt/vilnius-2in/kibernetinis-saugumas/), which require Registration for the Privilege to do so. In regular and common Small and Medium Service there is not enough Documentation what are prohibited and what are not for the User. Read the Terms and Conditions, of course, if it even exists.
+```
+
+```
+##### I ncident
+
+In this Article [-](https://www.lrt.lt/mediateka/irasas/2000287767/saugumo-ekspertai-nato-virsuniu-susitikimas-lietuva-paverte-kibernetiniu-ataku-taikiniu) shown a number of Short Messaging which contain non-safe URL's. 
+```
+
+```
+##### R esults
+Not clear enough.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   The Article provide Fact "Telecomunication Company should never check SMS of their Users". If Telecomunication Company don't do that, then in addition they should not give Access to anybody else? because an Assets of a Person(s) is Untouchable. Illegal Orders may be the Problem for some kind of Jurisdictions.
+*   The Article provide Fact that Internet Service Providers gonna block URL's, which are in Forbidden List. In this Regard, if You install Modern Anti-Virus & Anti-MalWare Software in the Computer System, then You get something similar. Multiple Modern Anti-Virus & Anti-MalWare Software Installations could be a Latency for Comfortable Usability of Your Goodies.
+```
+
+```
+##### I ncident
+
+In this Article [-](https://www.lrt.lt/naujienos/verslas/4/2054761/gyventojus-toliau-persekioja-sukciu-zinutes-ragina-susimoketi-administracine-bauda-ir-taip-bando-isvilioti-pinigu) shown Threat from SMS and QR codes, which could hold non-safe URL. 
+```
+
+```
+##### R esults
+Not clear enough.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   Obfuscated QR code could hold any kind of Information and Thanks for the Software, which before going to the URL give a chance to Identify an URL. Some Sites may hold a lot of Variables in their URL's, which could mean a problem for regular User during URL Identification from a Bad Patterns.  
+```
+
+```
+##### I ncident
+
+In this Article [-](https://www.lrt.lt/naujienos/verslas/4/2058247/lietuvoje-plinta-pavojingos-sukciavimo-schemos-vmi-imituojanciuose-laiskuose-net-teisingi-asmens-kodai) shown a problem that somebody pretend to be from a official VMI Team. More advanced phishing, which contain Personal Identification Information. 
+```
+
+```
+##### R esults
+Not clear enough.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   By digesting the Article the previous Data Leaks could mean that Person may lose Safety of this type of Factor for the Eternity. More advanced loss, if there could be somebody with natural|unatural similar Biometrics Data. At least the Automobile Industry don't permit to start the Automobile without Dead Tissues & Skin.
+```
+
+```
