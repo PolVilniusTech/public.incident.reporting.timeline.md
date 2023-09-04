@@ -231,3 +231,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In this Article [LRT.lt](https://www.lrt.lt/pl/wiadomosci/1261/2068896/nksc-wlamania-na-okolo-10-litewskich-stron-internetowych) are shown Information about breaching following Websites: poliklinika.lt, radviliskis.lt, ukmerge.lt, siauliai-airport.com, kalvarija.lt, sc.joniskis.lm.lt, jpm.lt. Provided Statement that all of those websites who has a flaw and are created by a single Company.
+```
+
+```
+##### R esults
+All Content were Deleted.
+Included Defacement Site Code, which explain the Aim of the Breach.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   There exist no proof that the Single Company created all of those websites (excluding kalvarija.lt and radviliskis.lt Sites, which probably are their Customers).
+*   Providing a guess that the Single Company has created these Websites gives a Hint, that maybe Code of those Websites are the same and (or) has similarities. Knowledge of some Unknown Flaw and Vulnerability in the Code provide a Hint, that as more You Copy and Paste the same Tech to the Web Server, there will be more Site breaches, if someone would use this Flaw and Vulnerability in Practice. From First Sight It looks unlawful and without consent from those Owner(s) Perspective.
+*   Term and Definition of the Defacement could be used as following "A Defacement is considered in all Countries an unauthorized Computer Access, a Denial of Service Action therefore a Crime under all Means. The Activity of defacing to Warn the Administrator of a buggy Server about Its Vulnerable Status is considered a Crime too and a questionable Ethical Conduct."
+*   Defacement Message(s) does not include explanations about used Terms like usual.
+```
+
+```
