@@ -2218,7 +2218,7 @@ Electronic Service Users can't get their Service.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*   IT Subjects with Technical Practice and Laboratory Works using Software and Hardware are Irregular (when the Education System is not Available). IT Infrastructure of the Web Site lacks more Powerful Security Stack Servers.
+*   IT Subjects with Technical Practice and Laboratory Works using Software and Hardware are Irregular (when the Education Web Site is not Available). IT Infrastructure of the Web Site lacks more Powerful Security Stack Servers.
 *   When the IT Teacher will start to collect Attendance in the Excel Sheet or just a Paper Sheet? Provided Environment does not meet Expectations.
 ```
 
