@@ -42,7 +42,7 @@ According Article exists Capabilities to break normal Functionality of:
 From such incidents there are possible to learn a lot. I.e.:
 * Do not Plug the Electricity Grid Controls to the Public Network. If this Happends even so, securing Communication Channel with the use of Encryption Devices are Necessary in every Communication Node. Encryption has to be Unbreakable for National Security Infrastructure. If the Encryption could be Broken, then which Entities has such Resources and Finances to conduct such Operations?;
 * The NATO Members [nato.int](https://www.nato.int/cps/en/natohq/topics_52044.htm) Defends their Critical Infrastructure. Provided Incident in the Article is out of the Scope for the NATO.
-* Missle Alarm Apps, which at first targets the Common Citizens to keep them alive does not Fit for the Number of International Legislations in the Number of Jurisdictions, which Commited to keep Health and Safety First of Common Citizens, Commoners, Combatants.
+* Missle Alarm Apps, which at first targets the Common Citizens to keep them alive. These Actions, which were shown in the Article does not Fit for the Number of International Legislations in the Number of Jurisdictions, which Commited to keep Health and Safety First of Common Citizens, Commoners, Combatants.
 * Anti-Missle Defence System could be Targeted from the Astro-Space Sattelites Perspective. There are another Legislations in the Time of what happens, if You Target Sattelite and leave Debris from the Lower Level of the Cosmos. Lately there should be Issued "Huge" Bills for Paying Up for "Huge" International Mistake(s). 
 ```
 
