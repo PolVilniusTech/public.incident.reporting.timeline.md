@@ -2183,3 +2183,19 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2090534/mazeikiu-ir-sasnavos-aerodromus-siuloma-itraukti-i-strateginiu-imoniu-sarasa#lg=2090534&slide=1365832) provided Image with printed Material in It. Shown Member of the Nation Security Committee. 
+```
+
+```
+##### R esults
+The Material could contain Sensitive Information.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   The Media and News just make Photograph(s) in the Public for the Public. The Media and News don't have enough Knowledge in the National Security. 
+*   Do Not Show Sensitive Data In the Public. Do Not Show Identity Cards for the Access Control in the Public, if It could be easily Fabricated.
