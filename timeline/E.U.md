@@ -25,7 +25,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the Article of [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2101407/izraelis-ir-hamas-kariauja-ne-tik-fiziskai-karo-lauke-atvertas-ir-kibernetiniu-ataku-frontas) there are increasing a Number of Cyber Attacks in the outside Circle of the NATO. IT Infrastruckture like Government, News or even for Common Public Sites are under Magnificient Glass.
+According the Article of [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2101407/izraelis-ir-hamas-kariauja-ne-tik-fiziskai-karo-lauke-atvertas-ir-kibernetiniu-ataku-frontas) there are increasing a Number of Cyber Attacks in the outside Circle of the NATO. IT Infrastructure like for Government, News or even for Common Public Sites are under Magnificient Glass.
 ```
 
 ```
