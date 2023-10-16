@@ -2199,3 +2199,27 @@ The Material could contain Sensitive Information.
 From such incidents there are possible to learn a lot. I.e.:
 *   The Media and News just make Photograph(s) in the Public for the Public. The Media and News don't have enough Knowledge in the National Security. 
 *   Do Not Show Sensitive Data In the Public. Do Not Show Identity Cards for the Access Control in the Public, if It could be easily Fabricated.
+```
+
+```
+
+##### I ncident
+
+In these Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2101098/kaip-elgiasi-grasinamuosius-laiskus-gavusios-mokyklos-kvietesi-saugos-bendrove-policija-vaikus-vede-i-parkus-uzluzo-tamo) provided Information about Local DDOS of the Educational Web Site.
+```
+
+```
+##### R esults
+Local Infrastructure for the Education can't keep up and can't be used at the Moment.
+Electronic Service Users can't get their Service.  
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   IT Subjects with Technical Practice and Laboratory Works using Software and Hardware are Irregular. IT Infrastructure of the Web Site lacks more Powerful Security Stack Servers.
+*   When the IT Teacher will start to collect Attendance in the Excel Sheet or just a Paper Sheet? Provided Environment does not meet Expectations.
+```
+
+```
