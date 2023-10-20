@@ -2224,7 +2224,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-In these Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2103946/naujos-sukciu-pinkles-siuncia-nuorodas-su-neva-gautos-baudos-informacija/) provided Situation of a Phishing Attack.
+In these Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2103946/naujos-sukciu-pinkles-siuncia-nuorodas-su-neva-gautos-baudos-informacija) provided Situation of a Phishing Attack.
 ```
 
 ```
