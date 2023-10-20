@@ -2222,3 +2222,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In these Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2103946/naujos-sukciu-pinkles-siuncia-nuorodas-su-neva-gautos-baudos-informacija/) provided Situation of a Phishing Attack.
+```
+
+```
+##### R esults
+People could be fooled from the non-legal Entity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Fines in usual Way could be received only from Official Sites, i.e. [epolicija.lt](https://www.epolicija.lt/). Lack of Awareness Training and Knowledge about Official Sites for what Reason they are used for - one of the Main Problems.
+```
+
+```
