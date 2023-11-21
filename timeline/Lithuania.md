@@ -172,6 +172,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ### 2019
 
 ##### I ncident
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/244671/su-kinijos-valdzia-siejamus-isilauzelius-aptiko-vilniaus-it-imones-specialistai) this Article non-Local Origin Company Computer Network got breached by already known Hacker Group.
+```
+
+```
+##### R esults 
+No Impact to the Company and Client Data.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Idea that "already known" Entities completed Breach is puzzling. No additional Data given. In some sense when Internet connection goes through other Country there could be Middle-Man in between who has such Motives, i.e. he could fool that something were done from other Entity.
+* Blocking Internet connection with Firewall and allowing for anyone to make breaches all around the State-Country Borders just show that this State-Country just don't want International Cooperation and does not abide to the Law(s), i.e. Local ones and of course International Laws and Regulations. This could show probable very bad place for Investment, because in that Area there will be no Aid in solving Foreign Incidents and You just have to move away. Some bad Agents could create Artificial Entities around the Borders to do this instead of their own, and this show even less wish to Invest in such Area.
+```
+
+```
+##### I ncident
 
 According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1067988/lietuvos-interneto-vartotoju-duomenys-be-ju-zinios-per-yandex-ir-toliau-keliauja-i-rusija) in local market it's possible to purchase routers with integrated DNS service, which operates outside of the Country.
 According E.Kerza during communication with the DNS server DNS data requests and responses are sended outside of the Country, this data potentially are stored there. „<...> routers does not meet security requirements. Users main router passwords are stored in unencrypted form, updates and data from the control servers flows unencrypted“. Given advices:
