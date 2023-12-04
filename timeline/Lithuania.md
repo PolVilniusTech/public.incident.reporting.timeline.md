@@ -2258,3 +2258,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In these Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2137256/vilnietis-pastebejo-internete-plitusia-netikra-lidl-parduotuve-siule-net-90-proc-siekusias-nuolaidas) exists Phishing Site. 
+```
+
+```
+##### R esults
+Original owners who were being phished have been Informed.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Does big percentage exists that the Design of this Phishing Site could be the same and (or) similar to other non-Phishing Site(s)? The only distinction in this Situation could be and is a Logo & favicon. The Republic of Lithuania Site of [lrv.lt](https://vpb.lrv.lt/en/) could help to get Patent in the Trademark and (or) the Design at the Local Level.
+*  If there is required registrations in the Higher Level, then the Republic of Lithuania Site [lrv.lt](https://vpb.lrv.lt/en/structure-and-contacts-1/links) could be taken in the Account.
+*  In the early Web most of the Web Sites were incliding Logo(s) for compitability with HTML, XML Standards. And nowadays an Enterprises does not show the Lead into securely linking something as simple as Logo and favicon from secure Blockchain Database.
+*  According Phishing Site(s) Database also could be blocked thanks to Cybersecurity Tool(s).
+```
+
+```
