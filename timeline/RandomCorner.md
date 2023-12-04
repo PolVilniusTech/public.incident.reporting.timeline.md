@@ -38,3 +38,21 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+According [ktu.edu](https://en.ktu.edu/news/a-team-determined-to-help-firefighters-wins-the-ktu-digital-twins-hackathon/) exists Projects who include "hackathons" who approximately sounds just as "tonne of hacks". This include a number of people who were invited to take part in the hackathon. Events like this were created in the Past and gonna be created in the Future.
+
+```
+
+```
+##### R eseach 
+The term "hacker" is wide-spread around the Web and Standards.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* International Standard ISO/TS 17573-2:2020 of Electronic Fee Collection uses the term "hacker". This Term simply provide Idea that "hacker" is person who attempts or succeeds to gain unauthorized access to protected resources.
+* The "Hackers" Term according this [BBC](https://www.bbc.com/news/technology-67583486) Cyber correspondent could be named with "Cyber" prefix. The Tag of "Cyber-crime" and "Cyber-security" are used when providing information about "cyber-criminals". Information security, cybersecurity and privacy protection family Standard ISO/IEC 27005:2022 [ISO](https://www.iso.org/standard/80585.html) include hacker types: experienced, script-kiddies.
+* The "Cyber" naming prefix could make problems in Languages like Belarusian, Polish, Russian, Ukrainian. Take in the Account an Accent, a Pronounciation, a Jargon. One case could be the Word "self" who could be translated into <"cama-">, <"... ciebie">, <"себя">, <"себе"> accordingly.  This could follow the result of the "cyber" like mesh sound(s).
