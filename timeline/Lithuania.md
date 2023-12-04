@@ -2223,7 +2223,7 @@ From such incidents there are possible to learn a lot. I.e.:
 
 ##### I ncident
 
-In these Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2101098/kaip-elgiasi-grasinamuosius-laiskus-gavusios-mokyklos-kvietesi-saugos-bendrove-policija-vaikus-vede-i-parkus-uzluzo-tamo) provided Information about Local DDOS of the Educational Web Site.
+In this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2101098/kaip-elgiasi-grasinamuosius-laiskus-gavusios-mokyklos-kvietesi-saugos-bendrove-policija-vaikus-vede-i-parkus-uzluzo-tamo) provided Information about Local DDOS of the Educational Web Site.
 ```
 
 ```
@@ -2242,7 +2242,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-In these Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2103946/naujos-sukciu-pinkles-siuncia-nuorodas-su-neva-gautos-baudos-informacija) provided Situation of a Phishing Attack.
+In this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2103946/naujos-sukciu-pinkles-siuncia-nuorodas-su-neva-gautos-baudos-informacija) provided Situation of a Phishing Attack.
 ```
 
 ```
@@ -2260,7 +2260,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-In these Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2137256/vilnietis-pastebejo-internete-plitusia-netikra-lidl-parduotuve-siule-net-90-proc-siekusias-nuolaidas) exists Phishing Site. 
+In this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2137256/vilnietis-pastebejo-internete-plitusia-netikra-lidl-parduotuve-siule-net-90-proc-siekusias-nuolaidas) exists Phishing Site. 
 ```
 
 ```
