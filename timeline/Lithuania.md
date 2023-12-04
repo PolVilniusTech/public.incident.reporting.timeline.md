@@ -2260,7 +2260,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-In this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2137256/vilnietis-pastebejo-internete-plitusia-netikra-lidl-parduotuve-siule-net-90-proc-siekusias-nuolaidas) exists Phishing Site. 
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2137256/vilnietis-pastebejo-internete-plitusia-netikra-lidl-parduotuve-siule-net-90-proc-siekusias-nuolaidas) exists Phishing Site. 
 ```
 
 ```
