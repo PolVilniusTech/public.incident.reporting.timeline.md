@@ -2279,3 +2279,45 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According these Articles [1](https://www.lrt.lt/naujienos/verslas/4/2146938/vilniaus-rajono-savivaldybeje-po-atakos-veluos-ismokos-uz-duomenis-paprasyta-ispirkos), [2](https://www.lrt.lt/naujienos/lietuvoje/2/2143973/vilniaus-rajono-savivaldybe-patyre-kibernetine-ataka-tiriama-ar-nenutekejo-asmens-duomenys), [3](https://www.lrt.lt/naujienos/lietuvoje/2/2145847/nksc-nusikalteliai-uzsifravo-vilniaus-rajono-savivaldybes-duomenis-atsargines-kopijas) Information Systems and their Backups of the Vilnius Municipality of the Region has got an Ransomware attack. 
+```
+
+```
+##### R esults
+Interruption of Service(s) of the Vilnius Municipality of the Region.
+Limited Access to still available Information System(s).
+Plausible loss of some Digital Data.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  According 1st article the Vilnius Municipality of the Region got Notice to Pay for Encrypted Data. This is typical Ransomware attack. There is High chance that (1) these Entities not even done attack and are Scammers (2) According International Agreement Republic of Lithuania do not pay for any entities who commit crimes. The Hostage in this sample is a Data for which release none gonna pay.
+*  According 16th paragraph of 1st Article Vilnius Municipality of the Region has not registered any of their Information Systems in the Register. In this Way none even know what kind of data they collect, keep & process. On the Table is a data at the beginning of commoners who may be exploited by these Cybercriminals even further.
+*  Giving a chance to remove and backup (Emploees) Data for the Employees could limit conequences of an Ransomware attack.
+*  Having security Representative to teach Employees how to keep security Policies and Regulations in the Institution could boost efectiveness of an Incident Management in the Institution.
+```
+
+```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2145656/ktu-skelbia-patyres-kibernetine-ataka) can't be accessed the Web Site, E-mail, University Services for One University in the Republic of Lithuania. 
+```
+
+```
+##### R esults
+Interruption of Services.
+Clients can't access their Curriculum.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Inter-communicating Computer Related Incidents is a initial move into Common Vulnerabilities and Exposures (abbr. CVE) System Type. It requires to meet Requirements and Competencies. Sample registration form for CVE.org Partners: [cve.org](https://www.cve.org/PartnerInformation/Partner).
+```
+
+```
