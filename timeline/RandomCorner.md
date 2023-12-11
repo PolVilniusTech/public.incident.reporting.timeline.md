@@ -56,3 +56,26 @@ From such innocents there are possible to learn a lot. I.e.:
 * International Standard ISO/TS 17573-2:2020 of Electronic Fee Collection uses the term "hacker". This Term simply provide Idea that "hacker" is person who attempts or succeeds to gain unauthorized access to protected resources.
 * The "Hackers" Term according this [BBC](https://www.bbc.com/news/technology-67583486) Cyber correspondent could be named with "Cyber" prefix. The Tag of "Cyber-crime" and "Cyber-security" are used when providing information about "cyber-criminals". Information security, cybersecurity and privacy protection family Standard ISO/IEC 27005:2022 [ISO](https://www.iso.org/standard/80585.html) include hacker types: experienced, script-kiddies.
 * The "Cyber" naming prefix could make problems in Languages like Belarusian, Polish, Russian, Ukrainian. Take in the Account an Accent, a Pronounciation, a Jargon. One case could be the Word "self" who could be translated into <"cama-">, <"... ciebie">, <"себя">, <"себе"> accordingly.  This could follow the result of the "cyber" like mesh sound(s).
+```
+
+```
+##### I nnocent
+According [Lrt.lt](https://www.lrt.lt/naujienos/verslo-pozicija/692/2144065/aleksandras-masaliovas-ka-verslui-svarbu-zinoti-apie-mobinga) the Author use Term lt. <lang.> "mobingas". 
+```
+
+```
+##### R eseach 
+Does the Single Term could do a Catastrophic Impact?
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* According [vlkk.lt](https://terminai.vlkk.lt/paieska?search=mobingas) this could be translated into "mobbing".
+* After "registration" in vlkk.lt the Jurisdiction may use this Term, i.e. [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/676587f2cf1911e9a56df936f065a619).
+* The Term <Mob> by the Law Enforcement could be taken as a Member of the Gang or the Mafia. The Term could be attached to the Social Engineering. Does the Term will be used by Locals or somebody from the Law Enforcement?
+* The McAffe Cybersecurity Company use term "Cyberbullying" when someone bully the weak(er) (usually) in the Cyber Space. Does we even need the Term for "strongest" ones?
+```
+
+```
