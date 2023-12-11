@@ -360,3 +360,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+According this Article [-](https://www.lrt.lt/naujienos/pasaulyje/6/2145706/ziniasklaida-tukstanciu-ukrainos-saugos-kameru-vaizdai-transliuojami-i-maskva) there is second Reported Incident in the Country. The Problem: many Computer Systems used by (IP) Cameras has Foreign Roots. Also these (IP) Camera(s) Software could be accessed by this Foreign Country. 
+```
+
+```
+##### R esults 
+Exists outdated Software and Hardware compared to this Century.
+Probable unauthorised Access. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    Change Your default passwords when you purchase (IP) related Devices.
+*    Use Firewall Software to stop the Brute-force attacks.
+*    Don't connect (IP) Cameras to the Internet when You don't know what You are doing. There was possible to Google Search Chinese products whos Server functionality are Crawled by Search Engine and publicly provide Access to everyone. The old Term as "Google Hacks" of the Search Engine which were growing from Medium to Enterprise Level. Now You have to use Web Console to control these searches. Some Enthusiasts could try to automatically include these Services.  
+```
+
+```
