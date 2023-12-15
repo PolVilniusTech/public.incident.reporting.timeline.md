@@ -2321,3 +2321,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+<...>
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/ru/novosti/17/2151386/assotsiatsiia-bankov-litvy-preduprezhdaet-o-moshennikakh-v-telegram-zhiteliam-predlagaiut-bystro-razbogatet) scammers are sending messages in the Social Media.
+```
+
+```
+##### R esults
+Social Media Users get Phishing Messages (via Web and via App).
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  There could be found information about fraud-phishing type social engineering attacks [www.lb.lt](https://www.lb.lt/lt/sukciavimas).
+*  In the Article there are no reference to non-licensed investment services or vica versa.
+```
+
+```
