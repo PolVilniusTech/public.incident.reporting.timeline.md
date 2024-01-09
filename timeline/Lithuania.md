@@ -2281,7 +2281,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According these Articles [1](https://www.lrt.lt/naujienos/verslas/4/2146938/vilniaus-rajono-savivaldybeje-po-atakos-veluos-ismokos-uz-duomenis-paprasyta-ispirkos), [2](https://www.lrt.lt/naujienos/lietuvoje/2/2143973/vilniaus-rajono-savivaldybe-patyre-kibernetine-ataka-tiriama-ar-nenutekejo-asmens-duomenys), [3](https://www.lrt.lt/naujienos/lietuvoje/2/2145847/nksc-nusikalteliai-uzsifravo-vilniaus-rajono-savivaldybes-duomenis-atsargines-kopijas) Information Systems and their Backups of the Vilnius Municipality of the Region has got an Ransomware attack. 
+According these Articles [1](https://www.lrt.lt/naujienos/verslas/4/2146938/vilniaus-rajono-savivaldybeje-po-atakos-veluos-ismokos-uz-duomenis-paprasyta-ispirkos), [2](https://www.lrt.lt/naujienos/lietuvoje/2/2143973/vilniaus-rajono-savivaldybe-patyre-kibernetine-ataka-tiriama-ar-nenutekejo-asmens-duomenys), [3](https://www.lrt.lt/naujienos/lietuvoje/2/2145847/nksc-nusikalteliai-uzsifravo-vilniaus-rajono-savivaldybes-duomenis-atsargines-kopijas), [4](https://www.lrt.lt/naujienos/lietuvoje/2/2146784/po-kibernetines-atakos-ktu-kreipsis-i-policija) Information Systems and their Backups of the Vilnius Municipality of the Region has got an Ransomware attack. 
 ```
 
 ```
@@ -2296,7 +2296,8 @@ Plausible loss of some Digital Data.
 
 From such incidents there are possible to learn a lot. I.e.:
 *  According 1st article the Vilnius Municipality of the Region got Notice to Pay for Encrypted Data. This is typical Ransomware attack. There is High chance that (1) these Entities not even done attack and are Scammers (2) According International Agreement Republic of Lithuania do not pay for any entities who commit crimes. The Hostage in this sample is a Data for which release none gonna pay.
-*  According 16th paragraph of 1st Article Vilnius Municipality of the Region has not registered any of their Information Systems in the Register. In this Way none even know what kind of data they collect, keep & process. On the Table is a data at the beginning of commoners who may be exploited by these Cybercriminals even further.
+*  According 16th paragraph of 1st Article Vilnius Municipality of the Region has not registered any of their Information Systems in the Register. In this Way none even know what kind of data they collect, keep & process. On the Table is a data at the beginning of commoners who may be exploited by these Cyber-criminals even further.
+*  The Police (4) require advanced knowledge for successfully completing research of the incident & probable data leak. 
 *  Giving a chance to remove and backup (Emploees) Data for the Employees could limit conequences of an Ransomware attack.
 *  Having security Representative to teach Employees how to keep security Policies and Regulations in the Institution could boost efectiveness of an Incident Management in the Institution.
 ```
@@ -2321,7 +2322,46 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
-<...>
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2149826/teismas-paliko-2-2-tukst-euru-bauda-portalui-musu-tv-uz-dezinformacijos-platinima) internet TV station „Mūsų TV“ spreading worse than misinformation data - disinformation.
+```
+
+```
+##### R esults
+(In the web) tv station has spreaded propaganda & disinformation.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  TV station „Mūsų TV“ provide public service. In example exist e.Service who is not a public service like Protonmail who has statement "private email service that uses end-to-end encryption and zero-access encryption to protect your communications". The difference between public and private service is that for the private service(s) are required to complete these procedures: Identification > Authentication > Authorization. Best example of similar private service(s) - Youtube "social media" platform. Of course exists Apps who uses their own Business Account to re-stream the service content.
+*  According provided jurisdictional document the disinformation means that this misinformation information are speaded deliberately. This should mean that subject did that on the purpose. The Jurisdictional Act also provide a lot ties with the Lithuanian Republic and it's Independence & Sovereignty. 
+*  Exists and could exists news aggregators who include similar misinformation and disinformation related content to their news with one exception. This exception is the rule to place correct label to it. This has a lot of similarities for smookers who get to purchase cigarettes with horrible labels and glued Truths to it. It seems that e-cigarette(s) does not include this requirement.
+*  The news content is related with "full-scale invasion" [hrw.org](https://www.hrw.org/tag/russia-ukraine-war). Does media & news aggregators referencing this organization and use their content, i.e. contacts [hrw.org](https://www.hrw.org/about/get-local/paris)? 
+```
+
+```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2150651/telia-pradejo-blokuoti-padirbtus-mobiliojo-rysio-numerius-kiti-operatoriai-ruosiasi) telecommunication companies are getting trouble with the fake phone numbers who could fool legit people. 
+```
+
+```
+##### R esults
+Without countermeasures people could be easily fooled.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  The scammers getting their hands on advanced technologies for making damage to the civilians and people. This approach could be similar sample as post'ing dangerious operating system's and smaller application's arount the web.
+*  Does phone calls are not secure anymore? lack of technological improvement, creating services without security and secure design.
+```
+
+```
 ##### I ncident
 
 According this Article [Lrt.lt](https://www.lrt.lt/ru/novosti/17/2151386/assotsiatsiia-bankov-litvy-preduprezhdaet-o-moshennikakh-v-telegram-zhiteliam-predlagaiut-bystro-razbogatet) scammers are sending messages in the Social Media.
