@@ -2364,6 +2364,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2150246/specialistai-ispeja-lietuvoje-plinta-antivirusine-sistema-apsimetanti-kibernetine-ataka) there are spreading not true & false antivirus system pop-ups about infection of the device. Provided chance to call for the (free) "helpdesk". 
+```
+
+```
+##### R esults
+The Web and plausibly non-web Phishing Messages.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  According this Article You should not open pop-ups at all.
+*  Anti-Security related code(s) are called as "malware".
+```
+
+```
+##### I ncident
+
 According this Article [Lrt.lt](https://www.lrt.lt/ru/novosti/17/2151386/assotsiatsiia-bankov-litvy-preduprezhdaet-o-moshennikakh-v-telegram-zhiteliam-predlagaiut-bystro-razbogatet) scammers are sending messages in the Social Media.
 ```
 
