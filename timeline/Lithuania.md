@@ -2383,6 +2383,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
+According this Article [valstietis.lt](https://www.valstietis.lt/salyje/paspaudus-nuoroda-prarado-tukstancius/130683) citizen got SMS message with a link. After clicking this link the citizen has lost money. 
+```
+
+```
+##### R esults
+One fraudlent SMS.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Telecommunication companies provide (e)service registration with "public" shortcut letter(s) for activating e.service. They also provide cost limits per duration of date & time.
+*  Smartphone could use Internet (e)service(s) who could be culprit of any type of phishing attack.
+*  The Bank Companies offer Finance Applications to their clients. The Smartphone over this App could directly linked with client User private & personal Bank Account. Identification, Authentication and Authorization mechanism protect client, so that this client could use his Account securely and privately.   
+```
+
+```
+##### I ncident
+
 According this Article [Lrt.lt](https://www.lrt.lt/ru/novosti/17/2151386/assotsiatsiia-bankov-litvy-preduprezhdaet-o-moshennikakh-v-telegram-zhiteliam-predlagaiut-bystro-razbogatet) scammers are sending messages in the Social Media.
 ```
 
