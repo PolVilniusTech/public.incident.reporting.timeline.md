@@ -380,3 +380,27 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+#
+### 2024
+
+##### I ncident
+According this Article [-](https://www.lrt.lt/naujienos/pasaulyje/6/2164233/per-didziuli-kibernetini-ispuoli-ukrainoje-neveike-perspejimai-del-oro-pavojaus-kilo-trikdziu-atsiskaitant) warning system of the air attack(s) were turned off. With this capability probable personal & private data leak, i.e. phone coordinates, short messaging service interception & gained unauthorized access to the „Telegram“ Account(s). Interruptions to the banking services. Probable insider threat in the telecommunication company.
+```
+
+```
+##### R esults 
+Citizen(s) placed in life threatening situations by non-ethical programmers & hackers & scammers. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    Precise coordinate(s) of the person could help in life threatening situation & it could be used to harm these people.
+*    In the Republic of Lithuania usually each person has to configure his own phone for getting notifications & this also are limitation for getting service like that. Special Mobile phone application, e.mail service could be used in parallel for warning purposes when the internet connection(s) are available.
+*    When exists threats from the entity, then You have to ditch non-local & their "foreign" social media. Unless You want to make them more richer. This also could be said for other comrades who could do the same.
+*    Short messaging service used in controled location/&environment by programmers & hackers & scammers could be not trusted in the first place. Does encryption and decryption technologies are available & permited in the region(s)?
+*    Monetary subsidies to the service(s) & people in-need, distribution of goods & services (less monopoly) could improve the situation. 
+```
+
+```
