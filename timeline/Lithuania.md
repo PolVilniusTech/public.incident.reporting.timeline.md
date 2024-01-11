@@ -2444,7 +2444,7 @@ From such incidents there are possible to learn a lot. I.e.:
 
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2168843/pranesta-kad-is-aiva-sistemos-duomenu-bazes-nutekinti-260-tukst-klientu-duomenys-imone-tai-vadina-zmeiztu) there was database leak in "Aiva Sistema"(-os).
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2168843/pranesta-kad-is-aiva-sistemos-duomenu-bazes-nutekinti-260-tukst-klientu-duomenys-imone-tai-vadina-zmeiztu) there was database leak in an "Aiva Sistema"(-os).
 
 ```
 
