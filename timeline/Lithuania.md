@@ -2420,3 +2420,44 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+<...>
+### 2024
+<...>
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2168751/plinta-naujas-sukciavimo-budas-siulo-uzsidirbti-ziurint-youtube-vaizdo-irasus) people are phished into work offer. Before getting the offer person has to pay registration bill. In the Fraud scheme could be included chat using "Telegram" social media. After Victim pay's the person gonna be blocked, removed. 
+```
+
+```
+##### R esults
+Malicious work offer for only using Your electronic device could seduce, i.e. unemployed people. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  When there are news about increasing unemployment rate the "fake work offers" could increase.
+*  Lack of common sense and striving to get new job could be a factor to get Yourself on the fake "offer".
+*  Look for official and registered entities in Your Country.
+*  Social media Accounts could be used for fraudlent & malicious purposes.
+
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2168843/pranesta-kad-is-aiva-sistemos-duomenu-bazes-nutekinti-260-tukst-klientu-duomenys-imone-tai-vadina-zmeiztu) there was database leak in "Aviva Sistema". The r/n of the company should be "120124533" or "145744442". 
+
+```
+
+```
+##### R esults
+Private data leak of the Service or Reputation attack to the Service owners.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* From row of similar company name's there could be not clear for the client(s) whose they really are (was) registered for that exact company.
+* Adequate relations between clients and service managers/owners could include mindfully correct way how to respond to an incident.
+* There could be taken notice - does informing everyone are right way to do? When after at least one data leak the same data could be shared infinity time, including first name, last name, phone number, email address.
+* Services could have first inbound data-number and different outbound data-number.
