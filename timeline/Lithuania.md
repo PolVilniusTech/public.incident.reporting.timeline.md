@@ -2425,7 +2425,7 @@ From such incidents there are possible to learn a lot. I.e.:
 <...>
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2168751/plinta-naujas-sukciavimo-budas-siulo-uzsidirbti-ziurint-youtube-vaizdo-irasus) people are phished into work offer. Before getting the offer person has to pay registration bill. In the Fraud scheme could be included chat using "Telegram" social media. After Victim pay's the person gonna be blocked, removed. 
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2168751/plinta-naujas-sukciavimo-budas-siulo-uzsidirbti-ziurint-youtube-vaizdo-irasus) people are phished into work offer. Before getting the offer person has to pay registration bill. In the Fraud scheme could be included chat using "Telegram" social media. After Victims payment this person gonna be simply blocked, removed. 
 ```
 
 ```
