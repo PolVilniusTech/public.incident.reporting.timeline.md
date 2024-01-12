@@ -2281,14 +2281,14 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According these Articles [1](https://www.lrt.lt/naujienos/verslas/4/2146938/vilniaus-rajono-savivaldybeje-po-atakos-veluos-ismokos-uz-duomenis-paprasyta-ispirkos), [2](https://www.lrt.lt/naujienos/lietuvoje/2/2143973/vilniaus-rajono-savivaldybe-patyre-kibernetine-ataka-tiriama-ar-nenutekejo-asmens-duomenys), [3](https://www.lrt.lt/naujienos/lietuvoje/2/2145847/nksc-nusikalteliai-uzsifravo-vilniaus-rajono-savivaldybes-duomenis-atsargines-kopijas), [4](https://www.lrt.lt/naujienos/lietuvoje/2/2146784/po-kibernetines-atakos-ktu-kreipsis-i-policija) Information Systems and their Backups of the Vilnius Municipality of the Region has got an Ransomware attack. 
+According these Articles [1](https://www.lrt.lt/naujienos/verslas/4/2146938/vilniaus-rajono-savivaldybeje-po-atakos-veluos-ismokos-uz-duomenis-paprasyta-ispirkos), [2](https://www.lrt.lt/naujienos/lietuvoje/2/2143973/vilniaus-rajono-savivaldybe-patyre-kibernetine-ataka-tiriama-ar-nenutekejo-asmens-duomenys), [3](https://www.lrt.lt/naujienos/lietuvoje/2/2145847/nksc-nusikalteliai-uzsifravo-vilniaus-rajono-savivaldybes-duomenis-atsargines-kopijas), [4](https://www.lrt.lt/naujienos/lietuvoje/2/2146784/po-kibernetines-atakos-ktu-kreipsis-i-policija), [5](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2153835/per-kibernetine-ataka-nutekinti-ktu-duomenys-pardavin%C4%97jami-tamsiame-internete) Information Systems and their Backups of the Vilnius Municipality of the Region has got an Ransomware attack. 
 ```
 
 ```
 ##### R esults
 Interruption of Service(s) of the Vilnius Municipality of the Region.
 Limited Access to still available Information System(s).
-Plausible loss of some Digital Data.
+Moderate chance of the loss of a Digital Data.
 ```
 
 ```
@@ -2300,6 +2300,9 @@ From such incidents there are possible to learn a lot. I.e.:
 *  The Police (4) require advanced knowledge for successfully completing research of the incident & probable data leak. 
 *  Giving a chance to remove and backup (Emploees) Data for the Employees could limit conequences of an Ransomware attack.
 *  Having security Representative to teach Employees how to keep security Policies and Regulations in the Institution could boost efectiveness of an Incident Management in the Institution.
+*  The (5) available information about a possible loss of: i. First name, ii. Last name, iii. Personal identification number, iv. Personal (household) address, v. phone no., vi. email address, vii. personal automobile license plate w/o VIN number.
+*  The (5) available information hint that end-user(s) employee workspace could be the place where the data could be leaked.
+*  An enumeration of all plausible data and backup data places could help to a Security Representative of the Company to conduct precise a risk assessment and afterwards - treatment process.
 ```
 
 ```
@@ -2420,9 +2423,48 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
-<...>
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/eismas/7/2149778/netikru-regitros-tarpininku-viliones-ir-pazadai-uz-1-tukst-euru-mes-viska-sutvarkome-uz-jus-jums-niekur-dalyvauti-nereikia) scammers offer precise driver license(s) online.
+```
+
+```
+##### R esults
+Plausible loss of an private information.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  The person who use(s) service(s) like this can't be sure where the personal home address, phone number, personal picture of the face are going off.
+*  Plausible service administration tax avoidance. Plausible chance that an Information system has issues with confirmation of a payment status(es).
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2160007/atskleista-placiai-paplitusios-sukciavimo-atakos-baltijos-salyse-maskuotes-schema-leidusi-nusikalteliams-isvengti-blokavimo) a social media clients get phishing link offers from other social media users. Those phishing link information are directly not related to a sender landing page(s).
+```
+
+```
+##### R esults
+Plausible to lose personal information, Tax avoidance, getting thrown into active Virus & Malware distribution point.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Usually internet service provider enforce DNS security what could help & reduce getting thrown into fake site.
+* Usually hosting service provider create Site(s) for their Clients. For creating those Site(s) is required to register and provide personal information. Exists free Site service(s) who has in-build advertising functionality. A dinamic Banner and an ad's distributor(s) security could effect security of a client who use those Site(s).
+* It's required to properly configure social media Account and to block unwanted audience and (or) per person-basis accounts. I.e. The Youtube allow to block influencer(s). Even service like this does not offer to block content per non-desired tags. How are sensitive a tag data per individual?
+* Do You every time need to include new service to the social media account? limiting amount of services could limit spam and plausible security risks.
+```
+
+```
 ### 2024
-<...>
+
 ##### I ncident
 
 According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2168751/plinta-naujas-sukciavimo-budas-siulo-uzsidirbti-ziurint-youtube-vaizdo-irasus) people are phished into work offer. Before getting the offer person has to pay registration bill. In the Fraud scheme could be included chat using "Telegram" social media. After Victims payment this person gonna be simply blocked, removed. 
