@@ -2503,3 +2503,26 @@ From such incidents there are possible to learn a lot. I.e.:
 * Adequate relations between clients and service managers/owners could include mindfully correct way how to respond to an incident.
 * There could be taken notice - does informing everyone are right way to do? When after at least one data leak the same data could be shared infinity time, including first name, last name, phone number, email address.
 * Services could have first inbound data-number and different outbound data-number.
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/eismas/7/2167681/zadejo-patoguma-o-gavo-baime-likti-nubausti-vilnieciai-piktinasi-neveikianciais-komposteriais-viesajame-transporte) electronic payment system is not working as expected.
+```
+
+```
+##### R esults
+Availability of the service to the citizens could be in question.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Distributed system could help to collect data even when the availability to the internet is scarse.
+* Information exchanged between the electronic device and the service center should be protected with encryption and decryption, encoding and decoding, integrity checks, stamps and signatures. When this mechanism has to be updated, then the service could be tested in a testing environment before an original update commense.
+* The calculations in digits for the common user-citizen and cheapest option in a life-cycle is not taken in an account.
+```
+
+```
