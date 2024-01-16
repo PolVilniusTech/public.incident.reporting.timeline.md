@@ -2526,3 +2526,28 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2170834/isilauzta-i-mamu-unijos-fondo-paskyra-socialiniame-tinkle) social media account of the charity and donation fund was overtaken by unknown entity(-ies).
+```
+
+```
+##### R esults
+Information in the social media account could not be trusted. 
+Next phase of phishing attacks to the subscribers of this media account are plausible.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Read Terms of Use & Privacy Policy to understand what possibilities provide the social media account.
+* Providing your personal identity card to foreign service are the same as bank person would request You for passwords to Your account. Recommendation to not do that.
+* Other e.Services requests for Employee data, i.e. Linkedin. Employee card could be used in this place. Recommendation to not do that.
+* The use of the qualified digital signature are not wide-spread. The digital-signature for themself could include private information like personal identity code, home address & major of applications does not ask: what are required at minimum & what You are willing to share. Recommendation to not use for the social media accounts.
+* Exists charity platforms who collect similar sponsorship & donation funds, so better use official & registered platforms instead. When the platdorm registered locally, then You could get better customer service.
+* The social media shown in the Article use Content Security Policy, so it provide security & are prone to phishing Sites. When You use non-standard browser this could be not true.
+
+```
+
+```
