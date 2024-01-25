@@ -2590,7 +2590,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2179103/kai-mesainio-kaina-per-gera-kad-butu-teisinga-mcdonald-s-perspeja-apie-internete-siauciancius-sukciu) scammers suggest food and gift as a service.
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2179103/kai-mesainio-kaina-per-gera-kad-butu-teisinga-mcdonald-s-perspeja-apie-internete-siauciancius-sukciu) with no relation to the official service scammer(s) suggest food and gift(s) as a service.
 ```
 
 ```
