@@ -2551,3 +2551,58 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2177858/vel-sutriko-smart-id-veikla..) there was interruptions for full half hour in a qualified electronic signature service "Smart-ID".
+```
+
+```
+##### R esults
+Customers could not use their internet services, i.e. online banking.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When service does not support Smart-ID, then user could choose other method either electronically ID-card, either electronically Mobile-ID, biometric data, visiting in person with official identity document(s). 
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/kultura/12/2179034/uz-piratavima-internete-nubausti-dar-astuoni-zmones) several people shared copyright protected work(s).
+```
+
+```
+##### R esults
+Copyright protected work(s) distributed without paying a penny to an original authors.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Bank purchase services are not widely spread & people can't pay with their desired existing online banking method. e-ID payments could exist [ecb.europa.eu](https://www.ecb.europa.eu/paym/integration/retail/retail_payments_strategy/shared/pdf/20220329-European_Fintech_Payments_Dialogue_Summary_Note.en.pdf)
+* The payments for copyrighted work can't be payed directly & easily to the author. Third party services are used for this Task.
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2179103/kai-mesainio-kaina-per-gera-kad-butu-teisinga-mcdonald-s-perspeja-apie-internete-siauciancius-sukciu) scammers suggest food and gift as a service.
+```
+
+```
+##### R esults
+Plausible loss of money and loss of personal information.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Via Article Service provide remind an official & a trusted & an allowed way(s) how to pay for the good(s) and service(s). 
+```
+
+```
