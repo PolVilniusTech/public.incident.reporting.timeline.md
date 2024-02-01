@@ -162,3 +162,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+According [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2184295/rusijoje-ivyko-kaip-manoma-didziausias-iki-siol-interneto-rysio-sutrikimas) exists DNSSEC issue of an Internet Service.
+```
+
+```
+##### R esults
+Customers for limited amount of time can't access their Content.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* DNSSEC include secret key information. This piece of information are used for updates after they change. Making functionality checks before original change could help solve problems in the future.
+* DNSSEC changes & requirement(s) has to be schedules. To a service related system admin has to well-known that schedule.
+```
+
+```
