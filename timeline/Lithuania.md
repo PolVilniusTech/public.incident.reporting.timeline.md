@@ -1063,35 +1063,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [-](https://www.lrt.lt/naujienos/lietuvoje/2/1628142/simasius-skelbia-atsaukiamas-leidimas-didziajam-seimos-gynimo-marsui-stabdys-yandex-veikla-vilniuje) more and more Services are Closed in the Country which are providing e-Services.
-
-More sources:
-* [@Lrt.lt](https://www.lrt.lt/naujienos/eismas/7/1629105/minske-maziau-pavezeju-bolt-traukiasi-is-baltarusijos)
-* [-](https://www.lrt.lt/naujienos/verslas/4/1627182/aibe-stabdo-rusisku-ir-baltarusisku-prekiu-tiekima-ukrainai-skirs-100-tukst-euru)
-* [-](https://www.lrt.lt/naujienos/verslas/4/1625935/pigu-lt-nutraukia-prekyba-rusiskomis-ir-baltarusiskomis-prekemis)
-* [-](https://www.lrt.lt/naujienos/verslas/4/1626204/lietuvos-pastas-stabdo-rusisku-ir-baltarusisku-prekiu-bei-leidiniu-platinima)
-* [-](https://www.lrt.lt/naujienos/verslas/4/1626363/ekoagros-stabdo-veikla-rusijoje-ir-baltarusijoje)
-
-```
-
-```
-##### R esults 
-Less pluralism with the Entities-States which Operates more or less by 1% rules and 99% obeys of Political form.
-```
-
-```
-##### L earning from Mistakes 
-
-From such incidents there are possible to learn a lot. I.e.:
-*    Something is wrong with Geopolitical situation when half of people shout about Ukraine: Crisis and other half - (non-international) War. 
-*    High chance of Puppet regimes to Puppet individuals who are easily used of to do something unethical.
-*    Nowadays most of Discussions happen in the Internet.
-*    Only Internet won't help to the Physical Security of the Country, so there would be needed to increase spending to the Security of all ranges to the 5 GDP.
-```
-
-```
-##### I ncident
-
 According [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1639172/stiprus-kartu-internetine-svetaine-patyre-kibernetine-ataka) there were DDos Attack to the stipruskartu.lt Site from Foreign Network Sources.
 ```
 
@@ -1150,27 +1121,6 @@ From such incidents there are possible to learn a lot. I.e.:
 * Lack of personel could be made-done by having High requirements to which no one wants to apply. And sometimes, if You would take such person, the Higher Ups would Strip You down. Building better atmosphere in the Workplace would be good way for showing that Leaders and Mid-Bosses are Human and has to take the Action to solve every day Problems. Problems, which Higher-Boss, don't want to solve, but in contrast, if these Problems gonna build Up, then later on it could to Blow with more Damage.
 * If people lack of Knowledge, then they could be given some time to Learn Stuff including specific Rules, Policies and Legislations for specific Job. Periodical check-up of new updates and full Active document would be needed to take into the consideration. Usually such checks are made for Practice on First-Aid and Fire Protection knowledge and actions check-up.
 * Conducting Risk Assessment on various organisational Risks is First for Organisations with High Profit and In Huge countity of Personnel. Smaller Organisations could not catch up with Risk Assessment and Management.    
-```
-
-```
-##### I ncident
-
-According [-](https://www.lrt.lt/en/news-in-english/19/1658475/fearing-russia-threat-germans-cancel-trips-to-lithuania-s-neringa) described events, which looks like that someone fears for the Incident like in Islands of the Japanese people.
-```
-
-```
-##### R esults 
-People don't travel near the border with the Bully.
-```
-
-```
-##### L earning from Mistakes 
-
-From such incidents there are possible to learn a lot. I.e.:
-* Bullying is the same problem as Cyberbullying in the Internet.
-* If someone does their Idealogy by stepping in someones turf only for that to make his Borders disputible and not integral to the Laws (and maybe specific ones), which requires 100% of Border Integrity, then such places would have serious consequences from the Stronger Side. Maybe not in instant fashion but in longer period of time, when they get back the Chance.
-* Grabbing land by small pieces is nothing new, J.G.Caesar had his phrase, which well known for that. Normally it looks like unfaithful person, who pick ups around him on his wishes, but without any consent from other side. For first try to deal with that with the Phrase: "Shame on You!".
-* Building more secure demilitarized area with border patrol would be way to go. And would need create rotation of personel from Defence Forces and Other personel who has right to hold a Weapon-Gun in his hands. Usually Health checkup for these People are more Strict than regulars-citizens-commoners who would not step up on the different side of the border by accident. 
 ```
 
 ```
@@ -1349,26 +1299,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [-](https://www.lrt.lt/naujienos/sveikata/682/1702044/prasoma-atimti-gydytojo-licencija-uz-kysininkavima-nuteistam-dar-vienam-chirurgui-uz-operacijas-eme-nuo-100-iki-400-euru) doctor lost his License.
-```
-
-```
-##### R esults 
-Doctor can't use his expertise which were build in many Years of Education in the Medicine Sector.
-```
-
-```
-##### L earning from Mistakes 
-
-From such incidents there are possible to learn a lot. I.e.:
-* Nowadays even beggars, e.beggars (electronic device), i.beggars (internet platform) has electronic devices to collect Tips which are given by anyone who has smart device or card.
-* Hospitals lack of electronic devices and Managers to collect money from Patients which unfortunately later on would be distributed evenly to all the Doctors and Nurses, who has the same Work in the Operation Room. Additionaly event from such Actions - Taxes should be payed too.
-* There would be a lot of questions, in example, this Article [-](https://www.lrt.lt/naujienos/nuomones/3/1702078/marija-verner-kaip-pasauliui-sekasi-de-kolonizuoti-moteru-kunus) lacks gender neutral Job Names which something are done in here [-](https://www.unwomen.org/en/csw), but the Results could be not so [-](https://www.lrt.lt/naujienos/gyvenimas/13/1702004/makalius-apie-solo-keliones-yra-poru-kasmet-keliaujanciu-tuo-paciu-metu-bet-skirtingomis-kryptimis) and when in the Operation comes more than three Nurses, does this much are needed for simple Cut, Take out and Clean, Sew in example: the Human Condition:Cist'it-Cyst'yt.
-```
-
-```
-##### I ncident
-
 According this Article [Vilnius.lt](https://vilnius.lt/lt/gyvenamosios-vietos-vilniuje-deklaravimas/) there are given link to get Information for Foreign Entities how successfully declare their Residence Location in Vilnius. The links given for LT, EN, EU, etc. The EU link are directed to Russian speaking section (non Ukrainian). 
 ```
 
@@ -1432,48 +1362,6 @@ From such incidents there are possible to learn a lot. I.e.:
 * Review of Treaties, Agreements, Contracts would be wise way to find solution for such attacks to stop.
 * Does System and (or) simple Application has Security Controls in place to make such attack wasteful for the Attacker?
 * All Country Systems has meet at least minimal Requirements which are enforced by help of National Cyber Security Center of Republic Lithuania under Ministry of National Defence. 
-```
-
-```
-##### I ncident
-
-According this Resolution [LRT.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/7ccfdcc0cf8511ecb69ea7b9ba9d787b?positionInSearchResults=12&searchModelUUID=5013b01b-5740-45f3-91f6-d2cec93cdc67) it's required to change status of the defined Country into Terrorist Supporting Subject.
-```
-
-```
-##### R esults 
-Possible Threat to the Citizens-Persons who stays in the Terrorist Supporting Country.
-```
-
-```
-##### L earning from Mistakes 
-
-From such incidents there are possible to learn a lot. I.e.:
-* Private Sector are stopping ties with the Agressor Country. Currently it counts about 1100 Abroad Companies who left the Russia and (or) Russian Federation (following — Aggressor Country).
-* According the results of this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1728031/lietuvos-konsulas-apie-z-raidemis-apipaisyto-automobilio-incidenta-reguliariai-gauname-bjaurasties-su-visokiais-palinkejimais) there could be uncertainty for Republic of Lithuania who still have employees (diplomats, consul, etc.) in named Agressor Country. Who will take care for security of these employees in the engl. Moscow (Capital) / rus. Москвe (Cтолицe) of the Aggresor Country?
-* One Issue would be for how many ties Aggresor Country has with Afghanistan (Taliban in power) and for next one: in how many Ways the Taliban are Democratic who are representing whole Afghanistan in United Nations Organisation.
-* Uncertainty in Country Official ranks, because The People's Republic of China sended "Trustee of Issues" instead of any other diplomats and consuls, when the specific Institution in Republic of Lithuania was named as it was requested by Taipei Taiwan. It's unclear for following rhetoric Question: does someone forged the e-mail for such thing to happen, or it's huge differences in ethics, traditions and etc. between the Entities in Communication. 
-```
-
-```
-##### I ncident
-
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1730350/pekinas-uzsipuole-nato-del-visiskai-beprasmisko-ispejimo-kinijos-atzvilgiu) is easy to see that there are Sample of "Man-in-the-Middle" attack. For example there are many articles like this with Sentences [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/1729443/nato-vadovas-sustiprintos-greitojo-reagavimo-pajegos-bus-pasirengusios-veikti-2023-iaisiais) for „Rusija kelia grėsmę ne tik Europai, bet ir visai NATO“.
-```
-
-```
-##### R esults 
-Middle Man gets "strong friendship with the People’s Republic of China" by sending them propaganda as it was from the "Republic of Lithuania". 
-```
-
-```
-##### L earning from Mistakes 
-
-From such incidents there are possible to learn a lot. I.e.:
-* Middle Man could survive for very long, i.e. get Payments, which are directed not for them, spread disinformation between separate Countries-States, create Situation of War for their part of Economy Machine, i.e. Rockets. But History knows that Best Rocket Engineers took the United States of America (USA) after WWII.
-* Does there are at least Sanctions for those Disinformation spreaders, officers and higher ups? 
-* If You send a pille of digital/crypto Money, then after transaction, would be wise to safely ask from other side for the real numbers (Income) and the (Digital/Crypto) Currency.
-* Well not good for "People’s Republic of China", because the Propagandists Country(-ies) probably has cappability to create/are creating "(Small) Sattelite Republics" and makes more the word of "Republic" dirty, unpleasant. 
 ```
 
 ```
@@ -2201,26 +2089,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
-##### I ncident
-
-In this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2090534/mazeikiu-ir-sasnavos-aerodromus-siuloma-itraukti-i-strateginiu-imoniu-sarasa#lg=2090534&slide=1365832) provided Image with printed Material in It. Shown Member of the Nation Security Committee. 
-```
-
-```
-##### R esults
-The Material could contain Sensitive Information.
-```
-
-```
-##### L earning from Mistakes
-
-From such incidents there are possible to learn a lot. I.e.:
-*   The Media and News just make Photograph(s) in the Public for the Public. The Media and News don't have enough Knowledge in the National Security. 
-*   Do Not Show Sensitive Data In the Public. Do Not Show Identity Cards for the Access Control in the Public, if It could be easily Fabricated.
-```
-
-```
-
 ##### I ncident
 
 In this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2101098/kaip-elgiasi-grasinamuosius-laiskus-gavusios-mokyklos-kvietesi-saugos-bendrove-policija-vaikus-vede-i-parkus-uzluzo-tamo) provided Information about Local DDOS of the Educational Web Site.
