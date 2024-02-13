@@ -2496,3 +2496,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2194650/programisiai-bande-isilauzti-i-lietuvos-kariuomenes-sistemas-pradetas-tyrimas) Lithuanian Army System were breached.
+```
+
+```
+##### R esults
+Clients can't get their services from three telecommunication servers.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Article provide statement "Data were not leaked...". Nowadays when people could purchase services online whose could be located in other jurisdiction the VPN service could fool anyone about his whereabouts. The Article already provide opinion who is cluprit when the complete results are Unknown.
+* The Investigative Journalism - United Nations - Office on Drugs and Crime [unodc.org](https://www.unodc.org/documents/commissions/CCPCJ/CCPCJ_Sessions/CCPCJ_32/ISM_TD_Kyoto/Statements/UNODC_3_Spotlight_-_AC_and_journalism.pdf).
+```
+
+```
