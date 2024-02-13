@@ -322,6 +322,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [@Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1230743/narkotikai-pasto-siuntose-pareigunu-nebestebina-uzsimota-drausti-jiems-gaminti-skirtu-medziagu-siuntima) a Narcotics could be purchased Online. Shipment over Post Office service could be used to deliver purchased Packages.
+```
+
+```
+##### R esults 
+Electronic Services are used for trafficing illegal substances.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*  The Article mostly provide Idea only about narcotics import issue(s). The Article d'nt take in to the account local production capabilities.
+*  The Statistics found in here [unodc.org](https://www.unodc.org/unodc/en/data-and-analysis/) provide a bad situation in the European and North American Continent - identified & not completely identified purchase(s) over a Darknet.
+```
+
+```
 ### 2021
 
 ##### I ncident
