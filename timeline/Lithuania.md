@@ -2474,3 +2474,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2193161/bendrove-ignitis-patyre-programisiu-ataka) e.service (Software as a service) of a company "Ignitis" got a successful cyberattack.
+```
+
+```
+##### R esults
+Twenty thousand client's data were lost. This include data as a First Name, a Last Name, an E-mail address, a RFID data, a license plate number of an electromobile.
+Electromobile charging was unavailable & client's could not use e.service.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* In a situation when e.service's (i.e. Software as a service) could be a service, which operates from other jurisdiction there could be issues to local security staff to defend local Rights for example to get a Compensation for a Client's. When e.service exists in the same economic zone, then there should be enough of safeguards in place to solve case like this.
+* Company representative suggested for the client's to change their password's of the e.service.
+* In a situation of existance of unclonable RFID-tag's electromobile should be directly connected with a Tag. If this could be electromobile sharing service who depend by data in online database, then in a worst case of situation those electromobile's could be snached. There are nothing new by opening... the car with a Tag. Yet, mostly known that the mobile phone could be used instead of a Tag & this should be a different situation.
+* How this service were breached are given no information in the Article. Using advanced Captcha technologies for authentication security could minimize Authentication related breaches.
+```
+
+```
