@@ -2549,7 +2549,7 @@ Loss of money
 
 From such incidents there are possible to learn a lot. I.e.:
 * It's necessary to take in consideration that Advertisement are used by scammer(s) too. This is true for scammer(s) from this(ose) country(-ies) whose people admire and donate their savings.
-* National Cyber Security Center (NCSC) own nice Tool [nksc.lt](https://www.nksc.lt/tikrinti.html). This IP checker provide information about Computer Activity in TCP/IP Computer Network. I.e. this Computer IP Address not registered in "NKSC/CERT-LT" Database for full 30 day period. When Mobile phone(s) are important in daily social life, then why does the Police don't open possibility to test out Fixed & Mobile phone addresses for being in a "Database"? When Person really want to call it back at least he could check that phone number in a common "Database" for number of cases.  
+* National Cyber Security Center (NCSC) own nice Tool [nksc.lt](https://www.nksc.lt/tikrinti.html). This IP checker provide information about Computer Activity in TCP/IP Computer Network. I.e. this Computer IP Address not registered in "NKSC/CERT-LT" Database for full 30 day period. When Mobile phone(s) are important in daily social life, then why does the Police don't open possibility to test out Fixed & Mobile phone addresses for being in a "Database"? When Person really want to call it back, then at least he could check that phone number (not)exists in a common "Database" for number of cases.  
 
 ```
 
