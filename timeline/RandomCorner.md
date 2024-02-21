@@ -94,7 +94,7 @@ Does provided statistics are bias?
 From such innocents there are possible to learn a lot. I.e.:
 * According this Article in the 2022 Lithuanian Transport used Fuel out of which 6,7 percent were so named as "green" Fuel. Exists another term "green brain washing" and this are more related with disinformation.
 *  Eurostat data from europa.eu portal show this information [ec.europa.eu](https://ec.europa.eu/eurostat/databrowser/view/pipe_go_ttkm/default/table?lang=en&category=pipe). Lithuanian Oil pipeline transport goes from early 2013 Year. While the pipeline length does not change and is static [ec.europa.eu](https://ec.europa.eu/eurostat/databrowser/view/pipe_if_lenght/default/table?lang=en&category=pipe.pipe_if).
-*  Article does not take in Account various Vehicle types, i.e. Motorcycles [ec.europa.eu](https://ec.europa.eu/eurostat/databrowser/view/road_eqs_motorc/default/table?lang=en&category=road.road_eqs), Air transportation, Railroad transportation, Sea & Water transportation... The Article provide more directions to Passenger Cars [ec.europa.eu](https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carpda/default/bar?lang=en&category=road.road_eqs).
+*  Article does not take in Account various Vehicle types, i.e. Motorcycles [ec.europa.eu](https://ec.europa.eu/eurostat/databrowser/view/road_eqs_motorc/default/table?lang=en&category=road.road_eqs), Air transportation, Railroad transportation, High seas & Water transportation... The Article provide more directions to Passenger Cars [ec.europa.eu](https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carpda/default/bar?lang=en&category=road.road_eqs).
 ```
 
 ```
