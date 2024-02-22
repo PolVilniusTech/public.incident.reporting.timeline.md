@@ -3,7 +3,7 @@
 * https://www.nksc.lt/tikrinti.html
 * https://www.cert.orange.pl/aktualnosci/raport-cert-orange-polska-za-2020-rok 6-13 p.
 
-### 2016
+### 201
 
 ##### I ncident
 
@@ -2168,7 +2168,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According these Articles [1](https://www.lrt.lt/naujienos/verslas/4/2146938/vilniaus-rajono-savivaldybeje-po-atakos-veluos-ismokos-uz-duomenis-paprasyta-ispirkos), [2](https://www.lrt.lt/naujienos/lietuvoje/2/2143973/vilniaus-rajono-savivaldybe-patyre-kibernetine-ataka-tiriama-ar-nenutekejo-asmens-duomenys), [3](https://www.lrt.lt/naujienos/lietuvoje/2/2145847/nksc-nusikalteliai-uzsifravo-vilniaus-rajono-savivaldybes-duomenis-atsargines-kopijas), [4](https://www.lrt.lt/naujienos/lietuvoje/2/2146784/po-kibernetines-atakos-ktu-kreipsis-i-policija), [5](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2153835/per-kibernetine-ataka-nutekinti-ktu-duomenys-pardavin%C4%97jami-tamsiame-internete) Information Systems and their Backups of the Vilnius Municipality of the Region has got an Ransomware attack. 
+According these Articles [1](https://www.lrt.lt/naujienos/verslas/4/2146938/vilniaus-rajono-savivaldybeje-po-atakos-veluos-ismokos-uz-duomenis-paprasyta-ispirkos), [2](https://www.lrt.lt/naujienos/lietuvoje/2/2143973/vilniaus-rajono-savivaldybe-patyre-kibernetine-ataka-tiriama-ar-nenutekejo-asmens-duomenys), [3](https://www.lrt.lt/naujienos/lietuvoje/2/2145847/nksc-nusikalteliai-uzsifravo-vilniaus-rajono-savivaldybes-duomenis-atsargines-kopijas), [4](https://www.lrt.lt/naujienos/lietuvoje/2/2146784/po-kibernetines-atakos-ktu-kreipsis-i-policija), [5](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2153835/per-kibernetine-ataka-nutekinti-ktu-duomenys-pardavin%C4%97jami-tamsiame-internete) Information Systems and their Backups of the Vilnius Municipality of the Region has got an Ransomware attack. Data leak from the Higher Education School.  
 ```
 
 ```
