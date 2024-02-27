@@ -2555,7 +2555,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2207021/finansu-konsultantu-apsimetes-vyras-is-senjores-isviliojo-daugiau-nei-19-tukst-euru) single pensioneer lost 19.200 EU (Nineteen thousand two hundred Euros)
+According those Articles [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2207021/finansu-konsultantu-apsimetes-vyras-is-senjores-isviliojo-daugiau-nei-19-tukst-euru) and [Lrt.lt](https://www.lrt.lt/ru/novosti/17/2207098/moshennik-vymanil-u-pozhiloi-zhenshchiny-bolee-19-000-evro) single pensioneer lost 19.200 EU (Nineteen thousand two hundred Euros).
 ```
 
 ```
@@ -2568,6 +2568,7 @@ Person lost money.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Digital competency are in decline. Even regular Article does not provide information how physically person could come to pensioneer and grab his money from Bank Account. (i) Does pensioneer provided full information, full access, password(s), identification documents? (ii) This more looks like grab of pension for which pensioneer does not have any decision.
+* Second Article include knowledge of 19000 = 19200 EU. Digital competencies also related with knowledge of calculus.
 ```
 
 ```
