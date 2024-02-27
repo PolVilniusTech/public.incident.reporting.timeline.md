@@ -3,7 +3,7 @@
 * https://www.nksc.lt/tikrinti.html
 * https://www.cert.orange.pl/aktualnosci/raport-cert-orange-polska-za-2020-rok 6-13 p.
 
-### 201
+### 2016
 
 ##### I ncident
 
@@ -2550,7 +2550,24 @@ Loss of money
 From such incidents there are possible to learn a lot. I.e.:
 * It's necessary to take in consideration that Advertisement are used by scammer(s) too. This is true for scammer(s) from this(ose) country(-ies) whose people admire and donate their savings.
 * National Cyber Security Center (NCSC) own nice Tool [nksc.lt](https://www.nksc.lt/tikrinti.html). This IP checker provide information about Computer Activity in TCP/IP Computer Network. I.e. this Computer IP Address not registered in "NKSC/CERT-LT" Database for full 30 day period. When Mobile phone(s) are important in daily social life, then why does the Police don't open possibility to test out Fixed & Mobile phone addresses for being in a "Database"? When Person really want to call it back, then at least he could check that phone number (not)exists in a common "Database" for number of cases.  
+```
 
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2207021/finansu-konsultantu-apsimetes-vyras-is-senjores-isviliojo-daugiau-nei-19-tukst-euru) single pensioneer lost 19.200 EU (Nineteen thousand two hundred Euros)
+```
+
+```
+##### R esults
+Person lost money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Digital competency are in decline. Even regular Article does not provide information how physically person could come to pensioneer and grab his money from Bank Account. (i) Does pensioneer provided full information, full access, password(s), identification documents? (ii) This more looks like grab of pension for which pensioneer does not have any decision.
 ```
 
 ```
