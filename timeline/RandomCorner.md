@@ -98,3 +98,22 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According those pair of sites [-](https://lrkt.lt/en/court-acts/search/170/ta2949/summary) and [-](https://lrkt.lt/en/about-the-court/news/1342/the-provisions-of-the-law-on-the-legal-status-of-aliens-relating-to-the-temporary-accommodation-of-an-asylum-seeker-in-an-aliens-registration-centre-during-a-state-of-emergency-were-are-in-conflict-with-the-constitution:553) provided idea about the "National Certificate" (in other words a passport of opportunities) & an "Aliens registration center" (in other words a Native Foreigner Registration Center).
+```
+
+```
+##### R eseach
+Does (Lithuanian) Drug, Tobacco and Alcohol Control Department could be renamed as Narcotic, Cigarette, Spirit and Gambling Control Department?
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Passport of Opportunities — set of words plausibly could link with a "Gold" Passport System. A way to get more non-hard workers & tourists.
+* Aliens registration center — According the first word who has only Russian translation and English translation in here [vlkk.lt](https://terminai.vlkk.lt/paieska?search=Alien&zodzio_dalis=0&kalba=2&kaip0=on&sritys=&statusas=0&rykiavimas=0) plausibly could make anti-advertising to the rest of the World. At least this does not include Extraterrestrials (Chapter 12) [nasa.gov](https://www.nasa.gov/wp-content/uploads/2015/01/archaeology_anthropology_and_interstellar_communication_tagged.pdf).
+* Site [domreg.lt](https://www.domreg.lt/paslaugos/whois/?search=lrkt.lt) show that upkeep term ends in 30/10/2024 23:59:59 (dd/mm/yyyy hh:ii:ss). Jurisdictional bodies could have a end of duration just like commoner(s) in the World-Wide-Web.
+```
+
+```
