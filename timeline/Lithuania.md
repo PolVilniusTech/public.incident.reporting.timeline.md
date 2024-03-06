@@ -2536,7 +2536,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According thos Articles [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2198431/policija-siemet-fiksuoja-sukciavimo-buma-pradeta-per-500-ikiteisminiu-tyrimu) [J.B.](https://www.lrt.lt/naujienos/verslo-pozicija/692/2194372/justina-bagdanaviciute-atsidure-romantiniu-sukciu-spastuose-gyventojai-neteko-300-tukst-euru) inreased amount of (investing & romantic) (SMS & e-mail) scam attacks by 33 percent.
+According those Articles [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2198431/policija-siemet-fiksuoja-sukciavimo-buma-pradeta-per-500-ikiteisminiu-tyrimu) [J.B.](https://www.lrt.lt/naujienos/verslo-pozicija/692/2194372/justina-bagdanaviciute-atsidure-romantiniu-sukciu-spastuose-gyventojai-neteko-300-tukst-euru) inreased amount of (investing & romantic) (SMS & e-mail) scam attacks by 33 percent.
 ```
 
 ```
@@ -2569,6 +2569,46 @@ Person lost money.
 From such incidents there are possible to learn a lot. I.e.:
 * Digital competency are in decline. Even regular Article does not provide information how physically person could come to pensioneer and grab his money from Bank Account. (i) Does pensioneer provided full information, full access, password(s), identification documents? (ii) This more looks like grab of pension for which pensioneer does not have any decision.
 * Second Article include knowledge of 19000 = 19200 EU. Digital competencies also related with knowledge of calculus.
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2215264/sukciu-pinkles-internetineje-investavimo-platformoje-klaipedietis-prarado-daugiau-kaip-51-tukst-euru) in Cyberspace exists possibilities to lose Money and one of those Threats is a Investment Fraud. 
+```
+
+```
+##### R esults
+Person plausibly lost a huge sum of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Internet is meant for the Internet e.Payments. When Person want to stop participating in unknown gambling activities, then this Person should take in an account plausibility that this(-ose) internet sites could deny his request for gambling, ref. [epaslaugos.lt](https://www.epaslaugos.lt/portal/service/74420/13221?searchId=dc364005-8bed-4487-b267-56e67ed3d504).
+* When Person want to make Money Investment, then awareness of selecting right place are very important. Ref. [lb.lt](https://www.lb.lt/lt/investavimas-kaip-atpazinti-sukcius#ex-1-2).
+* At the previous reference domain are plausible to locate illegal and forbbiden investment internet sites. DNSSEC widespread use could enforce protective means when this tool are in use [nksc.lt](https://www.nksc.lt/uzkarda.html) and protection - full automatic.
+* Your computer - smartphone connection don't have DNSSEC support? Public and Private Key Cryptography Key Management usually are made by telecommunication companies and they provide list of DNS services, which Client should use. Registration for personal DNSSEC keys could help and improve the situation or usual approach - use Anti-Virus Software with this type of service. Anyway, common non-Browser Software Product could just not use this tech, then awareness of Software Product(s) plausibilities also are needed.   
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/eismas/7/2215274/vilniuje-pasisavintas-40-tukst-euru-vertes-automobilis-pasinaudojo-mobiliaja-programele-ir-kito-zmogaus-duomenimis) mobile program could provide fake data to the service and open + start the Car - Vehicle. 
+```
+
+```
+##### R esults
+Loss of Asset.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* In automobile sharing company [citybee.lt](https://citybee.lt/lt/transportas/) are plausible to rent the Car - Vehicle, which are described in the Article. Snaching the Car - Vehicle with other Person's data is not a common incident. This could lead into unknown & negative consequences for the business.
+* Smart Home, Smart Automobile industry has measures that with mobile phone, smart card You could open Doors. Safety and Emission Recalls shown in here [bmwusa.com](https://www.bmwusa.com/safety-and-emission-recalls.html). This should include Software and Hardware issues. Taking care of Your own Asset should go as priority no. One.
 ```
 
 ```
