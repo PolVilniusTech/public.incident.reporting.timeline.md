@@ -2608,7 +2608,7 @@ Loss of Asset.
 
 From such incidents there are possible to learn a lot. I.e.:
 * In automobile sharing company [citybee.lt](https://citybee.lt/lt/transportas/) are plausible to rent the Car - Vehicle, which are described in the Article. Snaching the Car - Vehicle with other Person's data is not a common incident. This could lead into unknown & negative consequences for the business.
-* Smart Home, Smart Automobile industry has measures that with mobile phone, smart card You could open Doors. Safety and Emission Recalls shown in here [bmwusa.com](https://www.bmwusa.com/safety-and-emission-recalls.html). This should include Software and Hardware issues. Taking care of Your own Asset should go as priority no. One.
+* Smart Home, Smart Automobile industry has measures that with mobile phone, smart card You could open Doors. Safety and Emission Recalls shown in here [bmwusa.com](https://www.bmwusa.com/safety-and-emission-recalls.html). This should include Software and Hardware issues. Taking care of Your own Asset should go as priority no. One. p.s. Site Search in [bmw.com](https://www.bmw.com/en/search.html#recall) for Recall provide only "Fictional" Results.
 ```
 
 ```
