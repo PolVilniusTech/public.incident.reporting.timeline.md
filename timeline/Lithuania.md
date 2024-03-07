@@ -2650,7 +2650,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Jurisdiction document for those credit's [infolex.lt](https://www.infolex.lt/ta/142009#).
 * Licensor of credit and cash givers in here: [lb.lt](https://www.lb.lt/en/faq).
 * Does mobile phone is enough to take this cash and credit? has person used qualified signature, mobile-ID...there is just no idea.
-* Does person were delegated from original requestor? Some plausibility could be found in here ffrom business and common entities [epaslaugos.lt](https://www.epaslaugos.lt/portal/).
+* Does person were delegated from original requestor? Some plausibility could be found in here for business and common entities [epaslaugos.lt](https://www.epaslaugos.lt/portal/).
 ```
 
 ```
