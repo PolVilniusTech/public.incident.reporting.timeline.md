@@ -65,7 +65,7 @@ According [Lrt.lt](https://www.lrt.lt/naujienos/verslo-pozicija/692/2144065/alek
 
 ```
 ##### R eseach 
-Does the Single Term could do a Catastrophic Impact?
+Single Word or Term.
 ```
 
 ```
@@ -85,7 +85,7 @@ According [ELTA](https://www.lrt.lt/naujienos/verslas/4/2200474/eurostat-lietuva
 
 ```
 ##### R eseach 
-Does provided statistics are bias?
+Bias in the News.
 ```
 
 ```
@@ -104,7 +104,7 @@ According those pair of sites [-](https://lrkt.lt/en/court-acts/search/170/ta294
 
 ```
 ##### R eseach
-Does (Lithuanian) Drug, Tobacco and Alcohol Control Department could be renamed as Narcotic, Cigarette, Spirit and Gambling Control Department?
+Orchestration with the Names.
 ```
 
 ```
