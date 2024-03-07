@@ -2612,3 +2612,45 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2215652/kaip-ir-kokie-tamo-duomenys-buvo-nutekinti-vogta-is-vartotoju-kompiuteriu-ispeja-del-galimo-pavojaus) TAMO e.service users are constantly attacked from entities who want to get data from this Site. Statement: Probable data collection activity from a long long past. Service users compromising e.service, so probably they need to refresh Knowledge of Cybersecurity.
+```
+
+```
+##### R esults
+e.Service users compromising their own e.Service Accounts.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When there is a talk about National Cyber Security Center, then citizens could argue that they use some type Browser Software, which could be at fault, to access this e.Service.
+* Does popular Browser Sofware is a very secure Software? I.e. Google Browser - a free (and open) Software.
+* TAMO has Google supported Cookiebot functionality, use www.googletagmanager.com + www.google.com/recaptch + fonts.googleapis.com. What this Site does not has is a guided functionality of [developers.google.com](https://developers.google.com/publisher-tag/guides/content-security-policy). Allowing what is allowed, rejecting what is not allowed and there should be less problems for e.Service Users, because they probably has smart enough Browser Software.
+* Data collection activity from a long long time? When somebody could include malicious code in the source code of the System (directly/indirectly). When this could be the case, then they could grab the data of hundreds and thousands people. Secure versioning of a TAMO code? secure architecture re-check of a authentication mechanism? searching for plausible data stealer code and how this was introduced to the System.
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2216193/klaipedoje-kito-zmogaus-vardu-prisistates-asmuo-paeme-18-3-tukst-euru-kredita) somebody could take credit and cash thanks to a stolen data. And (or) person could fake his wish to take the credit and cash.
+```
+
+```
+##### R esults
+Credit and cash was stolen or not.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Jurisdiction document for those credit's [infolex.lt](https://www.infolex.lt/ta/142009#).
+* Licensor of credit and cash givers in here: [lb.lt](https://www.lb.lt/en/faq).
+* Does mobile phone is enough to take this cash and credit? has person used qualified signature, mobile-ID...there is just no idea.
+* Does person were delegated from original requestor? Some plausibility could be found in here ffrom business and common entities [epaslaugos.lt](https://www.epaslaugos.lt/portal/).
+```
+
+```
