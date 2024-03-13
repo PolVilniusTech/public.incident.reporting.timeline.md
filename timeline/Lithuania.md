@@ -2654,3 +2654,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2220791/sostineje-sukciai-is-moters-isviliojo-beveik-10-tukst-euru) a Person has clicked on the email link and filled all e.banking data. After this action this Person lost personal belonging money. 
+```
+
+```
+##### R esults
+Person could get scammed by unknown entity(-ies).
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Minimum requirement to start doing actions in the online banking requires [barclaycard.co.uk](https://www.barclaycard.co.uk/content/dam/barclaycard/documents/business/help-and-support/Authentication-card.pdf) knowing PIN (what You known) and having PIN Sentry Card Device (what you have). From the Article there is no way to know what option(s) to authenticate itself to an e.banking institution this Person had & has.
+* The problem could be related with non-legal investment and about that Person(s) should build awareness using this source from the Lithuanian Bank: [lb.lt](https://www.lb.lt/lt/sukciavimas).
+* IP address to hostname conversion service could be at fault, fake Site could be build by the scammer who just look like a original Site. In this case Banking institution should have e.banking site with good and proper defences, i.e.  [lb.lt](https://www.lb.lt) has Header Security Rules "frame-ancestors 'self' monetos.lb.lt coins.lb.lt *.cv.lt *.cvonline.lt;". This data clearly provide data to the modern Browser App(s) and answer the serious questions: what are allowed and what aren't allowed?
+```
+
+```
