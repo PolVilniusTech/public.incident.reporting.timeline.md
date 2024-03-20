@@ -2674,3 +2674,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+By taking in Account this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2229489/krepsta-puse-kriptobendroviu-turi-fiktyviu-imoniu-pozymiu) in Lithuania has been registered no less than 580 with Cryptocurrency related Entities.
+```
+
+```
+##### R esults
+Huge chance of lack of transparency and money laundering issues.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* According Department of the Treasury (U.S.A.) to the digital currency is possible to add a "sovereign cryptocurrency".
+* According Department of the Treasury (U.S.A.) to the digital currency is possible to add a "virtual currency" or the currency which is neither issued nor guaranteed by any jurisdiction.
+* In Republic of Lithuania from previous view points there should be huge shortage of experts who could solve legal issues of Cryptocurrency and to protect the public interest. Uncontrolled Cryptocurrency could mean only huge gap in financial literacy when regular "Paypal" Accounts are "monitored" .
+```
+
+```
