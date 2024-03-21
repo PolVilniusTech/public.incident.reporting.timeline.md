@@ -2695,6 +2695,7 @@ From such incidents there are possible to learn a lot. I.e.:
 
 ```
 ##### I ncident
+
 By opening the link [lrv.lt](https://zum.lrv.lt/lt/naujienos/kailiniu-zvereliu-laikytojams-laikinoji-valstybes-pagalba-1/) response with error code. At this time the original Location of the link is here [lrv.lt](https://koronastop.lrv.lt/lt/naujienos?page=112).
 By opening the link [lrv.lt](https://sam.lrv.lt/lt/naujienos/seimas-pritare-patobulintam-asmenines-apsaugos-priemoniu-rezervo-kaupimo-modeliui) response with error code. At this time the original Location of the link is here [lrv.lt](https://koronastop.lrv.lt/lt/naujienos?page=114).
 By taking in Account whole Web Portal [lrv.lt](https://koronastop.lrv.lt/lt/) there is provided no information about responsible coordinated disclosure of the Web Site and their App(s).
@@ -2713,6 +2714,25 @@ From such incidents there are possible to learn a lot. I.e.:
 * In technological way second level domains does not communicate with each other when the whole Web Software for first level domain is with the same Framework. When one content admin make changes in his second level domain news page as the result an other content admin who used his link does not get any notification(s). The whole purpose of using second level domains with unified framework should solve communication issues as described above. One contant admin feels at ease when he manage his own Site, no accountability of his to other content admin(s). Regular way to solve this issue — collecting all page modifications (history) at one place and providing unified button to open latest version of a page. This way there could be less problems with interlinking between different sites. Usualy content has limited time to exist and to solve this issue this(these) page(s) could provide information for how long the information are relevant. When using framework probably easies way would be to cache or scrap the content into own database, so content admin(s) could be at ease.
 * This Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1389617/beveik-30-tukst-euru-ir-nepasiteisinusi-pandemijos-suvaldymo-priemone-kas-nutiko-su-korona-stop-programele) give idea that exist(s) "Korona STOP" Software Application. This Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1354688/uz-bdar-pazeidimus-programeleje-karantinas-bauda-nvsc-ir-jos-kurejams) give idea that exist(s) "Karantinas" Software Application. From personal experience — exists "Web Site(s)" for registration, so in general there exists number of solutions for the main purpose to make registration and grab the personal data. (a) Who's trusted and who's not? (b) What will be done with the data, which people has to enter into the software application(s) and web site(s)? (c) How the data will be handled? (d) Does all sites and software apps use one registrar and take data from that location? (e) Does all of those entities has legit privileges to do so?
 * When the landscape of software are not in place, then ennumeration of faulty software not easy to grasp.
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2230404/valstybiniu-instituciju-svetainiu-veikla-atstatyta-dar-neveikia-prezidenturos-tinklalapis) several public sector sites were not available. 
+```
+
+```
+##### R esults
+Citizens, officials, public servants could not access their e.service for 3 hours and 20 minutes.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Referencing information from [Copilot](https://copilot.microsoft.com/): Achieving high availability involves minimizing downtime. Here’s a glimpse of maximum allowed downtime based on availability percentage: 99% availability: Up to 3.65 days per year. 99.9% availability: Up to 8.77 hours per year. 99.99% availability: Up to 52.60 minutes per year. 99.999% availability: Up to 5.26 minutes per year. 99.9999% availability: Up to 31.56 seconds per year. 99.99999% availability: Up to 3.16 seconds per year. 99.999999% availability: Up to 315.58 milliseconds per year.
+* When there exists no availability percentage in a contract, then hosting service is not accountable for incidents like this. Of course, there could be a whole book of responsibilities and consequences.
 ```
 
 ```
