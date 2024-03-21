@@ -2736,3 +2736,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2230828/muitine-sutrikusi-e-sistema-buvo-pristabdziusi-vilkiku-eisma-pasienyje-su-kaliningradu) Customs of the Republic of Lithuania e.system were not Available.
+```
+
+```
+##### R esults
+Citizens, officials, public servants, Importers and Exporters could not access their e.service up to 11-12 hours.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* About one Region in the Article: Poland name the Region as "Karaliaučius" (lit. l.).
+* There could be hard to grasp a difference between Electronic document system and Electronic web page.
+* When electronic system does not work a regular paper based workflow are plausible.
+```
+
+```
