@@ -131,7 +131,8 @@ Search for a Truth behind the Web.
 
 From such innocents there are possible to learn a lot. I.e.:
 * According rules in the road here [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.203613) from April 10 tires has to be changed.
-* More issues around the corner — [state.gov](https://2009-2017.state.gov/documents/organization/234570.pdf) require to keep inexpensive tire gauge in your vehicle and check your tire pressure every time you get gas (the manufacturer's recommended pressure is usually posted inside the door of your car or in your owner's manual). Inspect your tires regularly for cracks, bulging, worn spots, or shallow tread. 
+* More issues around the corner — [state.gov](https://2009-2017.state.gov/documents/organization/234570.pdf) require to keep inexpensive tire gauge in your vehicle and check your tire pressure every time you get gas (the manufacturer's recommended pressure is usually posted inside the door of your car or in your owner's manual). Inspect your tires regularly for cracks, bulging, worn spots, or shallow tread.
+* European Union has mandatory vehicle insurance. This safeguards noble driving and other negative aspects, i.e. [lrt.lt](https://www.lrt.lt/naujienos/eismas/7/2231745/pavasaris-isbudina-ir-ilgapirscius-draudikai-perspeja-apie-daznejancias-automobiliu-ir-ju-daliu-vagystes). Do not forget that insurance has limitations [cab.lt](https://www.cab.lt/europos-ekonomines-erdves-valstybes/). Take a note that even the "green card" has limitations, i.e. at this time with Lithuanian insurance in Belarus, Russia and Iran according [cab.lt](https://www.cab.lt/ne-europos-ekonomines-erdves-valstybes/) they provize zero or simply - no insurance.
 ```
 
 ```
