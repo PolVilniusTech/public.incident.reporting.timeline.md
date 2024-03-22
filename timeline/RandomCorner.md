@@ -136,3 +136,20 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According this Site [un.org](https://digitallibrary.un.org/search?ln=en&cc=Voting%20Data&p=&f=&rm=&sf=&so=d&rg=50&c=Voting%20Data&c=&of=hb&fti=0&fct__3=2024&fti=0) there are provided Voting (Meta) Data "Yes: No of Yes'es | No: No. of No's | Abstentions: No. of Abstension's | Non-Voting: No. of Non-Voter's | Total voting membership: No. of Total Member's who voted". This Article [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2231857/rusija-ir-kinija-vetavo-jt-saugumo-tarybos-rezoliucija-del-paliaubu-gazos-ruoze) provide idea about new Meta Data, i.e. Drop all the cases out of the plan and quit.
+```
+
+```
+##### R eseach
+Voting Meta Data 
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* When transparency is lacking people can't understand the Aim's of an Organisation plan's.
+```
+
+```
