@@ -2776,3 +2776,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2231348/stabtels-pajamu-deklaravimas-penktadieni-neveikia-vmi-sistemos) a lot of VMI managed systems are limited with access over electronical government gate system.
+```
+
+```
+##### R esults
+Electronical services, except electronic declaration system, has limitations until wider Access is unavailable.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Authentication over (Mobile) phone with direct call could mean that person is required to disclose out loud (his) personal and sensitive information. It's necessary to take precautions.
+* Companies over internet are using VoiP phone(s), which in the Lithuania are not very wide yet.
+```
+
+```
