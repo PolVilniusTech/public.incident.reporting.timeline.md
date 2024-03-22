@@ -2756,3 +2756,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2231207/sukciai-toliau-is-gyventoju-vilioja-pinigus-zala-siekia-beveik-65-tukst-euru) scammers grab money from institution bank account. Scam on investment to web site. 
+```
+
+```
+##### R esults
+Number of citizens lost their own and instutition's assets.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When personal computer or institution server are at risk, they could be used to send internal malicious messages with intend to scam for valuables. Would You help to the "colleague" over electronic channel?
+* Install Antivirus and Antimalware solution. Use application(s) who could be securely handled thanks to this Antivirus and Antimalware solution.
+* Take responsibility for the assets when they belong to someone else, i.e. institution, other person. Don't be fooled that another person's knowledge and turf are Yours & better ask for salary increase.
+```
+
+```
