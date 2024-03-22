@@ -117,3 +117,21 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According this Site [15min.lt](https://www.15min.lt/verslas/naujiena/saugukelyje-lt/kas-siame-vaizdelyje-ne-gerai-motociklu-tarp-eiliu-nardantis-policininkas-su-vasarinemis-padangomis-1662-2210948) officer is acused of using inapropriate wheels.
+```
+
+```
+##### R eseach
+Search for a Truth behind the Web.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* According rules in the road here [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.203613) from April 10 tires has to be changed.
+* More issues around the corner — [state.gov](https://2009-2017.state.gov/documents/organization/234570.pdf) require to keep inexpensive tire gauge in your vehicle and check your tire pressure every time you get gas (the manufacturer's recommended pressure is usually posted inside the door of your car or in your owner's manual). Inspect your tires regularly for cracks, bulging, worn spots, or shallow tread. 
+```
+
+```
