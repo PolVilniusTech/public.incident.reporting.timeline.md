@@ -153,3 +153,32 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According this Site [letschinese.com](https://letschinese.com/telegram-china/) there are provided subjective opinion about what are blocked and banned in China in Social Media segment. Information get's compared with [wikipedia.org](https://en.wikipedia.org/wiki/Telegram_(software)) and later on ideas checkt with [washingtonpost.com](https://www.washingtonpost.com/news/the-intersect/wp/2015/11/23/the-secret-american-origins-of-telegram-the-encrypted-messaging-app-favored-by-the-islamic-state/) "Journal" Site.
+```
+
+```
+##### R eseach
+How Social Media are including payments linked with banking institutions.
+How Social Media is securing Sites with encryption technologies.
+In the process those Sites as matter of fact are getting banned or blocked.
+Lack of protection from International Terrorists and Money Laundering.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* According first Site: Facebook is blocked in China. Line is banned in China. Messenger is blocked in China. Signal is banned in (mainland) China. Telegram is blocked in China. WhatsApp is blocked in China.
+* According first Site: QQ is banned in India. WeChat is banned in India.
+* According LetsChinese a Telegram is registered as an American LLC. According Wikipedia Telegram servers are distributed worldwide, while the headquarters are in Dubai, United Arab Emirates. From the History view-point they don't even look that they were registered in an America?
+* Acording Washington Post Telegram is looks for a ways for being technologically and ideologically unsurveillable. A Telegram is typically described as a highly principled, Berlin-based nonprofit, when Wikipedia already provide information that they already moved to other jurisdiction. The app’s encryption methods are “really nonstandard” and probably there are no cryptoanalysts who could break them. I.e. Public sector of Lithuania never had a need for code breakers. Country are fully dependant by EU && NATO developed & used technologies. Belarussian & Chinese & Israeli & Palestinian & Russian & Ukrainian... tech companies rely on the same "standards" for international communication. So in other words, how trustworthy requirement to meet the standard for 100%? Each bank institution should have their own standard who derive from "original". Take a note of random one from a million banking institutions, when this institution get's breached? When every of them use the same standard, then all of them could be a next victim.
+* Exist number of professional journalist web sites and they more or less make bussines like this: older articles are made open for everyone, because of being out of date.
+* Number of jurnalists already do not confirm information from "original" sources and even information in War torn countries and for this reason there is less transparency and truth. A commentator from one country do review and does not conduct a comprehensive research.
+* Travel to the point cost a lot when we compare one jurisdiction with another. Accessing (web) sites could need funds, because of required minimal fees for membership.
+* Open news provide or tend to provide references and links, and citations to an original sources.
+* Closed News (Web) Sites could lack of payment options from one of following two points: a) technology <A> used for providing access to local payments from bank institution when used main bank account; b) technology <B> (i.e. PCI-DSS) used for providing access to international payments from the (same) bank institution via non-main bank account, but secondary account to which you will send money from main one for web payments.
+* Does exist place where doctor in some country just can't get the data, because of something as this [bbc.com](https://www.bbc.com/news/technology-52941394). This is when an access to non-printed material taking to the next level. Rhetorical question(s): (nil) organisational issues? (i.) payments? (ii.) electronic device? (iii.) reader technology? (iv.) internet access? (v.) competence? (vi.) terrestrial question: i.e. "human resources"?
+```
+
+```
