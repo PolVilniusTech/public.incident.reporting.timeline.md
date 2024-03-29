@@ -2795,3 +2795,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/RRT%20not%20Available%202024-03-29.PNG) and provided Image in the GitHub Service RRT Site is not Available.
+```
+
+```
+##### R esults
+Information about digital resources is unavailable. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When there is need to learn more about emergency signals then information like this could help [pagd.lrv.lt](https://pagd.lrv.lt/lt/ugniagesiai-pataria/civilines-saugos-signalai-ir-informacija-gyventojams/).
+* When citizens want better technologies, i.e. only 5G Network, and in contrast Private Sector and (or) Public Sector shut down older 2G, 3G.. Networks we get chance that Emergency Systems could be outdated and new devices can't get response's & notification's.
+* Fire Protection and Rescue Department under the Ministry of the Interior are maintaining Site [lt72.lt](http://lt72.lt/) and every citizen could check [lt72.lt](https://lt72.lt/kategorija/pranesimai/) while his device get notifications or not.
+* Statistics of Availability for each public Service could help in Incident Response in some how.
+```
+
+```
