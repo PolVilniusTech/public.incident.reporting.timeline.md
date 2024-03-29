@@ -2809,10 +2809,10 @@ Information about digital resources is unavailable.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* When there is need to learn more about emergency signals then information like this could help [pagd.lrv.lt](https://pagd.lrv.lt/lt/ugniagesiai-pataria/civilines-saugos-signalai-ir-informacija-gyventojams/).
+* When there is need to learn more about emergency signals, this could help [pagd.lrv.lt](https://pagd.lrv.lt/lt/ugniagesiai-pataria/civilines-saugos-signalai-ir-informacija-gyventojams/).
 * When citizens want better technologies, i.e. only 5G Network, and in contrast Private Sector and (or) Public Sector shut down older 2G, 3G.. Networks we get chance that Emergency Systems could be outdated and new devices can't get response's & notification's.
-* Fire Protection and Rescue Department under the Ministry of the Interior are maintaining Site [lt72.lt](http://lt72.lt/) and every citizen could check [lt72.lt](https://lt72.lt/kategorija/pranesimai/) while his device get notifications or not.
-* Statistics of Availability for each public Service could help in Incident Response in some how.
+* Fire Protection and Rescue Department under the Ministry of the Interior are maintaining Site [lt72.lt](http://lt72.lt/) and every citizen could check [lt72.lt](https://lt72.lt/kategorija/pranesimai/) while his device are getting notifications or not.
+* Statistics of Availability for each public Service could help to Incident Response in some how.
 ```
 
 ```
