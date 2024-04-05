@@ -330,6 +330,8 @@ From such incidents there are possible to learn a lot. I.e.:
 * The Public Wikipedia Page could be filled by anyone. Even so there is no simple Link or Reference to the "hacker" Term. If those "hackers" are shown as in the ISO Database as "Technically sophisticated computer enthusiast who uses his or her knowledge and means to gain unauthorized access to protected resources", then does the Service copperate with law enforcement, which are more in the Protection Side?
 * The Service could very simply explain how to make this "hacking" approved. At the Beginning: at least Consent from the Site Owners to conduct the "hacking". In nowadays a lot of those enthusiast People are just fooled by some Third Party, which has their own Goals and more Unlawful than that.
 ```
+
+```
 ### 2024
 
 ##### I ncident
