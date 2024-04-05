@@ -330,3 +330,25 @@ From such incidents there are possible to learn a lot. I.e.:
 * The Public Wikipedia Page could be filled by anyone. Even so there is no simple Link or Reference to the "hacker" Term. If those "hackers" are shown as in the ISO Database as "Technically sophisticated computer enthusiast who uses his or her knowledge and means to gain unauthorized access to protected resources", then does the Service copperate with law enforcement, which are more in the Protection Side?
 * The Service could very simply explain how to make this "hacking" approved. At the Beginning: at least Consent from the Site Owners to conduct the "hacking". In nowadays a lot of those enthusiast People are just fooled by some Third Party, which has their own Goals and more Unlawful than that.
 ```
+### 2024
+
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2242469/nutekinti-mazdaug-puses-estijos-gyventoju-asmeniniai-duomenys) from a Company "Apotheca" were leaked data.
+```
+
+```
+##### R esults
+Leaked information about 43 000 000 units of goods.
+Leaked following information: personal identity codes, purchase history, contact information of clients (400 thousand email addresses, 60 thousand home addresses, 30 thousand phone numbers).
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When exists chance to own full information about goods and products, then is plausible to build web site for selling these goods online. There are following more important questions: Quality of goods, Manufacturer(s) & Vendor(s), Price of goods, Licensed and competent personel, Standard and secure e.system.
+* Article hyperbolises News: data leaked from around half of Estonian citizens. When open encyclopedia [wikipedia.org](https://en.wikipedia.org/wiki/Estonia) provide nearly 1 400 000 no. of citizens. This could show that Article is biased and the news quality in Question. By checking Estonian news [err.ee](https://www.err.ee/search?phrase=Apotheca) they don't seem that take big deal with a problem.
+```
+
+```
