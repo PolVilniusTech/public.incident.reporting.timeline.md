@@ -47,3 +47,27 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+### 2024
+
+##### I ncident
+
+According this [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2241900/nutekinta-77-mln-slapuku-is-lietuvos-sukciams-atsirado-galimybe-prisijungti-prie-paskyru-be-patvirtinimo) happened World-wide Cookie tech leak.
+```
+
+```
+##### R esults
+Around 77 000 000 Lithuanian HTTP session cookies were leaked.
+Out of these Lithuanian cookies only twenty four percent could be active and working.
+Most found Cookies from Spain.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* In these Cookies plausibly could be found information like personal information, i.e. email address, location, home address..., authentication information, i.e. session tokens, (hashed) password...
+* According [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2164607/google-ima-riboti-tam-tikrus-narsykleje-chrome-saugomus-slapukus) Google start limiting Cookie technology and moving out from this technology. A Company like Google has already reached it's Life-cycle when Company could drop the Cookie technology from their Products. At this time already exists number of technologies for HTTP Client Software who could be deployed for this case.
+* Exists only bigger problem with many HTTP Server tools around the Web, who could be used by small-medium Companies and enthusiasts. When small-medium Company(-ies) could start working efficiently with some of those tech(s), then bigger one makes decision to innovate and stay.
+```
+
+```
