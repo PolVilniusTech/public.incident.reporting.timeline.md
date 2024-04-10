@@ -123,6 +123,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According Article [LRT.lt](https://www.lrt.lt/naujienos/tavo-lrt/15/1654397/rusija-uzblokavo-portala-lrt-lt) Lithuanian National Radio and Television Site is banned from use.
+```
+
+```
+##### R esults
+The Site is Shut down from an Audience.
+```
+
+```
+##### L earning from Mistakes 
+From such incidents there are possible to learn a lot. I.e.:
+*   VPN technology to access the Site also could be very limited.
+*   Term "Internet Shutdown" is well known and yet for shut down of a single Web Site of Lithuania nobody gonna add this into the list of "Internet Shutdowns". In a sense when Television could be managed to ban Channels the Internet is not an exception.
+*   Usually Corporate environment also could use Databases of various banned Sites, so not only modern Anti-virus Software are first place to protect the User.
+*   Articles also could be updated with New information. When there no News updates citizen are left in gray zone for getting news, i.e. from their friends and family. 
+```
+
+```
 
 #
 ### 2023
