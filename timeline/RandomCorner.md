@@ -183,3 +183,24 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According this Site [guam-organization.org](https://guam-organization.org/ustav-organizatsii-za-demokratiyu-i-ekonomicheskoe-razvitie-guam/) exists ideas who are provided in second paragraph about "New Europe", "Charter of European Defence Organisation for Defence" and "Collaboration in Europe".
+
+```
+
+```
+##### R eseach
+How often the term Europe, European, Europa...are used for providing something meaningful? 
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* For the easier way to dig this Research: Europe are with many ideas that it could not last long as European Union [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2177009/krastutiniu-desiniuju-afd-lydere-brexito-referendumas-yra-pavyzdys-vokietijai). Does in this case someone else want to create their own European Union No. 2 and swap places with their own ideology? Of course this could be similar or other type of Union and (or) Agreement.
+* Does term of an "Europe" is not protected by any patents and standards? Geographical location with other meanings could be meshed to make something & something as "alternative" version of somebody.
+* In some sense someone could want to be like Europe, but others just don't want to take that seriously & as reallity.
+* Alternatives could show following question(s): Does "Union" could belong to other "Union"? who could want to make such puzzle? It could be wise to check in what type of organisation belong that type of "Union" and to move directly in a right place. Documents usually provide idea about "equal" Rights, so how those Rights are equal for real?
+```
+
+```
