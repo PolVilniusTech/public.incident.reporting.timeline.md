@@ -2837,3 +2837,46 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2243944/apgaule-is-parduotuviu-pasisavinta-prekiu-uz-53-tuks-euru) security flaw in company's payment system lead into loss of goods in shops.
+```
+
+```
+##### R esults
+Shop or more shops got scammed. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* This article provide Situation with no leads into where is the problem: problem in company's physical shopping scheme and (or) electronical device and (or) internet payment system? By default this looks like a scam in a regular physical shop.
+* Problem in an organisational ecosystem of a physical shop? Does this allow to request for goods and leave w/o payment?
+* Problem in an electronical device for payments inside a shop? Does this electronical device is infected and show complete for employee and not complete for client? Client may not come for a second time and with gliched payment's this electronical device is not a convienent way to make purchase's.
+* Problem in an internet payments? With wrong way of security checks exist a plausible situation that added products could be purchased w/o spending a penny, but this is not what were intended to do.
+```
+
+```
+##### I ncident
+
+According this [Judu.lt](https://judu.lt/vilniaus-viesojo-transporto-strategija-iki-2030-m/) citizens get chance to understand places where their money gonna be spended in the long turn. It's unfortunate that link checking are not common testing method in World-Wide-Web yet. This following [Judu.lt](https://judu.lt/wp-content/uploads/2021/06/VT-ambicija-2030.pdf) link return "404" for a long long time. Evidence according this check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/JUDU%20Page%20404%202024-04-10.PNG) provide results of the HTTP response code 404.
+```
+
+```
+##### R esults
+Unavailable resources.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* HTTP response code of 404 means that while regular GET request in response got "NOT FOUND". This could mean that PDF file is not in a place where it should be. Plausible situation is that after a new file upload the site were not updated.
+* In a chance when there were more vulnerable information reporting for security researchers couldn't get so simple, i.e. [-](https://judu.lt/.well-known/security.txt) or [-](https://judu.lt/security.txt) return HTTP response code 404. GPG/PGP information for encrypting message(s) is unknown.
+* In West exists a hyghiene for linking documents in table like fashion. This means that information when the document were uploaded could be shown in page. This type of "Meta" information is unknown.
+* Even after getting some document in the Page, i.e. [judu.lt](https://judu.lt/wp-content/uploads/2021/06/VT-2020-ataskaita.pdf) in the beginning client will get response code of 200 and cache the document in the HTTP client Software. Afterwards gonna be 304 "NOT MODIFIED" response code's while this document does not change.
+* These documents contain valuable information for understanding what are planned beforehand. Take a sample of [judu.lt](https://judu.lt/wp-content/uploads/2021/06/VT-2020-ataskaita.pdf) in p. 78 & table 24 provided information about old trolleys park. There is provided idea that they don't contain "USB charging ports". Does this is very huge flaw? According the Article [cnn.com](https://edition.cnn.com/2023/04/12/tech/fbi-public-charging-port-warning/index.html) provided idea for a "juice jacking" problem. Does this is linked with only energy? No. Corrupted charging USB port could allow for a malicious actor to lock a device or extract personal data (emails, text messages, photos, contacts) & do not forget for something as password too. Take a sample that there could even be left some bunch of "infected cables". In the question: what to do? She could say: use electrical outlet instead of unknown USB charging port & cables. At least use Your own charger and USB cord.   
+```
+
+```
