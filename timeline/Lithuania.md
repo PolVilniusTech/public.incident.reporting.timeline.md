@@ -2880,3 +2880,42 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this check [Ktu.lt](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/EBOOKS%20too%20long%20to%20respond%202024-04-15.PNG) link does not respond. The existence of this Site were found from common Web Site [Lrt.lt](www.lrt.lt).
+```
+
+```
+##### R esults
+Unavailable resources for an targeted audience.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Plausible of situation when Web Site provide link(s) into other protected Web Space of a specific computer network.
+* When employees or common journalists get access to actual content they may don't know their own security context, available resource context. Interlinking Web Sites are regular approach for the Web.
+* Technologies like VPN could make false feeling that selected context are available for everyone, so providing links to protected space, i.e. organisational private network, could happen.
+```
+
+```
+##### I ncident
+
+According the Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2248995/sukciai-is-imones-vilniuje-apgaules-budu-isviliojo-beveik-305-tukst-euru) a personel received malicious request over email to transfer money using fabricated message.
+```
+
+```
+##### R esults
+Entity lost hefty sum of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Unsolicited messages and SPAM over e-mail tech are an common approach for phishing attacks in the Internet. Clients use email applications with in-build protective means, i.e. phishing filter, scam filter. Exists chance that security measure(s) gonna fail to block this message or those messages. For this reason general SPAM should be less effective, but huge in numbers (more blocking necessary). Targeted phishing emails has bigger success rate and could impact into losing hefty sum of money.
+* Not all entities aware that e-mail application(s) has or could have in-build security measures to defend from number of risks.
+```
+
+```
