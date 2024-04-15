@@ -185,7 +185,6 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 ##### I nnocent
 According this Site [guam-organization.org](https://guam-organization.org/ustav-organizatsii-za-demokratiyu-i-ekonomicheskoe-razvitie-guam/) exists ideas who are provided in second paragraph about "New Europe", "Charter of European Defence Organisation for Defence" and "Collaboration in Europe".
-
 ```
 
 ```
@@ -201,6 +200,23 @@ From such innocents there are possible to learn a lot. I.e.:
 * Does term of an "Europe" is not protected by any patents and standards? Geographical location with other meanings could be meshed to make something & something as "alternative" version of somebody.
 * In some sense someone could want to be like Europe, but others just don't want to take that seriously & as reallity.
 * Alternatives could show following question(s): Does "Union" could belong to other "Union"? who could want to make such puzzle? It could be wise to check in what type of organisation belong that type of "Union" and to move directly in a right place. Documents usually provide idea about "equal" Rights, so how those Rights are equal for real?
+```
+
+```
+##### I nnocent
+According this Article [lrt.lt](https://www.lrt.lt/naujienos/eismas/7/2249833/elektriniu-paspirtuku-savininkai-neskuba-drausti-siu-transporto-priemoniu) and latest actual information (04/19/2013) from [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.389627/asr) people could lose their life insurance... without having vehicle insurance, because of not doing stuff according the rules.
+```
+
+```
+##### R eseach
+How well are documented insurance bill from number of cases?
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Site has a tool [cab.lt](https://www.cab.lt/en/) for checking "Vehicle registration number". According the Article the Vehicle could be plus minus an automobile, a tracktor, a truck, a van, a electric bike, a electric scooter, a electric lawn tractor...Usually they are checking an engine power to decide for applicability for insurance also. 
 ```
 
 ```
