@@ -204,7 +204,7 @@ From such innocents there are possible to learn a lot. I.e.:
 
 ```
 ##### I nnocent
-According this Article [lrt.lt](https://www.lrt.lt/naujienos/eismas/7/2249833/elektriniu-paspirtuku-savininkai-neskuba-drausti-siu-transporto-priemoniu) and latest actual information (04/19/2013) from [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.389627/asr) people could lose their life insurance... without having vehicle insurance, because of not doing stuff according the rules.
+According this Article [lrt.lt](https://www.lrt.lt/naujienos/eismas/7/2249833/elektriniu-paspirtuku-savininkai-neskuba-drausti-siu-transporto-priemoniu) and latest actual information (04/19/2013) from [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.389627/asr) && [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.218739/asr) people could lose their life insurance... without having vehicle insurance, because of not doing stuff according the rules.
 ```
 
 ```
