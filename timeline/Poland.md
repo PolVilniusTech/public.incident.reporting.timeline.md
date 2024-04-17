@@ -253,3 +253,29 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+```
+
+```
+### 2024
+
+##### I ncident
+
+According this Article [@LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2251795/lenkijos-orlen-sukciams-atidave-400-mln-jav-doleriu) probable loss of money because of scam in one of "Orlen" companies. 
+```
+
+```
+##### R esults
+Money loss.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   "Orlen" company should try to curb a grey market by increasing an effectiveness of supervision [orlen.pl](https://raportzintegrowany2021.orlen.pl/en/wp-content/uploads/sites/2/2022/07/ORLEN221IntegratedReport.pdf).
+*   "Orlen" gets financial audits aimed at identifying any economic irregularities and fraud, verifying that "Orlen" employees respect the applicable laws, internal policies and professional standards and etc. [orlen.pl](https://raportzintegrowany2019.orlen.pl/en/contents/uploads/sites/2/2020/05/2.-Report-on-Non-Financial-Information-of-ORLEN-Group-and-PKN-ORLEN-S.A.-for-the-year-2019.pdf).
+*   According the Article this looks as „search for new mediators who re-sell stuff“. Re-selling things always cost more than purchasing directly.
+*   There could be lacking of transparency in higher level jurisdictional acts and signed documents who should include requirements for mediators or re-seller agents.
+```
+
+```
