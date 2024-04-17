@@ -190,6 +190,25 @@ From such incidents there are possible to learn a lot. I.e.:
 
 ```
 ##### I ncident
+According this Article [@Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1057412/lrtk-prasys-teismo-blokuoti-nelegalia-muzikos-irasu-svetaine) exists number of Web Sites who contain illegal content of Lithuanian and Foreign Music Authors. 
+```
+
+```
+##### R esults 
+From Site(s) non free and open source content are downloaded without consent of original Author(s).
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Lithuanian platform sample where are possible to get legal content [pakartot.lt](https://www.pakartot.lt/).
+* Foreign platform sample where are possible to get legal content [spotify.com](https://open.spotify.com/).
+* Amoung Site(s) who contain illegal content are plausible to get phisihng attack(s), because those Sites has more visibility from malicious adversaries.
+```
+
+```
+##### I ncident
 
 According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1067988/lietuvos-interneto-vartotoju-duomenys-be-ju-zinios-per-yandex-ir-toliau-keliauja-i-rusija) in local market it's possible to purchase routers with integrated DNS service, which operates outside of the Country.
 According E.Kerza during communication with the DNS server DNS data requests and responses are sended outside of the Country, this data potentially are stored there. „<...> routers does not meet security requirements. Users main router passwords are stored in unencrypted form, updates and data from the control servers flows unencrypted“. Given advices:
@@ -2916,6 +2935,24 @@ Entity lost hefty sum of money.
 From such incidents there are possible to learn a lot. I.e.:
 * Unsolicited messages and SPAM over e-mail tech are an common approach for phishing attacks in the Internet. Clients use email applications with in-build protective means, i.e. phishing filter, scam filter. Exists chance that security measure(s) gonna fail to block this message or those messages. For this reason general SPAM should be less effective, but huge in numbers (more blocking necessary). Targeted phishing emails has bigger success rate and could impact into losing hefty sum of money.
 * Not all entities aware that e-mail application(s) has or could have in-build security measures to defend from number of risks.
+```
+
+```
+##### I ncident
+
+According the Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2251290/lietuvos-radijo-ir-televizijos-komisija-skelbia-patyrusi-rusijos-kibernetine-ataka) there was interruptions for whole three hours.
+```
+
+```
+##### R esults
+Site was getting interruptions for whole three hours. Yet, no impact.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Security Researchers from United States of America argue that "SolarWinds" attack probably happened w/o the entity, which is provided in the Article as threat Actor. In this case when "SolarWinds" Software producer (U.S.A. own company) impacted with around of 70 percent faulty cases of their poor and vulnerable Software there exists huge need to solve problematic and vulnerable Software issues in Lithuania also. It is clear that present vulnerability(ies) could be missused by third party(ies) and he or she, or even they could be anybody. Database register with faulty Software incidents could provide negative impact to Software producers, i.e. like in this case of "Solarwinds" company of the United States of America.
 ```
 
 ```
