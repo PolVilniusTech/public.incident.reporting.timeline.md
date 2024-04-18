@@ -220,3 +220,23 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According this Article [e-tar.lt](https://www.e-tar.lt/portal/lt/legalAct/9cbf95c0fada11eeb884ddd8796e2c7b) exists criteria for finding out plausible money laundering and terrorist financing situations. In other hand at the same time [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2253593/bankai-lietuvoje-pasieke-istoriskai-didziausia-uzdarbi-986-mln-euru) provide information about income who exceeds 6.31 percent of total Lithuanian budget including money from European Union.
+```
+
+```
+##### R eseach
+Service(s) for a common bank Client.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Client could expect that any tries using his or her (Client) data should be reported to the Client directly.
+* General Data Protection Regulation already has a lot of requirements for Services. The Client could be a simple Customer or a very large Impact Client by whom depend a lot of other Goods and Services, Personel.
+* When there exist clear criteria, then the Client could ask according procedure to block any actions from those who can't comply with those criterias.
+* Take a situation when some new malicious company would be created and with it's poor infrastructure would request for additional information: Does Client really wanted to do those actions? when he does not signed for that whatsoever yet. In this case each Bank has it's own Level. Internet Browsers show different acknowledge level, i.e. e.service like "Let's Encrypt" provided level is smallest as possible. In the situation when Bank could use SSL TLS Security Toolset with Let's Encrypt, then this is a malicious entity. In this case HTTPS is not equal to HTTPS. Everything depends how the entity has been registered by providing enough amount of information. Anonymized "Bank" service is a Scam. Citizens could get phished to services like Cryptocurrencies. [lb.lt](https://www.lb.lt/lt/informacine-kampanija-prisijaukink-budruma-sukciai-neatostogauja).
+```
+
+```
