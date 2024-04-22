@@ -2956,3 +2956,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2256150/sveikas-pasauli-pagrindinis-vmi-puslapis-pirmadieni-klientus-pasitiko-kitaip) main Site of State Tax Inspectorate under the Ministry of Finance of the Republic of Lithuania was off-line. Instead of original Site there was available substituted & different electronical resource.
+```
+
+```
+##### R esults
+After no more than four hours this electronical service started working again.
+Unavailable resources for limited amount of time.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When Web Site [vmi.lt](https://www.vmi.lt/evmi/en/misija-vizija-ir-vertyb%C4%97s) provide foreign language menu is great. Yet, not all actual information is shown in this foreign language. Plausible another problem when these foreign people could mistake the approved site by somebody with an other artificial site. There is problematic to find out more information about "vmi.lt" and existence of STI (lt. VMI) in here [vmi.lt](https://www.vmi.lt/evmi/en/teisin%C4%97-informacija). There is something who could provide proof of VMI.lt being non-phishing site [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.226992/asr). 
+```
+
+```
