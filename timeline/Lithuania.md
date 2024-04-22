@@ -2971,7 +2971,7 @@ Unavailable resources for limited amount of time.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* When Web Site [vmi.lt](https://www.vmi.lt/evmi/en/misija-vizija-ir-vertyb%C4%97s) provide foreign language menu is great. Yet, not all actual information is shown in this foreign language. Plausible another problem when these foreign people could mistake the approved site by somebody with an other artificial site. There is problematic to find out more information about "vmi.lt" and existence of STI (lt. VMI) in here [vmi.lt](https://www.vmi.lt/evmi/en/teisin%C4%97-informacija). There is something who could provide proof of VMI.lt being non-phishing site [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.226992/asr). 
+* When Web Site [vmi.lt](https://www.vmi.lt/evmi/en/misija-vizija-ir-vertyb%C4%97s) provide foreign language menu is great. Yet, not all actual information is shown in this foreign language. Plausible another problem when these foreign people could mistake the approved site by somebody with an other artificial site. There is problematic to find out more information about "vmi.lt" and existence of STI (lt. VMI) in here [vmi.lt](https://www.vmi.lt/evmi/en/teisin%C4%97-informacija). There is something who could provide proof of VMI.lt being non-phishing site [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.226992/asr). Second place to look at if you knowing lithuanian [lrv.lt](https://lrv.lt/lt/ministerijos-ir-istaigos/).
 ```
 
 ```
