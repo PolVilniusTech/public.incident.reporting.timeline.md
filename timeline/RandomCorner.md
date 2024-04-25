@@ -244,3 +244,22 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According this Article [lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2259232/kariuomene-neigia-minsko-pranesimus-apie-dronu-ataka-is-lietuvos) provided idea about "Military drone" attacks from Lithuania. In this Article [lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1218125/tapinas-sakyciau-toks-kliedesiu-rinkinukas-kaip-cia-mes-bandeme-snipineti-baltarusius-is-oro-balionu) four Years ago provided information about "Baloons with flags" flying from territory of the Lithuania.
+```
+
+```
+##### R eseach
+Fact check & Disinformation.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* In the International and Foreign relations usually plausible to inform each other and get permission, i.e. testing out readiness. This could be done by third entity with or w/o consent of previous entities.
+* For creating a fake video w/o historical correct events and by adding grain of salt to it could make this more linke a "Propaganda". Fact check could be searched of first by building Teams of representatives from both of those entities who has real privileges to do so.
+* Currently the idea of "baloons" could be used.
+```
+
+```
