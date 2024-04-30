@@ -263,3 +263,20 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According this Article [w3.org](https://www.w3.org/International/questions/qa-i18n) exists International term "Internationalization". This term mostly could be found in places where Web Site provide number of choices to provide translation. Number of News Services provide content in multiple languages also, i.e. [cgtn.com](https://www.cgtn.com/) has News in Arabic, English, French, Russian, Spanish; [lrt.lt](https://www.lrt.lt/) has News in English, Lithuanian, Polish, Russian, Ukrainian; [cnn.com](https://edition.cnn.com/) - English.
+```
+
+```
+##### R eseach
+Single Word an "Internationalization" or in short "i18n".
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Internationalization should be used rationally. Not all Web Sites provide a chance to understand their content for others (other Nations and this is not related to particular State, Country, County).
+```
+
+```
