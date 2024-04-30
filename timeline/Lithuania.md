@@ -2979,11 +2979,13 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According the Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2261495/450-euru-virto-24-eurais-teikdamas-pajamu-deklaracija-vilnietis-vos-nepermokejo) citizen got a inaccurate declaration from the State Tax Inspectorate (lt. VMI).
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2262464/registru-centras-lietuvoje-per-50-tukst-zemes-sklypu-ribos-yra-netikslios) provided statistics in errors.
 ```
 
 ```
 ##### R esults
 Human Error in regular workflow could lead into mistakes.
+By not fixing errors could mean only problem(s).
 ```
 
 ```
@@ -2991,6 +2993,7 @@ Human Error in regular workflow could lead into mistakes.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Regular Citizens does not require to provide declarations. Only when exist requirement to pay Tax this citizen should get notification in the VMI system, i.e. You sold old Car and got extra money, then Pay a Tax. Everyone who forget should receive notifications from VMI.
+* In the situation when institution at fault and made error, then citizen is not responsible and payment should be void. Currently technologies like [satellites.pro](https://satellites.pro/France_map) helps in solving some of these problems.
 * Human Error could be a leading problem in any sector including Information Security, Cybersecurity and Privacy protection. Poor quality automatized and untested functionality could be missused by threat agent.
 ```
 
