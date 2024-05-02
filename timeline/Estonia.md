@@ -354,3 +354,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According Articles [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2194490/tyrejai-atakos-pries-navigacijos-sistemas-dazneja) and [Err.ee](https://news.err.ee/1609326360/second-finnair-flight-turns-back-from-tartu-due-to-gps-interference) GPS jamming is taking place since the end of 2022. GPS disturbances and GPS interference prohibit use of a Global Positioning System (GPS).
+```
+
+```
+##### R esults
+GPS is unavailable.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When single navigation system is jammed, then exists plausibility to use European-based counterpart with performance guarantees [bbc.co.uk](http://news.bbc.co.uk/2/hi/science/nature/5286200.stm).
+* GNSS testing software [github.com](https://github.com/barbeau/gpstest). This software has Apache v. 2.0 license.
+```
+
+```
