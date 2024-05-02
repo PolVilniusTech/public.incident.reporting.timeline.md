@@ -3036,3 +3036,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2263568/siauliuose-vyras-blokavo-prie-darzelio-atvykusiu-tevu-masinu-uzrakinima-pavoge-pinigus) exists device who block locking mechanism of a vehicle.
+```
+
+```
+##### R esults
+Exists possibility to bypass security measures deployed by security company(-ies).
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Nowadays people could use smartphone to (un)lock vehicle. Smart Tags could be used for starting the engine. Vehicle usually provide evidence with blinking lamps of some pattern.
+* When number of vehicles use the same type of device (w/o modifications) to open and lock it, then exist risk for not only interruption(s). Opening and closing vehicle's also could be plausible.
+```
+
+```
