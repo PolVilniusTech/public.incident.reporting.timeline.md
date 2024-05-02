@@ -280,3 +280,20 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According this Check [vlkk.lt](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/RandomCorner/Images/VLKK%202024-05-02%20Email%20and%20Web%20link%20with%20special%20symbol.PNG) institution use software without WYSIWYG calibration.
+```
+
+```
+##### R eseach
+Content for Public and Web.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* The WYSIWYG [wikipedia.org](https://en.wikipedia.org/wiki/WYSIWYG) helps in managing content for number of reasons: creating content for Web, creating content for File Formats, adding the layer representation between File and Web tech, other tech. @vlkk.lt Application Form has WYSIWYG content. This content has lost it's boundaries between content what is provided and content what is displayed for the web browsing. When Content is provided for some single Web Browser, then other browsers could find number of artefacts when the functionality are not compatible.
+```
+
+```
