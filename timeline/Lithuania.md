@@ -243,6 +243,25 @@ For Buyers:
 ```
 ##### I ncident
 
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1078670/gps-alternatyva-vis-dar-neveikia-del-to-galileo-ekspertai-isteige-anomaliju-analizes-komiteta) European Navigation System "Galileo" is not Available. This system has at least 22 Satellites and provide service for computer users, mobile phone users, transportation sector. 
+```
+
+```
+##### R esults 
+Single Navigation System is unavailable.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Devices has chance to swap their navigation service with other company(ies) Satellites. This is called a Global Navigation Satellite System (GNSS). This include at least five to six independednt Systems.
+* GNSS testing software could be found here [github.com](https://github.com/barbeau/gpstest). This software is using Apache v. 2.0 license.
+```
+
+```
+##### I ncident
+
 According [@Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/1079449/vmi-gresia-iki-60-tukst-euru-bauda-del-nutekejusiu-duomenu) in the Portal of the State Tax Inspectorate [VMI.lt]() "Mano VMI" were possible to view Confidential Information of legal persons and subjects for limited number of people. 
 ```
 
@@ -2973,6 +2992,25 @@ Unavailable resources for limited amount of time.
 From such incidents there are possible to learn a lot. I.e.:
 * When Web Site [vmi.lt](https://www.vmi.lt/evmi/en/misija-vizija-ir-vertyb%C4%97s) provide foreign language menu is great. Yet, not all actual information is shown in this foreign language. Plausible another problem when these foreign people could mistake the approved site by somebody with an other artificial site. There is problematic to find out more information about "vmi.lt" and existence of STI (lt. VMI) in here [vmi.lt](https://www.vmi.lt/evmi/en/teisin%C4%97-informacija). There is something who could provide proof of VMI.lt being non-phishing site [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.226992/asr). Second place to look at if you knowing lithuanian [lrv.lt](https://lrv.lt/lt/ministerijos-ir-istaigos/).
 * Take sample from other institution document [e-tar.lt](https://www.e-tar.lt/portal/lt/legalAct/ef108e70e9de11e6bf03a1097d29892a). This one does not provide actual information about internet site name. There is provided information about how this e-mail should be made off. By knowing real email schema there are plausible to conduct a phishing attack.
+```
+
+```
+##### I ncident
+
+According Articles [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2194490/tyrejai-atakos-pries-navigacijos-sistemas-dazneja) and [Err.ee](https://news.err.ee/1609326360/second-finnair-flight-turns-back-from-tartu-due-to-gps-interference) GPS jamming is taking place since the end of 2022. GPS disturbances and GPS interference prohibit use of a Global Positioning System (GPS).
+```
+
+```
+##### R esults
+GPS is unavailable.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When single navigation system is jammed, then exists plausibility to use European-based counterpart with performance guarantees [bbc.co.uk](http://news.bbc.co.uk/2/hi/science/nature/5286200.stm).
+* GNSS testing software [github.com](https://github.com/barbeau/gpstest). This software has Apache v. 2.0 license.
 ```
 
 ```
