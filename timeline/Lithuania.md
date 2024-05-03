@@ -3055,3 +3055,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2264301/marijampolieciui-gresia-bausme-leido-sukciams-naudotis-savo-elektroniniais-duomenimis) provided essay with a situation. Person shared financial institution account with another entity and this is not legal in Republic of Lithuania. Entity without authorization and privileges managed bank account of this person. 
+```
+
+```
+##### R esults
+Person should pay taxes instead of an entity when commercial purchases are made with person's disclosed account.
+Entity could misuse account of this person and breach one or more jurisdictional regulation(s) what is allowed and what - not.
+By traveling to other country issues are not terminated (what were done). 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Social Network offer accounts for common users and bussines users. The communication between those two circles has small or no-proof of legitimacy. Anyone could create account and of course in number of situations social network or adversary could ask for copy of identity card - document, other credentials. In this case privacy concerns could arise. Data owner of named social network in the Article is "Meta Platforms Ireland Limited" (Europe users). Number of information groups is collected and everything explained in [facebook.com](https://www.facebook.com/privacy/policy). Person(s) has higher risk(s) for oversharing of information. Social network should be used by everyone who is eighty years old or older.
+* Bank institution could close bank account when they see evidence of plausible terrorist financing and money laundering.
+```
+
+```
