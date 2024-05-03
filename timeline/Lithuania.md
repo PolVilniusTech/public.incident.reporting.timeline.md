@@ -3063,7 +3063,7 @@ According the Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2264301/
 ```
 ##### R esults
 Person should pay taxes instead of an entity when commercial purchases are made with person's disclosed account.
-Entity could misuse account of this person and breach one or more jurisdictional regulation(s) what is allowed and what - not.
+Entity could misuse account of this person and breach one or more jurisdictional regulation(s), take in account what is allowed and what - not.
 By traveling to other country issues are not terminated (what were done). 
 ```
 
