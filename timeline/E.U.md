@@ -1,6 +1,6 @@
 ### 2022
 
-According the Article [@Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2264504/lietuva-smerkia-testine-rusijos-kenkejiska-veikla-kibernetineje-erdveje) in 2022 Year of May 10th E.U. approved cyber incident related to U.S.A. sattelites. At that time Internet Service over Satellite Communication were disrupted. European Union is a Client of this Service.
+According the Article [@Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2264504/lietuva-smerkia-testine-rusijos-kenkejiska-veikla-kibernetineje-erdveje) in 2022 Year of May 10th E.U. approved cyber incident related to U.S.A. sattelites. This is related to Incident when Internet Service over Satellite Communication were disrupted. European Union is a Client of this Service.
 ```
 
 ```
