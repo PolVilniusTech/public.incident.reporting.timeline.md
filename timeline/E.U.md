@@ -1,3 +1,21 @@
+### 2022
+
+According the Article [@Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2264504/lietuva-smerkia-testine-rusijos-kenkejiska-veikla-kibernetineje-erdveje) in 2022 Year of May 10th happened cyber incident related to U.S.A. sattelites. At that time Internet Service over Satellite Communication were disrupted. European Union is a Client of this Service.
+```
+
+```
+##### R esults 
+Limited access to foreign sattelite service(s).
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Company(-ies) from Private Sector [ieee.org](https://ieeexplore.ieee.org/document/5371701) provide Internet Protocol over Satellite as additional option for accessing the Internet. Exist chance that users have no other option for accessing global network than going with Satellite communication. Depending to Service the Performance of Internet Speed could vary.
+```
+
+```
 ### 2023
 
 ##### I ncident
