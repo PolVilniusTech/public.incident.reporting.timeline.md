@@ -3076,3 +3076,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2266769/google-atstovais-apsimete-sukciai-is-dvieju-gyventoju-isviliojo-per-27-tukst-euru) citizen of Republic of Lithuania give their trust to random scammer(s) who imitate as being "Google" employee(s).
+```
+
+```
+##### R esults
+Few persons were scammed.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* According XML document [www.lb.lt](https://www.lb.lt/lt/finansu-rinku-dalyviai?ff=1&market=1&type%5B0%5D=3&page=17&export=xlsx) a company of "Google" can't provide any bank services for Lithuanian or even E.U. user(s).
+* The problem is known here [www.lb.lt](https://www.lb.lt/lt/naujienos/beveik-puse-lietuviu-nezino-kaip-patikrinti-ar-investuoti-siulantys-asmenys-nera-sukciai).
+```
+
+```
