@@ -3095,3 +3095,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2268556/telefonu-paskambines-sukcius-is-vyro-isviliojo-23-4-tukst-euru) scammer in unknown way got money from single person.
+```
+
+```
+##### R esults
+Person is scammed and lost money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Employment should be money loss also in a situation when employee does not bring money to the employer with his work. Artificial and fake employment is one of threats of modern world.
+* Sample for a money loss with "unknown way" could be a situation when Social Network App (Mobile Phone) allows digital payments. Person with simple action could make investment to unknown entity and investment always contain risks. [lb.lt](https://www.lb.lt/lt/naujienos/lietuvos-bankas-kaip-neprarasti-pinigu) provide ideas how to keep money safe and sound.
+* Does scammed person has some kind of insurance for investment(s)? Law enforcement should know it all.
+```
+
+```
