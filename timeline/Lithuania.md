@@ -3115,3 +3115,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2268608/uzsisakiusi-prekiu-is-tiekejo-moteris-prarado-3-8-tukst-euru-o-siuntos-taip-ir-negavo) person lost money and purchased goods. The culprit — a vendor.
+```
+
+```
+##### R esults
+A client got Money loss.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Exist posibility to use Web Firewall Service [nksc.lt](https://www.nksc.lt/uzkarda.html) to get additional protection from scamming, smishing, phishing, spear phishing, fraud over the Web. Plausible Browser configuration [nksc.lt](https://www.nksc.lt/doc/dns/pDNS_DoH_instrukcija_pakeisti_narsykles_nustatymus.pdf) for people with less technical background. 
+```
+
+```
