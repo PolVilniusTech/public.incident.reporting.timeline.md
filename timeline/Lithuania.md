@@ -3133,3 +3133,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [-](https://www.lrt.lt/naujienos/lietuvoje/2/2272211/sostineje-banko-darbuotojais-prisistate-asmenys-is-senjoru-isviliojo-12-7-tukst-euru) pair of pensioners were scammed and lost money.
+```
+
+```
+##### R esults
+Money loss for two persons.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* As of technological aspect, an electric banking outlet (type of (reverse-)vending machine for money) could have bad construction. Bad in a sence, that outside of an outlet exists plausibility to place external device who could skim the bank card. Skimming include reading information from magnetic tape and making a clone of the card. Bank cards include PIN protection over Chip, then it means there could be other external devices who could grab information of this PIN (i.e. Web camera, external Keyboard). Completely skimmed card could be cloned and used to take out money from people who are using those electric banking outlets. Insecure electric banking outlets should not be used. Security updates of operating system included in the outlet also has to be tamper-proof. Security sticker could show the situation when electric banking outlet were opened by third party. Only official privileged personel should manage electric banking outlets and they should have right license card.
+```
+
+```
