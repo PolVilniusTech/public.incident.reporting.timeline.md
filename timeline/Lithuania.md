@@ -3153,19 +3153,19 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2273061/sukciai-isviliojo-tukstantines-sumas-alytuje-gyventojas-neteko-53-tukst-euru) in the two day period multiple scamms were reported. 
+In the Articles [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2273061/sukciai-isviliojo-tukstantines-sumas-alytuje-gyventojas-neteko-53-tukst-euru) and [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2275131/gyventojai-dalija-pinigus-sukciams-i-nusikalteliu-rankas-pateko-per-39-tukst-euru) are placed multiple situations with scam reports.
 ```
 
 ```
 ##### R esults
-Plausibility of a scam attacks.
+High chance of a scam attacks.
 ```
 
 ```
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Bank provide information that person has to report scam as fast as possible. Around the globe exists solution as mobile bank on wheels who takes in account the last mile problem. This vehicle should have special identification touch points who has to be communicated for clients. Each bank has commitment to report situations when arise unacceptible risk for their clients.
+* Bank provide information that person has to report scam as fast as possible. Around the globe exists solution as mobile bank on wheels who takes in account the last mile problem. This vehicle should have special identification touch points who has to be communicated for clients. Each bank has commitment to report situations when arise unacceptible risk for their clients. Only bank employees, who has privilege, in defined places and functions has right to ask for the card of the bank they represent. Like the law enforcement forces has rights to ask for showing personal identification card of a citizen or a resident, or a foreigner.
 * Couriers deliver goods in a fixed time frame. In a time apart of that, these Couriers can't work.
 * Scammers deploy specific domain names for conducting of their operations, i.e. Article [lb.lt](https://www.lb.lt/en/news/fraud-alert-scam-emails-allegedly-sent-by-the-bank-of-lithuania) provide idea that EU domain could be used with any name and without proof of real banking institution from Available list. Usual domain registration is automated process and lacks of counter-measures to limit risks of scamming. 
 * Web Site [lb.lt](https://www.lb.lt/) contains resources for getting awareness tips to investment scams.
