@@ -3172,3 +3172,19 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2276394/banko-darbuotojais-prisistate-asmenys-is-tauragiskes-isviliojo-32-1-tukst-euru) shown risk for being scammed while in a own house.
+```
+
+```
+##### R esults
+Money loss.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Licenses of entities could be found in here: a) [lb.lt](https://www.lb.lt/lt/frd-licencijos/view_license?id=479) and b) [lb.lt](https://www.lb.lt/lt/frd-licencijos/view_license?id=343). B entity has physical facilities [lb.lt](https://www.lb.lt/lt/finansu-rinku-dalyviai/luminor-bank-as-lietuvos-skyrius).
+* In a situation of profits from investment willingly require for filling taxes declaration in here [vmi.lt](https://www.vmi.lt/evmi/). Usual approach of bank institution — in addition they make administration and prepare all documentation, so people would not lose a faith in plausible investment. In a situation when bank can't do it, then person has to do it for himself.
