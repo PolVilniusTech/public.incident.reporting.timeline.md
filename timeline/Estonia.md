@@ -373,3 +373,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According Article [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2279216/ekspertai-apie-rusijos-nora-keisti-sienas-baltijos-juroje-norima-sukurti-pilkaja-zona) provided idea about integrity changes in the Sea borders.
+```
+
+```
+##### R esults
+Plausible propaganda and disinformation
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Oficial document could be made with intention to make ruckus. Pretexting and using the situation. 
+```
+
+```
