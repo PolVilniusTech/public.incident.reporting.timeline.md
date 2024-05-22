@@ -387,7 +387,8 @@ Plausible propaganda and disinformation
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Oficial document could be made with intention to make ruckus. Pretexting and using the situation. 
+* Official document could be made with intention to make ruckus. Pretexting and using the situation.
+* Official questions are made in official places first, i.e. [un.org](https://www.un.org/securitycouncil/events/calendar/), [press.un.org](https://press.un.org/en/content/general-assembly/meetings-coverage).
 ```
 
 ```
