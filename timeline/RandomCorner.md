@@ -316,3 +316,21 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According Third point and Fourth sub-point of the second Chapter of this Act [lrs.lt](https://e-seimas.lrs.lt/portal/legalActPrint/lt?actualEditionId=QrBFJSvoko&documentId=30092de0a9b911e59010bea026bdb259&category=TAD) provided idea for common natural person to register when First part of EU Article 6 (2015/2447) are met.
+According EU Regulation (2015/2447) [europa.eu](https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:32015R2447) sixth Article has only one paragraph and there are no part's.
+```
+
+```
+##### R eseach
+Irregularities and noise in a official Regulation.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Natural person is not the Custom's [lrmuitine.lt](https://lrmuitine.lt/web/guest/titulinis#en) and yet he require to register and undergo numerious declarations, i.e. when he could get a Gift's with an size of the Envelope.
+```
+
+```
