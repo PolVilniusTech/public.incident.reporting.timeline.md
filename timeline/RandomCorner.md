@@ -297,3 +297,22 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2279561/seimo-nariai-del-sovietines-simbolikos-naudojimo-kreipesi-i-temu-valdancia-bendrove) provided idea about History and historical Artefacts - Symbols - Flags. In this Media Content is shown State Flag in previous Question [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2273686/nomeda-hofertaite-kodel-pranciskus-remia-pekino-rezima). The same site provide number of Articles [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2234210/kinija-teigia-pateikusi-griezta-pretenzija-jav-del-kaltinimu-kibernetinemis-atakomis) where is shown flag with a caption of "Flag of China" while this is the Symbol and Flag of Problem in the first Article.
+```
+
+```
+##### R eseach
+General data protection regulation request for entities to own Data Protection Officiers.
+One from many functions of this Officer - to make analysis and risk management of Data from pool of Data of his responsibility. 
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* The Integrity of the Content could be easily lost in any (Web) Site, when You can't keep up with a Data flow.
+* The Science of Big Data tries to analyze numerious use cases of the Data. 
+```
+
+``` 
