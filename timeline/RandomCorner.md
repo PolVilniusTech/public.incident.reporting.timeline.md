@@ -303,7 +303,7 @@ According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2279561/sei
 
 ```
 ##### R eseach
-General data protection regulation request for entities to own Data Protection Officiers.
+General data protection regulation request for entities to own Data Protection Officier(s).
 One from many functions of this Officer - to make analysis and risk management of Data from pool of Data of his responsibility. 
 ```
 
@@ -315,4 +315,4 @@ From such innocents there are possible to learn a lot. I.e.:
 * The Science of Big Data tries to analyze numerious use cases of the Data. 
 ```
 
-``` 
+```
