@@ -334,3 +334,23 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+According these Road Traffic Rules [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.203613/asr) exist term of special vehicle. This special vehicle term is very narrow. Take in the Account shown vehicle in [lrt.lt](https://www.lrt.lt/naujienos/eismas/7/2274533/ismanusis-automobilis-vilniuje-tapo-pazeideju-siaubu-papasakojo-kaip-jis-veikia-gatveje) who could scan vehicles and their identification plate's. In other hand exists more custom vehicles, i.e. [topgear.com](https://www.topgear.com/car-news/usa/tesla-model-y-police-car-will-soon-be-silently-patrolling-streets-california).
+```
+
+```
+##### R eseach
+Regulation and legislation too narrow for special & custom vehicle(s).
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Special Vehicle could use the Computer System who require at least Internet connection for deploying secure information and communication system.
+* At least police won't need to carry laptops while in the vehicle. Even carrying simple phone while driving could lead into incident.
+* Including special vehicle cappability could be possible to grab dangeriously placed vehicles on pavement, "T" crossings or so. 
+```
+
+```
