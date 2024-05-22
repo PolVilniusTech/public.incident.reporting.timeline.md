@@ -388,7 +388,7 @@ Plausible propaganda and disinformation
 
 From such incidents there are possible to learn a lot. I.e.:
 * Official document could be made with intention to make ruckus. Pretexting and using the situation.
-* Official questions are made in official places first, i.e. [un.org](https://www.un.org/securitycouncil/events/calendar/), [press.un.org](https://press.un.org/en/content/general-assembly/meetings-coverage).
+* Official questions are made in official places first, i.e. [un.org](https://www.un.org/securitycouncil/events/calendar/), [press.un.org](https://press.un.org/en/content/general-assembly/meetings-coverage), [europa.eu](https://european-union.europa.eu/news-and-events_en), [consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/calendar/?daterange=past).
 ```
 
 ```
