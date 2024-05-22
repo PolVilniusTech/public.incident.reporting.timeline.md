@@ -3188,3 +3188,26 @@ Money loss.
 From such incidents there are possible to learn a lot. I.e.:
 * Licenses of entities could be found in here: a) [lb.lt](https://www.lb.lt/lt/frd-licencijos/view_license?id=479) and b) [lb.lt](https://www.lb.lt/lt/frd-licencijos/view_license?id=343). B entity has physical facilities [lb.lt](https://www.lb.lt/lt/finansu-rinku-dalyviai/luminor-bank-as-lietuvos-skyrius).
 * In a situation of profits from investment willingly require for filling taxes declaration in here [vmi.lt](https://www.vmi.lt/evmi/). Usual approach of bank institution — in addition they make administration and prepare all documentation, so people would not lose a faith in plausible investment. In a situation when bank can't do it, then person has to do it for himself.
+```
+
+```
+##### I ncident
+
+According the Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2277155/sukciai-apgaudineja-apsimesdami-populiaria-siuntu-platforma-kaip-apsisaugoti) scammers employ parcel delivery service scams to grab sensitive and personal data. 
+
+```
+
+```
+##### R esults
+Informational.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Electronic services over internet could be misused by implementing man-in-the-middle malicious service. This could be solved with Content Security Policy Meta Header security options for modern browser Software.
+* Single and Modern Application like Web browser could be connecting with other browsers for synchronization. Malicious organizations could provide malicious services to grab sensitive and personal information also.
+```
+
+```
