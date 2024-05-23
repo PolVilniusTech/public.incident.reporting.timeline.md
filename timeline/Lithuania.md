@@ -3194,7 +3194,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According the Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2277155/sukciai-apgaudineja-apsimesdami-populiaria-siuntu-platforma-kaip-apsisaugoti) scammers employ parcel delivery service scams to grab sensitive and personal data. 
-
 ```
 
 ```
@@ -3208,6 +3207,25 @@ Informational.
 From such incidents there are possible to learn a lot. I.e.:
 * Electronic services over internet could be misused by implementing man-in-the-middle malicious service. This could be solved with Content Security Policy Meta Header security options for modern browser Software.
 * Single and Modern Application like Web browser could be connecting with other browsers for synchronization. Malicious organizations could provide malicious services to grab sensitive and personal information also.
+```
+
+```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2280026/vilniuje-is-vyro-sukciai-isviliojo-apie-5-tukst-euru) via (unknown type) phone person were scammed and lost money.  
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* There may exists bug in telecommunication system when by answering phone You lose money. Telecommunication companies usually charge both situations for calling and for answering, or even dropping the call. In this accordance person should not answer unknown phone calls.
+* When phone has chance to re-direct calls then this phone plausibly could be used for malicious re-directions and person, who receives calls can't understand when this phone come from unknown foreign location.   
 ```
 
 ```
