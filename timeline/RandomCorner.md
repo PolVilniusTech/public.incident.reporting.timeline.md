@@ -356,7 +356,7 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 ##### I nnocent
 
-According this Constitution [likumi.lv](https://likumi.lv/ta/id/57980-latvijas-republikas-satversme) provide information about Counties of the Republic of Latvia: "Vidzeme", "Latgale", "Kurzeme" and "Zemgale".
+According this Constitution [likumi.lv](https://likumi.lv/ta/id/57980-latvijas-republikas-satversme) provide information about Counties (or Provinces) of the Republic of Latvia: "Vidzeme", "Latgale", "Kurzeme" and "Zemgale".
 Single Baltic Brother State of Republic of Lithuania [lt.wikipedia.org](https://lt.wikipedia.org/wiki/Latvija#/media/Vaizdas:Balt%C5%B3_gentys_XII_am%C5%BEiuje.svg) apply this as "Sėliai", "Latgaliai", "Kuršiai", "Žiemgaliai".
 ```
 
@@ -375,8 +375,8 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 ##### I nnocent
 
-According this Page in latvian language about European Union [lv.wikipedia.org](https://lv.wikipedia.org/wiki/Eiropas_Savien%C4%ABba) provided information of 27 EU Member States.
-According this Open Data from European Open Data Maturity [data.europa.eu](https://data.europa.eu/sites/default/files/edp_landscaping_insight_report_n1_-_final_0.pdf) plausible to extract EU28 Countries, who probably are twenty eight States (Data from the Year of 2015).
+According this Page in latvian language about European Union [lv.wikipedia.org](https://lv.wikipedia.org/wiki/Eiropas_Savien%C4%ABba) provided information of 27 EU Member Countries.
+According this Open Data from European Open Data Maturity [data.europa.eu](https://data.europa.eu/sites/default/files/edp_landscaping_insight_report_n1_-_final_0.pdf) plausible to extract EU28 Countries, who probably are indeed twenty eight Countries (Data from the Year of 2015).
 According this Jurisdictional Act [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0881&qid=1716539545837) translations are provided to all 24 official languages of the EU.
 ```
 
