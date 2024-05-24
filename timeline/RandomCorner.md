@@ -354,3 +354,22 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+According this Constitution [likumi.lv](https://likumi.lv/ta/id/57980-latvijas-republikas-satversme) provide information about Counties of the Republic of Latvia: "Vidzeme", "Latgale", "Kurzeme" and "Zemgale".
+Single Baltic Brother State of Republic of Lithuania [lt.wikipedia.org](https://lt.wikipedia.org/wiki/Latvija#/media/Vaizdas:Balt%C5%B3_gentys_XII_am%C5%BEiuje.svg) apply this as "Sėliai", "Latgaliai", "Kuršiai", "Žiemgaliai".
+```
+
+```
+##### R eseach
+Baltic States who are more Baltic than Finnic.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* How this could move into harder communication when "Vidzeme" stands as "Sėliai". Over the time not only people get's distant, the language goes this way too.
+```
+
+```
