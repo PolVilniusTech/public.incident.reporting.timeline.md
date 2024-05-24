@@ -373,3 +373,24 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+According this Page in latvian language about European Union [lv.wikipedia.org](https://lv.wikipedia.org/wiki/Eiropas_Savien%C4%ABba) provided information of 27 EU Member States.
+According this Open Data from European Open Data Maturity [data.europa.eu](https://data.europa.eu/sites/default/files/edp_landscaping_insight_report_n1_-_final_0.pdf) plausible to extract EU28 Countries, who probably are twenty eight States (Data from the Year of 2015).
+According this Jurisdictional Act [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0881&qid=1716539545837) translations are provided to all 24 official languages of the EU.
+```
+
+```
+##### R eseach
+Places for plausible lack of transparency and inclusion into communication of the EU level.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* In some scope a term of "Big Data" for County member could look as big as much of one million and from State level this could look as very small indeed..
+* There are small and (or) lacking open data for Cybersecurity Terms and Abbrevations.
+```
+
+```
