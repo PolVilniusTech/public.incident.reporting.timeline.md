@@ -362,7 +362,7 @@ Single Baltic Brother State of Republic of Lithuania [lt.wikipedia.org](https://
 
 ```
 ##### R eseach
-Baltic States who are more Baltic than Finnic.
+Baltic Countries who are more Baltic than Finnic.
 ```
 
 ```
@@ -389,7 +389,7 @@ Places for plausible lack of transparency and inclusion into communication of th
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-* In some scope a term of "Big Data" for County member could look as big as much of one million and from State level this could look as very small indeed..
+* In some scope a term of "Big Data" for County member could look as big as much of one million. From a Country level this could look as very small indeed..
 * There are small and (or) lacking open data for Cybersecurity Terms and Abbrevations.
 ```
 
