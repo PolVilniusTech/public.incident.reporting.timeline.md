@@ -394,3 +394,46 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [Adam J.A., Nin K. & Marco R.](https://link.springer.com/article/10.1007/s00146-021-01262-5) contain number of past situations when:
+1) "Cambridge Analytica were allowed by Facebook to harvest the personal data <...> without user permission";
+2) "YouTube were <...> extracting personal information <...> without parental consent";
+3) Club <...> were <...> sharing data <...> of its users to third parties (probably, without member consent);
+4) "the Royal Free London NHS Foundation" allowed "to train machine-learning algorithms" with bunch of Data when personal information datasets flow into "large private companies".
+Article provide idea about Machine-learning algorithm(s) who were used to assess teacher performances. While containing "low score" ther result of lay off from the position.
+```
+
+```
+##### R eseach
+Deliberately making conflict of interest for machine learning algorithm while using biased data, equation and (or) requirements
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* In a sense of functionality it is important to list out this ( automatic | manual ) & generative functionality from less intelligent to most intelligent and use those terms properly, i.e. 
+[wikipedia.org](https://en.wikipedia.org/wiki/Artificial_intelligence) & [wikipedia.org](https://en.wikipedia.org/wiki/Machine_learning) as following:
+01. Machine-learning mechanism, i.e.:
+	01.01. Meta-data learning; 
+	01.02. Online learning; 
+	01.03. Quantum machine learninig; 
+	01.04. Reinforced learning; 
+	01.05. Rule-based learning; 
+  01.06. Supervised learning; 
+    01.06.01. Self-supervised learning; 
+    01.06.02. Semi-supervised learning; 
+	01.07. Unsupervised learning; 
+    01.07.01.  Self-unsupervised learning; 
+    01.07.02.  Semi-unsupervised learning. 
+02. Artificial narrow intelligence. 
+03. Artificial general intelligence (to Artificial generative intelligence). 
+04. Superintelligence (to Artificial super intelligence). 
+05. (to Artificial super strong intelligence?). 
+* Without known functionality the "Machine-learning algorithm" would just go into automatic & plausibly biased evaluation from evaluator(s). In a sense this could be simple MS Excel file with automatic data input from evaluators. Plausible huge disinformation with lost sense of a big or small functionality realisation.
+* Exist problem of losing consent and last words in a situation. In the sense companies could just include terms of use with making consent on "new updates of the terms" when they are rolling out. Automatic notification and monitoring of consent status could be an option. User has to be aware that his data could be shared with known or unknown sources. Plausible problem of cybersecurity breach when consent are applied & provided w/o real consent of the original person who should confirm the consent status. A danger zone of false consent.
+* Exist problem for authors to lose their authorship when automatic tools grab the information w/o consent. I.e. person from private company is made a teacher and stripped out of his knowledge. Blog is filled with content and scrapped with auto-matic web scrap tools. In technical aspect exists robot exclusion standard. In other aspect — just print a book (e.book) with some publisher. Authorship usually are defended by kind of Historian(s) who has perfect tools for this Task.
+```
+
+```
