@@ -264,7 +264,7 @@ From such innocents there are possible to learn a lot. I.e.:
 
 ```
 ##### I nnocent
-According this Article [w3.org](https://www.w3.org/International/questions/qa-i18n) exists International term "Internationalization". This term mostly could be found in places where Web Site provide number of choices to provide translation. Number of News Services provide content in multiple languages also, i.e. [cgtn.com](https://www.cgtn.com/) has News in Arabic, English, French, Russian, Spanish; [lrt.lt](https://www.lrt.lt/) has News in English, Lithuanian, Polish, Russian, Ukrainian; [cnn.com](https://edition.cnn.com/) - English.
+According this Article [w3.org](https://www.w3.org/International/questions/qa-i18n) exists International term "Internationalization". This term mostly could be found in places where Web Site provide number of choices to provide translation. Number of News Services provide content in multiple languages also, i.e. [cgtn.com](https://www.cgtn.com/) has News in Arabic, English, French, Russian, Spanish; [lrt.lt](https://www.lrt.lt/) has News in English, Lithuanian, Polish, Russian, Ukrainian; [cnn.com](https://edition.cnn.com/) - Arabic, English, Spanish.
 ```
 
 ```
