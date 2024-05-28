@@ -438,3 +438,22 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2283839/pernai-veiklos-rodikliu-nepasiekusios-iae-darbuotojai-nepatenkinti-atlyginimais) provide point of „už darbą jonizuojančios spinduliuotės sąlygomis“ (angl. for work on ionising radiation conditions).
+```
+
+```
+##### R eseach
+Work condition and consent to work over this condition.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Here [iae.lt](https://www.iae.lt/karjera-ir-praktika/91#c-49/t-113) is plausible to see requirements for the Job. Here [iae.lt](https://www.iae.lt/data/public/uploads/2024/05/is_saltkalvis_20240531.pdf) is requesting for "Curriculum Vitae" and provided idea of what to expect. Work conditions with ionising radiation is not present. Provided idea with Insurance from Accidents.
+* Requirement include to be healthly from diseases specified in the list approved by the Minister of Health. Onfortunately in number of legislations it is hard to find of those diseases taking sample of this one [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.33408/asr). Relevant information lead into Active and in force Act's [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.409568), [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.378159), [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.159355). Other relevant act [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.403278/asr) for managing risk, which provide physical security by working on plausible ionising radiation conditions.
+```
+
+``` 
