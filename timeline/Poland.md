@@ -279,3 +279,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2286891/pareigunas-lenkijos-naujienu-agentura-tiketina-susidure-su-rusu-kibernetine-ataka) there was Cyberattack in Poland's News Agency. 
+```
+
+```
+##### R esults
+Affected integrity of a News Content.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*   Integrity of Content is very important. Unauthorized entity(ies) has chance to spread misinformation over gained privileged access. In this case important to take a Note of Authenticity of an provided information.
+```
+
+```
