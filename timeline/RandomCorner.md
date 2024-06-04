@@ -458,3 +458,22 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2288815/po-lituanistu-pasipiktinimo-svietimo-agenturos-laikinojo-direktoriaus-atsiprasymas) provide Idea of sound recordings while making Mediate (non-Exam) Tasks. Next Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/222788/paslapcia-nufotografavo-o-nuotrauka-atsidure-internete-ka-turite-apie-tai-zinoti) has proper assessment related to risks when data could be shared online.
+```
+
+```
+##### R eseach
+When evidence is not enough and final result moves into creating additional constrains for people who are doing their job.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Consent, the term who has important meaning when Your Child has to move into the School. Each parent in best efforts decide to give consent for collected media content for data sharing online or not. Time fly over and in a following School Year following decision does not override previous decision for the past Year. Making final decision and overriding the past for following already completed action(s) — the environment where disinformation and propaganda flourish.
+* Media format in a shape and feature(s) of a person is own person's decision, this is when in legal way he has full rights to decide. Also exists parent(s) who try to be kind of a owner of his(their) child's brand and even in this situation child require move into the Courthouse for getting his(her) Freedoom. People with their own dignity move into online Court when they has or require for option like this.
+```
+
+```
