@@ -3251,3 +3251,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2290551/google-atstovais-apsimete-sukciai-is-moters-isviliojo-per-14-tukst-euru) happened scamming events: a) over smartphone call and b) over email message. In both cases persons lost their Identification, Authentication and Authorization mechanism privileges and other entity received account balance when there was no consent to this.
+```
+
+```
+##### R esults
+Money loss.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Request to include money transfer limits, so You will not be able to spend higher sum of money per week, per month.
+* Request that You will call over official phone and not receive phone call from unknown source.
+```
+
+```
