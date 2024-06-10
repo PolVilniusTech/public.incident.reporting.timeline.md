@@ -91,7 +91,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/E.U./Images/European%20Union%20Auth%20Issues.png) and provided Image in the E.U. Auth Service is not Available.
+According this [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/E.U./Images/European%20Union%20Auth%20Issues.png) and provided Image: the E.U. Auth Service is not Available.
 ```
 
 ```
