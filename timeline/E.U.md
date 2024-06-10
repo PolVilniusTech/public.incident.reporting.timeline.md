@@ -89,3 +89,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/E.U./Images/European%20Union%20Auth%20Issues.png) and provided Image in the E.U. Auth Service is not Available.
+```
+
+```
+##### R esults
+Sorry Page for Unavailable E.U. Service. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Server's limitation of active session's does not provide excuse for not providing service to the Client. In this case the Client could request to read Technical Specification of the Service and Information System. Requirements of the System could provide idea about cappability of the Service.   
+* According a common knowledge in [wikipedia.org](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) exist idea about "Forbidden" HTTP Code. This means that the Client does not have any legal rights in the Service. The Image provide other information that can't be linked with the "Forbidden" status code.
+* E.U. Information System provide commitment about compatibility with number of Web Browser technologies. Testing for number of Applications and not the single App could help to boost Availability to number of Clients.
+* Providing Request identificator without consolidated documentation about it make this useful mostly for developers and during communication with devs. Technical Specification of Information System could include list of competencies for Dev, Users, Clients...
+```
+
+```
