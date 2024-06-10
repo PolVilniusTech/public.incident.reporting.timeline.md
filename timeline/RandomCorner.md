@@ -492,7 +492,7 @@ Entity who could plausibly belong to both Teams at the same time.
 
 From such innocents there are possible to learn a lot. I.e.:
 * According Best Practices for Cyber Crisis Management [enisa.europa.eu](https://www.enisa.europa.eu/publications/best-practices-for-cyber-crisis-management) is recommendation to conduct exercises for the computer security incident response team’s (CSIRTs) to test operational level and procedures.
-* From early of 2021 Year according this Article [enisa.europa.eu](https://www.enisa.europa.eu/news/enisa-news/eu-member-states-test-rapid-cyber-crisis-management) E.U. has possibility for effective cyber crisis management in the E.U. to leverage large-scale, cross border cyber-attacks. ENISA enable operation and information exchange with infrastructure, tools and expertise,  support for the exercise and training. In this regard exists type of Cyber Rapid Response Teams (CRRTs) who has their own Coordinator. Main element - EU-CyCLONe who is kind a CSIRT's Network.
+* From early of 2021 Year according this Article [enisa.europa.eu](https://www.enisa.europa.eu/news/enisa-news/eu-member-states-test-rapid-cyber-crisis-management) E.U. has possibility for effective cyber crisis management in the E.U. to leverage large-scale, cross border cyber-attacks. ENISA enable operation and information exchange with infrastructure, tools and expertise,  support for the exercise and training. Main element - EU-CyCLONe who is kind of a CSIRT's Network. In this regard also exists type of Cyber Rapid Response Teams (CRRTs) who together with Permanent Structured Cooperation (PESCO) from 2017 join and mesh together i. martime, ii. air, iii. land, iv. cyber, v. space levels.
 ```
 
 ```
