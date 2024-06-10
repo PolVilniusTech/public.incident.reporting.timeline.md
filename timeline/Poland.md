@@ -297,3 +297,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [SECURITY OPS](https://security-ops.pl/cyberbezpieczenstwo/potwierdzono-dokonanie-cyberataku-na-pap/) News Agency had message post with lies in it & employees were not related with that Message.
+```
+
+```
+##### R esults
+Disinformation
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Malware backdoor could try to change the data directly from the Database of an Information System where News are stored. Each Data point for plausible data management has to be taken into an Account. 
+```
+
+```
