@@ -3270,3 +3270,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2292612/patikejusi-sukciu-apgaule-vilniete-prarado-6-2-tukst-euru) money were scammed from bank account of a citizen.
+```
+
+```
+##### R esults
+Money loss.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Bank organisation(s) never allow to communicate in clear text messages, video and audio between Clients in their Information System to limit number of phishing attacks.
+```
+
+```
