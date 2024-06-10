@@ -59,7 +59,7 @@ For Customers:
 * Consider possibility for restricting use of Credit Card after spending fixed amount of Money per Month.
 
 Other ideas related to Physical Devices:
-* Check Credit Card Scanner Device's for Security Issues, test it out and if necessary — fix it. 
+*  Credit Card Scanner Device's for Security Issues, test it out and if necessary — fix it. 
 ```
 
 ```
@@ -83,7 +83,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Test out, if Hardware has enough resources to function properly.
 * Test out the characteristics of the Web Server.
 * Look for the ways how to upgrade the Hardware and the Web Server.
-* Check if Servers Ethernet interface needs upgrade into latest fiber-optic Ethernet. 
+*  if Servers Ethernet interface needs upgrade into latest fiber-optic Ethernet. 
 * Distributing Resources and aligning to the Server capability at serving the Customers.
 * Look for cache capability for speeding up processes.
 ```
@@ -236,8 +236,8 @@ From such incidents there are possible to learn a lot. I.e.:
 
 For Buyers:
 * If DNS server is returning outdated or incorrect results, then it's better to change your DNS servers and flush the DNS cache.
-* [DNS Lookup Service](https://dnschecker.org/)
-* [About DNS and it's configuration on Windows, Mac, Ubuntu](https://dnschecker.org/dns-articles/how-dns-works-how-to-find-dns-of-your-pc.html)
+* [DNS Lookup Service](https://dnser.org/)
+* [About DNS and it's configuration on Windows, Mac, Ubuntu](https://dnser.org/dns-articles/how-dns-works-how-to-find-dns-of-your-pc.html)
 ```
 
 ```
@@ -275,8 +275,8 @@ Chance of data loss.
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* Check functionality and test out the Configuration of the System.
-* Check legal documents and ensure that System are tested for Governance Compliance.
+*  functionality and test out the Configuration of the System.
+*  legal documents and ensure that System are tested for Governance Compliance.
 ```
 
 ```
@@ -302,7 +302,7 @@ Ransom money by specific Clients of the Grožio chirurgija with aim to not discl
 
 From such incidents there are possible to learn a lot. I.e.:
 * If exists Personal data, before disclosing it, You have to get Approval of the Person to which it belongs.
-* Documents, with misinformation for sharing data to the third party does not always are correct, because the Person, who Approves could misunderstood on some points, so more "checkboxes" for vital points have to be checked.
+* Documents, with misinformation for sharing data to the third party does not always are correct, because the Person, who Approves could misunderstood on some points, so more "boxes" for vital points have to be ed.
 * Limit access to the Authentication mechanism for the external Entities and Users. 
 * Answer to the Question(s): Does there should be History related information of All/Many/Some the Clients accessible for some User Account? If yes, then what were the Impact to the Company, if such data would be lost?
 * Programming Applications, Software, Devices with functionality to scan and breach the Websites, Portals, or even Systems, according the [@BNS](https://www.lrt.lt/naujienos/lietuvoje/2/232540/grozio-klinikos-klientu-duomenu-vagystes-reketininkai-is-mediku-norejo-0-5-mln-euru), are illegal (p.s. if it is used in Computer Network(s), Websites, Portals, or even Systems without proper or legal Approval). It's in the list of dual-purpose objects, which could be used for testing Security with Aim to fix, or vica versa.   
@@ -702,7 +702,7 @@ For e-Shops:
 *  Does politics about Incident Response is in place and effective?
 *  If you accept or process payment cards data, the PCI Data Security Standards apply to you, which one of the Goals — "Protect Cardholder Data". 
 *  [PCI Security](https://www.pcisecuritystandards.org/pci_security/standards_overview)
-*  Regularly Install Security Patches and Use Security Scan Tool from Official Site of the [cert.lt](https://site-check.cert.lt/).
+*  Regularly Install Security Patches and Use Security Scan Tool from Official Site of the [cert.lt](https://site-.cert.lt/).
    
 ```
 
@@ -785,7 +785,7 @@ For e-Post:
 ```
 ##### I ncident
 
-According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1403651/pasaulines-slaptazodziu-dienos-proga-pasitikrinkite-kaip-greitai-nulauztu-jusu-slaptazodi) some experts suggesting to input Your password into some website and check for it's security.
+According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1403651/pasaulines-slaptazodziu-dienos-proga-pasitikrinkite-kaip-greitai-nulauztu-jusu-slaptazodi) some experts suggesting to input Your password into some website and  for it's security.
 ```
 
 ```
@@ -914,7 +914,7 @@ Possibility of Data loss of the Local and Foreign Citizens.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Lack of Security Architects of the Information Systems would lead into poor quality of the System.
-* Proper Security checks were not implemented during Design and Prototyping.
+* Proper Security s were not implemented during Design and Prototyping.
 * System were not tested manually for dangerious possible User Input of the System.
 * Automated tools lacks functionality to test out from different User Roles perspective, because mostly Automated tools don't know or can't be Configured to find out, what these Roles should be able to do or what they should see.       
 ```
@@ -1176,7 +1176,7 @@ Prices of i-Goods and i-Services and their Diversity would change.
 From such incidents there are possible to learn a lot. I.e.:
 * If International Communication made-done using Public channels, which has the chance to be faked with disinformation, then News and Information could not be trusted for 100 percent.
 * Lack of personel could be made-done by having High requirements to which no one wants to apply. And sometimes, if You would take such person, the Higher Ups would Strip You down. Building better atmosphere in the Workplace would be good way for showing that Leaders and Mid-Bosses are Human and has to take the Action to solve every day Problems. Problems, which Higher-Boss, don't want to solve, but in contrast, if these Problems gonna build Up, then later on it could to Blow with more Damage.
-* If people lack of Knowledge, then they could be given some time to Learn Stuff including specific Rules, Policies and Legislations for specific Job. Periodical check-up of new updates and full Active document would be needed to take into the consideration. Usually such checks are made for Practice on First-Aid and Fire Protection knowledge and actions check-up.
+* If people lack of Knowledge, then they could be given some time to Learn Stuff including specific Rules, Policies and Legislations for specific Job. Periodical -up of new updates and full Active document would be needed to take into the consideration. Usually such s are made for Practice on First-Aid and Fire Protection knowledge and actions -up.
 * Conducting Risk Assessment on various organisational Risks is First for Organisations with High Profit and In Huge countity of Personnel. Smaller Organisations could not catch up with Risk Assessment and Management.    
 ```
 
@@ -1262,7 +1262,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Internet is horrible place, because when You are registering hostname-domain name then everything are take cared by registration authority, if some name are already taken, then they would suggest similar name and sometimes not pretty one, incl. numbers, symbols, etc.
 * One of those entities has electronic mail, other does not have yet, so one of them has already registered hostname-domain name.
 * In comparison there should not be allowed to register microsoft.<country_initials>, google.<country_initials> because You would be sued for phishing attack on the Big Tech Company. There still exists problem for names like m1crosoft.<country_initials> or goog1e.<country_initials>, because this could be used for creating fake hostname-domain name services over Internet, over Digital e.Space.
-* By returning back to previous entities, they sound similar, but one of them are with longer sentence. Usually people are too lazy to type more, so with shorter sentence hostname-domain name already with advantage, rest is only question of quality of service. Does those (up to year old) services saying the Truth in their Slogans. Checking legitimacy for Payed Taxes to the Country Budget could be begint-started at first.
+* By returning back to previous entities, they sound similar, but one of them are with longer sentence. Usually people are too lazy to type more, so with shorter sentence hostname-domain name already with advantage, rest is only question of quality of service. Does those (up to year old) services saying the Truth in their Slogans. ing legitimacy for Payed Taxes to the Country Budget could be begint-started at first.
 * Nowadays big tech companies are extending their Volume-Size by Creating Bigger Brand Name, so if those entities align in the purpose, which has the same target Audience, then it would be wise to do collab entity. Your Customers don't need to pay, i.e. twice with less money in both places. But if something happends with one fishy deal, other could reach the required destination.
 * The Bigger Question in Letting register such names with capital and (or) non-capital letters which starts as "europol" shown in here as [BNS](https://www.lrt.lt/naujienos/verslas/4/1693782/gazprom-pranese-nutraukiantis-duju-tiekima-vamzdynu-jamalas-europa) and it could have links to entity, which are located in The Hague, Netherlands and is main law enforcement agency in the Continent.
 ```
@@ -1284,7 +1284,7 @@ Not enough details of the attack.
 From such incidents there are possible to learn a lot. I.e.:
 * Let's say guess: one Department updated functionality, second Department tested security in Production env., no report were made for updating-testing their own Product.
 * website update could mean: it contain full server swap with new and more robust server, before testing it's security using automated tools-instruments according the Law from the Constitution and International Order down to Law of Institution level would need to communicate for Availability of security-pentesting.
-* if website would be updated into popular known frameworks, then would require to check for keeping it updated in regular basis.
+* if website would be updated into popular known frameworks, then would require to  for keeping it updated in regular basis.
 * if website would be used only for representation reasons, then does full capacity of flashy functionality would be needed? probably not so, if security is a mission. 
 * Hardening the server would mean: adding aditional security measures, minimizing it's functionality for required only. 
 * What You don't know could be the issue for the Unknown consequences. Separation of public website from internal portal would help to minimize consequences of outside attack. 
@@ -1618,8 +1618,8 @@ People may be fooled by entities on the Platform which has proof of their Identi
 
 From such incidents there are possible to learn a lot. I.e.:
 * In some extend Social media of "Facebook" are trying to keep whole users community base as non-Fake Accounts. In that case each Union/State/Country has representatives who help to block those Fake Accounts, in instance by initiating and clicking Button to Report the User as Fake Account.
-* Identity check and Private and Personal Information storage and management requires additional Compliance to specific jurisdictional and standard regulation. Does the Company are compliant with any of those standards?
-* According provided Identity Check cost Sum, it is really very cheap. For proper Administration of all Users this Sum should be at least doubled or trippled. But even in this Situation does there will be enough of personell to manage this Question? 
+* Identity  and Private and Personal Information storage and management requires additional Compliance to specific jurisdictional and standard regulation. Does the Company are compliant with any of those standards?
+* According provided Identity  cost Sum, it is really very cheap. For proper Administration of all Users this Sum should be at least doubled or trippled. But even in this Situation does there will be enough of personell to manage this Question? 
 ```
 
 ```
@@ -1740,7 +1740,7 @@ Probable loss of contact and personal information of Individual and open doors t
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Probable purchase of domain naime are not checked by simple List of Critical or not so Critical Information Systems, where there would be added limitations how similar are domain names, which already exists and new wish of domain from some new entity, i.e. l and 1 are similar in used encoding table, so it means, when You purchase, i.e. domain name of "love", the "1ove" would be added in the Basked too, just to overcome such phisching scam from someone, in this sample the Victim is who does not have what to offer.  
+* Probable purchase of domain naime are not ed by simple List of Critical or not so Critical Information Systems, where there would be added limitations how similar are domain names, which already exists and new wish of domain from some new entity, i.e. l and 1 are similar in used encoding table, so it means, when You purchase, i.e. domain name of "love", the "1ove" would be added in the Basked too, just to overcome such phisching scam from someone, in this sample the Victim is who does not have what to offer.  
 
 ```
 
@@ -1804,8 +1804,8 @@ Assume someone want to register "ąpple.lt" domain name or some other site, whic
 From such incidents there are possible to learn a lot. I.e.:
 * Let us take idea that Universities has better Knowledge in specific areas as in this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1257917/mokslininkai-kibernetinio-saugumo-terminu-zodyna-rengia-pasitelke-ir-neuroniniu-tinklu-technologijas).
 * Let us take the idea that official public acts, which show specific programmes incl. here [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/89b5405490cb11eb998483d0ae31615c/asr) Attachment|Appendix|Annex provides 3.1. point for "Supporting academical <...> Dictionaries <...> File Sets of those Terms and Definitions", which would include in seven Year period to spend in total 1 million 365 thousand EUR.
-* For number of Years public instututions provide links to Trusted Sources like in this Site [vlkk.lt](https://vlkk.lt/nuorodos/zodynai). Data Sync and Update from various Databases are yet simple. Common people can't get access in one place by specific regular Search "Tree", i.e. first link to Knowledgebase of Cybersecurity Terms and Definitions. By checking this [terminai.vlkk.lt](http://terminai.vlkk.lt/paieska?search=Cyberbullying&zodzio_dalis=0&kalba=2&kaip0=on&sritys=&statusas=0&rykiavimas=0) out, non-NULL result given, simple Zero.
-* Zhōngwén or similar languages could be selected by terminai.vlkk.lt in Advanced Search Settings by clicking checkbox on the last option "All lang.". This option represents the same Ideas as the original Article. 
+* For number of Years public instututions provide links to Trusted Sources like in this Site [vlkk.lt](https://vlkk.lt/nuorodos/zodynai). Data Sync and Update from various Databases are yet simple. Common people can't get access in one place by specific regular Search "Tree", i.e. first link to Knowledgebase of Cybersecurity Terms and Definitions. By ing this [terminai.vlkk.lt](http://terminai.vlkk.lt/paieska?search=Cyberbullying&zodzio_dalis=0&kalba=2&kaip0=on&sritys=&statusas=0&rykiavimas=0) out, non-NULL result given, simple Zero.
+* Zhōngwén or similar languages could be selected by terminai.vlkk.lt in Advanced Search Settings by clicking box on the last option "All lang.". This option represents the same Ideas as the original Article. 
 ```
 
 ```
@@ -2027,7 +2027,7 @@ From such incidents there are possible to learn a lot. I.e.:
 *   If Web Site has number of Authentication Levels (i.e. public Site, Authenticated Site) then Web Administrator should get proper requests, which could explain on which Level Job should be completed.
 *   If there were no extra Job, then the Audit Logs could answer to the Question: what happened? unless the Security incident happen which lead into loss of Integrity and Authenticity of Journaling Data Logs.  
 *   General Data protection Reglament only works in Private Sector. For Public Sector it would need to look into the local Regulations and to Report the Issue.
-*   Common Automated Security Check tools can't tell, which information should be Public and which - Not. OpenAI Bot allow to Set Up Your Learning Data, then it could be good to find out the problem, which were given in the previous Sentence.
+*   Common Automated Security  tools can't tell, which information should be Public and which - Not. OpenAI Bot allow to Set Up Your Learning Data, then it could be good to find out the problem, which were given in the previous Sentence.
 ```
 
 ```
@@ -2083,7 +2083,7 @@ Not clear enough.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*   The Article provide Fact "Telecomunication Company should never check SMS of their Users". If Telecomunication Company don't do that, then in addition they should not give Access to anybody else? because an Assets of a Person(s) is Untouchable. Illegal Orders may be the Problem for some kind of Jurisdictions.
+*   The Article provide Fact "Telecomunication Company should never  SMS of their Users". If Telecomunication Company don't do that, then in addition they should not give Access to anybody else? because an Assets of a Person(s) is Untouchable. Illegal Orders may be the Problem for some kind of Jurisdictions.
 *   The Article provide Fact that Internet Service Providers gonna block URL's, which are in Forbidden List. In this Regard, if You install Modern Anti-Virus & Anti-MalWare Software in the Computer System, then You get something similar. Multiple Modern Anti-Virus & Anti-MalWare Software Installations could be a Latency for Comfortable Usability of Your Goodies.
 ```
 
@@ -2446,7 +2446,7 @@ Availability of the service to the citizens could be in question.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Distributed system could help to collect data even when the availability to the internet is scarse.
-* Information exchanged between the electronic device and the service center should be protected with encryption and decryption, encoding and decoding, integrity checks, stamps and signatures. When this mechanism has to be updated, then the service could be tested in a testing environment before an original update commense.
+* Information exchanged between the electronic device and the service center should be protected with encryption and decryption, encoding and decoding, integrity s, stamps and signatures. When this mechanism has to be updated, then the service could be tested in a testing environment before an original update commense.
 * The calculations in digits for the common user-citizen and cheapest option in a life-cycle is not taken in an account.
 ```
 
@@ -2587,7 +2587,7 @@ Loss of money
 
 From such incidents there are possible to learn a lot. I.e.:
 * It's necessary to take in consideration that Advertisement are used by scammer(s) too. This is true for scammer(s) from this(ose) country(-ies) whose people admire and donate their savings.
-* National Cyber Security Center (NCSC) own nice Tool [nksc.lt](https://www.nksc.lt/tikrinti.html). This IP checker provide information about Computer Activity in TCP/IP Computer Network. I.e. this Computer IP Address not registered in "NKSC/CERT-LT" Database for full 30 day period. When Mobile phone(s) are important in daily social life, then why does the Police don't open possibility to test out Fixed & Mobile phone addresses for being in a "Database"? When Person really want to call it back, then at least he could check that phone number (not)exists in a common "Database" for number of cases.  
+* National Cyber Security Center (NCSC) own nice Tool [nksc.lt](https://www.nksc.lt/tikrinti.html). This IP er provide information about Computer Activity in TCP/IP Computer Network. I.e. this Computer IP Address not registered in "NKSC/CERT-LT" Database for full 30 day period. When Mobile phone(s) are important in daily social life, then why does the Police don't open possibility to test out Fixed & Mobile phone addresses for being in a "Database"? When Person really want to call it back, then at least he could  that phone number (not)exists in a common "Database" for number of cases.  
 ```
 
 ```
@@ -2667,7 +2667,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * When there is a talk about National Cyber Security Center, then citizens could argue that they use some type Browser Software, which could be at fault, to access this e.Service.
 * Does popular Browser Sofware is a very secure Software? I.e. Google Browser - a free (and open) Software.
 * TAMO has Google supported Cookiebot functionality, use www.googletagmanager.com + www.google.com/recaptch + fonts.googleapis.com. What this Site does not has is a guided functionality of [developers.google.com](https://developers.google.com/publisher-tag/guides/content-security-policy). Allowing what is allowed, rejecting what is not allowed and there should be less problems for e.Service Users, because they probably has smart enough Browser Software.
-* Data collection activity from a long long time? When somebody could include malicious code in the source code of the System (directly/indirectly). When this could be the case, then they could grab the data of hundreds and thousands people. Secure versioning of a TAMO code? secure architecture re-check of a authentication mechanism? searching for plausible data stealer code and how this was introduced to the System.
+* Data collection activity from a long long time? When somebody could include malicious code in the source code of the System (directly/indirectly). When this could be the case, then they could grab the data of hundreds and thousands people. Secure versioning of a TAMO code? secure architecture re- of a authentication mechanism? searching for plausible data stealer code and how this was introduced to the System.
 ```
 
 ```
@@ -2835,7 +2835,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/RRT%20not%20Available%202024-03-29.PNG) and provided Image in the GitHub Service RRT Site is not Available.
+According this check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/RRT%20not%20Available%202024-03-29.PNG) and provided Image: the GitHub Service RRT Site is not Available.
 ```
 
 ```
@@ -2920,7 +2920,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this check [Ktu.lt](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/EBOOKS%20too%20long%20to%20respond%202024-04-15.PNG) link does not respond. The existence of this Site were found from common Web Site [Lrt.lt](www.lrt.lt).
+According this check [Ktu.lt](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/EBOOKS%20too%20long%20to%20respond%202024-04-15.PNG) the link does not respond. The existence of this Site were found from common Web Site [Lrt.lt](www.lrt.lt).
 ```
 
 ```
