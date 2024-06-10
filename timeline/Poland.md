@@ -299,7 +299,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [SECURITY OPS](https://security-ops.pl/cyberbezpieczenstwo/potwierdzono-dokonanie-cyberataku-na-pap/) News Agency had message post with lies in it & employees were not related with that Message.
+According this Article [SECURITY OPS](https://security-ops.pl/cyberbezpieczenstwo/potwierdzono-dokonanie-cyberataku-na-pap/): News Agency had posted Message with lies in it & employees of that Agency were not related with that Message.
 ```
 
 ```
