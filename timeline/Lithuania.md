@@ -3288,3 +3288,27 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2298613/phoenix-payments-nubausta-beveik-1-mln-euru-bauda) provided News about Issues of the Member of Financial Market (Company) [lb.lt](https://www.lb.lt/lt/finansu-rinku-dalyviai/uab-phoenix-payments).
+
+```
+
+```
+##### R esults
+Member of Financial Market does not meet all Requirements.
+Company lacks of procedures in a Risk Management.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Oficial information of Issues for this Company found in [lb.lt](https://www.lb.lt/lt/poveikio-priemones-2?query=UAB%20%22PHOENIX%20PAYMENTS%22&ff=1).
+* Weak Identity Authentication mechanism can't protect Assets of a Client and a Company. Incorrect use of Athentication mechanism could lead into downgraded security when this should not happen.
+* According Article Company should collect Financial Data for ensuring that Clients Assets are acceptable & according known Regulation, and auditable. Provided example of Customer Case File with flaws in finding out origin of customer income & funds. While being in risk factor an information need to share with the [Financial Crime Investigation Service under The Ministry of the Interior of the Republic of Lithuania](https://fntt.lrv.lt/en/). According Article each transaction and money operation has to be traceable.
+* Place for problems and complains regarding Law [commission.europa.eu](https://commission.europa.eu/about-european-commission/contact/problems-and-complaints_en) while protection of information disclosure should go according this [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/3832a702d8ea11e782d4fd2c44cc67af). Lithuanian Bank in here [lb.lt](https://www.lb.lt/lt/pranesimai-apie-finansu-rinka-reguliuojanciu-teises-aktu-pazeidimus) accepts with Lithuanian Market related Issues and provide chance to report violations of Law in a Financial sector.
+* Alongside disclosure exist risk of inclusion of technical issues who is linked to intellectual property related information (take a note in [en.wikipedia.org](https://en.wikipedia.org/wiki/Copyright_and_Information_Society_Directive_2001)) and protection of personal data information (take a note in [en.wikipedia.org](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)).
+```
+
+```
