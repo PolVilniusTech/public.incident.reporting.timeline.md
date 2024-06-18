@@ -3291,7 +3291,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According the Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2298613/phoenix-payments-nubausta-beveik-1-mln-euru-bauda) provided News about Issues of the Member of Financial Market (Company) [lb.lt](https://www.lb.lt/lt/finansu-rinku-dalyviai/uab-phoenix-payments).
-
 ```
 
 ```
@@ -3309,6 +3308,26 @@ From such incidents there are possible to learn a lot. I.e.:
 * According Article Company should collect Financial Data for ensuring that Clients Assets are acceptable & according known Regulation, and auditable. Provided example of Customer Case File with flaws in finding out origin of customer income & funds. While being in risk factor an information need to share with the [Financial Crime Investigation Service under The Ministry of the Interior of the Republic of Lithuania](https://fntt.lrv.lt/en/). According Article each transaction and money operation has to be traceable.
 * Place for problems and complains regarding Law [commission.europa.eu](https://commission.europa.eu/about-european-commission/contact/problems-and-complaints_en) while protection of information disclosure should go according this [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/3832a702d8ea11e782d4fd2c44cc67af). Lithuanian Bank in here [lb.lt](https://www.lb.lt/lt/pranesimai-apie-finansu-rinka-reguliuojanciu-teises-aktu-pazeidimus) accepts with Lithuanian Market related Issues and provide chance to report violations of Law in a Financial sector.
 * Alongside disclosure exist risk of inclusion of technical issues who is linked to intellectual property related information (take a note in [en.wikipedia.org](https://en.wikipedia.org/wiki/Copyright_and_Information_Society_Directive_2001)) and protection of personal data information (take a note in [en.wikipedia.org](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)).
+```
+
+```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2299296/is-garbaus-amziaus-vyro-sukciai-isviliojo-45-tukst-690-euru) elderly person got scammed into investment of a Crypto Currency.
+```
+
+```
+##### R esults
+Money loss.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Crypto Currency is not included as protected in fixed sum [eba.europa.eu](https://www.eba.europa.eu/sites/default/files/document_library/Publications/Warnings/2022/ESAs%20warning%20on%20crypto%20assets/Translations/1028362/ESA%202022%2015%20Joint%20ESAs%20warning%20on%20crypto-assets_LT.pdf).
+* U.S. provide Sanction List by Individual level & in this case person is not trustworthy and (or) blocked for Financial Operations [treas.gov](https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList).
+* Energy consumption make Crypto Currency as not Sustainable [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2542435120303317). For the Future of this technology there could exist Frame and Standart, i.e. [acea.auto](https://www.acea.auto/fact/euro-standards/).
 ```
 
 ```
