@@ -3331,3 +3331,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2299782/payseros-klientai-susidure-su-duomenu-saugumo-pazeidimais) there is plausibility that half of client card's digits of "Paysera LT, UAB" and contact information were exposed.
+```
+
+```
+##### R esults
+Plausible loss of client information.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Client card data could be exposed in-directly over 3rd parties.
+* Company has to ensure that Access Control to a Database and Private Data are at optimal level and secured.
+```
+
+```
