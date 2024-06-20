@@ -3351,3 +3351,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2301209/marijampoles-apskrityje-sukciai-is-moters-isviliojo-daugiau-nei-94-tukstancius-euru) scammers over 10 days period illegaly extracted hefty sum of money from a bank account of a victim.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* This amount of Money is impossible to withdraw from electronic bank account without moving to bank facillity. (Article) There should be enforced limits to withdraw units per Day, per Week & per Month.
+* Article include Image of Block's of Money with included Banderole's [vlkk.lt](https://terminai.vlkk.lt/paieska?search=banderol%C4%97). (Far East style).
+```
+
+```
