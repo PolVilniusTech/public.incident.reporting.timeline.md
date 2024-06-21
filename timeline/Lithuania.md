@@ -3370,3 +3370,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2302220/sutriko-smart-id-veikla) Smart-ID electronic services are unavailable.
+
+More [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2301403/sutriko-smart-id-veikla).
+```
+
+```
+##### R esults
+Electronic service is unavailable.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Alternative options could help and improve Availability of the required function in question.
+* Alternative system, when needed, could provide subsidy of the electronic service.
+```
+
+```
