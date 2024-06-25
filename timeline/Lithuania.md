@@ -3391,3 +3391,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2303918/sukciu-skambutis-kalvarijos-gyventojui-baigesi-6-tukst-euru-nuostoliu) person answered to phone call and lost money from a scam. High chance that they know each other.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Telecommunication companies include limits to the service. Person with regular phone answer should not be able to lose more money that in this balance.
+* Context in the Article has links with a Social Engineering. Usually Scammer reminds the person that he's poor and ask, if he want get Job and (or) Invest Money. Leaked Databases with sensitive personal data could be used to Scam those who don't have what to offer anyway.
+```
+
+```
