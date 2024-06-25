@@ -498,3 +498,26 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [ELTA](https://www.lrt.lt/naujienos/eismas/7/2304023/regitra-nuo-liepos-atnaujina-transporto-priemones-registracijos-liudijima) include changes for official Registration Document of the Vehicle.
+```
+
+```
+##### R eseach
+How to prove that Document in Your possesion is original and with all necessities.  
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Watermark
+* Security Seal Tape
+* Driver's Signature
+* Stamp
+* Identification code with a link to official Database and Notification that Information is kept in such Database.
+
+```
+
+```
