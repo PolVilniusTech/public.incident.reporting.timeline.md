@@ -517,8 +517,7 @@ From such innocents there are possible to learn a lot. I.e.:
 * Driver's Signature
 * Stamp
 * Identification code with a link to official Database and Notification that Information is kept in such Database.
-* Area of the Document is related with [op.europa.eu](https://op.europa.eu/en/publication-detail/-/publication/ba2a3216-b10d-11ea-bb7a-01aa75ed71a1/language-en).
-
+* Area of the Document is related with [op.europa.eu](https://op.europa.eu/en/publication-detail/-/publication/ba2a3216-b10d-11ea-bb7a-01aa75ed71a1/language-en). p.s. 53 Page include Untranslatable Word, which could be something, say something as unrerepeatable. Repeatable — plausible to repeat. Unrepeatable — Not possible to repeat. Unrerepeatable — Impossible to repeat. English Dictionar'ies very often include new Words. Does English language does not include such or similar meaning?
 ```
 
 ```
