@@ -3411,3 +3411,20 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2305087/rusija-skelbia-blokuojanti-tris-lietuvos-portalus-tarp-ju-lrt-lt) mirrage rules between Russian Federation and European Union. LRT.lt domain now is blocked from a part of Internet.
+```
+
+```
+##### R esults
+Unavailable service.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  According this [Article](https://media.voog.com/0000/0051/2796/files/Rusconf_22.pdf): While television remains the primary source of information for the majority of Russians, its importance has dropped from 90 percent to 62 percent since 2014 as the role of the internet and social media have grown (Levada Center, 2021b). According main Article European Union are jointly blocking "RIA Novosti", "Izvestija" "Rossijskaja gazeta".
+*  Limited access to resouces mean — loss of Availability. In both cases, everything is done according decision of both sides who control a data flow of Television.
+*  In this case provided LRT.lt as News Source is a weak Source. Take a Note. Open Wikipedia [ru.wikipedia.org](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D0%B8_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5) in Comments are using "Закон о Литовском национальном радио и телевидении" indirectly from 3rd party. Place for the European Union Law is found in [eur-lex.europa.eu](https://eur-lex.europa.eu/homepage.html).
