@@ -3487,3 +3487,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2024-06-26%20NEB%C5%AAKBERY%C5%A0IO%20service%20return%20500%20(Internal%20Server%20Error).PNG) nebūkberyšio e.service fails to start.
+```
+
+```
+##### R esults
+Electronic service is unavailable.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Electronic service could be as a Dashboard for getting Status or other information regarding a main task of this service. e.Service for Upkeep information of a Web Page should provide statistic over the weekly, the monthly, the yearly Availability Rating. For this reason there is important to collect Status'es over period of time in a personal or systematic concern.
+```
+
+```
