@@ -3428,3 +3428,25 @@ From such incidents there are possible to learn a lot. I.e.:
 *  According this [Article](https://media.voog.com/0000/0051/2796/files/Rusconf_22.pdf): While television remains the primary source of information for the majority of Russians, its importance has dropped from 90 percent to 62 percent since 2014 as the role of the internet and social media have grown (Levada Center, 2021b). According main Article European Union are jointly blocking "RIA Novosti", "Izvestija" "Rossijskaja gazeta".
 *  Limited access to resouces mean — loss of Availability. In both cases, everything is done according decision of both sides who control a data flow of Television, News.
 *  In this case provided LRT.lt as News Source is a weak Source. Take a Note. Open Wikipedia [ru.wikipedia.org](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D0%B8_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5) in Comments are using "Закон о Литовском национальном радио и телевидении" indirectly from 3rd party. Place for the European Union Law is found in [eur-lex.europa.eu](https://eur-lex.europa.eu/homepage.html).
+```
+
+```
+##### I ncident
+
+According this check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2024-06-26%20RRT.LT%20Unavailable.PNG) RRT [lt.wikipedia.org](https://lt.wikipedia.org/wiki/Ry%C5%A1i%C5%B3_reguliavimo_tarnyba) is not available.
+
+```
+
+```
+##### R esults
+Unavailable web resource of institution.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Problems with SSL validation is essential for web site to be usable. At this time Cyber Security tool [dnschecker.org](https://dnschecker.org/ssl-certificate-examination.php) provide idea that "Successfully validated certificate chain." with rrt.lt.
+```
+
+```
