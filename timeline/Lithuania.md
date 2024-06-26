@@ -3436,7 +3436,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According this check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2024-06-26%20RRT.LT%20Unavailable.PNG) RRT [lt.wikipedia.org](https://lt.wikipedia.org/wiki/Ry%C5%A1i%C5%B3_reguliavimo_tarnyba) is not available.
-
 ```
 
 ```
@@ -3455,7 +3454,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According this check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2024-06-26%20Unavailable%20404%20Pair%20of%20KAM%20Documents%20not%20Found.PNG) Ministry of National Defence Republic of Lithuania page include unavailable Documents. 
-
 ```
 
 ```
@@ -3468,6 +3466,24 @@ Unavailable documentation.
 
 From such incidents there are possible to learn a lot. I.e.:
 *  This check include results: English Page should include one Presentation while Lithuanian — three. In return pair of Documents are Not Available while Resource over Social & Media Network could be used.
+```
+
+```
+##### I ncident
+
+According this Article [-](https://www.lrt.lt/naujienos/lietuvoje/2/2305506/du-gyventojai-sukciams-atidave-daugiau-nei-28-tukst-euru) pair of elderly citizens in different date & time and place were scammed. In one situation were used physical Bank cards. In result unknown people withdrawn Money from Bank Account's of this pair.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Elderly are delicious target for scammers. Elderly provide too huge trust for youngsters and younger adults. Take into the Account that this Year is a Scammer Year [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2198431/policija-siemet-fiksuoja-sukciavimo-buma-pradeta-per-500-ikiteisminiu-tyrimu).
 ```
 
 ```
