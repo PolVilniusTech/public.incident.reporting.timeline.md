@@ -3446,7 +3446,7 @@ Unavailable web resource of institution.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*  Problems with SSL validation is essential for web site to be usable. At this time Cyber Security tool [dnschecker.org](https://dnschecker.org/ssl-certificate-examination.php) provide idea that "Successfully validated certificate chain." with rrt.lt.
+*  A taking care of Problems with SSL validation is essential for web site to be usable. At this time Cyber Security tool [dnschecker.org](https://dnschecker.org/ssl-certificate-examination.php) provide idea that "Successfully validated certificate chain." with rrt.lt.
 ```
 
 ```
