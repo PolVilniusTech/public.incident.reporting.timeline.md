@@ -521,3 +521,23 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [BNS](https://www.lrt.lt/ru/novosti/17/2305967/kinologi-iz-litvy-pomogut-v-okhrane-olimpiiskikh-igr-vo-frantsii) has prank in their News. And this is not an 1st of April.
+```
+
+```
+##### R eseach
+Journalism.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Two cents:
+* 1st. [@google.lt](https://translate.google.lt/?sl=ru&tl=lt&text=%D0%9B%D0%B8%D1%82%D0%B2%D1%8B&op=translate)
+* 2nd. [@wikipedia.org](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%B2%D0%B0)
+```
+
+```
