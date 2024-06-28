@@ -3471,7 +3471,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [-](https://www.lrt.lt/naujienos/lietuvoje/2/2305506/du-gyventojai-sukciams-atidave-daugiau-nei-28-tukst-euru) pair of elderly citizens in different date & time and place were scammed. In one situation were used physical Bank cards. In result unknown people withdrawn Money from Bank Account's of this pair.
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2305506/du-gyventojai-sukciams-atidave-daugiau-nei-28-tukst-euru) pair of elderly citizens in different date & time and place were scammed. In one situation were used physical Bank cards. In result unknown people withdrawn Money from Bank Account's of this pair.
 ```
 
 ```
@@ -3502,6 +3502,25 @@ Electronic service is unavailable.
 
 From such incidents there are possible to learn a lot. I.e.:
 *  Electronic service could be as a Dashboard for getting Status or other information regarding a main task of this service. e.Service for Upkeep information of a Web Page should provide statistic over the weekly, the monthly, the yearly Availability Rating. For this reason there is important to collect Status'es over period of time in a personal or systematic concern.
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2307204/pastaraja-para-sukciai-is-gyventoju-isviliojo-per-20-tukst-euru) pair of Citizens from different Cities were scammed without idea of precise time when that happened. 
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Citizens require for secure communication channel with their service provider of their official Bank Facilities. Regions has no to less Bank Facilities, so they got less Availability for their Service and more prone to these scams. Some financial services complete banking operations at specific time, so there should be possible to contact those representatives who could stop these banking operations when possible.
+*  Awareness training for the public with sample actors who could display how these scams are completed could decrease situations when people get fooled in handing their Wealth.
 ```
 
 ```
