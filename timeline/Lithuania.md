@@ -3524,3 +3524,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2308658/uzsidirbti-senjorei-pasiule-sukciai-is-jos-isviliojo-daugiau-nei-11-tukst-euru) granny got scammed after answering mobile phone from scammers.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Don't anwer phone calls from Unknown numbers when You do not wait for a call.
+*  Marketing services usually sell their goods over the phone line. This is a other way for selling goods and no direct contact with seller is required. POST MACHINES provide a chance to pay for those products upon taking these goods.
+*  In the Article probably are included limited information from granny's Statements. Elderly are mostly vulnerable to scammers.
+```
+
+```
