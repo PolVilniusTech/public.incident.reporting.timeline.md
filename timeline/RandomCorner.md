@@ -541,3 +541,23 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2308657/lektuvai-europoje-ir-artimuosiuose-rytuose-toliau-patiria-gps-trikdzius-itariama-rusija) provide prior information about Global Navigation Satellite System not working as it should.
+```
+
+```
+##### R eseach
+Journalism.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Does this is a Marketing trick for selling [en.wikipedia.org](https://en.wikipedia.org/wiki/GLONASS)? Nowadays regular mobile phone include number of those Navigation systems, so this not a question against one type of a System.
+* European Union has their own global navigation satellite system (GNSS). Article does not include anything interesting, excluding that there exists other News Media who provide the same problems [telegraph.co.uk](https://www.telegraph.co.uk/search/?q=GPS&p=0&sortby=date). No direct contribution provided in using their content, when regular non-logged user just get a few lines of information.
+* Article alse provide idea about interruptions in places of a War Zone's. Take a legislation in here [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.112075/asr) who has links to "U-space" of jurisdictional document of EU [europa.eu](https://eur-lex.europa.eu/legal-content/LT/TXT/?uri=CELEX:3664R2021) and this document is Not Available. Itself legislation in the end provide info abou EU legal documents, but where is a International ones?
+```
+
+```
