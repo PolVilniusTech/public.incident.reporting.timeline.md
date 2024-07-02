@@ -3544,3 +3544,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2309278/banko-darbuotoju-ir-policininku-apsimete-sukciai-is-moters-isviliojo-per-101-tukst-euru) huge sum of money were scammed by impersonators.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Daily Scam related Articles requires from itself to create specific Feed in the Media Outlet.
+*  Officer can't show his Badge over the Telecommunication Means, so this type of communication is least trusted, even so, take into account Smartphones and Risk of [www.britannica.com](https://www.britannica.com/technology/deepfake) deepfakes.
+*  Use official & trusted communication Channels. Call back with known trusted Source over Phone No., Internet Addr., etc. (something what could be checked in process of something gonna happen)
+```
+
+```
