@@ -561,3 +561,25 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/704194/5g-r-evoliucija-jau-isbando-geimeriai-robotai-ir-autonominis-transportas) has Autonomous Vehicles as evolution trend.
+```
+
+```
+##### R eseach
+Transport trend
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* According the Article "Even second in interrupted communication could lead into an incident for a Autonomous Vehicle".
+* In a wake of a global diplomatic disability the autonomous vehicles are under never ending threat that their weak points gonna be used by villains, criminals and terrorists, persons from 3rd-side with will into sabotage, diversions and demolishing.
+* According authors of Scientific Article [Wang, J., Zhang, L., Huang, Y., & Zhao, J. (2020). Safety of autonomous vehicles. Journal of advanced transportation, 2020(1), 8867757. Available from wiley.com](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/8867757) exists plausibility for analysis (i.e. static) of the public on-road AV accident reports.
+* Company from United States report latest data on Autonomous Road Vehicle: nearly 8 million miles are driven with vehicle using Autopilot technology before an accident occurs [tesla.com](https://www.tesla.com/VehicleSafetyReport).
+* The one problem of [ec.europa.eu](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3231) decision for including only China with aim to safeguard European Union EV's producers is a fail. There are number of other Countries who produce better EV's than ones in the EU (look up ahead). Building officially, financially and jurisdictionally recognised facilities for EV's production directly in the EU should be a key move for Companies who should want to leverage this tarrif [i.e. introduction of a production cap per Year w/o tarrif]. Hilarious decision of a [lrytas.lt](https://www.lrytas.lt/auto/rinka/2024/06/30/news/kinijoje-pagamintas-transporto-priemones-pristatinejo-kaip-italiskas-skelbia-kiek-milijonu-del-to-teks-sumoketi-32629310) risk of good and bad Chinese EV's. European Union consumption in road only transport sector is 262 627 thousand tonnes of oil equivalent (2020 Year).
+```
+
+```
