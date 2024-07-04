@@ -3564,3 +3564,20 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2310863/nusikalteliai-toliau-siaucia-i-sukciautojos-saskaita-moteris-pervede-33-tukst-euru) scammers are phishing money from Clients of a Bank or different Banks.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Employee of a Bank has limited actions from a list and apart of that nothing more they can't do & no Authority to request something from a Client as shown in this Article.
+*  When somebody calls You and suggests for a help with Your Account, then You have to hang up this Phone's handset and do a direct call to Your Bank.
+```
+
+```
