@@ -332,6 +332,9 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+
+### 2024
+
 ##### I ncident
 
 According this Article [LETA](https://nra.lv/latvija/466554-atkartojas-intensivu-kiberuzbukumu-vilnis-pret-valsts-iestazu-majaslapam.htm) internet websites of a public sector institutions, a transport sector, several private sector organisations were not Available. They were DDoS'ed from around of the internet.
