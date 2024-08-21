@@ -3564,12 +3564,19 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
-According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2310863/nusikalteliai-toliau-siaucia-i-sukciautojos-saskaita-moteris-pervede-33-tukst-euru) scammers are phishing money from Clients of a Bank or different Banks.
+##### I ncident
+
+According these Articles:
+*  [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2310863/nusikalteliai-toliau-siaucia-i-sukciautojos-saskaita-moteris-pervede-33-tukst-euru) scammers are phishing money from Clients of a Bank or different Banks.
+*  [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2319316/sukciai-is-vyro-isviliojo-14-5-tukst-euru) scammers are phishing random people.
+*  [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2329824/sukciai-pinigus-viliojo-apsimete-google-banko-ir-policijos-darbuotojais) scammers are using Google Personnel and common Police Forces background.
+*  [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2333863/sukciai-pinigus-is-vilnietes-viliojo-metus-is-saskaitos-dingo-per-33-tukst-euru) Scams could go even for a Year.
+*  [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2343863/google-banko-ir-policijos-atstovais-apsimete-sukciai-pasisavino-19-tukst-euru) scammers are using Google Ireland Limited, common Bank Personnel and common Police Forces background.
 ```
 
 ```
 ##### R esults
-Plausible loss of money.
+Money loss.
 ```
 
 ```
@@ -3578,6 +3585,43 @@ Plausible loss of money.
 From such incidents there are possible to learn a lot. I.e.:
 *  Employee of a Bank has limited actions from a list and apart of that nothing more they can't do & no Authority to request something from a Client as shown in this Article.
 *  When somebody calls You and suggests for a help with Your Account, then You have to hang up this Phone's handset and do a direct call to Your Bank.
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2324126/pirmadieni-buvo-sutrikusi-seimo-svetaines-veikla) Lietuvos Respublikos Seimas website were not Available for a hour.
+```
+
+```
+##### R esults
+Online Resources is unavailable.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Network Hardware could be at fault. Manufacturer of the Hardware is unknown.
+```
+
+```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2329399/uzimtumo-tarnyba-per-klaida-nutekino-beveik-30-tukst-klientu-duomenu) Employment Service leaked sensitive information of their Clients over common electronic mail service.
+```
+
+```
+##### R esults
+For around of 30 thousand Clients data: name, personal identification code, personal email address, personal phone address, home address, data related with Client detailed Curriculum Vitae were leaked.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Plausible that personnel has to make their own backups and still are working w/o content management system and only use physical files with Client data.
+*  Currently people could be encouraged to use something as [EUROPASS](https://www.europass.lt/) and get to work in any of E.U. place they prefer.
 ```
 
 ```
