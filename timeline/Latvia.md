@@ -332,3 +332,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LETA](https://nra.lv/latvija/466554-atkartojas-intensivu-kiberuzbukumu-vilnis-pret-valsts-iestazu-majaslapam.htm) internet websites of a public sector institutions, a transport sector, several private sector organisations were not Available. They were DDoS'ed from around of the internet.
+```
+
+```
+##### R esults
+Unavailable Online Resources
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Depending by needs there is plausible to check what bandwidth are Available. According Network spec. try making decisions together with a telecommunication specialists.
+* Check server-side capabilities and make available update.
+```
+
+```
