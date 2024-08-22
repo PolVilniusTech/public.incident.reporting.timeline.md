@@ -3643,3 +3643,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2344667/google-atstovais-apsimete-sukciai-isviliojo-10-tukst-euru-ir-paeme-paskola) given three Stories: a) Scammers phished single bank card and withdrawn money, and took bank loan. b) Scammers phished person over email. c) Scammers phished person over email.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Do not keep password of bank card together as plain text.
+* Malicious e.Shop Web Sites could be at fault when dealing with Scammers over emails.
+```
+
+```
