@@ -200,3 +200,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+#
+### 2024
+
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/2344796/saltinis-ukrainieciai-atakavo-rusijos-televizijas-rode-tiesa-apie-kara-ukrainoje) television translation were interrupted for number of TV Channels. Some of them are still shut down.
+```
+
+```
+##### R esults 
+Loss of integrity.
+Loss of availability.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    Article does not include any technical details. Unclear information about Ethics of named TV Channels.
+```
+
+```
