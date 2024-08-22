@@ -3639,7 +3639,7 @@ Plausible loss of Money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Outcome of Scamming: Loss of Trust over communication(s). Story points out for not what a gentleman do.
+* Outcome of Scamming: Loss of Trust over communication(s).
 ```
 
 ```
