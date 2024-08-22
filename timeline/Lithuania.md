@@ -3625,3 +3625,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2344597/nukentejo-nuo-romantinio-sukcio-is-saskaitos-dingo-21-4-tukst-euru) scammer over Social Media phished Money.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Outcome of Scamming: Loss of Trust over communication(s). Story points out for not what a gentleman do.
+```
+
+```
