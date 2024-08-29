@@ -3662,3 +3662,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According these Articles [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2348311/tele2-klientai-laikinai-negalejo-susisiekti-su-lietuvos-policija) and [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2347711/daliai-tele2-klientu-neveike-mobilusis-internetas-paslauga-atnaujinta) for short period of time Lithuanian Police were Unavailable for TELE2 CLients. In previous day TELE2 Clients had issues with TELE2 Network.
+```
+
+```
+##### R esults
+Clients lost Availability to the Service.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Exists plausibility to purchase Phone with multiple SIM slots. In this case Client has a chance to select more than one Telecommunication company as provider of Telecommunication Services. 
+```
+
+```
