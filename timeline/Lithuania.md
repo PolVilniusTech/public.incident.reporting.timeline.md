@@ -3680,3 +3680,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2350362/uz-nenaudojama-ekstremaliuju-situaciju-sistema-kone-60-tukst-euru-per-menesi) two million data of Lithuanian people could be at risk. 
+```
+
+```
+##### R esults
+Lack of experience for data management and governance. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Public institutions w/o experienced specialists are at disadvantage in software governance when they don't know how to deal with technologies and manage a data in technological environment.
+* Public governmental data center(s) already purchasing licenses and owning data, but specialists questions are left to each institution for themselves. Public sector tend to have bad reputation for programming specialists because of being outperformed by programming academias and private companies who want to take a share of the market.
+```
+
+```
