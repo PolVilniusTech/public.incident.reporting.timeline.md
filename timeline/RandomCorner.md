@@ -583,3 +583,22 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2352114/migracijos-departamentas-ispeja-raginimai-vykti-pildyti-klausimyno-yra-melagingi) provide idea how one institution communicate with another.
+```
+
+```
+##### R eseach
+Who should respond with denying a desinformation or, when there is mistake(s), then misinformation?
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Does all related instutions should include their comment, when this deals with their actions?
+* Forwarding request to designated place and getting full response could be a way for a fluent communication.
+```
+
+```
