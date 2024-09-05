@@ -3696,6 +3696,28 @@ Lack of experience for data management and governance.
 From such incidents there are possible to learn a lot. I.e.:
 * Public institutions w/o experienced specialists are at disadvantage in software governance when they don't know how to deal with technologies and manage a data in technological environment.
 * Public governmental data center(s) already purchasing licenses and owning data, but specialists questions are left to each institution for themselves. Public sector tend to have bad reputation for programming specialists because of being outperformed by programming academias and private companies who want to take a share of the market.
+* ENISA is a Common Vulnerabilities and Exposures Numbering Authority in European Union and risky software applications should be taken accordingly, if software has to be used for processing private, confidential, sensitive data.
+```
+
+```
+##### I ncident
+
+According this [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2353326/sukcius-itikino-vyra-susikurti-mobiluji-parasa-jo-vardu-paeme-per-11-tukst-euru-paskolu) scammer used digital signature of a victim and taken loans. People has risk to get into investment fraud, phone scams. Institutions are getting trouble from interception of email messages.
+```
+
+```
+##### R esults
+Loss of an Assets.
+Loss of a Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Secrets like passwords and PIN codes should be kept secret and not disclosed to anyone apart Yourself. Person should not carry those Secrets in clear text in Public environment.
+* Investment Clients should use official companies who are registred and have certificate & permission to do their business.
+* Email Service could be configured without more secure protocols and data could be passed through insecure routes over a net. Interception of data while routing and transfer could lead into a data loss.   
 ```
 
 ```
