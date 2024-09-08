@@ -3721,3 +3721,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Vakaro žinios](https://www.respublika.lt/lt/naujienos/sveikata/sveikata/stringanti-esveikatalt---pikti-pacientai-gaisinami-medikai/) esveikata.lt has number of issues: connection interruptions; e.visit(s) are shown as unavailable when searching a Form for a second time; registration leads into hang up of the System and disapproved e.visit(s) are processed w/o notice & feedback; plausible situation that searching for requested medical investigation information is impossible; huge latency; irregular period for receiving e-prescription(s).
+```
+
+```
+##### R esults
+The System has issues with clarity & usability.
+Unclear maximum capacity of this System & actual statistics of active Users.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Article include functionality of the System when it works correctly. Management of Failed Attempts are unknown.
+* Accountable disclosure of Error Data to the System owner is unknown.
+* User Manual or simple Q.uestion & A.nswer place could be unavailable.
+* System could include data caching for speeding the Site.
+* When Client request the e-prescription could include actual notification to this Client when it's ready.
+```
+
+```
