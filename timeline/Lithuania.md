@@ -3744,3 +3744,29 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2356139/malinausko-tyrime-zinomu-salies-imoniu-nutekinti-duomenys) provided information about:
+* Employee data of the "Maxima" employee check system were leaked. This includes identificator, first name, last name, department, results from sobriety tests.
+* Client data of a electronic shop web site's "varle.lt" were leaked. 386 thousand user data, i.e. first name, last name, order no. (last data from 2024-09-03)
+* Client data of the "Švaros broliai" company were leaked. This include reservation information from five facilities. Data include: client first name, client last name, client e-mail, automobile license plate, reservation date.  
+* Data of the "Unipark" company were leaked. In addition were plausible unauthorized Gate Management.
+* Data of the "Telia" company were leaked. This include automobile park related information, first name, last name, phone number.
+* Data of the "Fastlink" company were leaked. This include "Santjana" related client data.
+* Vytauto Didžiojo Universiteto information exposed. This include 3.8 thousand contacts and procurement information from a single personal computer. 
+* Data of  the "Kardiolitos klinikos" company were leaked. This include unauthorized access to information system.
+```
+
+```
+##### R esults
+Number of incidents who result with a loss of Confidentiality, Integrity, Authenticity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* More responsibility and security related requirements for 3rd party services are necessary.
+```
+
+```
