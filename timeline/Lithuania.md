@@ -3770,3 +3770,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2359337/is-dvieju-garbaus-amziaus-vilnieciu-sukciai-isviliojo-10-tukst-euru) pair of elderly persons were scammed over (smart) phone.
+```
+
+```
+##### R esults
+Loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Data leaks online help for scammers to find their victims. As result they could get to know a lot about relatives, etc. of an elderly person and elderly target himself. Using this information scammers try to build scenario and scam target & persuade for handing money with their scheme. Elderly require for tools to keep secure communication line with their relatives, etc. so they could confirm event(s) directly or indirectly. 
+```
+
+```
