@@ -3788,3 +3788,33 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.vz.lt/verslo-aplinka/2024/09/16/proit-nutraukia-beveik-igyvendinta-spis-atnaujinimo-sutarti-su-sadm) software company terminates their agreement for system modernization with Ministry of Social Security and Labour of Republic of Lithuania. Other concerns:
+* Ministry does not cooperate to solve modernization problems of system.
+* Ministry include software company into a list of Untrusted Suppliers.
+* Not all main system users were instructed with a new system.
+* Not all users cooperated for system integration with their systems.
+* Real cost of system modernization could be unknown.
+```
+
+```
+##### R esults
+Agreement between customer and developer terminated.
+System inter-connection with other systems could be unavailable.
+Some system users could lack of functionality from what were ordered.
+Plausible lack of personel, vacations while System is not submited to the client.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Building plan with all system users of a customer with exact dates and tasks could help in handling whole project.
+* There could be number of problems between customer and developer who are related to confidentiality, integrity and availability issues.
+* Being in the list of Untrusted Suppliers could terminate future sales and agreements in a designated segment.
+* Plausible of communication issues for expressing clear idea of what is happening.
+* Agreement between customer and developer could lack of penalties for each of customer and developer in situations when something are going wrong.
+```
+
+```
