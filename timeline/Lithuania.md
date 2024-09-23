@@ -3818,3 +3818,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/2365193/internete-viliojama-pirkti-padirbta-vairuotojo-pazymejima-bausme-gresia-ir-pirkejui) in Facebook exists Users who state that they sell Driver Licenses. Those Users tend to scam other Users in a social Media.
+```
+
+```
+##### R esults
+Scammed persons undergo Disinformation and loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Each Information System Administrator could create their User registration Registry and make Report to other well-known system at the end of each Month. This could help to find facts and to find out situation: does there exists undisclosed and unauthenticated access to this original & main DataBase.
+* According the Article exists 182 User Accounts who were used for scamming. Social Media Company should be able to report their Internet Protocol Addresses in case of responsible request from a EU Member.
+* The Site [regitra.lt](https://regitra.lt/lt/paieska?query=suk%C4%8Diai) include with scammers related various situations. News and other Articles are sorted in a random Way. I.e. This [regitra.lt](https://regitra.lt/lt/naujienos/regitra-ir-lietuvos-policija-glaudziau-bendradarbiaus-sukciavimo-ir-korupcijos-prevencijos-srityse) increase amount of around 500 Users who used their Accounts for scamming in two Years period.
+```
+
+```
