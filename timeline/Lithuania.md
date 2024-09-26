@@ -3857,3 +3857,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2370072/fiksuojami-elektroniniu-valdzios-vartu-veiklos-sutrikimai) epaslaugos.lt Portal is functioning with irregularities when connecting to desired information systems.
+```
+
+```
+##### R esults
+Broken Authentication mechanism.
+Clients can't connect to requested resources.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* epaslaugos.lt Site include User Guide. Site could include information for their Clients with explanation what they should and should not do when they get unique Error Identification Number.
+* One System or more Systems updates could result in Broken Authentication Mechanism. When they don't meet requirements of a Technical Specification something could get not working, i.e. inter-connectiveness. Information System maintenance has to be coordinated accordingly with responsibility to successful Auth tests. This could at least inform they Users with more user friendly notification.
+```
+
+```
