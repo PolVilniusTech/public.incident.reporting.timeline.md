@@ -3877,3 +3877,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2370124/sutriko-swedbank-e-bankininkystes-veikla-bankas-trukumus-salina) some sub-Services are unavailable for online Banking Clients of the Swedbank, AB.
+```
+
+```
+##### R esults
+Unavailable sub-Services.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When sub-services are unavailable specific alternatives for Clients of the actual service could be given.
+```
+
+```
