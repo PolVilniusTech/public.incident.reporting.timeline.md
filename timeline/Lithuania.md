@@ -3838,3 +3838,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/eismas/7/2367164/kauno-autobusai-ispeja-del-netikru-bilietu-facebook-isisiautejo-sukciai) in Social Media exists Page with disinformation about Public Transportation posibilities. In this Page everyone are encouraged to fill out for personal data and private and non-public financial data. 
+```
+
+```
+##### R esults
+Plausible Phishing attack for those who are not accustomed with use of a Service. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Transportation Organization has to make a request to a Social Media for closing down this disinformation Page with aim to use similar trademark name.
+* Usual Phishing problem - use of lookalike Pages with request to grab sensitive information.
+```
+
+```
