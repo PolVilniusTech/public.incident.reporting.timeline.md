@@ -3879,7 +3879,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2370124/sutriko-swedbank-e-bankininkystes-veikla-bankas-trukumus-salina) some sub-Services are unavailable for online Banking Clients of the Swedbank, AB.
+According these Articles [BNS](https://www.lrt.lt/naujienos/verslas/4/2370124/sutriko-swedbank-e-bankininkystes-veikla-bankas-trukumus-salina) and [BNS](https://www.lrt.lt/naujienos/verslas/4/2370124/atkurta-swedbank-interneto-banko-veikla) some sub-Services were unavailable for online Joint Stock Company Banking Clients of the Swedbank.
 ```
 
 ```
