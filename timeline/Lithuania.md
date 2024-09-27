@@ -3895,3 +3895,41 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2371715/suimtas-sukciavimu-itariamas-brokeris-galejo-igyti-svetimo-turto-uz-1-2-mln-euru) Real Estate Sales Portal were used by scammer for selling facility, land. For all of these scammer had no privileges and legal rights.
+```
+
+```
+##### R esults
+Portal does not prevent content administration by scammers. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* System has to ensure Authenticity of Offer Providers and their Customers. Customer require for tools to prove that Offer Provider has rights to their Offer.
+* System has to detect when any of those Accounts could be breached by brute-force login attack.
+```
+
+```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/2371110/nesklandumai-vilniaus-viesajame-transporte-gali-nepavykti-aktyvuoti-bilietu) activation of a ticket provide errorious notice. Users are suggested to ignore this notice and to use Service as usual. This is temporary issue of System.
+```
+
+```
+##### R esults
+System can't pass Confirmation Message.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* User with the same plastic Card has possibility to open and activate more than single Ticket. Suggestion to use next plastic Card does not help into distinguishing correct plastic Card type who could be used in the System.
+* Device has number of Sensors for activating required ticket, so alternatives are available.
+```
+
+```
