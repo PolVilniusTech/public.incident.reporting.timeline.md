@@ -3952,3 +3952,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2372066/marijampoleje-is-vyro-sukcius-prisistates-google-darbuotoju-isviliojo-19-5-tukst-euru) scammers scam victims with disguise of employee from "Google" company, one from relatives.
+```
+
+```
+##### R esults
+Scammed Victims willingly (or unwillingly) lose Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* No more than twenty people are employed from "Google" in Lithuania. Chances to get contacted with one from them without Your own direct request are bare minimum.
+* Vehicle accident and afterwards a request for huge sum of Money has more questions than answers, because of plausible scam in that same place. Insurance Company responsible to be mediator between parties of an accident. Better suggestion would be to call for a Road Police and to handle an accident of a vehicle(s) in situation when Person is in a shock and does not know how to handle it. Direct call to a relative could provide more trust in words when their communication means, in eg. a mobile phone, is not stolen. 
+```
+
+```
