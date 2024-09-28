@@ -3840,6 +3840,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/2366918/dalis-vairuotoju-susidure-su-sunkumais-sutrukde-ant-automobiliu-numeriu-atsirades-vytis) Vehicle License Plate Scanners does not recognise new type of Vehicle License Plates. 
+```
+
+```
+##### R esults
+Customers can't get to their Services with a new type of Vehicle License Plate.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* About changes information provided here [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/2088308/iprasti-transporto-priemoniu-numeriai-nuo-siol-atrodys-kitaip-regitra-pristate-nauja-dizaina-su-vyciu).
+* For limiting physical access, i.e. in times of sanctions, a chance of prohibiting specific format Vehicle License Plates is a tool to enforce sanctions. But in this Sample the problem that there are no whitelist (or list of allowed Vehicle License Plate). Page (or Resource) with Whitelist could provide more understanding not only for companies who use those Design templates in their Software and Hardware Products, but also for Border Patrol reasons and so on.
+```
+
+```
+##### I ncident
+
 According this Article [BNS](https://www.lrt.lt/naujienos/eismas/7/2367164/kauno-autobusai-ispeja-del-netikru-bilietu-facebook-isisiautejo-sukciai) in Social Media exists Page with disinformation about Public Transportation posibilities. In this Page everyone are encouraged to fill out for personal data and private and non-public financial data. 
 ```
 
