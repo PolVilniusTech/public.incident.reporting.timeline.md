@@ -3954,7 +3954,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2372066/marijampoleje-is-vyro-sukcius-prisistates-google-darbuotoju-isviliojo-19-5-tukst-euru) scammers scam victims with disguise of employee from "Google" company, one from relatives.
+According these Articles [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2372066/marijampoleje-is-vyro-sukcius-prisistates-google-darbuotoju-isviliojo-19-5-tukst-euru) and [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2374946/google-atstovais-apsimete-sukciai-is-klaipedietes-isviliojo-23-tukst-euru) scammers scam victims with disguise of employee from "Google" company or in disguise as one from relatives.
 ```
 
 ```
