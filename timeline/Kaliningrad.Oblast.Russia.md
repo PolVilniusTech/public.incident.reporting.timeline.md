@@ -222,3 +222,43 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/2378872/del-kibernetines-atakos-sutriko-rusijos-valstybines-televizijos-darbas) All-Russia State Television and Radio Broadcasting Company vgtrk.ru broadcasting over radio and television were cut. "Rossija-24" unavailable over internet. All data inside operational Servers and Services were removed. 
+```
+
+```
+##### R esults 
+Loss of availability.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*    Plausible lack of backup mediums, servers & services.
+*    Data could be removed from Accounts with elevated privileges.
+```
+
+```
+
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2380870/rusija-uzdraude-susirasinejimo-platforma-discord) banned Social Media "DISCORD". 
+```
+
+```
+##### R esults 
+Loss of service(s).
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Service(s), i.e. described in [apnews.com](https://apnews.com/article/meta-facebook-instagram-whatsapp-russia-92a22a9681119d7d8ce217f8429e3c3d) also include mirrored bans to Members (or Users), when they don't meet Terms of Use and Terms of Service.
+* Article is not including information about loss of expectancy and plausible revenue because of banned service.
+```
+
+```
