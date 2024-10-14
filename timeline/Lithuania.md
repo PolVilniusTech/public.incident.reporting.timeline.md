@@ -3971,3 +3971,60 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.tv3.lt/naujiena/lietuva/sostineje-google-darbuotojais-prisistate-sukciai-isviliojo-6-6-tukst-euru-n1370494) scammers who self-represent themselves as "Google" employee and somebody from Police scammed a person.
+```
+
+```
+##### R esults
+Plausible money loss
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* From journalism perspective leading Photo of this Article adds even more confusion to the "Google" part.
+```
+
+```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2384783/sutriko-luminor-interneto-banko-ir-mobiliosios-programeles-veikla) banking internet page provided notification about ongoing maintenance in the Message of their Web Site. Web Site and Software Application are not working as usual.
+```
+
+```
+##### R esults
+Unavailable service.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Banking internet page also include Messages that their customers has number of risks from scammers. Not all customers know about whereabouts of those informative pages.    
+```
+
+```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/kultura/12/2383640/paaiskejo-tikrieji-piratinio-turinio-naudojimo-lietuvoje-mastai) there was calculated country rating for using unlicensed and unauthorised Content.
+```
+
+```
+##### R esults
+Plausible places for introducing and spreading Malware & Virus Software. 
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* To the Article included Raport provide concern that users "lack of knowledge" how to distinguish between licensed & author rights preserving content and unlicensed & content without author rights.
+* This Raport include that Google Search Engine is mostly used for searching and accessing unauthorised and unlicensed Content.
+* This Raport include that usual technology for searching and accessing unauthorised and unlicensed Content are Browser's and Software Application's.
+* This Raport include concern that Social Media Accounts are used for spreading Content and Content parts w/o original & real Author's Consent, i.e. some Border Template added to this Content...
+```
+
+```
