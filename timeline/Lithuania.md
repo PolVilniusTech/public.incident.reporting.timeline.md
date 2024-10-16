@@ -4028,3 +4028,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2387241/inbank-nukentejo-nuo-sukciu-atskleisti-dalies-klientu-telefonu-numeriai) scam has revealed weak points of "Inbank" bank's service provider systems who plausibly disclosed information like phone number of a customer, first name of a customer, agreement number.
+```
+
+```
+##### R esults
+Loss of private customer and service data.
+Loss of Confideniality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Scammers use leaked information in conducting new phishing attacks.
+* From the Article is not fully clear: how unknown person got access to service provider system with plausible functionality of Short Messaging Service (SMS)? if this incident is linked with Unauthorised Access to SMS Modem, then we have problem with in the Risk Management.
+```
+
+```
