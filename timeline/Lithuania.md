@@ -4051,7 +4051,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According this Article [TV3](https://www.tv3.lt/naujiena/verslas/sutriko-swedbank-veikla-zmones-negali-atsiskaityti-n1371893) issues with e.bank and e.apps of "Swedbank" Bank Organization. Banking services unavailable or works with interruptions.
-
 ```
 
 ```
@@ -4064,6 +4063,25 @@ Loss of Availability.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Without digital assets Clients can't access their Goods and Services. Banking companies does not provide additional Card or App of their competitors for insurance when something like this happens. In other hand, technical issues also could happen in the place where Client would want to spend his(her) Money. Dependency issue as common and usual situation.
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2389902/taurageje-policijos-pareigunu-prisistates-asmuo-kito-zmogaus-vardu-paeme-paskola) scammer took loan in behalf of other person.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Lack of authentication measures mean that people could get bankrupt by scammers when they not intended to take a loan.
+* Including people into list who does not agree to take any kind of loans could help to protect those people. The person should know how to check, if he is the list through public protected & authenticated service.
 ```
 
 ```
