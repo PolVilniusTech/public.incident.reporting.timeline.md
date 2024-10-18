@@ -1,4 +1,4 @@
-### References for the Research:
+0### References for the Research:
 * site-check.cert.lt
 * https://www.nksc.lt/tikrinti.html
 * https://www.cert.orange.pl/aktualnosci/raport-cert-orange-polska-za-2020-rok 6-13 p.
@@ -4063,7 +4063,7 @@ Loss of Availability.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Without digital assets Clients can't access their Goods and Services. Banking companies does not provide additional Card or App of their competitors for insurance when something like this happends. In other hand, technical issues also could happen in the place where Client would want to spend his(her) Money. Dependency issue as common and usual situation.
+* Without digital assets Clients can't access their Goods and Services. Banking companies does not provide additional Card or App of their competitors for insurance when something like this happens. In other hand, technical issues also could happen in the place where Client would want to spend his(her) Money. Dependency issue as common and usual situation.
 ```
 
 ```
