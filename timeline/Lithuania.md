@@ -4068,7 +4068,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2389902/taurageje-policijos-pareigunu-prisistates-asmuo-kito-zmogaus-vardu-paeme-paskola) scammer took loan in behalf of other person.
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2389902/taurageje-policijos-pareigunu-prisistates-asmuo-kito-zmogaus-vardu-paeme-paskola) scammer took loan in behalf of other person. Another scam over the phone [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2389890/sostineje-ir-vilniaus-rajone-sukciai-is-zmoniu-isviliojo-apie-43-tukst-euru).
 ```
 
 ```
