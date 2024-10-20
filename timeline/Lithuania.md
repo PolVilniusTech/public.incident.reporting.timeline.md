@@ -4107,19 +4107,19 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/klaipedoje-advokato-padejeju-prisistates-asmuo-is-vyro-isviliojo-10-tukst-euru/) teen scammer who presented himself as lawyer's assistant has lured out money from a citizen.
+According this Article [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/klaipedoje-advokato-padejeju-prisistates-asmuo-is-vyro-isviliojo-10-tukst-euru/) teen scammer who presented himself as lawyer's assistant has lured out money from a citizen. This is non-Technologies related incident.
 ```
 
 ```
 ##### R esults
-Plausible loss of money
+Plausible loss of money.
 ```
 
 ```
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Plausible situation of sharing a lot of information over social media. This information also could be used by scammer(s) motives. 
+* High chance that this is a Social Engineering Attack and plausible situation of sharing a lot of information, i.e. over a social media. This information also could be used by scammer(s) motives. 
 ```
 
 ```
