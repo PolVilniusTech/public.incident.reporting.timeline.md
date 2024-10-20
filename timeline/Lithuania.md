@@ -4123,3 +4123,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [TV3](https://www.tv3.lt/naujiena/lietuva/vairuotojams-perspejimas-galite-netekti-ne-tik-pazymejimo-bet-ir-sulaukti-grieztos-bausmes-n1370047) scammers suggests their services for purchasing and getting driver's license.
+```
+
+```
+##### R esults
+Plausible a man-in-the-middle scam.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Journalist communicate with scammers. Usual suggestion in e-mail world for security reasons: Don't reply to the email of a scammer. In many cases exist possibility to be a victim of a phishing attack.
+* In case of driver license to be treated as personal identification document no unauthorized third parties should be involved in planning, designing, creating, sending and receiving this document.
+* Article include statement of a scammer, — it's all legal and official. There could be questions added, i.e.: Does this scammer for himself move through the mandatory Driver's Exam? with identity of somebody else? Sample of scammer's price is added in the Article. Scammers are creating and using their own advertisements.
+* Organizational and Examination Rules could be lacking and (or) with issues, so the place in-between would not simply be taken by scammers. Available and suggestions for legal advertisements over communication means could boost trust for getting driver's license in normal way.
+```
+
+```
