@@ -2207,7 +2207,9 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According these Articles [1](https://www.lrt.lt/naujienos/verslas/4/2146938/vilniaus-rajono-savivaldybeje-po-atakos-veluos-ismokos-uz-duomenis-paprasyta-ispirkos), [2](https://www.lrt.lt/naujienos/lietuvoje/2/2143973/vilniaus-rajono-savivaldybe-patyre-kibernetine-ataka-tiriama-ar-nenutekejo-asmens-duomenys), [3](https://www.lrt.lt/naujienos/lietuvoje/2/2145847/nksc-nusikalteliai-uzsifravo-vilniaus-rajono-savivaldybes-duomenis-atsargines-kopijas), [4](https://www.lrt.lt/naujienos/lietuvoje/2/2146784/po-kibernetines-atakos-ktu-kreipsis-i-policija), [5](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2153835/per-kibernetine-ataka-nutekinti-ktu-duomenys-pardavin%C4%97jami-tamsiame-internete) Information Systems and their Backups of the Vilnius Municipality of the Region has got an Ransomware attack. Data leak from the Higher Education School.  
+According these Articles [1](https://www.lrt.lt/naujienos/verslas/4/2146938/vilniaus-rajono-savivaldybeje-po-atakos-veluos-ismokos-uz-duomenis-paprasyta-ispirkos), [2](https://www.lrt.lt/naujienos/lietuvoje/2/2143973/vilniaus-rajono-savivaldybe-patyre-kibernetine-ataka-tiriama-ar-nenutekejo-asmens-duomenys), [3](https://www.lrt.lt/naujienos/lietuvoje/2/2145847/nksc-nusikalteliai-uzsifravo-vilniaus-rajono-savivaldybes-duomenis-atsargines-kopijas), [4](https://www.lrt.lt/naujienos/lietuvoje/2/2146784/po-kibernetines-atakos-ktu-kreipsis-i-policija), [5](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2153835/per-kibernetine-ataka-nutekinti-ktu-duomenys-pardavin%C4%97jami-tamsiame-internete) Information Systems and their Backups of the Vilnius Municipality of the Region has got an Ransomware attack. Data leak from the Higher Education School.
+More sources:
+* [BNS](https://m.kauno.diena.lt/naujienos/vilnius/miesto-pulsas/del-nutekintu-gyventoju-duomenu-9-tukst-euru-bauda-vilniaus-rajono-savivaldybei-1196526)
 ```
 
 ```
@@ -4082,6 +4084,42 @@ Plausible loss of Money.
 From such incidents there are possible to learn a lot. I.e.:
 * Lack of authentication measures mean that people could get bankrupt by scammers when they not intended to take a loan.
 * Including people into list who does not agree to take any kind of loans could help to protect those people. The person should know how to check, if he is the list through public protected & authenticated service.
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/kitos-lietuvos-zinios/perspejama-apie-sodros-vardu-siunciamus-sukciu-pranesimus-raginama-nespausti-juose-esanciu-nuorodu/) scammers send phishing links with aim to breach site of social security service "Sodra". 
+```
+
+```
+##### R esults
+Plausible loss of Confidentiality
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Social security service "Sodra" don't send any emails. Citizen get notifications directly in the Site of "Sodra".
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/klaipedoje-advokato-padejeju-prisistates-asmuo-is-vyro-isviliojo-10-tukst-euru/) teen scammer who presented himself as lawyer's assistant has lured out money from a citizen.
+```
+
+```
+##### R esults
+Plausible loss of money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Plausible situation of sharing a lot of information over social media. This information also could be used by scammer(s) motives. 
 ```
 
 ```
