@@ -4144,3 +4144,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2391990/sutriko-vmi-sistemos-veikla) the State Tax Inspectorate (lt. VMI) System "Mano VMI" is Unavailable.
+```
+
+```
+##### R esults
+Clients can't access Mano VMI System.
+System is Unavailable.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Authentication error could be linked with unable to access of User Data. According the Article issue is found and not disclosed to public.
+```
+
+```
