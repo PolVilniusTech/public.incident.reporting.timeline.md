@@ -4163,3 +4163,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2394257/vilniuje-sukciai-is-zmoniu-isviliojo-apie-24-tukst-euru) were described multiple cases when caller-scammer scamd a victim over telephone and in result from this victom his subordinate in person take out phished money.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Exists notifications in number of journals about people who scam, i.e. by pretending themselves as victims relatives (or victims of those relatives) and in return want money. Article does not specify details about a situation. 
+```
+
+```
