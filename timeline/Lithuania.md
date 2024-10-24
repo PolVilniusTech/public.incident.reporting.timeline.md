@@ -4181,3 +4181,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [TV3](https://www.tv3.lt/naujiena/verslas/swedbank-vel-perspeja-klientus-del-trikdziu-n1373030) electronic banking service "Swedbank" functions with interruptions & irregularities, Customers could have problems using e.payments of this service. Bank Service include Timestamp for their planned Maintenance.
+```
+
+```
+##### R esults
+Planned unavailable service.
+e.service issues.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Number of services report their maintenance plans through communication contacts that is confidential between client and e.service.
+```
+
+```
