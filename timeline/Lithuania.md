@@ -4200,3 +4200,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2396846/pasiule-investuoti-sukciai-is-garbaus-amziaus-vyro-isviliojo-110-tukst-euru) scammers use e.investment platforms, cryptocurrency and scam number of people who can't reject it.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Article include best actions in such situations.
+```
+
+```
