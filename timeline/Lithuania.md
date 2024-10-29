@@ -4238,3 +4238,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2400657/seb-klientai-gali-patirti-trikdziu-jungdamiesi-prie-programeles) bank software application could have issues and interruptions, communication over phone is unavailable.
+```
+
+```
+##### R esults
+Loss of Availability of Service.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* According Article web portal is functioning as usual.
+* Web portal and Software Application are pair of technologies who use Internet Infrastructure for connecting Clients with their Wallets and other banking services through web server or banking app inside of user device. Distributing those technologies into different projects helps to create an additional way to link customers with their services.
+```
+
+```
