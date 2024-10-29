@@ -4218,3 +4218,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2399965/investuoti-itikine-sukciai-is-vilniecio-pasisavino-87-8-tukst-euru) person were scammed in social media for investment over internet. Person lost his investment.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Other plausible situation that some controls not in place who provide adverstments scam over social media.
+* Adverstment Company could be a target by scammers to share malicious code & viruses.
+* Lithuanian Bank provide best practice how to avoid investment scams.
+```
+
+```
