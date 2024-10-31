@@ -4257,3 +4257,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2401905/sukciai-vel-pasipelne-is-vilniaus-apskrities-gyventoju-isviliojo-per-32-tukst-euru) scammers could withdrawn money from bank account of their victim. Article includes plausible investment fraud too.
+```
+
+```
+##### R esults
+Loss of Confidentiality.
+Plausible loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Description in the Article provide idea about breach of a banking system when plausibly person willingly or unwillingly shared credentials (personal secret access data that newer should be shared with anyone else). Article provide idea that callers were using deception by hidding their real intend of a scam. Usually scammers are talking in foreign language and the Article does not provide any details about this situation.
+* Investment as itself could look similar to gambling, at this time more attention gets a Bond [wikipedia.org](https://lt.wikipedia.org/wiki/Obligacija).
+```
+
+```
