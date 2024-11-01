@@ -4259,7 +4259,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2401905/sukciai-vel-pasipelne-is-vilniaus-apskrities-gyventoju-isviliojo-per-32-tukst-euru) scammers could withdrawn money from bank account of their victim. Article includes plausible investment fraud too.
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2401905/sukciai-vel-pasipelne-is-vilniaus-apskrities-gyventoju-isviliojo-per-32-tukst-euru) scammers could withdrawn money from bank account of their victim. Article includes plausible investment fraud too. More scams [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2402717/siauliuose-kedainiuose-panevezyje-ir-vilniuje-sukciai-isviliojo-apie-64-tukst-euru).
 ```
 
 ```
