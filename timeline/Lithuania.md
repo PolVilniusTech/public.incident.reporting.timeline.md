@@ -4277,3 +4277,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2406107/gedimas-be-interneto-paliko-120-istaigu-rizikas-prognozavo-bet-plano-b-nebuvo) Litnet technical center in the Klaipėda for two consecutive days had problems in providing Internet services to the Public institutions.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* According Article this incident is related with technical issues. Protection from Fire System was the culprit. Additional product(s) were needed to purchase and fix this issue.
+* The Article include idea about existence of very Complex Cybersecurity Solution. When failing service is not related with the Internet service, then there should be a question: why this is linked with e.service, that are provided to a number of Customers?
+```
+
+```
