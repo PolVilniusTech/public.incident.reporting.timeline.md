@@ -4296,3 +4296,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2407463/sukciai-apsimete-policininkais-ir-bankininkais-is-zmoniu-isviliojo-per-96-tukst-euru) number of people got scammed by people who deceived their victims.
+
+```
+
+```
+##### R esults
+Plausible loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Article define incident(s) that could be linked with a "Bank fraud", [Reference](https://en.wikipedia.org/wiki/Bank_fraud).
+* Lithuanian Bank has not issued important terms and abbrevations for general public, evidence could be found in VLKK page ["Term bank"](https://terminai.vlkk.lt/paieska?search=Bank+fraud&zodzio_dalis=3&kalba=2&kaip0=on&sritys=&statusas=0&rykiavimas=0).
+```
+
+```
