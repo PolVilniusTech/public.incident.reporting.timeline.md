@@ -258,7 +258,7 @@ Fact check & Disinformation.
 
 From such innocents there are possible to learn a lot. I.e.:
 * In the International and Foreign relations usually plausible to inform each other and get permission, i.e. testing out readiness. This could be done by third entity with or w/o consent of previous entities.
-* For creating a fake video w/o historical correct events and by adding grain of salt to it could make this more linke a "Propaganda". Lithuania are in need of Researchers in Disinformation and Propaganda in their native language to boost Resistance from the Disinformation. The following Article: [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2402008/vu-mokslininkai-kuria-inovatyviu-dirbtinio-intelekto-iranki-propagandai-aptikti).
+* For creating a fake content w/o historical correct events and by adding grain of salt to it could make this more linke a "Propaganda". Lithuania are in need of Researchers in Disinformation and Propaganda in their native language to boost Resistance from the Disinformation. The following Article: [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2402008/vu-mokslininkai-kuria-inovatyviu-dirbtinio-intelekto-iranki-propagandai-aptikti).
 ```
 
 ```
