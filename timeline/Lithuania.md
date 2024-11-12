@@ -4316,3 +4316,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2411202/itikine-investuoti-sukciai-is-klaipedietes-isviliojo-15-tukst-euru) person got scammed into investing using internet platform. In this way money of this person got phished out.
+```
+
+```
+##### R esults
+Money loss.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Lithuanian Bank provide guidance how to help for people who want to safely invest their money: [lb.lt](https://www.lb.lt/lt/naujienos/lietuvos-bankas-kaip-neprarasti-pinigu).
+* Lithuanian Bank provide chance to stop for opening new credits [lb.lt](https://www.lb.lt/lt/naujienos/i-stop-vartojimo-kreditams-duomenu-baze-vartojimo-kredito-daveju-uzklausos). Chance to prohibit investmens could be taken in to the account.
+```
+
+```
