@@ -4335,3 +4335,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2414680/telefoniniai-sukciai-is-dvieju-moteru-isviliojo-daugiau-kaip-37-tukst-euru) scam and fraud over the phone.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* From the Article is not clear while those entities were providing any evidence about whereabouts of their position. Do You trust any stranger (or not so big stranger) when the business goes about your richess? 
+```
+
+```
