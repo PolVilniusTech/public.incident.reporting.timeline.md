@@ -602,3 +602,22 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2414508/policija-aiskinsis-del-pigu-lt-atsiradusiu-prekiu-su-sovietine-atributika) provide idea about products who are related with non-existing entity.
+```
+
+```
+##### R eseach
+Certificates and Licences for Entities from Business.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Exist [SECR](https://licencijavimas.lt/lis-epp-app/public/licenceSearch) data base where entities could get specific certificates for their business, i.e. [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/c4374cc070b811e59a1ed226d1cbceb5).
+* In random electronic shops, e.g. [aliexpress.com](https://www.aliexpress.com/item/1005003831564128.html?spm=a2g0o.productlist.main.69.690bmsmDmsmDNK&algo_pvid=b018e7f4-2b96-4b50-9344-52ae0e2e2c4e&algo_exp_id=b018e7f4-2b96-4b50-9344-52ae0e2e2c4e-34&pdp_npi=4%40dis%21EUR%2121.74%213.70%21%21%2122.36%213.80%21%40211b80e117318423908093660edeed%2112000027297126583%21sea%21LT%210%21ABX&curPageLogUid=DQOraxmkzmvU&utparam-url=scene%3Asearch%7Cquery_from%3A) and [aliexpress.com](https://www.aliexpress.com/item/1005005979600176.html?spm=a2g0o.productlist.main.83.690bmsmDmsmDNK&algo_pvid=b018e7f4-2b96-4b50-9344-52ae0e2e2c4e&algo_exp_id=b018e7f4-2b96-4b50-9344-52ae0e2e2c4e-41&pdp_npi=4%40dis%21EUR%2110.37%212.59%21%21%2177.27%2119.32%21%40211b80e117318423908093660edeed%2112000035150167692%21sea%21LT%210%21ABX&curPageLogUid=1m4CudLdtGV3&utparam-url=scene%3Asearch%7Cquery_from%3A) Business offers their products. Foreign countries needs for knowledge to get certificated and licensed (when that's plausible) when they want to do exports with specific tags and symbols with existing and non-existing entities to other jurisdictions with their legal requirements.
+```
+
+```
