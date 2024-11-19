@@ -4353,3 +4353,39 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2416897/laikinai-buvo-sutrikusi-vyriausybes-prezidenturos-interneto-svetainiu-veikla) datacenter got disruption of their website hosting service. This lasted for a hour until electricity power supply was re-established. Uninterrupted power supply security control were ineffective.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Conducting periodical tests on Uninterrupted power supply security mechanism.
+```
+
+```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2416564/jeglinskas-apie-nutrauktus-kabelius-baltijos-juroje-karyba-keiciasi-esame-taikinyje) "Telia" Telecommunication company has lost their capacity on internet bandwidth by one third. 
+```
+
+```
+##### R esults
+Loss of Quality and Performance
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Slim protective layer of a product could lead into higher chance for unwanted breaking from environment and man-made Risks.
+```
+
+```
