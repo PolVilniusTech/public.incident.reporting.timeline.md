@@ -4389,3 +4389,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrytas.lt](https://www.lrytas.lt/verslas/mano-pinigai/2024/11/20/news/-swedbank-klientams-pranesa-aktualia-informacija-del-galimu-trikdziu-nakti-nenustebkite-35259761) "Swedbank" will be inacessible for 4 hours and 30 minutes.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Backups of databases are done in similar periods. During backups clients are redirected to informational page about Maintenance. Backups should be kept safely out of a domain.
+```
+
+```
