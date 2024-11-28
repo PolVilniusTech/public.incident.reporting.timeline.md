@@ -4374,6 +4374,8 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2416564/jeglinskas-apie-nutrauktus-kabelius-baltijos-juroje-karyba-keiciasi-esame-taikinyje) "Telia" Telecommunication company has lost their capacity on internet bandwidth by one third. 
+More: 
+* [ELTA](https://www.lrt.lt/naujienos/verslas/4/2426470/telia-atkurtas-rysys-su-svedija-per-kabeli-baltijos-juroje).
 ```
 
 ```
