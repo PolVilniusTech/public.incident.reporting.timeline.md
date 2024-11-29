@@ -4409,3 +4409,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://lnk.lt/straipsniai/kriminalai/policija-pranesa-kad-sukciai-is-sostines-gyventoju-isviliojo-89-tukst-euru/286845) scamming happens through Software Application, Mobile Phone.
+```
+
+```
+##### R esults
+Loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* In most cases scammer want to get access to a device of a victim. Device with Remote Desktop connectivity could be abused to make Remote Desktop Connections. In this way a victim could provide access to a scammer & would allow execution of scammers planned procedure.
+```
+
+```
