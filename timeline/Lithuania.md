@@ -4427,3 +4427,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2430037/perpardavejai-nemiega-uz-lietuviska-moneta-praso-3-5-tukst-euru) Web Site that belongs to Lithuanian Bank is unresponsive and can't service enough of Clients.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Web Sites that are used for services, e.commerce should be maintained and upgraded for providing services to expected maximum number of plausible active users. Server that can't handle this amount of users has risk to receive non-malicious attack of Distributed-Denial-of-Service. 
+```
+
+```
