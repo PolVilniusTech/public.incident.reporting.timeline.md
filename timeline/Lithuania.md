@@ -4445,3 +4445,57 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2428373/mazeikiuose-nuo-telefoniniu-sukciu-nukentejo-asociacija-prarado-16-tukst-euru) scammers pretended themselves as "Google", Police, Bank Employees and conducted Fraud attack. Jurisdictional entity lost sixteen thousand euros.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Scammers may try to pretend themselves as legal subjects to create fraudlent income. They expect to steal money for consecutive times, as much as possible. 
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2428373/mazeikiuose-nuo-telefoniniu-sukciu-nukentejo-asociacija-prarado-16-tukst-euru) scammers pretended themselves as "Google", Police, Bank Employees and conducted Fraud attack. Jurisdictional entity lost sixteen thousand euros.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Scammers may try to pretend themselves as legal subjects to create fraudlent income. They expect to steal money for consecutive times, as much as possible. 
+```
+
+```
+##### I ncident
+
+According this Article [BNS](https://www.tv3.lt/naujiena/lietuva/sutriko-kai-kuriu-valstybiniu-instituciju-tinklapiu-veikla-n1382710) web sites of the Lithuanian Government and some others were unavailable. Technical issue lead into this situation. Service was restored [ELTA](https://www.tv3.lt/naujiena/lietuva/valstybiniu-instituciju-interneto-svetainiu-veikla-atstatyta-n1382731).
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* With new technologies there are important to update and test out recovery procedures from incidents like shown in these Articles.  
+```
+
+```
