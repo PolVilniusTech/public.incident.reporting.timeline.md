@@ -4499,3 +4499,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2431421/skaudus-praradimas-sukciai-is-vilnietes-isviliojo-net-apie-70-tukst-euru) scammers are scamming for money of people in a social media. Person handed his bank account and cards to a scammers.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Fake facilities could be created to make scams. Even people could be employed in those fake facilities to do illegal work. All of related entities who participate in scamming are at fault.
+```
+
+```
