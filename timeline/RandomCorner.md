@@ -621,3 +621,21 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2429924/kinijoje-aptiktas-galimai-didziausias-zemeje-aukso-telkinys) provide idea that were found Vein of valuable metal, this Vein is now biggest in the whole Planet, but this found amount is enough for the Country, who found it, only for less than two Years.
+```
+
+```
+##### R eseach
+Misinformation way into Disinformation
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* When News is a Broken Phone, then people should feel awkward.
+```
+
+```
