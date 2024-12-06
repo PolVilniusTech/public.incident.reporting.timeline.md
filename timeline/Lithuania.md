@@ -4517,3 +4517,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2432073/sukciai-skambina-gyventojams-sodros-vardu) scammers pretend themselves as employees of "Sodra".
+
+```
+
+```
+##### R esults
+Informational
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Customers of "Sodra" has their own Accounts that is used for communication or initiating communication.
+* Plausible problem in Public and Private Sector that sensitive and private data are not defined depending it's sensitivity and plausible use cases are not standartized (widely), e.g. does ID could be used as identification through the phone? or does Informational System request for specific sensitive data to process Employee request, so creates pretext to require sensitive information for completing a (e)service. Scammers get a hold of these irregular requirements for their sake to make successful attack. Assume problem when one system request for one type of sensitive data and other system — for the same request take other type of sensitive data.
+```
+
+```
