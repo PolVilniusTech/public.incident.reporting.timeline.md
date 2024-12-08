@@ -4520,7 +4520,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2432073/sukciai-skambina-gyventojams-sodros-vardu) scammers pretend themselves as employees of "Sodra".
-
 ```
 
 ```
@@ -4534,6 +4533,64 @@ Informational
 From such incidents there are possible to learn a lot. I.e.:
 * Customers of "Sodra" has their own Accounts that is used for communication or initiating communication.
 * Plausible problem in Public and Private Sector that sensitive and private data are not defined depending it's sensitivity and plausible use cases are not standartized (widely), e.g. does ID could be used as identification through the phone? or does Informational System request for specific sensitive data to process Employee request, so creates pretext to require sensitive information for completing a (e)service. Scammers get a hold of these irregular requirements for their sake to make successful attack. Assume problem when one system request for one type of sensitive data and other system — for the same request take other type of sensitive data.
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2433234/savaitgali-vartotojams-nebus-pasiekiamos-vmi-sistemos) State tax Inspectorate (VMI) undergo Maintenance and two consecutive days gonna be unavailable.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Take into an account, e.g. when G2B, B2B make agreement for available service: Full Year upkeep is a 100 percent; 2 days less than the full Year upkeep - 99.452 percent. Business does not want to get penalty for paying interest - financial charges when a problem is related to other party that does not provide their service in time. 
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://lnk.lt/straipsniai/kriminalai/plinta-naujas-sukciavimo-budas-sukciai-sukure-i-esveikatalt-panasia-svetaine-ir-savinasi-pinigus/288179) provided idea of similar & look-a-like phishing site that is used for scamming. Access to scamming site and use case lead into money loss.
+```
+
+```
+##### R esults
+Loss of integrity
+Loss of confidentiality
+Loss of money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When e.service own plausibility to pay for their services & has flaws, then this functionality could be abused. Article does not include statement about functionality like this.
+* Similar and look-a-like site could be problem for clients who don't know the original. Even so, e.services usually does not communicate about their development of e.service and each periodical new update could make clients less resistant to existance of similar and look-a-like sites.
+* Article provide idea about a SMART ID service. When some service does not use additional or different than usual security measure to make some other action than Authentication, then scammers could try to build look-a-like sites that could steal money. Stealing money from Bank Account is related to money transfer from one bank account to other bank account. International bank transfers need more time than local ones, so client who has noticed a problem need to contact his local bank to stop a transaction.
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://lnk.lt/straipsniai/kriminalai/sukciai-susizere-beveik-50-tukst-euru-atsiunte-suklastota-nuoroda-paeme-kredita/288162) person got phishing link that lead into money loss. Link was received over software application "Messenger".
+```
+
+```
+##### R esults
+Plausible loss of money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Software (e)services provide more easy way to pay for goods and services. Clients should open separate Account on their Bank, so they will not link their main Account with some e.service that could be a target of scammers. Transfering money to this separate Account could take some time, but even so, does this Client is not placed any restrictions to daily-weekly-monthly money transfers?
 ```
 
 ```
