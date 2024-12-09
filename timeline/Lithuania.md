@@ -4519,7 +4519,8 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2432073/sukciai-skambina-gyventojams-sodros-vardu) scammers pretend themselves as employees of "Sodra".
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2432073/sukciai-skambina-gyventojams-sodros-vardu) scammers pretend themselves as employees of "Sodra". More:
+* [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2434511/islikite-atsargus-telefoniniai-sukciai-toliau-apsimeta-sodros-darbuotojais)
 ```
 
 ```
