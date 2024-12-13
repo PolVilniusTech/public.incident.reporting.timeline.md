@@ -4595,3 +4595,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2438164/silutes-rajone-sukciai-moters-vardu-paeme-greitaji-kredita-zalos-dydis-5-tukst-euru) person had Fraud attack by anonymous phone call.
+
+```
+
+```
+##### R esults
+Plausible loss of money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When Office can't ensure, e.g. that man is really what he identifies himself, then this person could challenge the statement that he wanted to take money for real. There could be used data from some data breach.  
+```
+
+```
