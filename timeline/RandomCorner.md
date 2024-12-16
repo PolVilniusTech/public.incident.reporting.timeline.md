@@ -639,3 +639,21 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2439296/zuokas-siulo-steigti-dirbtinio-intelekto-ministerija-paskirti-virtualu-ministra) provide idea that Public Sector of Lithuania should create Artificial Intelligence (AI) based Digitization Commision.
+```
+
+```
+##### R eseach
+I don't know how AI took decision for this and that.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Take in account something as this [bbc.com](https://www.bbc.com/news/articles/cd605e48q1vo) Article. When there exists talks about creation of AI type functionality, then at easiest sample this could look like a Chatbot that accept an INPUT and respond with an OUTPUT. The question: How many senses this AI has? What officials should do when Chatbot would start providing suggestions like in bbc.com and (or) unlawfully suggest to intervene in some other Countries business. Without possibility to learn from additional senses, e.g. through camera, some silly functionality like in those Articles should stay being some Chatbot and not an AI. More type machine learning ways could build a better AI. What you think?
+```
+
+```
