@@ -4645,7 +4645,7 @@ Loss of Availability
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Own solutions for some service like digital signing from multiple of services. This way increases chance of using service that does not does enough for it's security and privacy.
+* Own solutions for some service like digital signing from multiple of entities. This way increases a chance of using service that does not does enough for it's security and privacy.
 ```
 
 ```
