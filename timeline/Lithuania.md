@@ -4649,3 +4649,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/kitos-lietuvos-zinios/policija-gyventojams-siunciamos-melagingos-zinutes-apie-neva-neapmoketas-baudas-uz-greicio-virsijima/) citizens of Lithuania are getting Messages of Short Message Service that include phishing links. Clicking on those links should be avoided.
+```
+
+```
+##### R esults
+Informational
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Modern Devices with Internet browsing capability are affected.
+* Article & Reference [BNS](https://www.lrt.lt/naujienos/verslas/4/2441239/sukciams-toliau-siauciant-lietuvos-bankas-ragina-kova-su-jais-koordinuoti-valstybes-lygiu) provide official registered information about lost money from phishing: 2020 Year - 4.8 million EUR, 2021 Year - 10.2 million EUR, 2022 Year - 11.8 million EUR, 2023 Year - 12.3 million EUR, 2024 Year - 14 million EUR.
+```
+
+```
