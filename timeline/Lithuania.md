@@ -4616,7 +4616,6 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According this Article [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/is-sostines-gyventojos-sukciai-isviliojo-74-tukst-euru/) scammers has a way to steal money from a bank account. Elderly person is a victim of a scam.
-
 ```
 
 ```
@@ -4629,6 +4628,24 @@ Plausible loss of money
 
 From such incidents there are possible to learn a lot. I.e.:
 * Bank institution should need to provide awareness trainings to an elderly.
+```
+
+```
+##### I ncident
+
+According this Article [Lrytas.lt](https://www.lrytas.lt/it/ismanyk/2024/12/16/news/sutriko-smart-id-veikimas-35675690) Smart-ID service is down for 46 minutes.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Own solutions for some service like digital signing from multiple of services. This way increases chance of using service that does not does enough for it's security and privacy.
 ```
 
 ```
