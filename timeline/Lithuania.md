@@ -4668,3 +4668,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2443999/sukciai-itariama-kesinosi-isvilioti-kone-250-tukst-euru-is-vilniaus-miesto-busto) scammers tried to scam for money from an Entity of "Vilniaus miesto būstas".
+```
+
+```
+##### R esults
+Plausible loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Employee who has privileges to do financial operations could be a coulprit of problem that could lead into loss of Money.
+```
+
+```
