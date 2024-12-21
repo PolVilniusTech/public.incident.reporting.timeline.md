@@ -4686,3 +4686,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2445285/sukciai-nesnaudzia-pasitelkia-socialinius-tinklus-ikalbejo-paimti-paskolu) scammers fake their role and could use any communication tech to reach their victims.
+```
+
+```
+##### R esults
+Plausible loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Scammer is interested in any kind of currency in a cash, money in an bank account, a loan, any other type of valuables and is not different from regular person who is a criminal thief. Accordingly some persons could go to get employed with aim to scam weakest and vulnerable people & to use their privileges against others & use availability of information that they could get at any time. Scammer could destroy reputation of an organisation & would make damage to it's trust & reliability. Organisation that does not care about their own reputation & image, by having scammers between themselves link themselves to an corrupted organisation.
+```
+
+```
