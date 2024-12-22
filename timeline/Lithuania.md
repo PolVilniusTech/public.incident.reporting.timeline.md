@@ -4688,7 +4688,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2445285/sukciai-nesnaudzia-pasitelkia-socialinius-tinklus-ikalbejo-paimti-paskolu) scammers fake their role and could use any communication tech to reach their victims.
+According these Articles [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2445285/sukciai-nesnaudzia-pasitelkia-socialinius-tinklus-ikalbejo-paimti-paskolu) and [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/kaune-is-moters-isviliota-18-tukst-euru/) scammers fake their role and could use any communication tech to reach their victims.
 ```
 
 ```
@@ -4701,6 +4701,25 @@ Plausible loss of Money
 
 From such incidents there are possible to learn a lot. I.e.:
 * Scammer is interested in any kind of currency in a cash, money in an bank account, a loan, any other type of valuables and is not different from regular person who is a criminal thief. Accordingly some persons could go to get employed with aim to scam weakest and vulnerable people & to use their privileges against others & use availability of information that they could get at any time. Scammer could destroy reputation of an organisation & would make damage to it's trust & reliability. Organisation that does not care about their own reputation & image, by having scammers between themselve link it to an corrupted organisation. More about corruption prevention at [stt.lt](https://www.stt.lt/korupcijos-prevencija/apie-korupcijos-prevencija/7742).
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2445580/is-moters-banko-saskaitos-sukciai-pasisavino-70-tukst-euru) scammers over phone collected secrets of their targeted victim. Afterwhile Money were withdrawn from victim's electronic banking account.
+```
+
+```
+##### R esults
+Plausible loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Disabling less secure authentication options and enabling only secure ones could be a way to solve some of problems like this.
+* Awareness training for Customers could make Service more resilient from scammer attacks.
 ```
 
 ```
