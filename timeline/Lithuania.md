@@ -4723,3 +4723,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2446269/kibernetinio-saugumo-specialistas-valinsko-svetaineje-pamate-isilauzima-ir-idiegta-virusa) "Binance" functionality were found in a valiustv web site.
+```
+
+```
+##### R esults
+Increased Availability of a questionable functionality
+Plausible breach of a site.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Lithuanian Bank inform [lb.lt](https://www.lb.lt/lt/naujienos/perspejimas-vartotojams-del-binance-uab-ir-kitu-su-kripto-turtu-susijusiu-paslaugu-teikeju) that UA "Binance" virtual currency exchange operator provide services w/o license. Clients of this service are at risk, because of using of not regulated company.
+* Cryptocurrency exchange operator could provide more than just a Cryptocurrency, they could provide a Virtual Currency too. Can't place equal sign between both of them. Cryptocurrency taken as not regulated tech.
+* The Article provide statement that in a web site is included a "virus" code. Risk of plausible financial phishing and (or) scam could be taken into an account. 
+```
+
+```
