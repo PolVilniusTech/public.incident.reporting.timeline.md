@@ -392,3 +392,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According these Articles [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/2447239/neveikia-suomija-ir-estija-jungiantis-povandeninis-elektros-kabelis) and [Reuters](https://edition.cnn.com/2024/12/26/europe/finland-sea-power-cable-outage-intl/index.html) single underwater electricity cable grid got damaged & not operational.
+```
+
+```
+##### R esults
+Some loss of ensurance of tech operations.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Articles does not provide information related to endurance & reliability of a cable tech that is in-use. What if boats in a sea gonna get banned from use of an "deep" anchor? No information related to depth location of those cables.
+```
+
+```
