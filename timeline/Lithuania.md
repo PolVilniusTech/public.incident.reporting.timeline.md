@@ -4744,3 +4744,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2447049/banko-ir-policijos-darbuotojais-prisistate-sukciai-is-moters-isviliojo-10-tukst-euru) scammers used social engineering & fooled person to hand in his money.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Call to official phone numbers only. Unknown phone calls is not trustworthy & trustless. When caller does not meet related service agreement hang up and call to the service helpdesk. 
+```
+
+```
