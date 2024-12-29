@@ -4746,7 +4746,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2447049/banko-ir-policijos-darbuotojais-prisistate-sukciai-is-moters-isviliojo-10-tukst-euru) scammers used social engineering & fooled person to hand in his money.
+According these Articles [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2447049/banko-ir-policijos-darbuotojais-prisistate-sukciai-is-moters-isviliojo-10-tukst-euru) & [Lrytas.lt](https://www.lrytas.lt/lietuvosdiena/kriminalai/2024/12/28/news/sukciai-is-salcininku-gyventojo-isviliojo-kone-30-tukst-euru-35818763) scammers used social engineering & fooled person to hand in his money.
 ```
 
 ```
