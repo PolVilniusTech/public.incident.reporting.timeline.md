@@ -4763,6 +4763,9 @@ From such incidents there are possible to learn a lot. I.e.:
 
 ```
 
+### 2025
+
+
 ##### I ncident
 
 According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2451661/klaipedoje-banko-darbuotojais-prisistate-sukciai-is-moters-isviliojo-apie-17-5-tukst-euru) victim was scammed over a phone.
