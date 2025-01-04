@@ -4784,3 +4784,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2452252/buvo-sutrikusi-seb-banko-veikla) following services of SEB e.Banking system are unavailable: Web Portal, Mobile Software App, Consultation Center. Around three hours were needed to restore these services into functional state.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* This could look into dependency on connectivity through a single Telecommunication Company. The Article does not explain any technical difficulties that took out services from operational state for approx. three hours period. 
+```
+
+```
