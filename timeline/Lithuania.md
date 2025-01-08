@@ -4811,6 +4811,8 @@ According these Articles [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2454330
 ##### R esults
 Loss of Money.
 Loss of Confidentiality.
+Loss of Integrity.
+Loss of Authenticity.
 ```
 
 ```
@@ -4822,3 +4824,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRt.lt](https://www.lrt.lt/naujienos/sveikata/682/2455154/sukciai-ir-toliau-vagia-gyventoju-besijungianciu-prie-netikro-e-sveikata-portalo-pinigus) the same problem of look-a-like to esveikata web site existence persist.
+```
+
+```
+##### R esults
+Loss of Confidentiality.
+Loss of Integrity.
+Loss of Authenticity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Article include link to NCSC Raport Site. Everyone who could find wherebouts of fake site could give a note for banning of fake service.
+* No information regarding DNS service attacks, the Search Engine's, e.g. Google, Yandex could provide phishing links for themselves.
+* Software Application could not require for DNS protocol, so it could be more secure when you own authentic Software App.
+```
+
+```
+
