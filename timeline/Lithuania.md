@@ -4817,7 +4817,7 @@ Loss of Confidentiality.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Look-a-like sites that is used for phishing require for stopping their illegal service.
+* High chance that look-a-like sites are used for phishing. Phishing sites are illegal service, that should be at least blocked.
 * E.commerce and payments are not working & should not work with less secure "http" protocol.
 ```
 
