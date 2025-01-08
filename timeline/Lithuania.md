@@ -4841,9 +4841,8 @@ Loss of Authenticity.
 
 From such incidents there are possible to learn a lot. I.e.:
 * The Article include link to NCSC Raport Site. Everyone who could find wherebouts of fake site could give a note for banning of fake service.
-* No information regarding DNS service attacks, the Search Engine's, e.g. Google, Yandex could provide phishing links for themselves.
+* No information regarding DNS service attacks, the Search Engines, e.g. Google, Yandex.. could provide phishing links through their SEO service.
 * Software Application could not require for DNS protocol, so it could be more secure when you own authentic Software App.
 ```
 
 ```
-
