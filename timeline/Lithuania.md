@@ -4802,3 +4802,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According these Articles [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2454330/uzteko-vieno-skambucio-sukciai-is-jaunos-moters-isviliojo-25-tukst-euru) and [ELTA](https://www.lrt.lt/naujienos/sveikata/682/2454516/sukciai-sukure-i-e-sveikata-labai-panasu-puslapi-du-gyventojai-neteko-simtu-euru) Victims were scammed by Scammers using phone, phishing links, phishing (web) sites, scamming (web) sites.
+```
+
+```
+##### R esults
+Loss of Money.
+Loss of Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Look-a-like sites that is used for phishing require for stopping their illegal service.
+* E.commerce and payments are not working & should not work with less secure "http" protocol.
+```
+
+```
