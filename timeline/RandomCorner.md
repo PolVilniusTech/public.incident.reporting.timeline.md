@@ -657,3 +657,23 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Article [LRT.lt](https://www.lrt.lt/naujienos/kultura/12/2455136/knygyne-vilniuje-kremliaus-propaganda-pabaltijys-netapo-tikrais-europieciais) provide information about highly likely disinformation printed material, that is written in spoken language, which make approx. 3,14 percent of World-Wide population (from 8.2 billion).
+```
+
+```
+##### R eseach
+Bias and Disinformation.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Probably exists person who made his living in a Garage or a Ranch or an Igloo or a Farm. How biased would be his point of view?
+* The Article has a hunch to the Freedom of Expression [amnesty.org](https://www.amnesty.org/en/what-we-do/freedom-of-expression/).
+* The Article has the Statement: The Censorship in Lithuania is Forbidden.
+```
+
+```
