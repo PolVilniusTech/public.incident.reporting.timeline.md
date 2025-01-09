@@ -4882,3 +4882,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2456316/gera-dovana-patyre-sukciu-ataka-nukopijuota-akropolio-dovanu-korteliu-informacija) Authentication Mechanism of some Name Portal were breached and some Digital Gift Cards were stolen.
+```
+
+```
+##### R esults
+Loss of Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Credentials Data are Confidential and in most cases the Private Information, w/o permit brute-forcing Authentication Mechanisms are forbidden by Law. Citizens should beware of phishing attacks that could include those Digital Gift Cards. 
+* Authentication Mechanism should include safety-measure(s) that block malicious attacks. Companies should not allow to use small and non-random passwords in Authentication Mechanism. Reminders to change passwords should be welcomed. 
+```
+
+```
