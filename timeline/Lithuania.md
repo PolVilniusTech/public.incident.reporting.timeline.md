@@ -4896,7 +4896,7 @@ Loss of Confidentiality.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Credentials Data are Confidential and in most cases the Private Information, w/o permit brute-forcing Authentication Mechanisms are forbidden by Law. Citizens should beware of phishing attacks that could include those Digital Gift Cards. 
+* Credentials Data are Confidential and in most cases a Private Information, w/o permit brute-forcing Authentication Mechanisms are forbidden by Law. Citizens should beware of phishing attacks that could include those Digital Gift Cards. 
 * Authentication Mechanism should include safety-measure(s) that block malicious attacks. Companies should not allow to use small and non-random passwords in Authentication Mechanism. Reminders to change passwords should be welcomed. 
 ```
 
