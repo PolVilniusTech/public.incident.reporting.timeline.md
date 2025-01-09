@@ -4846,3 +4846,39 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [swedbank.lt](https://www.swedbank.lt/business/useful/more/newsandblog/news) e.banking service gonna be unavailable for 4:30 hours.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Planning is necessary for fluent Maintenance. When information about Maintenance changes, then News Agreggators should be re-minded.
+```
+
+```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2456193/savaitgali-neveiks-vmi-sistemos) State tax Inspectorate (VMI) is planning for a Maintenance for 28 hours.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* News Agreggators don't need to know too detailed technical details, so they would not create too detailed Article.
+```
+
+```
