@@ -4901,3 +4901,28 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2456942/policijos-banko-darbuotojais-prisistate-sukciai-is-zmoniu-isviliojo-apie-24-tukst-euru) were reported few cases of scammers. Noted these situations:
+* from scammers received phishing message, that contained phone contacts for their scamming schemes;
+* an authentication to the web portal lead into unauthorized financial operation from a banking account;
+* some cases when scammers pretend themselves as legitimate employees from a bank, police, that want to collect for authentication related data.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* For unregulated Cryptocurrency Market Person is left for his own, it's illegal.
+* When e.service take money without providing accepted by user terms of use & w/o notification, it's illegal.
+* Personal Identification Code could be used for authorization of some actions, awareness after loss of this information could be lacking.
+* Authentication information is Confidential data and by giving this data to other Person there should be legitimate interest through giving permit to represent that person. Systems like that could be a target by scammers too.
+```
+
+```
