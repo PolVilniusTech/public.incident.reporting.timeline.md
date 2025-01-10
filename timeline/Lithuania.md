@@ -4903,7 +4903,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2456942/policijos-banko-darbuotojais-prisistate-sukciai-is-zmoniu-isviliojo-apie-24-tukst-euru) were reported few cases of scammers. Noted these situations:
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2456942/policijos-banko-darbuotojais-prisistate-sukciai-is-zmoniu-isviliojo-apie-24-tukst-euru) were reported few cases of actions by scammers. Posted situations:
 * from scammers received phishing message, that contained phone contacts for their scamming schemes;
 * an authentication to the web portal lead into unauthorized financial operation from a banking account;
 * some cases when scammers pretend themselves as legitimate employees from a bank, police, that want to collect for authentication related data.
