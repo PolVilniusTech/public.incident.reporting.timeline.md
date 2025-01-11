@@ -4926,3 +4926,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this check [esveikata.lt](https://www.esveikata.lt/duomenuSauga) provided information lacks of more visibility from e.service owner of commitment to keep "Privacy Policy" intact. According this check [esveikata.lt](https://www.esveikata.lt/slapukai) provided a Sample of Required Cookies as of "to Pay for Services" & ESPBI Information System Regulations include an "Aim" to create effective Payment Control System. There should be a concern that Pharmacy Information Systems provide information to ESPBI Information System and send additional information like Payment Type. The Question: Why You collect data, that are not meant to pursue those Aims of ESPBI System? The Check was conducted of ESPBI (2021) & IPR (2023). According this check [esveikata.lt](https://www.esveikata.lt/) there could be found a Security Measure of "Content Security Policy" and privileges for e.Services from Tech Giants Alphabet and Microsoft. The Question: Does Attack Vector are plausible that somebody would be able to misuse of their Services by phishing message with usage of their Payment System(s)?
+```
+
+```
+##### R esults
+Plausible lacking of Professional Risk Assessments over System Data Types.
+Data minimisation should be taken more seriously (General Data Protection Reglament).
+Highly probable that Clients and Customers does not get relevant information about Payments, Payment Types and they could be more easily fooled.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Data minimisation means collecting the minimum amount of personal data that you need to deliver an individual element of your service. Data minimisation does not mean that You have to smash the Data into even Smaller Particles or so.
+* [esveikata.lt](https://www.esveikata.lt/) has some Page for awareness of Risks from scammers. A link of [esveikata.lt](https://www.esveikata.lt/duomenuSauga) provide idea of "Data Security" and "Privacy Policy" inconsistency. The Privacy Policy require to use Informational Structure of Data & Data Types that are related with Clients and Customers. Only then possible to move into "Data Security" & commitment of Data Protection. Assume even Doctor could be a Client, but that does not mean, that this Available Privacy Policy should be made Universal for Doctors & Employees and Clients & Customers.
+```
+
+```
