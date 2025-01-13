@@ -4960,7 +4960,7 @@ Probable loss of Money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* All Lithuanian Phone Numbers are registered and every Person who use specific Phone Number are known. Don't answer from a call of unknown Phone Numbers.
+* All Lithuanian Phone Numbers are registered and every Person who use specific Phone Number are known. Don't answer from a calls of unknown Phone Numbers.
 * Specific Phone Numbers are used for Marketing, no awareness training of risks regarding those Phone Numbers yet.
 ```
 
