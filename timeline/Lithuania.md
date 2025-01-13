@@ -4948,3 +4948,20 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2458424/sukciautoja-apgavo-82-metu-senole-ir-isviliojo-daugiau-nei-13-6-tukst-euru) Elderly are scammed over a Phone.
+```
+##### R esults
+Probable loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* All Lithuanian Phone Numbers are registered and every Person who use specific Phone Number are known. Don't answer from unknown Phone Numbers.
+* Specific Phone Numbers are used for Marketing, no awareness training of risks regarding those Phone Numbers yet.
+```
+
+```
