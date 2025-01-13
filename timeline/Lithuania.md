@@ -4952,6 +4952,8 @@ From such incidents there are possible to learn a lot. I.e.:
 
 According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2458424/sukciautoja-apgavo-82-metu-senole-ir-isviliojo-daugiau-nei-13-6-tukst-euru) Elderly are scammed over a Phone.
 ```
+
+```
 ##### R esults
 Probable loss of Money.
 ```
