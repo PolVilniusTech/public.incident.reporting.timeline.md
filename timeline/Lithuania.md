@@ -4967,3 +4967,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2458871/naujas-sukciavimo-budas-raso-per-feisbuka-apsimesdami-mobiliojo-rysio-operatoriais) exists NEW TREND in increase of Scams from behalf of Telecomunication company. 
+```
+
+```
+##### R esults
+Informational
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Law Enforcement has specific use of Social Media Accounts, e.g. Facebook, through [faecbook.com](https://www.facebook.com/records/login/) portal. The Facebook aquired "WhatsApp" and currently their Brand is the company "META" Platform that control all their e.services. At the example of the Facebook other platforms could own similar Portals for Law Enforcement.
+* Now take an example of the Article [kauno.diena.lt](https://m.kauno.diena.lt/naujienos/lietuva/salies-pulsas/narkotiku-prekeiviai-telegrame-iesko-vaiku-talkininku-1179658), that show the Sample of illegal activity through a "Telegram" Social Media. The Social Media of "Telegram" are known of being the fishy platform with part of Community that conduct illegal activity, just like some electronic services, e.g. Onion services, that can only be accessed over Tor BROWSER. Through those services could happen non-minor amount of illegal activities, e.g. phishing, scamming, hacking, bullying, etc. One of a TREND should be an ILLEGAL EMPLOYMENT. Person from various range of Age could be a Victim of this illegal EMPLOYMENT. This are illegal activity too. The Regulation and awareness of fake EMPLOYMENT should have a huge concern by Country Officials. In some example, neighboring Countries for each other could make plausible illegal impact, that without (or in some cases even with) diplomatic relations are hard to fix. 
+```
+
+```
