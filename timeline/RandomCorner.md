@@ -696,3 +696,23 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+This Service [europa.eu](https://eur-lex.europa.eu/LT/legal-content/summary/dual-use-export-controls.html) provide information about dual purpose Products use, e.g. in Telecommunication and Information Security Segment. In Lithuania produced dual purpose Products according this Article [lrv.lt](https://eimin.lrv.lt/lt/ziniasklaidai/naujienos/ekonomikos-ir-inovaciju-ministerija-tikslinamos-dvejopo-naudojimo-prekiu-eksporto-kontroles-priemones/) by manufacturing Companies should be controled for export and re-export. The Article [lrmuitine.lt](https://lrmuitine.lt/web/guest/verslui/apribojimai/strateginesprekes) include  the Rule of licensing that should be aquired by Entities, that export and re-export such Products. Apart of License are required to provide needed of Documents. EU Regulations are taken into an Account.
+```
+
+```
+##### R eseach
+Control Measures for Dual Purpose Software and Hardware Products
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Dual Purpose Software and Hardware Products, where are they? Database and special list of those Products should be Publicly Available. Let us take the example of World-wide Survey of Cryptography Products (2016) in here [schneier.com](https://www.schneier.com/wp-content/uploads/2016/02/worldwide-survey-of-encryption-products-1.pdf). This list include fifteen Pages of Country & Product & Company & Type <...> & URL Metadata. Samples of Products include even "Telegram" (http://telegram.org), "WhatsApp" (http://whatsapp.com), etc. How would be forbidden access to Social Media Apps, that has additional Encryption Protection?
+* According [Google Developer Docs](https://developers.google.com/search/blog/2014/08/https-as-ranking-signal) Search Engine Google improve SEO rating of HTTPS protocol. This means that everyone who has Secure HTTP Communication should be able to use e.services Securely. Does Products with Secure Communication Protocols gonna be placed in export & re-export regulation too?
+* The Countries themselves forbid the usage of specific Software Products in their Market, e.g. how happened with a "WeChat" chinese Product & a "Kaspersky" non-chinese Product [bbc.com](https://www.bbc.com/news/technology-67268653).
+```
+
+```
