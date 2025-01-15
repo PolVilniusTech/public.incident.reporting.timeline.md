@@ -4986,3 +4986,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2460518/sukciai-apgavo-dvi-moteris-ir-vyra-pasisavino-daugiau-nei-55-tukstancius-euru) people are scammed over "Messenger" Software App, Phone, Account of a Banking Institution.
+```
+
+```
+##### R esults
+Loss of Privacy
+Loss of Confidentiality
+Loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Don't take friendships at serious through Cyber Space Software App's like META's "Messenger" Software App, ref. [google.com](https://play.google.com/store/apps/details?id=com.facebook.orca&hl=lt&pli=1). In this Incident List "Messanger" Software App is mentioned for a second time.
+```
+
+```
