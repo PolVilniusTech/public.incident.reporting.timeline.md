@@ -5006,3 +5006,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2461240/sutriko-sodros-veikla-dalis-paslaugu-gali-buti-laikinai-neprieinamos) some of Sodra's Social security services are Unavailable.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Article does not include any whereabouts of plausible problems.
+```
+
+```
