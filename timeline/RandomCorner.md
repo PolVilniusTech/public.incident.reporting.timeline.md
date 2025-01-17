@@ -716,3 +716,24 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+
+According [npr.org](https://www.npr.org/2025/01/16/nx-s1-5259837/meteorite-strike-sound-canada-home-security-camera) exists the chance to get hit by Meteorite.
+Following list for those who would be interested:
+* TODO.
+* TODO.
+```
+
+```
+##### R eseach
+Risk Analysis for Natural Probability and Impact of a Meteorite.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Risk(s) of Meteorite(s) at this time should be very rare to be found (In practice). 
+```
+
+```
