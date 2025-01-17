@@ -3001,6 +3001,8 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 According Articles [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2194490/tyrejai-atakos-pries-navigacijos-sistemas-dazneja) and [Err.ee](https://news.err.ee/1609326360/second-finnair-flight-turns-back-from-tartu-due-to-gps-interference) GPS jamming is taking place since the end of 2022. GPS disturbances and GPS interference prohibit use of a Global Positioning System (GPS).
+More information regarding GPS jamming:
+* [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2462795/neraminantys-duomenys-gps-trikdziu-skaicius-yra-padidejes-6-kartus).
 ```
 
 ```
