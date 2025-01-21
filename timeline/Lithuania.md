@@ -5026,3 +5026,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2466079/sukciai-ivairiose-salies-vietose-is-zmoniu-isviliojo-apie-45-tukst-euru) reported few scams that happened on this month and one financial fraud situation which lasted for whole four years.
+```
+
+```
+##### R esults
+Probable loss of Privacy
+Probable loss of Confidentiality
+Probable loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Scammers try to get victims trust and pretend themselves as legitimate employee of some Financial Institution or employee from Law Enforcement. More reads [lb.lt](https://www.lb.lt/lt/kaip-atpazinti-sukcius).
+* Scammers operate through the Phone, Email & Internet Service(s). Lithuanian Bank include awareness training in Financial Education, more interactive content [youtube.com](https://www.youtube.com/watch?v=1cEOS5AzKFc&ab_channel=Lietuvosbankas).
+* Web domain(s) could be controled by scammer(s) & for this reason there are suggested to stop using unknown (or not trusted) web sites, search engines, and to try out using Bookmark (or Favourite) that could keep actual link to Your trusted www Pages. WWW Browser has capability to Sync data, so beware to deploy WWW Browser with Personal & Private Account to Enterprise & Private Environment, because Bookmarks and security credentials gonna be Synced. Example of Bookmarks in leading Browser Solution [google.com](https://support.google.com/chrome/answer/188842).
+* Financial Institution in usual way provide a Personal Client Page. In this Page a Client could find all commitments between Financial Institution & Client. For this reason Client should know all depts that are linked to Client's Digital Entity. Exists e.Services who allows to keep important e.document(s), that are just like a Vault, so You could keep Your commitments until they are still active & actual. 
+```
+
+```
