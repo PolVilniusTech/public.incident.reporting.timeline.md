@@ -660,6 +660,8 @@ From such innocents there are possible to learn a lot. I.e.:
 ##### I nnocent
 
 This Article [LRT.lt](https://www.lrt.lt/naujienos/kultura/12/2455136/knygyne-vilniuje-kremliaus-propaganda-pabaltijys-netapo-tikrais-europieciais) provide information about highly likely disinformation printed material, that is written in spoken language, which make approx. 3,14 percent of World-Wide population (from 8.2 billion).
+More of same Content:
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2464822/baisu-as-apakes-knygyne-vilniuje-atlasai-kuriuose-krymas-rusijos-dalis)
 ```
 
 ```
@@ -674,6 +676,7 @@ From such innocents there are possible to learn a lot. I.e.:
 * Probably exists person who made his living in a Garage or a Ranch or an Igloo or a Farm. How biased would be his point of view?
 * The Article has a hunch to the Freedom of Expression [amnesty.org](https://www.amnesty.org/en/what-we-do/freedom-of-expression/).
 * The Article has the Statement: The Censorship in Lithuania is Forbidden.
+* The Geographical Map Article (e.service approach): International Electronic Services take accustomed by local laws, e.g. Google "Understand country borders and names" according their open Question & Answer Site [google.com](https://support.google.com/maps/answer/3145721?hl=en). They use approach of "local versions of Google Maps" & "follow local legislation when displaying names and borders".
 ```
 
 ```
@@ -734,6 +737,26 @@ Risk Analysis for Natural Probability and Impact of a Meteorite.
 
 From such innocents there are possible to learn a lot. I.e.:
 * Risk(s) of Meteorite(s) at this time should be very rare to be found (In practice). 
+```
+
+```
+##### I nnocent
+
+According [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2466442/policija-aiskinasi-kaip-intymios-nuotraukos-is-fotobudeles-bardake-atsidure-internete) exists chance of peep hole (web) cameras who plausibly could be used to spread cyberbullying content.
+```
+
+```
+##### R eseach
+Illegaly used Internet of Things (IoT) Devices, (web) Camera(s).
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Lithuanian Bank recommend to stop sharing any vulgar pictures and videos [lb.lt](https://www.lb.lt/uploads/documents/images/Sukciavimo%20tipai%202023%2003%2014-02.jpg).
+* The General Data Protection Regulation (GDPR) is the toughest privacy and security law in the world. Though it was drafted and passed by the European Union (EU), it imposes obligations onto organizations anywhere, so long as they target or collect data related to people in the EU [europa.eu](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng).
+
 ```
 
 ```
