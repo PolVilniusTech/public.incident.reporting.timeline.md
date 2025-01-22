@@ -5049,3 +5049,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/sveikata/682/2467336/sukciai-nusitaike-ir-i-portala-epacientas-lt) scammers attacked Clients of epacientas portal.
+```
+
+```
+##### R esults
+A scam.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Google Play Software Storage allow to access "ePacientas" Software App. This App has old fashioned Registration Way and access through entering electronic mail address and personal password of ePacientas Software Account. Digital Patient Data are linked with some Clinics where Customers could arrange a date with a doctor. Patient could manage his official prescriptions from doctors by itemized receipt, that could allow to get (through purchase) a Product from linked Pharmacy Entities. This Software App allow to search desired Products. ePacientas include a News section, an active waiting list to the Doctor(s). Software Application could be used by public Sector and private Sector Clinic(s). Developers declare that there are no 3rd party data sharing, but ePacientas may collect Personal info (Name, Email Address, User IDs, Address, Phone Number, Sex), Health and fitness info, Crash logs and Diagnostics info, Device or other IDs, In-app Messages.
+```
+
+```
