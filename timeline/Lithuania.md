@@ -7,7 +7,7 @@
 
 ##### I ncident
 
-According [@lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/151146/vrk-rinkejo-puslapis-bus-isjungtas-kol-bus-pasalintos-gresmes) temporarily were shut down „Voter Page“ Portal (following — System), because security gap has been found. Reported the Central Electoral Commission (following — VRK, engl. lang. CEC).
+According [@lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/151146/vrk-rinkejo-puslapis-bus-isjungtas-kol-bus-pasalintos-gresmes) temporarily were shut down "Voter Page" Portal (following — System), because security gap has been found. Reported the Central Electoral Commission (following — VRK, engl. lang. CEC).
 ```
 
 ```
@@ -35,14 +35,14 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [@Delfi.lt](https://www.lrt.lt/naujienos/verslas/4/151326/del-galimos-duomenu-vagystes-jysk-praso-pirkeju-blokuoti-mokejimo-korteles) „Jysk“ company informed their Clients about Security related Incident and asks them to block their Credit Cards.
+According [@Delfi.lt](https://www.lrt.lt/naujienos/verslas/4/151326/del-galimos-duomenu-vagystes-jysk-praso-pirkeju-blokuoti-mokejimo-korteles) "Jysk" company informed their Clients about Security related Incident and asks them to block their Credit Cards.
 ```
 
 ```
 ##### R esults 
 
 Up to 500 Clients in Baltic States would be able to lose their private information.
-Clients, who used „BankLink“ functionality should not be victims of possible leak of private data.
+Clients, who used "BankLink" functionality should not be victims of possible leak of private data.
 ```
 
 ```
@@ -91,7 +91,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [@Delfi.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/188552/antradieni-ryte-buvo-sutrikusi-dalis-telia-paslaugu) there was a disruption to the operation of „Telia“ platform for sending the SMS. Partly because of this „Ežys“ web site didn't work either.
+According [@Delfi.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/188552/antradieni-ryte-buvo-sutrikusi-dalis-telia-paslaugu) there was a disruption to the operation of "Telia" platform for sending the SMS. Partly because of this „Ežys“ web site didn't work either.
 ```
 
 ```
