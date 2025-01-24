@@ -91,7 +91,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According [@Delfi.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/188552/antradieni-ryte-buvo-sutrikusi-dalis-telia-paslaugu) there was a disruption to the operation of "Telia" platform for sending the SMS. Partly because of this „Ežys“ web site didn't work either.
+According [@Delfi.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/188552/antradieni-ryte-buvo-sutrikusi-dalis-telia-paslaugu) there was a disruption to the operation of "Telia" platform for sending SMS. Partly because of this, an web site of "Ežys" are not operational either.
 ```
 
 ```
