@@ -354,3 +354,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+### 2023
+
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2470254/svedija-sulaike-laiva-itariama-latviu-optinio-kabelio-baltijos-juroje-sabotazu) a [LVRTC](https://www.lvrtc.lv) e.Services was interrupted.
+```
+
+```
+##### R esults
+Loss of Availability of LVRTC e.Services.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Article attaches previous similar News, so in this scope exists a Trend, that links in the end of the Article repeats & introduce what already were said from other Incident(s). It's not suggested to provide News in such Fashion. Some specialist could find comparision to Adware.
+```
+
+```
