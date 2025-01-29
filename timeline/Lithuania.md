@@ -5053,7 +5053,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2468696/sukciai-vilniuje-ir-jonavoje-apgavo-gyventojus-isviliojo-tukstancius-euru) scammers via telephone device(s) get hefty sum of money. Scammers pretend being pretty much as anybody who has authority to command their victims.
+According these Articles [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2468696/sukciai-vilniuje-ir-jonavoje-apgavo-gyventojus-isviliojo-tukstancius-euru) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2472242/sukciai-toliau-siaucia-apgauta-moteris-vilniuje-atidave-26-tukstancius-euru) scammers via telephone device(s) get hefty sum of money. Scammers pretend being pretty much as anybody who has authority to command their victims.
 ```
 
 ```
