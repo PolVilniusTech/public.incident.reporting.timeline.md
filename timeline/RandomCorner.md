@@ -60,7 +60,7 @@ From such innocents there are possible to learn a lot. I.e.:
 
 ```
 ##### I nnocent
-According [Lrt.lt](https://www.lrt.lt/naujienos/verslo-pozicija/692/2144065/aleksandras-masaliovas-ka-verslui-svarbu-zinoti-apie-mobinga) the Author use Term lt. <lang.> "mobingas". 
+According [Lrt.lt](https://www.lrt.lt/naujienos/verslo-pozicija/692/2144065/aleksandras-masaliovas-ka-verslui-svarbu-zinoti-apie-mobinga) the Author use Term lt. <lang.> "mobingas".
 ```
 
 ```
@@ -760,3 +760,17 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According [VLKK](https://terminai.vlkk.lt/paieska?search=teis%C4%97sauga) Lithuanian Term of "teisėsauga" result in a single Term of "karinė teisėsauga". There are given pair of translations and one from them is a "military justice". In addition, the Dictionaries of [cambridge.org](https://dictionary.cambridge.org/dictionary/english/law-enforcement) and Encyclopedia of [britannica.com](https://www.britannica.com/search?query=law+enforcement) provide commonly the idea of the police, but the term of "law enforcement" are more broad. Institutions and Organisations who issue own local legislation and policies only in special occasions require the Police and (or) Judge.
+```
+
+```
+##### R eseach
+Translation and Term Bank.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Single Lithuanian term of "teisėsauga" could be attributed to a "law enforcement". According the Article this could be translated into a "military law enforcement" & military police [kariuomene.lt](https://www.kariuomene.lt/pajegos-ir-kariniai-vienetai/kiti-pajegumai/karo-policija/22954) include pretty much everything it needs for securing System of the National Defence and according jurisdictional acts.
