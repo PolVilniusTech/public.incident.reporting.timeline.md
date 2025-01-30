@@ -5085,3 +5085,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According these Articles [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2470254/svedija-sulaike-laiva-itariama-latviu-optinio-kabelio-baltijos-juroje-sabotazu) and [VZ](https://www.vz.lt/inovacijos/2025/01/27/baltijos-juroje-pazeistu-kabeliu-naudojasi-bites-grupe-562834) a LVRTC e.Services was interrupted, telecommunication and media company service "BITĖ" and "Bitė Lietuva" was using this service.
+```
+
+```
+##### R esults
+Loss of Availability of LVRTC e.Services.
+Plausible loss of Availability of Bitė e.Services.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Article attaches previous similar News, so in this scope exists a Trend, that links in the end of the Article repeats & introduce what already were said from other Incident(s). It's not suggested to provide News in such Fashion. Some specialist could find comparision to Adware.
+* Nowadays telecommunication companies provide telephone service, mobile phone service, smart phone service, internet service, sattelite internet service. These Articles could be not so Innovative with a small visibility of a problem. Tech companies try to inform their Clients using their competitor service when something goes wrong with an Availability. 
+```
+
+```
