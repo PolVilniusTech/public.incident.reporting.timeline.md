@@ -5105,3 +5105,44 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2474327/vilniuje-sukciai-is-zmoniu-isviliojo-apie-23-2-tukst-euru) happened Scams over a telephone tech. 
+```
+
+```
+##### R esults
+Plausible loss of Availability
+Plausible loss of Confidentiality
+Plausible loss of Money
+Plausible loss of Privacy
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Customer should have awareness training in situation when need do actions for blocking his personal bank account.
+```
+
+```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2474063/medikas-piktinasi-e-sveikatos-trikdziais-gydytojai-turejo-dirbti-dviguba-kruvi) doctor's hate when developer's make their System updates w/o known schedule.
+```
+
+```
+##### R esults
+Loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Doctor's paperwork nowadays are huge with signatures, stamps & Medical prescriptions.
+* Provided Statements: How System could operate, when You complete administration work of something and afterwards all of this data vanishes. Does other information will vanish too? Who's responsible? What to do?
+* System's Information are kept in a Database. When someone want to upgrade this System, he has to update from specific point, that has relationships with Database. New Update could affect relationships in Data, so there would be needed proffesionals Devs that could manage updates & database schema upgrades. When update are developed for very long period of time, then this problem could even increase. In ethical occasion normal System's has ticketing feedback to report errors in the System, plausible even to provide Questions and Answers. Everything depends by policies of a System. Security Representative should not allow to start any administration without periodical  and later on occasional training for how to use the System. When there are no Security Representative for Educating System's Personel or even maybe he don't even understand the System's itself, then quality of a service could deteriorate & etc. etc. I don't think that You could get professional System Representative in Public Sector, because of many factors. In other words this Article would not be posted at all. There is a TREND, that Professional Teams of Developers from Private Sector take hands on System Development and provide adequate Service. Public Sector join knowledge & Personel into Teams to work with Datacenters, so they could afford optimal professionality and cost. 
+```
+
+```
