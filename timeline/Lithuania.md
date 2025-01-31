@@ -5101,13 +5101,13 @@ Plausible loss of Availability of Bitė e.Services.
 
 From such incidents there are possible to learn a lot. I.e.:
 * The Article attaches previous similar News, so in this scope exists a Trend, that links in the end of the Article repeats & introduce what already were said from other Incident(s). It's not suggested to provide News in such Fashion. Some specialist could find comparision to Adware.
-* Nowadays telecommunication companies provide telephone service, mobile phone service, smart phone service, internet service, sattelite internet service. These Articles could be not so Innovative with a small visibility of a problem. Tech companies try to inform their Clients using their competitor service when something goes wrong with an Availability. 
+* Nowadays telecommunication companies provide tele phone service, mobile phone service, smart phone service, cell phone service, Voice over IP service, internet service, sattelite internet service. These Articles could be not so Innovative with a small visibility of a problem. Tech companies try to inform their Clients using their competitor service when something goes wrong with an Availability. 
 ```
 
 ```
 ##### I ncident
 
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2474327/vilniuje-sukciai-is-zmoniu-isviliojo-apie-23-2-tukst-euru) happened Scams over a telephone tech. 
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2474327/vilniuje-sukciai-is-zmoniu-isviliojo-apie-23-2-tukst-euru) happened Scams over a phone tech. 
 ```
 
 ```
