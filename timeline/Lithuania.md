@@ -5146,3 +5146,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2471594/numeris-banko-balsas-sukciaus-kaip-neapsigauti) Telecommunication Standards allows to change a Phone Number of a Caller and (or) a Name of a Caller, that should be seen while receiving those calls. At this time Scammers gonna fool even more victims.
+```
+
+```
+##### R esults
+Risk: High.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* From the Article is plausible to come up with an idea, that a Phonebook of a Phone could be not enough for securing Your Numerlists.
+* By taking whole considerations from the Article there should be suggested to stop using any type of Phone as Authentication measure (e.g. for dials & calls and Short Message Services) and this should be recommended by higher-ups.
+* The Article include strange point, that old Lithuanian telecommunication number system 8-600-00000 looks a-like to Chinese +86-<...> number system. From the statement plausible to comme up with an idea that the Lithuania is the China. Resources: Phone number system of a China [wikipedia](https://pl.wikipedia.org/wiki/Chi%C5%84ska_Republika_Ludowa) with a calling code of +86 (mainland). Lithuanian phone number system [rrt](https://www.rrt.lt/rrt-ragina-vartotojus-buti-budriais-ir-neperskambinti-itartinais-telefono-rysio-numeriais/?highlight=telefono%20numeracija). Well known situation when from March of 2024 Year from the start positioned number eight has to be changed into a zero [rrt.lt](https://www.rrt.lt/telefono-rysys-internetas-tv/telefono-rysio-numeriai/numeriu-skyrimas/).
+* Lithuania does not deploy security measure for a scammer banning in a telecommunication level. While on the Internet Security [nksc.lt](https://www.nksc.lt/pranesti.html) National Cyber Security Center under the Ministry of Defence accepts phishing Reports of an URL. Single URL Report could stop phishing for whole population, if security related counter-measures are in it's place.
+```
+
+```
