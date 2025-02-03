@@ -775,3 +775,26 @@ Translation and Term Bank.
 From such innocents there are possible to learn a lot. I.e.:
 * Single Lithuanian term of "teisėsauga" could be attributed to a "law enforcement". According the Article this could be translated into a "military law enforcement" & military police [kariuomene.lt](https://www.kariuomene.lt/pajegos-ir-kariniai-vienetai/kiti-pajegumai/karo-policija/22954) include pretty much everything it needs for securing System of the National Defence and according jurisdictional acts.
 * Similar Lithuanian term of "teisėtvarka" could be attributed to a "law and order", result of implementation of a law.
+```
+
+```
+##### I nnocent
+According [LRT.LT](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2472532/lietuviai-pristato-naujienas-skaitanti-ir-personalizuota-santrauka-pateikianti-di-iranki) automation Tool could be Available for Anti-Cyber Bullying & Well-being system.
+```
+
+```
+##### R eseach
+Personalized World Wide Web.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* Search Engines, e.g. [yahoo.com](https://video.search.yahoo.com/), include "SafeSearch On", "SafeSearch Off" functionality. More Personalized functionality for Security are not suggested. 
+```
+
+```
+
+
+
