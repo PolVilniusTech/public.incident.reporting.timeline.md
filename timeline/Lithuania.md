@@ -5169,3 +5169,27 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2477073/sukciai-apsimete-pareigunais-banko-darbuotojais-is-zmoniu-isviliojo-apie-60-tukst-euru) Scammers:
+* phish their victims by cosplaying as someone else;
+* phish with misinformation for Money Transfer & Financial Requests;
+* phish using Social Media's functionality - adverstments;
+* phish physical Objects from their victims.
+```
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Money
+Plausible loss of Privacy
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Before starting using some service and electronic service Clients should read Terms of Use, Privacy Policy and get to know, if the lended Object belong to him and he has right to share it.
+```
+
+```
