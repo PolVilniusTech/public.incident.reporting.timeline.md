@@ -4850,7 +4850,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2456193/savaitgali-neveiks-vmi-sistemos) State tax Inspectorate (VMI) is planning for a Maintenance for 28 hours.
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2456193/savaitgali-neveiks-vmi-sistemos) State Tax Inspectorate (VMI) is planning for a 28 hour Maintenance.
 ```
 
 ```
@@ -5190,6 +5190,17 @@ Plausible loss of Privacy
 
 From such incidents there are possible to learn a lot. I.e.:
 * Before starting using some service and electronic service Clients should read Terms of Use, Privacy Policy and get to know, if the lended Object belong to him and he has right to share it.
+```
+
+```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2480115/del-serveriu-perkelimo-savaitgali-nebus-pasiekiamos-vmi-sistemos) State Tax Inspectorate (VMI) is planning for a 36 hour Maintenance.
+```
+
+```
+##### R esults
+Loss of Availability
 ```
 
 ```
