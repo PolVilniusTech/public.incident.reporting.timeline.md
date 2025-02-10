@@ -5204,3 +5204,24 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2482383/sukciau-toliau-siaucia-vilniaus-apskrityje-pasisavino-beveik-35-tukst-euru) scammers use telecommunication means to scam people. Scammers pretend themselves as being one from law enforcement forces, banking & investment brokers.
+```
+
+```
+##### R esults
+Plausible loss of Money
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* It's strange that Law Enforcement Officer could scam for passwords of Banking e.service. Minimal requirement for banking e.services include the need for use of the 2FA. If there are no 2FA in banking e.service, then there are a scamming place.
+* Password is not the same as Passphrase. Personal Identification Number (PIN) is not a Password either. The Article lacks of Terms and Abbrevations for an explanation. 
+```
+
+```
