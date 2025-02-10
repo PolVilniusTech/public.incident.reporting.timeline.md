@@ -262,3 +262,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+#
+### 2025
+
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/2482282/rusija-teigia-kad-kabelis-baltijos-juroje-pazeistas-del-isorinio-poveikio) "Rostelekom"'s telecommunication cables undergoing maintenance, because of an incident. Users of Telecommunication company have'nt lost any Quality of service. 
+```
+
+```
+##### R esults 
+Informational
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Article does not provide information about wherebouts of second side of a cable. Does this goes to the Kaliningrad Oblast Russia?
+```
+
+```
