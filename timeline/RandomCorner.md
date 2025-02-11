@@ -795,6 +795,20 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According [LRT.LT](https://www.lrt.lt/naujienos/eismas/7/2481430/vilnieciai-skundziasi-isasfaltuota-gatve-atrodo-it-greitkelis-o-perejos-ne-vienos) exists Category B Road type (approx. Highway Road).
+```
 
+```
+##### R eseach
+Road Categories.
+```
 
+```
+##### L earning from Mistakes 
 
+From such innocents there are possible to learn a lot. I.e.:
+* According [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.313209) 1st Table there are no Category B Road. The Article describe something in-between as II<sub>v</sub> or III<sub>v</sub> Road. 
+```
+
+```
