@@ -5237,3 +5237,14 @@ Limited Availability
 ```
 
 ```
+##### I ncident
+
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2485764/vmi-perspeja-laikinai-nebus-pasiekiama-elektroninio-deklaravimo-sistema) e.System of the State Tax Inspectorate (VMI) is under Maintenance.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
