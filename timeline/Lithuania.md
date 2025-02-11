@@ -5225,3 +5225,15 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2485698/paysera-patyre-kibernetine-ataka-sutriko-imones-paslaugos) e.services of banking company "Paysera" are under Distributed Denial of Service attacks. 
+
+```
+
+```
+##### R esults
+Limited Availability
+```
+
+```
