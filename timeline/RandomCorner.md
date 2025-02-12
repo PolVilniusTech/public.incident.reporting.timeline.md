@@ -742,7 +742,9 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 ##### I nnocent
 
-According [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2466442/policija-aiskinasi-kaip-intymios-nuotraukos-is-fotobudeles-bardake-atsidure-internete) exists chance of peep hole (web) cameras who plausibly could be used to spread cyberbullying content.
+According these Articles:
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2466442/policija-aiskinasi-kaip-intymios-nuotraukos-is-fotobudeles-bardake-atsidure-internete) exists chance of peep hole (web) cameras who plausibly could be used to spread cyberbullying content.
+* [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2486068/latviu-ministras-nera-panacejos-kovai-su-dronais-virs-kritines-civilines-infrastrukturos) small & cheap sky drone issues are taken in consideration.
 ```
 
 ```
@@ -754,8 +756,8 @@ Illegaly used Internet of Things (IoT) Devices, (web) Camera(s).
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-* Lithuanian Bank recommend to stop sharing any vulgar pictures and videos [lb.lt](https://www.lb.lt/uploads/documents/images/Sukciavimo%20tipai%202023%2003%2014-02.jpg).
-* The General Data Protection Regulation (GDPR) is the toughest privacy and security law in the world. Though it was drafted and passed by the European Union (EU), it imposes obligations onto organizations anywhere, so long as they target or collect data related to people in the EU [europa.eu](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng).
+* Lithuanian Bank recommend to stop sharing any vulgar pictures and videos [lb.lt](https://www.lb.lt/uploads/documents/images/Sukciavimo%20tipai%202023%2003%2014-02.jpg). The General Data Protection Regulation (GDPR) is the toughest privacy and security law in the world. Though it was drafted and passed by the European Union (EU), it imposes obligations onto organizations anywhere, so long as they target or collect data related to people in the EU [europa.eu](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng).
+* The Article of IoT provide idea of countermeasures against IoT flying drones, e.g. something as: conduct interruption of communication, to make it laggy & slow, very slow, maybe even in point of freeze.
 
 ```
 
