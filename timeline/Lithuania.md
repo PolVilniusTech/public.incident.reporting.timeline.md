@@ -5248,3 +5248,23 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2486116/sukciai-apsimete-policijos-tele2-ir-banko-darbuotojais-isviliojo-37-8-tukst-euru) scammers over the telephone fooled victims to make actions when they don't even have any rights for it.
+```
+
+```
+##### R esults
+Plausible loss of Money
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* From these events plausible to note about issues in communications. Software Products could be constructed or changed on transfer in a way that could hold phishing capabilities, e.g. swapping device's camera's video & audio with something else, so persons who gets a telephone call could be more sloppy during conversation to trust their abusers. Phishing technological capabilities should not exists & in this way, developers and their "pay-for-what-you-want" technologies make a colossal damage.
+```
+
+```
