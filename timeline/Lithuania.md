@@ -5221,7 +5221,8 @@ Plausible loss of Privacy
 
 From such incidents there are possible to learn a lot. I.e.:
 * It's strange that Law Enforcement Officer could scam for passwords of Banking e.service. Minimal requirement for banking e.services include the need for use of the 2FA. If there are no 2FA in banking e.service, then there are a scamming place.
-* Password is not the same as Passphrase. Personal Identification Number (PIN) is not a Password either. The Article lacks of Terms and Abbrevations for an explanation. 
+* Password is not the same as Passphrase. Personal Identification Number (PIN) is not a Password either. The Article lacks of Terms and Abbrevations for an explanation.
+* The Phone Number is needed in a situation to know the Name of Telecommunication Company & Entity Number, that provide Services to a Phone Owner by online tool [rrt.lt](https://numeracija.rrt.lt/savitarna/user/#/number).
 ```
 
 ```
