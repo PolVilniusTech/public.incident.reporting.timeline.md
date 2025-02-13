@@ -5269,3 +5269,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2487683/slaptu-jav-kariskiu-duomenu-skandalo-epicentre-mazai-zinoma-lietuviu-imone) Lithuanian Company Entity Code 300619315 leak Client's data.
+```
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* In the Article Company's background is Digital Marketing Services. Other Sources provide idea about Internet services & offerings of Telecommunication, Communication Products. Does Company got Cybersecurity Incident, that wasn't detected?
+```
+
+```
