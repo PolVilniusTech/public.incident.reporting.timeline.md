@@ -5284,7 +5284,7 @@ Plausible loss of Privacy
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* In the Article Company's background is Digital Marketing Services. Other Sources provide idea about Internet services & offerings of Telecommunication, Communication Products. Does Company got Cybersecurity Incident, that wasn't detected?
+* In the Article Company's background are Digital Marketing Services. Other Sources provide idea about Internet services & offerings of Telecommunication, Communication Products. Does Company has got Cybersecurity Incident, that wasn't detected?
 ```
 
 ```
