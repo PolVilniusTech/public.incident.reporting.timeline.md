@@ -743,6 +743,7 @@ From such innocents there are possible to learn a lot. I.e.:
 ##### I nnocent
 
 According these Articles:
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/232553/kaune-sulaikyti-dar-du-sukciavimu-banko-kortelemis-itariami-estai) Scammers uses (Artificial) Plastic Payment Cards with aim to withdraw Entity's Funds (Money) from ATMs.
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2466442/policija-aiskinasi-kaip-intymios-nuotraukos-is-fotobudeles-bardake-atsidure-internete) exists chance of peep hole (web) cameras who plausibly could be used to spread cyberbullying content.
 * [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2486068/latviu-ministras-nera-panacejos-kovai-su-dronais-virs-kritines-civilines-infrastrukturos) small & cheap sky drone issues are taken in consideration.
 ```
@@ -756,6 +757,7 @@ Illegaly used Internet of Things (IoT) Devices, (web) Camera(s).
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
+* Let's build a Question: How Scammers get somebody's payment cards? stealing, social engineering people for handing their Assets or just use SKIMMING Tools. When Client place his own credit and (or) payment card into ATM, then exists risks, e.g. Exist Artificial Device(s), that is(are) placed on (or nearby) the ATM just for stealing sensitive information-PIN code and (or) cloning original card. In this situation Internet Communications could be taken into account that exists not-official web camera or artificial keyboard). Does Financial Institutions who own ATMs provide security measures to be aware on their perimeter? Does previous ATM and next version of ATMs changes are communicated out to their Clients? Other risk could be a non-secure Hardware & Software Device (or Product). Inventory Management and Maintenance are needed for ensuring whole Life-Cycle of the Product.
 * Lithuanian Bank recommend to stop sharing any vulgar pictures and videos [lb.lt](https://www.lb.lt/uploads/documents/images/Sukciavimo%20tipai%202023%2003%2014-02.jpg). The General Data Protection Regulation (GDPR) is the toughest privacy and security law in the world. Though it was drafted and passed by the European Union (EU), it imposes obligations onto organizations anywhere, so long as they target or collect data related to people in the EU [europa.eu](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng).
 * The Article of IoT provide idea of countermeasures against IoT flying drones, e.g. something as: conduct interruption of communication, to make it laggy & slow, very slow, maybe even in point of freeze.
 
