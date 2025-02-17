@@ -5288,3 +5288,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2481728/valstybines-imones-painioja-el-svetaines-konfidenciali-informacija-keliauja-ne-ten) exist loophole into mistaking defined System Name with Web domain, that could even not belong to the System Owners.
+```
+
+```
+##### R esults
+Loss of Confidentiality
+Loss of Privacy
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* System's usualy has Common Statements Document & in this document actual domain name should be provided.
+* How System's Administrator starts working with a System without training from a Security Representative of a System? Common questions, documentation & procedures could be provided through Distance Technologies too, e.g. Teams, Skype, Zoom... Software Products & When there exists Systems, that goes through Accreditation, e.g. [NKSC](https://www.nksc.lt/akreditacija.html), they could use their own Solutions or purchase Available ones, that meet all requirements. This could be something as a Black Chamber of [simonsingh.net](https://simonsingh.net/The_Black_Chamber/) and based on defined policy, e.g. [europa.eu](https://lithuania.representation.ec.europa.eu/europos-komisijos-vaizdo-stebejimo-politika_lt).
+* People with the same First Name and Last Name could be mistaken, e.g. f.last_name@domain.com, first_name.last_name@domain.com. PGP/GPG Keys could be mistaken or even could go through evil middle-man.  
+```
+
+```
