@@ -5083,6 +5083,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * A Teacher is a hardworking person. He could leave and (or) forget to Sign Out from his Edu Account, that could be accessed by other's. This other entity at that time could spread misrepresentation stuff.
 * From look of an Information Theory [encyclopediaofmath](https://encyclopediaofmath.org/wiki/Information_theory) data transmission, preservation, extraction and classification of Information & quality could be researched on. But usually those researches just could drop something as a Protection and (or) a Security.
 * In this case specific fields of researches could be taken into an account, e.g. distance learning methods [snv.ch](https://www.snv.ch/en/academy/e-learning.html) for learning how to operate Information Technologies & Information Systems. System Security Representative could not be Available, because of Small & Medium level of an Institution, because of Datacenters, who are taking a job of Information Technology & Information System Architect, Developer, Maintainer, Operator & Security Representative and Data Protection Officer.
+* Reports regarding Cyberbullying and "information of paedophilic or pornographic character or information inciting racial and ethnic hatred on the web" could be done (completed) in [svarusinternetas.lt](https://www.svarusinternetas.lt/en/report-illegal-content/2).
 * New Article give a hint that Keylogger Virus&Malware could be present in System Computers. From the Article it looks like, that there was a Clickbait technique in use. 
 ```
 
