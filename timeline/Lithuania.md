@@ -5312,7 +5312,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2490772/vilniaus-ir-kauno-apskrityse-sukciai-is-zmoniu-isviliojo-18-5-tukst-euru) Scammers scams via telecommunication Technologies using (smart) Telephones.
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2490772/vilniaus-ir-kauno-apskrityse-sukciai-is-zmoniu-isviliojo-18-5-tukst-euru) Scammers scams through telecommunication Technologies using (smart) Telephones.
 ```
 
 ```
@@ -5341,6 +5341,19 @@ Plausible loss of Money
 From such incidents there are possible to learn a lot. I.e.:
 * Court portals of Republic of Lithuania uses unified domain "teismai.lt". In Exception (according References of the given Site in the Article): Court of Appeal of Lithuania (www.apeliacinis.lt), Supreme Administrative Court of Lithuania (www.lvat.lt), Supreme Court of Lithuania (www.lat.lt), Constitutional Court of the Republic of Lithuania (lrkt.lt). Section of References provide information about trusted Sites. 
 * The Article provide idea, that Court does not ask for Confidential information like Passwords (OWASP attribute Passwords with Secrets).
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2492740/sukciai-is-zmoniu-vilniuje-utenoje-ir-rokiskyje-isviliojo-beveik-45-tukst-euru) Scammers scams through telecommunication Technologies using (smart) Telephones.
+```
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+Plausible loss of Money
 ```
 
 ```
