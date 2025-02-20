@@ -96,7 +96,7 @@ According this [-](https://github.com/PolVilniusTech/public.incident.reporting.t
 
 ```
 ##### R esults
-Sorry Page for Unavailable E.U. Service. 
+Sorry Page for Unavailable E.U. Service & loss of Availability.
 ```
 
 ```
@@ -107,6 +107,27 @@ From such incidents there are possible to learn a lot. I.e.:
 * According a common knowledge in [wikipedia.org](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) exist idea about "Forbidden" HTTP Code. This means that the Client does not have any legal rights in the Service. The Image provide other information that can't be linked with the "Forbidden" status code.
 * E.U. Information System provide commitment about compatibility with number of Web Browser technologies. Testing for number of Applications and not the single App could help to boost Availability to number of Clients.
 * Providing Request identificator without consolidated documentation about it make this useful mostly for developers and during communication with devs. Technical Specification of Information System could include list of competencies for Dev, Users, Clients...
+```
+
+```
+### 2025
+
+##### I ncident
+
+According this [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2493217/pernai-es-saliu-pilieciai-buvo-snipinejami-per-whatsapp-tarp-taikiniu-ir-lietuva) are provided conserns about plausible Spyware in the Software Application "WhatsApp". 
+```
+
+```
+##### R esults
+Plausible loss of Privacy.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Public Site of official Lithuanian Cybersecurity Body [nksc.lt](https://www.nksc.lt/en/) does not contain Recommendation(s) about eradicating Spyware-alike Tools. In the Top of the Site provided title NCSC under the "MoND" & in the Footer of the Site NCSC under the "MoD". Small or not existing amount of Recommendations in other language than Lithuanian. At least some level of Incident Reporting Form is Available.
+* Public Site of FaRD under the MoIoRoL [lt72.lt](https://lt72.lt/telefono-nustatymai-aktyvinti-perspejimo-funkcija-telefonuose-kad-gautumete-perspejimo-pranesimus/?lang=en) provide information about TelePhone Settings for receiving Alerts, but what about unmaintained TelePhone versions? does they should contain notification about deprecated and unmaintained Products from security perspective? Sustainability & Electronical Waste versus Security & Safety.
 ```
 
 ```
