@@ -4372,6 +4372,7 @@ Loss of Quality and Performance
 From such incidents there are possible to learn a lot. I.e.:
 * Slim protective layer of a product could lead into higher chance for unwanted breaking from environment and man-made Risks.
 * According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2458233/arteja-lietuvos-atsijungimo-nuo-brell-laikas-politikai-ir-ekspertai-ispeja-del-diversiju) a Wire in the Sea could be not at a Seabed, but much more Higher than that. Even on the Ground Wire could be placed in Air & in some aspect could be left in dangerious condition. Inventorization and administration & maintenance of these Assets should be in Place. Specialists should have proper Education to deal with that.
+* Number of Agencies are starting to monitor underwater Assets [lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2493837/svedija-tiria-itariama-kabelio-baltijos-juroje-apgadinima). Researchers provide proof, that this happens very often & don't need to link at fault a SCAPEGOAT.
 ```
 
 ```
