@@ -5357,3 +5357,23 @@ Plausible loss of Money
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2493646/vilniete-ftb-agentu-prisistaciusiam-sukciui-per-pusmeti-atidave-30-tukst-euru) Lithuanian's are scammed by People who pretend as being an Officer from non-Lithuania. For that they use Software Applications, e.g. "WhatsApp".
+```
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+Plausible loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Exists a Trend, that soon there will be not only Foreigner Officers, but somebody from Army & Military. When Media are getting bombarded by related Information, then self-Educated pretenders arise.
+```
+
+```
