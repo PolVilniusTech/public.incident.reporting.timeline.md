@@ -29,6 +29,10 @@
 
 * [RandomCorner](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/tree/main/timeline/RandomCorner.md)
 
+### Only Facts Research(i18n):
+
+* [FirstOff](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/tree/main/timeline/have.seconds.md)
+
 ### About Competence and Resilience
 
 Facts shows that in total View we could count Competent People on our fingers, [Cybersecurity Competence Survey](https://publications.jrc.ec.europa.eu/repository/handle/JRC111211)
