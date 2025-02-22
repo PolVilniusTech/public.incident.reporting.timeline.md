@@ -30,3 +30,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [@lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2494329/baltijos-juroje-vis-daugiau-incidentu-taciau-lietuva-teturi-40-metu-senumo-karo-laivu) provided concerns about getting old Shipyard of Lithuanian Naval Forces of the Military. Information about powerful Radars. Provided intend to build own Military Ships (& Transport Vehicles), e.g. dual-purpose Ships (& Transport Vehicles). Provided idea for implementing a chance to deal with cable cutters over the Sea as Terrorists. Ships of Terrorists are without Insurance & use some kind of Low Grade Level Flags (or Small Country, that don't care).
+```
+
+```
+##### R esults 
+Cybersecurity & Information Security incidents could happen in any type of Vehicle, even Ship.
+Exists Risks, that Quality of Ship builders Products gonna be poor.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Article does not include any information about Functions, that usually done by Police Forces as a Coast Guard, existance of Martime Police Agency.
+* Article lack of information regarding correctness of GPS & GPS jamming by taking into account problems, e.g. [lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2262804/ekspertas-jei-gps-signalas-iskreipiamas-lektuvas-gali-net-nukrypti-nuo-kurso).
+* Adopted Convention [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.221141) allows to drift for the Ships approximately 12 Sea Miles from the Fixed Borders. Kind a Fence over the Sea idea are not in discussion & over the land it's already at best tech, e.g. [bbc.com](https://bbc.com/news/world-europe-58289893) when a Concrete Wall is named as a Fence. The Pylon-Buoy Tech [wikipedia.org](https://en.wikipedia.org/wiki/Buoy).  
+* Insurance usually has huge limitations and Terms of Use should be understood. Even Vehicles, that move in danger Zone could be left alone without any Support & Insurance. The China has made some movie about Alien tech, that probably are from Lithuania, which could move Land Vehicles in Combat from Danger Zone for Repairs. What about an Insurance for a Military Vehicles?
+```
+
+```
