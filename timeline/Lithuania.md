@@ -5360,6 +5360,25 @@ Plausible loss of Money
 ```
 ##### I ncident
 
+According this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2494112/del-kibernetines-atakos-sutriko-payseros-veikla) Financial Institution PAYSERA are getting DDoS attacks.
+```
+
+```
+##### R esults
+
+Plausible loss of Availability.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Article include information, that DDoS were produced by sophisticated Computer Engineers. From Year of 2021, the NCSC has some information & competence how to deal with DDoS'es [nksc.lt](https://www.nksc.lt/doc/biuleteniai/2021-11-05_DDoS.pdf). 
+```
+
+```
+##### I ncident
+
 According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2493646/vilniete-ftb-agentu-prisistaciusiam-sukciui-per-pusmeti-atidave-30-tukst-euru) Lithuanian's are scammed by People who pretend as being an Officer from non-Lithuania. For that they use Software Applications, e.g. "WhatsApp".
 ```
 
