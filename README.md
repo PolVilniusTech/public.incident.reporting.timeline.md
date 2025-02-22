@@ -31,7 +31,7 @@
 
 ### Only Facts Research(i18n):
 
-* [FirstOff](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/tree/main/timeline/have.seconds.md)
+* [FirstOff Lens](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/tree/main/timeline/have.seconds.md)
 
 ### About Competence and Resilience
 
