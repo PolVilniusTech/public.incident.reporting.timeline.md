@@ -5361,6 +5361,8 @@ Plausible loss of Money
 ##### I ncident
 
 According this Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2494112/del-kibernetines-atakos-sutriko-payseros-veikla) Financial Institution PAYSERA are getting DDoS attacks.
+More references:
+* [@BNS](https://www.lrt.lt/naujienos/verslas/4/2494488/atstatyta-kibernetine-ataka-patyrusios-paysera-veikla).
 ```
 
 ```
