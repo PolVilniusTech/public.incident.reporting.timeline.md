@@ -5399,3 +5399,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT|TV](https://www.lrt.lt/mediateka/irasas/2000393584/vilnieciai-viesajame-transporte-susiduria-su-beda-komposteris-netycia-nuskaito-pinigus) Computer Device for payments could process a Payment from longer distance when this usually are not needed.
+```
+
+```
+##### R esults
+Loss of Money.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* There could be multiple Connectivity Technologies & one, that similarly were used in older Lithuanian COVID Software Application's.
+* Products, e.g. [ebay.com](https://www.ebay.com/sch/i.html?_nkw=blocking+aluminum+alloy+wallet&_sacat=0&_from=R40) & [temu.com](https://www.temu.com/ul/kuiper/un2.html?_p_rfs=1&subj=un-search-web&_p_jump_id=960&_x_vst_scene=adg&search_key=card%20holders%20wallets) could be taken into Account when protecting Your Asset(s).
+```
+
+```
+
