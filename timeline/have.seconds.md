@@ -70,6 +70,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * The Statement in the Official Lithuanian Legislation's [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/7ef14442af6711e39054dc0fb3cb01ae): the Constitutional Court noted in its resolution of 7 July 2011, that geopolitical orientation of the State of Lithuania means membership of the Republic of Lithuania in the European Union and NATO and the necessity to fulfil relevant international obligations related to this membership.
 * The European Union Legislation's [europa.eu](https://eur-lex.europa.eu/legal-content/LT/TXT/HTML/?uri=OJ:L_202400792&qid=1740394241230) Article 26 provide rules on the payment, suspension and reduction of non-repayable financial assistance and loans for an Ukrainian Application.
 * The Ukraine peace deal in other Media Sources: [msn.com](https://www.msn.com/en-xl/news/other/un-chief-calls-for-ukraine-peace-deal-respecting-territorial-integrity/ar-AA1zCNa3), [nato.int](https://www.nato.int/cps/en/natolive/topics_37750.htm).
+* In number of decisions there should be taken consideration of a BIAS, e.g. standards take bias as error [iso.org](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:guide:99:ed-1:v2:en:term:2.18) & other sources digest bias in their way, that lead into, e.g. unfairness in Vote System [law.ucla.edu](https://law.ucla.edu/news/implicit-bias-courtroom).
 ```
 
 ```
