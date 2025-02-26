@@ -5418,4 +5418,16 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
 
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2497221/itin-skaudus-praradimas-vilniaus-rajone-sukcius-is-moters-isviliojo-100-tukst-euru) Scammers scams through telecommunication Technologies using (smart) Telephones.
+```
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+Plausible loss of Money
+```
+
+```
