@@ -74,3 +74,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [@lrt.lt](https://www.lrt.lt/naujienos/nuomones/3/2499427/eitvydas-bajarunas-karas-ukrainoje-ir-jav-visuomenine-nuomone) provided idea about events from other Community perspective.
+```
+
+```
+##### R esults 
+Highly subjective opinion.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Media include only Hash Tag [lrt.lt](https://www.lrt.lt/tema/rusijos-karas-pries-ukraina) about events.
+* Some sample of other Media Entity could be found at [bbc.com](https://www.bbc.com/news/world-europe-60506682). They enrich their Media with Media Content (Picture, Audio & Video). Media's lacks of more Visual Impact to their readers, e.g. [arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375). Browser's fault?
+* Article provided idea, that people accepted a purpose of events as [nato.int](https://www.nato.int/) fault. Media @lrt.lt does not even dare to dig into goals (not goal) of these events.
+```
+
+```
