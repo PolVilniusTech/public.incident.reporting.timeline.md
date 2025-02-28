@@ -5431,3 +5431,23 @@ Plausible loss of Money
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2500527/nvsc-per-klaida-nutekinti-dalies-sirgusiuju-infekcinemis-ligomis-duomenys) the Instituion had published online File in their Web Site with Confidential & Private Data. Availability of following information: Personal Identification Number (Personal code), some Phone Numbers, Home Address, Work Address, Education Institution's Name, Diagnosis of found Disease, some data about person's criminal history. 
+```
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Article provide a good sample of Cyber Incident. This could be a Sample of Broken Spreadsheet, when multiple people make changes & share of a single File.
+* Making Web Sites as File Graveyards are a weak use of a Web Technology, but an available option.
+```
+
+```
