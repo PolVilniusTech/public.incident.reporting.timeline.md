@@ -5420,7 +5420,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2497221/itin-skaudus-praradimas-vilniaus-rajone-sukcius-is-moters-isviliojo-100-tukst-euru) Scammers scams through telecommunication Technologies using (smart) Telephones.
+According these Articles [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2497221/itin-skaudus-praradimas-vilniaus-rajone-sukcius-is-moters-isviliojo-100-tukst-euru) and [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2500141/sukciai-vilniuje-kaune-marijampoleje-ir-jurbarko-r-is-zmoniu-isviliojo-133-tukst-euru) Scammers scams through telecommunication Technologies, Internet-based Portals, Messaging Software using (smart) Telephones and other Computer Devices.
 ```
 
 ```
