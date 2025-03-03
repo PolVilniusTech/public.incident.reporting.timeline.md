@@ -5451,3 +5451,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2501158/sukciai-vilniuje-panevezyje-ir-klaipedoje-is-zmoniu-isviliojo-apie-52-tukst-euru) Scammers scams through telecommunication Technologies, pretends themselves as Employees of known company or institution.
+```
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+Plausible loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Article include statement, that Police has assigned following case as a Robbery.
+* From Year of 2001 European Union made commitment in combating (computer) fraud and counterfeiting of non-cash means of payments [europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32001F0413). Given samples of Payment Instruments, that should be taken into Account: Credit Cards, EuroCheque Cards, other Cards issued by Financial Institutions, specific Cheques and Bills of Exchange. Cooperation between Member States are the Key for solving cases when scams are conducted by citizens from the European Union.
+* The next Article [ojb.gov](https://www.ojp.gov/library/publications/learning-context-and-other-race-effect-strategies-improving-face-recognition) builds system for Eyewitnesses with the idea of improving Face Recognition Technology. Mug Shots, Photo Robots, Fingerprints could be taken into Account.
+* Communication through Digital Products could have own Flaws. Products, that support scamming, e.g. to change Person's face directly, to include another layer with other Person's face or to hide it w/o notice, should go through awareness training & use of these Products should be discouraged. Manufacturers must ensure, that their Products could have less chance to be used by a scammer.
+```
+
+```
