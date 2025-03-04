@@ -5474,3 +5474,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2502894/vilniaus-imone-sukciams-pervede-102-tukst-euru) scammer request for payment was approved & completed by an accountant of Industrial Organization. 
+```
+
+```
+##### R esults
+Loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* State Tax Inspectorate Site include (provide as a Service) required templates for Payments. This means, that both entities does not met all of those requirements.
+```
+
+```
