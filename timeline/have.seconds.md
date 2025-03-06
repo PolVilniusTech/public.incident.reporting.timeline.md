@@ -88,7 +88,7 @@ Highly subjective opinion.
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* The Media include only Hash Tag [lrt.lt](https://www.lrt.lt/tema/rusijos-karas-pries-ukraina) about events.
+* The Media include first one: Hash Tag [lrt.lt](https://www.lrt.lt/tema/rusijos-karas-pries-ukraina) & more about events related Timeline [lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2504839/karas-ukrainoje-lavrovas-macrono-branduoline-retorika-kelia-gresme-rusijai). Media don't request to take Responsibility to all sides for their commited illegal-uncoventional Actions, that resulted in losses of no less than 1 million of EUR'os. No commitments to opposite side are recorded in the Media.
 * Some sample of other Media Entity could be found at [bbc.com](https://www.bbc.com/news/world-europe-60506682). They enrich their Media with Media Content (Picture, Audio & Video). Media's lacks of more Visual Impact to their readers, e.g. [arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375). Browser's fault?
 * Article provided idea, that people accepted a purpose of events as [nato.int](https://www.nato.int/) fault. Media @lrt.lt does not even dare to dig into goals (not goal) of these events.
 ```
