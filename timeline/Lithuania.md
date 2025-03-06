@@ -5481,7 +5481,9 @@ According these Articles [ELTA](https://www.lrt.lt/naujienos/verslas/4/2502894/v
 
 ```
 ##### R esults
+Loss of Confidentiality
 Loss of Money
+Loss of Privacy
 ```
 
 ```
