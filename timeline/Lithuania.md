@@ -5476,7 +5476,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2502894/vilniaus-imone-sukciams-pervede-102-tukst-euru) scammer request for payment was approved & completed by an accountant of Industrial Organization. 
+According these Articles [ELTA](https://www.lrt.lt/naujienos/verslas/4/2502894/vilniaus-imone-sukciams-pervede-102-tukst-euru) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2505094/sukciu-grobis-is-gyventoju-ivairiose-lietuvos-vietose-isviliojo-apie-147-tukst-euru) & [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2504783/plinta-laiskai-del-tariamu-lrt-autoriniu-teisiu-pazeidimu) scammer request for payment was approved & completed by an accountant of Industrial Organization & in Phishing cases a unknown Malware Software were used to grab Confidential Information. 
 ```
 
 ```
