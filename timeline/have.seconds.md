@@ -94,3 +94,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2508968/karo-medicinos-gydytojo-padejeja-nuteista-uz-neteiseta-informacijos-rinkima) employee with legal access to a system account collected personal information, that are not related with a required service for patients of the Institution.
+```
+
+```
+##### R esults 
+Loss of Confidentiality (25%)
+Loss of Privacy (75%)
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* This is a typical Information Security Incident. The Article provide idea of lacking presence of Security Representative. In usual way there could be given Question: Who's Security Representative there should be taken into Account? From the Institution's Perspective or from the System's perspective, that belong's to other type of Institution? It depends, if security briefing of Clients exists at all for this type of the System.
+* When new patient comes in, then he require to give consent in his Private Data Management. If this consent opens doors for 24/7 of his data reviews, then does for whole time, this Private Data Management will be done with correct & lawful intentions in providing a Service? Exists informative approach where Client would be notified after every access to his Private Data.
+* When System could be accessed from Home, then there should exists Organisational Rules when it's allowed to do so. In usual way Systems tend to provide Service 24/7 and Privacy Security could be lacking for more strict Policies for their Clients. Exists another informative approach when a System provide another type of Account to this System for managing & reviewing every attempt of access to private information of their subordinates.
+* When System are accessed by personal computers with lacking security options, including other personal devices, who potentially could lead into a CyberSecurity Hole for unauthorized breaches and data leaks.
+* Software Directories with pre-defined time to live & Software with secure removal tools could enhance every day work of employees.
+```
+
+```
