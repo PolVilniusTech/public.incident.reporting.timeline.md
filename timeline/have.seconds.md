@@ -25,7 +25,7 @@ Laws could indicate, that by Attacking from specific Country Border's would make
 
 From such incidents there are possible to learn a lot. I.e.:
 * The Article include statement „abupusius karinius patikrinimus“. This could look, that check is one-way check only.
-* The Objective information on military matters, including transparency of military expenditures could be found in the UN.org by Year of 2014 [documents.un.org](https://documents.un.org/symbol-explorer?s=A/69/135&i=A/69/135_2452749). Important information should be shared with the United Nations. They even calculate amounts of emissions from whole Vehicles in the Armies & Militaries...
+* The Objective information on military matters, including transparency of military expenditures could be found in the UN.org by Year of 2014 [documents.un.org](https://documents.un.org/symbol-explorer?s=A/69/135&i=A/69/135_2452749). Members share important information with the United Nations. They even calculate amounts of emissions from whole Vehicles in the Armies & Militaries...
 * The SAT technologies are used for many reasons, e.g. [eos.com](https://eos.com/blog/eosda-enters-france-with-its-crop-monitoring-platform/). Monitoring Your Borders and a lil-bit to the side could be possible. Other Question: Does Allies share technologies between themselves or they don't have it either? Article of understandingwar.org provide a lot of information about Internet of Things device: Drone. In usual peace, this stuff would be used for agriculture sector too.  
 ```
 
@@ -48,18 +48,18 @@ From such incidents there are possible to learn a lot. I.e.:
 * Article does not include any information about Functions, that usually done by Police Forces as a Coast Guard, existance of Martime Police Agency.
 * Article lack of information regarding correctness of GPS & GPS jamming by taking into account problems, e.g. [lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2262804/ekspertas-jei-gps-signalas-iskreipiamas-lektuvas-gali-net-nukrypti-nuo-kurso).
 * Adopted Convention [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.221141) allows to drift for the Ships approximately 12 Sea Miles from the Fixed Borders. Kind a Fence over the Sea idea are not in discussion & over the land it's already at best tech, e.g. [bbc.com](https://bbc.com/news/world-europe-58289893) when a Concrete Wall is named as a Fence. The Pylon-Buoy Tech [wikipedia.org](https://en.wikipedia.org/wiki/Buoy).  
-* Insurance usually has huge limitations and Terms of Use should be understood. Even Vehicles, that move in danger Zone could be left alone without any Support & Insurance. The China has made some movie about Alien tech, that probably are from Lithuania, which could move Land Vehicles in Combat from Danger Zone for Repairs. What about an Insurance for a Military Vehicles?
+* Insurance usually has huge limitations and Terms of Use have to be understood. Even Vehicles, that move in danger Zone could be left alone without any Support & Insurance. The China has made some movie about Alien tech, that probably are from Lithuania, which could move Land Vehicles in Combat from Danger Zone for Repairs. What about an Insurance for a Military Vehicles?
 ```
 
 ```
 ##### I ncident
 
-According [@BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2495219/vilniuje-viesejes-chersono-gubernatorius-ukraina-nusivylusi-nato-neveiklumu) North Atlantic Treaty Organization (NATO) should ensure Peace in the Europe and whole World.
+According [@BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2495219/vilniuje-viesejes-chersono-gubernatorius-ukraina-nusivylusi-nato-neveiklumu) North Atlantic Treaty Organization (NATO) must ensure Peace in the Europe and whole World.
 ```
 
 ```
 ##### R esults 
-Abbr. "NATO" is not Lithuanian Term & "ŠASO" should be used in Lithuanian texts instead, e.g. [lt.wikipedia.org](https://lt.wikipedia.org/wiki/NATO).
+Abbr. "NATO" is not Lithuanian Term & "ŠASO" could be used in Lithuanian texts instead, e.g. [lt.wikipedia.org](https://lt.wikipedia.org/wiki/NATO).
 Disrespect to the Lithuanian special Letter(s).
 ```
 
@@ -70,7 +70,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * The Statement in the Official Lithuanian Legislation's [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/7ef14442af6711e39054dc0fb3cb01ae): the Constitutional Court noted in its resolution of 7 July 2011, that geopolitical orientation of the State of Lithuania means membership of the Republic of Lithuania in the European Union and NATO and the necessity to fulfil relevant international obligations related to this membership.
 * The European Union Legislation's [europa.eu](https://eur-lex.europa.eu/legal-content/LT/TXT/HTML/?uri=OJ:L_202400792&qid=1740394241230) Article 26 provide rules on the payment, suspension and reduction of non-repayable financial assistance and loans for an Ukrainian Application.
 * The Ukraine peace deal in other Media Sources: [msn.com](https://www.msn.com/en-xl/news/other/un-chief-calls-for-ukraine-peace-deal-respecting-territorial-integrity/ar-AA1zCNa3), [nato.int](https://www.nato.int/cps/en/natolive/topics_37750.htm).
-* In number of decisions there should be taken consideration of a BIAS, e.g. standards take bias as error [iso.org](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:guide:99:ed-1:v2:en:term:2.18) & other sources digest bias in their way, that lead into, e.g. unfairness in Vote System [law.ucla.edu](https://law.ucla.edu/news/implicit-bias-courtroom).
+* In number of decisions there have to be taken consideration of a BIAS, e.g. standards take bias as error [iso.org](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:guide:99:ed-1:v2:en:term:2.18) & other sources digest bias in their way, that lead into, e.g. unfairness in Vote System [law.ucla.edu](https://law.ucla.edu/news/implicit-bias-courtroom).
 ```
 
 ```
@@ -109,9 +109,9 @@ Loss of Privacy (75%)
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* This is a typical Information Security Incident. The Article provide idea of lacking presence of Security Representative. In usual way there could be given Question: Who's Security Representative there should be taken into Account? From the Institution's Perspective or from the System's perspective, that belong's to other type of Institution? It depends, if security briefing of Clients exists at all for this type of the System.
+* This is a typical Information Security Incident. The Article provide idea of lacking presence of Security Representative. In usual way there could be given Question: Who's Security Representative gonna do this job? From the Institution's Perspective or from the System's perspective, that belong's to other type of Institution? It depends, if security briefing of Clients exists at all for this type of the System.
 * When new patient comes in, then he require to give consent in his Private Data Management. If this consent opens doors for 24/7 of his data reviews, then does for whole time, this Private Data Management will be done with correct & lawful intentions in providing a Service? Exists informative approach where Client would be notified after every access to his Private Data.
-* When System could be accessed from Home, then there should exists Organisational Rules when it's allowed to do so. In usual way Systems tend to provide Service 24/7 and Privacy Security could be lacking for more strict Policies for their Clients. Exists another informative approach when a System provide another type of Account to this System for managing & reviewing every attempt of access to private information of their subordinates.
+* When System could be accessed from Home, then exists need for Organisational Rules for managing Availability through specific Technical Rules. In usual way Systems tend to provide Service 24/7 and Privacy Security could be lacking for more strict Policies for their Clients. Exists another informative approach when a System provide another type of Account to this System for managing & reviewing every attempt of access to private information of their subordinates.
 * When System are accessed by personal computers with lacking security options, including other personal devices, who potentially could lead into a CyberSecurity Hole for unauthorized breaches and data leaks.
 * Software Directories with pre-defined time to live & Software with secure removal tools could enhance every day work of employees.
 ```
