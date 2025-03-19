@@ -88,7 +88,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Does while registering for new Customer there would be possible to build WorkFlow in Stages 1-N? i.e. during Stage 1 You collect required data about the Driver, on other Stage for finishing making Service Available You are removing some personal data of the Client and leave only essential data for the Service like "date when license of the Driver expires" or so?
 * Testing for Security Flaws regarding access to the Database.
 * Management of the Database backups; testing functionality of those backups.
-* Does there are defined policy(-ies) who should be able to access those backups?  
+* Does there are defined policy(-ies) who need to access those backups?  
 * [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 * [Authentication (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) 
 ```
@@ -109,10 +109,10 @@ People may be interessted to input their passwords into some website.
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* If Bank Employees does not ask for any passwords, then does it should be different for other e-Services? Your password must be secure and known only by You. Use Your password(s) only in the official place(s) of the e-Service.
+* If Bank Employees does not ask for any passwords, then does it has to be different for other e-Service? Your password must be secure and known only by You. Use Your password(s) only in the official place(s) of the e-Service.
 * Does anyone are giving mutual trust for such Service? Let say, at least HTML link from the trusted Government Subject and other trusted third party.
 * Does the Security of such Service is going thru the audit process? If yes, then who doing this audit? Does the Auditor could be trusted?  
-* If there is legal need for several people to access the some content, then each of person should use their own passwords.
+* If there is legal need for several people to access the some content, then each of person has to use their own password(s).
 * If You think that Your password are known, then You need to change it, but if there are Weaknesses in the Authentication mechanismus, then changing the password at best would help for the time depending how secure are used hash functions.
 * Does hash rotation, when Security depend by not one, but several different strong hash functions, would improve the Security? If database would be leaked, then it would cost a lot more of computation power to reverse engineer different hash functions. 
 * Does Services implement additional password security measures like pepper and salts? Pepper rotation depending by some status would help to improve the password security a lot.   
@@ -272,10 +272,10 @@ Money loss.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*   "Orlen" company should try to curb a grey market by increasing an effectiveness of supervision [orlen.pl](https://raportzintegrowany2021.orlen.pl/en/wp-content/uploads/sites/2/2022/07/ORLEN221IntegratedReport.pdf).
+*   "Orlen" company gonna try to curb a grey market by increasing an effectiveness of supervision [orlen.pl](https://raportzintegrowany2021.orlen.pl/en/wp-content/uploads/sites/2/2022/07/ORLEN221IntegratedReport.pdf).
 *   "Orlen" gets financial audits aimed at identifying any economic irregularities and fraud, verifying that "Orlen" employees respect the applicable laws, internal policies and professional standards and etc. [orlen.pl](https://raportzintegrowany2019.orlen.pl/en/contents/uploads/sites/2/2020/05/2.-Report-on-Non-Financial-Information-of-ORLEN-Group-and-PKN-ORLEN-S.A.-for-the-year-2019.pdf).
 *   According the Article this looks as „search for new mediators who re-sell stuff“. Re-selling things always cost more than purchasing directly.
-*   There could be lacking of transparency in higher level jurisdictional acts and signed documents who should include requirements for mediators or re-seller agents.
+*   There could be lacking of transparency in higher level jurisdictional acts and signed documents, that include requirements for mediators or re-seller agents.
 ```
 
 ```
