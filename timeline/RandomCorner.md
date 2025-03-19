@@ -13,7 +13,7 @@ Naturally, if results from Year of 2001 are getting into bad position, then Worl
 
 From such innocents there are possible to learn a lot. I.e.:
 * Returning back may Break and Worn You out and in "reallity" no one probably are waiting, only Pretty Texts, Pictures and Videos.
-* The Term "Carbon Footprint" are Wrong linguistically because You should use "Human Footprint", "Car Wheelprint", "Nature Rootprint"...
+* The Term "Carbon Footprint" are Wrong linguistically because You have to use "Human Footprint", "Car Wheelprint", "Nature Rootprint"...
 * In the Modern Age too many People spreading their Tongues in Right and Left, but who's gonna do the Job? according the paper.
 ```
 
@@ -113,7 +113,7 @@ Orchestration with the Names.
 From such innocents there are possible to learn a lot. I.e.:
 * Passport of Opportunities — set of words plausibly could link with a "Gold" Passport System. A way to get more non-hard workers & tourists.
 * Aliens registration center — According the first word who has only Russian translation and English translation in here [vlkk.lt](https://terminai.vlkk.lt/paieska?search=Alien&zodzio_dalis=0&kalba=2&kaip0=on&sritys=&statusas=0&rykiavimas=0) plausibly could make anti-advertising to the rest of the World. At least this does not include Extraterrestrials (Chapter 12) [nasa.gov](https://www.nasa.gov/wp-content/uploads/2015/01/archaeology_anthropology_and_interstellar_communication_tagged.pdf). Russian Wikipedia Page does not include anything related to [wikipedia.org](https://ru.wikipedia.org/w/index.php?search=u%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D1%86&title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&profile=advanced&fulltext=1&ns0=1) Aliens. Plausibly this is a sensitive information.
-* From this Article exists plausibility to align two meanings: Alien and Migrant (or even Invader). Antonym of these meanings should be: Autochton, Indigenious local, Native.
+* From this Article exists plausibility to align two meanings: Alien and Migrant (or even Invader). Antonym of these meanings could be: Autochton, Indigenious local, Native.
 ```
 
 ```
@@ -233,13 +233,13 @@ Service(s) for a common bank Client.
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-* Client could expect that any tries using his or her (Client) data should be reported to the Client directly.
+* Client could expect that any tries using his or her (Client) data could be reported to the Client directly.
 * General Data Protection Regulation already has a lot of requirements for Services. The Client could be a simple Customer or a very large Impact Client by whom depend a lot of other Goods and Services, Personel.
 * When there exist clear criteria, then the Client could ask according procedure to block any actions from those who can't comply with those criterias.
 * Take a situation when some new malicious company would be created and with it's poor infrastructure would request for additional information: Does Client really wanted to do those actions? when he does not signed for that whatsoever yet. In this case each Bank has it's own Level. Internet Browsers show different acknowledge level, i.e. e.service like "Let's Encrypt" provided level is smallest as possible. In the situation when Bank could use SSL TLS Security Toolset with Let's Encrypt, then this is a malicious entity. In this case HTTPS is not equal to HTTPS. Everything depends how the entity has been registered by providing enough amount of information. Anonymized "Bank" service is a Scam. Citizens could get phished to services like Cryptocurrencies. [lb.lt](https://www.lb.lt/lt/informacine-kampanija-prisijaukink-budruma-sukciai-neatostogauja).
 * First Article include following information:
 * TOR network (lt. sluoksninių maršrutizatorių) — lithuanian name will be mistaken with SSL TLS security toolset. TOR network is Unique network methodology & in reallity not so trusted technology: do You want to get address from some malicious agent? This is not the same tech as VPN (virtual private network). [nordvpn.com](https://nordvpn.com/).
-* Dark net (lt. tamsiajame internete) && Dark market (lt. šešėlinės prekybos rinka) — common user should be protected within [nksc.lt](https://www.nksc.lt/uzkarda.html) and every „dark“ spot(s) should be placed in example in here [lb.lt](https://www.lb.lt/illegalwww). Getting according regulation(s) Site could get out of that list.
+* Dark net (lt. tamsiajame internete) && Dark market (lt. šešėlinės prekybos rinka) — common user could be protected within [nksc.lt](https://www.nksc.lt/uzkarda.html) and every „dark“ financial spot(s) could be placed in example in here [lb.lt](https://www.lb.lt/illegalwww). Getting according regulation(s) Site could get out of that list.
 * Mixer / Tumbler (lt. maišymo) — lithuanian name will be mistaken with hashing using algorithms i.e. MD5, SHA1, SHA2, SHA3...tech. [researchgate.net](https://www.researchgate.net/publication/228524420_The_MD6_hash_function).
 ```
 
@@ -259,7 +259,7 @@ Fact check & Disinformation.
 From such innocents there are possible to learn a lot. I.e.:
 * In the International and Foreign relations usually plausible to inform each other and get permission, i.e. testing out readiness. This could be done by third entity with or w/o consent of previous entities.
 * For creating a fake content w/o historical correct events and by adding grain of salt to it could make this more linke a "Propaganda". Lithuania are in need of Researchers in Disinformation and Propaganda in their native language to boost Resistance from the Disinformation. The following Article: [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2402008/vu-mokslininkai-kuria-inovatyviu-dirbtinio-intelekto-iranki-propagandai-aptikti).
-* Idea about disinformation in social media in the following Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2402027/socialiniai-tinklai-ir-propaganda-ar-tikrai-gebame-atskirti-tiesa-nuo-melo). When Articles could include both: how specific process protects and how this specific process could harm, then hegemonia should end? e.g. when this Article provide information about "COVID-19" and that spreaded information are all false, then You could add something true [Smitha Mundasad](https://www.bbc.com/news/health-56674796).
+* Idea about disinformation in social media in the following Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2402027/socialiniai-tinklai-ir-propaganda-ar-tikrai-gebame-atskirti-tiesa-nuo-melo). When Articles could include both: how specific process protects and how this specific process could harm, then hegemonia gonna end? e.g. when this Article provide information about "COVID-19" and that spreaded information are all false, then You could add something true [Smitha Mundasad](https://www.bbc.com/news/health-56674796).
 ```
 
 ```
@@ -276,7 +276,7 @@ Single Word an "Internationalization" or in short "i18n".
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-* Internationalization should be used rationally. Not all Web Sites provide a chance to understand their content for others (other Nations and this is not related to particular State, Country, County).
+* Internationalization has to be used rationally. Not all Web Sites provide a chance to understand their content for others (other Nations and this is not related to particular State, Country, County).
 ```
 
 ```
@@ -432,9 +432,9 @@ From such innocents there are possible to learn a lot. I.e.:
 04. Superintelligence (to Artificial super intelligence). 
 05. (to Artificial super strong intelligence?). 
 * Without known functionality the "Machine-learning algorithm" would just go into automatic & plausibly biased evaluation from evaluator(s). In a sense this could be simple MS Excel file with automatic data input from evaluator(s). Plausible huge disinformation with lost sense of a big or small functionality realisation.
-* Exist problem of losing consent and last words in a situation. In the sense companies could just include terms of use with making consent on "new updates of the terms" when they are rolling out. Automatic notification and monitoring of consent status could be an option. User has to be aware that his data could be shared with known or unknown sources. Plausible problem of cybersecurity breach when consent are applied & provided w/o real consent of the original person who should confirm the consent status. A danger zone of false consent.
+* Exist problem of losing consent and last words in a situation. In the sense companies could just include terms of use with making consent on "new updates of the terms" when they are rolling out. Automatic notification and monitoring of consent status could be an option. User has to be aware that his data could be shared with known or unknown sources. Plausible problem of cybersecurity breach when consent are applied & provided w/o real consent of the original person to confirm his consent status. A danger zone of false consent.
 * Exist problem for authors to lose their authorship when automatic tools grab the information w/o consent. I.e. person from private company is made a teacher and stripped out of his knowledge. Blog is filled with content and scrapped with auto-matic web scrap tools. In technical aspect exists robot exclusion standard. In other aspect — just print a book (e.book) with some publisher. Authorship usually are defended by kind of Historian(s) who has perfect tools for this Task. Parlament of Republic of Lithuania distribute hefty sum of money to numerious news aggregators and publishers for sustaining digital competition. Number of publishers and authors could join into the fund to create fee and taxation mechanism for payments from Artificial Intelligence companies for use of their dataset for providing consent who would allow content use in machine-learning type of functionality.
-* High-tech AI companies and those who control them should include high risk of plausibilty for deepfake and scamming of regular people when knowledge of their employees, relatives and so on could be used "against them" and to control those entities, and people. Who has cappability to build deepfake is a risk subject (ISO/IEC 27005:2022 - risk source). Affected entity and person — risk object.
+* High-tech AI companies and those who control them must include high risk of plausibilty for deepfake and scamming of regular people when knowledge of their employees, relatives and so on could be used "against them" and to control those entities, and people. Who has cappability to build deepfake is a risk subject (ISO/IEC 27005:2022 - risk source). Affected entity and person — risk object.
 ```
 
 ```
@@ -543,7 +543,7 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 ##### I nnocent
 
-This Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2308657/lektuvai-europoje-ir-artimuosiuose-rytuose-toliau-patiria-gps-trikdzius-itariama-rusija) provide prior information about Global Navigation Satellite System not working as it should.
+This Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2308657/lektuvai-europoje-ir-artimuosiuose-rytuose-toliau-patiria-gps-trikdzius-itariama-rusija) provide prior information about Global Navigation Satellite System not working as it does.
 ```
 
 ```
@@ -578,7 +578,7 @@ From such innocents there are possible to learn a lot. I.e.:
 * According the Article "Even second in interrupted communication could lead into an incident for a Autonomous Vehicle".
 * In a wake of a global diplomatic disability the autonomous vehicles are under never ending threat that their weak points gonna be used by villains, criminals and terrorists, persons from 3rd-side with will into sabotage, diversions and demolishing.
 * According authors of Scientific Article [Wang, J., Zhang, L., Huang, Y., & Zhao, J. (2020). Safety of autonomous vehicles. Journal of advanced transportation, 2020(1), 8867757. Available from wiley.com](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/8867757) exists plausibility for analysis (i.e. static) of the public on-road AV accident reports.
-* The one problem of [ec.europa.eu](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3231) decision for including only China with aim to safeguard European Union EV's producers is a fail. There are number of other Countries who produce better EV's than ones in the EU (look up ahead). Building officially, financially and jurisdictionally recognised facilities for EV's production directly in the EU should be a key move for Companies who should want to leverage this tarrif [i.e. introduction of a production cap per Year w/o tarrif]. Hilarious decision of a [lrytas.lt](https://www.lrytas.lt/auto/rinka/2024/06/30/news/kinijoje-pagamintas-transporto-priemones-pristatinejo-kaip-italiskas-skelbia-kiek-milijonu-del-to-teks-sumoketi-32629310) risk of good and bad Chinese EV's. European Union consumption in road only transport sector is 262 627 thousand tonnes of oil equivalent (2020 Year).
+* The one problem of [ec.europa.eu](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3231) decision for including only China with aim to safeguard European Union EV's producers is a fail. There are number of other Countries who produce better EV's than ones in the EU (look up ahead). Building officially, financially and jurisdictionally recognised facilities for EV's production directly in the EU could be a key move for Companies who want's to leverage this tarrif [i.e. introduction of a production cap per Year w/o tarrif]. Hilarious decision of a [lrytas.lt](https://www.lrytas.lt/auto/rinka/2024/06/30/news/kinijoje-pagamintas-transporto-priemones-pristatinejo-kaip-italiskas-skelbia-kiek-milijonu-del-to-teks-sumoketi-32629310) risk of good and bad Chinese EV's. European Union consumption in road only transport sector is 262 627 thousand tonnes of oil equivalent (2020 Year).
 * Company from United States report latest data on Autonomous Road Vehicle: nearly 8 million miles are driven with vehicle using Autopilot technology before an accident occurs [tesla.com](https://www.tesla.com/VehicleSafetyReport).
 ```
 
@@ -590,14 +590,14 @@ This Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2352114/migracijo
 
 ```
 ##### R eseach
-Who should respond with denying a desinformation or, when there is mistake(s), then misinformation?
+Who gonna respond with denying a desinformation or, when there is mistake(s), then misinformation?
 ```
 
 ```
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-* Does all related instutions should include their comment, when this deals with their actions?
+* Does all related instutions include their comment, when this deals with their actions?
 * Forwarding request to designated place and getting full response could be a way for a fluent communication.
 ```
 
@@ -635,13 +635,13 @@ Misinformation way into Disinformation
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-* When News is a Broken Phone, then people should feel awkward.
+* When News is a Broken Phone, then people could feel awkward.
 ```
 
 ```
 ##### I nnocent
 
-This Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2439296/zuokas-siulo-steigti-dirbtinio-intelekto-ministerija-paskirti-virtualu-ministra) provide idea that Public Sector of Lithuania should create Artificial Intelligence (AI) based Digitization Commision.
+This Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2439296/zuokas-siulo-steigti-dirbtinio-intelekto-ministerija-paskirti-virtualu-ministra) provide idea that Public Sector of Lithuania could create Artificial Intelligence (AI) based Digitization Commision.
 ```
 
 ```
@@ -653,7 +653,7 @@ I don't know how AI took decision for this and that.
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-* Take in account something as this [bbc.com](https://www.bbc.com/news/articles/cd605e48q1vo) Article. When there exists talks about creation of AI type functionality, then at easiest sample this could look like a Chatbot that accept an INPUT and respond with an OUTPUT. The question: How many senses this AI has? What officials should do when Chatbot would start providing suggestions like in bbc.com and (or) unlawfully suggest to intervene in some other Countries business. Without possibility to learn from additional senses, e.g. through camera, some silly functionality like in those Articles should stay being some Chatbot and not an AI. More type machine learning ways could build a better AI. What you think?
+* Take in account something as this [bbc.com](https://www.bbc.com/news/articles/cd605e48q1vo) Article. When there exists talks about creation of AI type functionality, then at easiest sample this could look like a Chatbot that accept an INPUT and respond with an OUTPUT. The question: How many senses this AI has? What officials gonna do when Chatbot would start providing suggestions like in bbc.com and (or) unlawfully suggest to intervene in some other Countries business. Without possibility to learn from additional senses, e.g. through camera, some silly functionality like in those Articles should stay being some Chatbot and not an AI. More type machine learning ways could build a better AI. What you think?
 ```
 
 ```
@@ -701,7 +701,7 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 ##### I nnocent
 
-This Service [europa.eu](https://eur-lex.europa.eu/LT/legal-content/summary/dual-use-export-controls.html) provide information about dual purpose Products use, e.g. in Telecommunication and Information Security Segment. In Lithuania produced dual purpose Products according this Article [lrv.lt](https://eimin.lrv.lt/lt/ziniasklaidai/naujienos/ekonomikos-ir-inovaciju-ministerija-tikslinamos-dvejopo-naudojimo-prekiu-eksporto-kontroles-priemones/) by manufacturing Companies should be controled for export and re-export. The Article [lrmuitine.lt](https://lrmuitine.lt/web/guest/verslui/apribojimai/strateginesprekes) include  the Rule of licensing that should be aquired by Entities, that export and re-export such Products. Apart of License are required to provide needed of Documents. EU Regulations are taken into an Account.
+This Service [europa.eu](https://eur-lex.europa.eu/LT/legal-content/summary/dual-use-export-controls.html) provide information about dual purpose Products use, e.g. in Telecommunication and Information Security Segment. In Lithuania produced dual purpose Products according this Article [lrv.lt](https://eimin.lrv.lt/lt/ziniasklaidai/naujienos/ekonomikos-ir-inovaciju-ministerija-tikslinamos-dvejopo-naudojimo-prekiu-eksporto-kontroles-priemones/) by manufacturing Companies gonna be controled for export and re-export. The Article [lrmuitine.lt](https://lrmuitine.lt/web/guest/verslui/apribojimai/strateginesprekes) include the Rule of licensing that must be aquired by Entities, that export and re-export such Products. Apart of License are required to provide needed of Documents. EU Regulations are taken into an Account.
 ```
 
 ```
@@ -713,8 +713,8 @@ Control Measures for Dual Purpose Software and Hardware Products
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-* Dual Purpose Software and Hardware Products, where are they? Database and special list of those Products should be Publicly Available. Let us take the example of World-wide Survey of Cryptography Products (2016) in here [schneier.com](https://www.schneier.com/wp-content/uploads/2016/02/worldwide-survey-of-encryption-products-1.pdf). This list include fifteen Pages of Country & Product & Company & Type <...> & URL Metadata. Samples of Products include even "Telegram" (http://telegram.org), "WhatsApp" (http://whatsapp.com), etc. How would be forbidden access to Social Media Apps, that has additional Encryption Protection?
-* According [Google Developer Docs](https://developers.google.com/search/blog/2014/08/https-as-ranking-signal) Search Engine Google improve SEO rating of HTTPS protocol. This means that everyone who has Secure HTTP Communication should be able to use their e.services more securely and their Sites would be rated better than those who does not implement HTTPS. Does Products with Secure Communication Protocols gonna be placed in export & re-export regulation too?
+* Dual Purpose Software and Hardware Products, where are they? Database and special list of those Products could be Publicly Available. Let us take the example of World-wide Survey of Cryptography Products (2016) in here [schneier.com](https://www.schneier.com/wp-content/uploads/2016/02/worldwide-survey-of-encryption-products-1.pdf). This list include fifteen Pages of Country & Product & Company & Type <...> & URL Metadata. Samples of Products include even "Telegram" (http://telegram.org), "WhatsApp" (http://whatsapp.com), etc. How would be forbidden access to Social Media Apps, that has additional Encryption Protection?
+* According [Google Developer Docs](https://developers.google.com/search/blog/2014/08/https-as-ranking-signal) Search Engine Google improve SEO rating of HTTPS protocol. This means that everyone who has Secure HTTP Communication could be able to use their e.services more securely and their Sites would be rated better than those who does not implement HTTPS. Does Products with Secure Communication Protocols gonna be placed in export & re-export regulation too?
 * The Countries themselves forbid the usage of specific Software Products in their Market, e.g. how happened with a "WeChat" chinese Product & a "Kaspersky" non-chinese Product [bbc.com](https://www.bbc.com/news/technology-67268653).
 ```
 
@@ -736,7 +736,7 @@ Risk Analysis for Natural Probability and Impact of a Meteorite.
 ##### L earning from Mistakes 
 
 From such innocents there are possible to learn a lot. I.e.:
-* Risk(s) of Meteorite(s) at this time should be very rare to be found (In practice). 
+* Risk of Meteorite at this time is very rare to be found (In practice). 
 ```
 
 ```
