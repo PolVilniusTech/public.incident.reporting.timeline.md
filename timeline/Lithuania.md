@@ -25,7 +25,7 @@ According D. Lazauskas the System allows to create personal shared Environment f
 From such incidents there are possible to learn a lot. I.e.:
 * Conduct functionality tests of the System;
 * Review User Roles and their access to the Data. Test it out;
-* Define what kind of information should be available for the User of the System;
+* Define what kind of information has to be available for the User of the System;
 * Review Identification & Authentication & Authorization Mechanismus;
 * Question of Documentation and Specification understanding and clarity from Client/Requestor perspective;
 * Question of Documentation and Specification understanding and clarity from Contractor/Company perspective.
@@ -304,7 +304,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * If exists Personal data, before disclosing it, You have to get Approval of the Person to which it belongs.
 * Documents, with misinformation for sharing data to the third party does not always are correct, because the Person, who Approves could misunderstood on some points, so more "boxes" for vital points have to be ed.
 * Limit access to the Authentication mechanism for the external Entities and Users. 
-* Answer to the Question(s): Does there should be History related information of All/Many/Some the Clients accessible for some User Account? If yes, then what were the Impact to the Company, if such data would be lost?
+* What would be an Impact to the Company, when through shared & uncontrolled User Account personal data would be lost?
 * Programming Applications, Software, Devices with functionality to scan and breach the Websites, Portals, or even Systems, according the [@BNS](https://www.lrt.lt/naujienos/lietuvoje/2/232540/grozio-klinikos-klientu-duomenu-vagystes-reketininkai-is-mediku-norejo-0-5-mln-euru), are illegal (p.s. if it is used in Computer Network(s), Websites, Portals, or even Systems without proper or legal Approval). It's in the list of dual-purpose objects, which could be used for testing Security with Aim to fix, or vica versa.   
 ```
 
@@ -332,7 +332,7 @@ From such incidents there are possible to learn a lot. I.e.:
 *  In non-democratic country any subject could be stated as Terrorist and by their request has to lose Privacy in all around the World.
 *  don't use Service, if it would require to provide Private Data (Name, Surname, etc.)
 *  pay in non electronic Cash and pay without change
-*  in Country, where exists democratic order, subjects from non-democratic country should abide the order. Sharing Private data in this case would lead into the consequences to the non-democratic Government, who are requesting the data from the subject.
+*  in Country, where exists democratic order, subjects from non-democratic country has to abide the order. Sharing Private data in this case would lead into the consequences to the non-democratic Government, who are requesting the data from the subject.
 *  in Country, where exists non-democratic order, subjects from democratic country has to abide the order where they are doing the Business. 
 ```
 
@@ -352,11 +352,11 @@ Possible Safety and Information Security Issues.
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-*  ease availability of the functionality, which You are Searching, in the Start should be valued the same as Phishing attack.
+*  ease availability of the functionality, which You are Searching, in the Start could be valued similarly as Phishing attack.
 *  functionality providers has to persuade their Users that they are working in specific country and order, which would help to see the possible consequences of using such Service.
 *  conducting Risk analysis to the Data of the Application would easily show the possible consequences.
-*  control of functionality of the system should be distributed into different roles with to role aligned privileges.
-*  organisational and technical control, documentation/legislation are required for sending or leaving notice(s) of unknown and uncontrollable access to the system and it's Data. Integrity of such information should be preserved.
+*  control of functionality of the system should be distributed to specific role aligned privileges.
+*  organisational and technical control, documentation/legislation are required for sending or leaving notice(s) of unknown and uncontrollable access to the system and it's Data. Integrity of such information require to be preserved.
 ```
 
 ```
@@ -392,7 +392,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Does while registering for new Customer there would be possible to build WorkFlow in Stages 1-N? i.e. during Stage 1 You collect required data about the Driver, on other Stage for finishing making Service Available You are removing some personal data of the Client and leave only essential data for the Service like "date when license of the Driver expires" or so?
 * Testing for Security Flaws regarding access to the Database.
 * Management of the Database backups; testing functionality of those backups.
-* Does there are defined policy(-ies) who should be able to access those backups?  
+* Does there are defined policy(-ies) who could be able to access those backups?  
 * [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 * [Authentication (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) 
 ```
@@ -643,7 +643,7 @@ Internet Service Providers are implementing blocking measures, so their Customer
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-*   There should be Way to privide the proof of the (e-)Service legitimity, i.e. for local Business certificates: [VMI.lt](https://www.vmi.lt/cms/verslo-liudijimu-duomenu-tikrinimas1).
+*   There could be a Way to privide the proof of the (e-)Service legitimity, i.e. for local Business certificates: [VMI.lt](https://www.vmi.lt/cms/verslo-liudijimu-duomenu-tikrinimas1).
 *   For other Way: 
 *        Does in Your Country exists such (e-)Service, which offers their (e-)Services legally?
 *        Does similar and legal (e-)Services has some drawbacks, which decreases their popularity? What are those drawbacks? 
@@ -704,7 +704,7 @@ Affected Persons lost Security of the e-Service.
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e for Customers/e-Services.
-* If the Client owns the Device of the e-Service, then it should be a way to try and enforce 2 (two-way) Authentication for selected dangerious operations. 
+* If the Client owns the Device of the e-Service, then it could be a way to try and enforce 2 (two-way) Authentication for selected dangerious operations. 
 * Usage of the strong Passwords are only one Side of the Grail.
 * If the e-Service gives You the Device and can't enforce more Secure Authentication mechanismus, then You are lucky, if Your loss are/got compensated.
 
@@ -780,10 +780,10 @@ People may be interessted to input their passwords into some website.
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* If Bank Employees does not ask for any passwords, then does it should be different for other e-Services? Your password must be secure and known only by You. Use Your password(s) only in the official place(s) of the e-Service.
+* If Bank Employees does not ask for any passwords, then does it is different for any other e-Service? Your password must be secure and known only by You. Use Your password(s) only in the official place(s) of the e-Service.
 * Does anyone are giving mutual trust for such Service? Let say, at least HTML link from the trusted Government Subject and other trusted third party.
 * Does the Security of such Service is going thru the audit process? If yes, then who doing this audit? Does the Auditor could be trusted?  
-* If there is legal need for several people to access the some content, then each of person should use their own passwords.
+* If there is legal need for several people to access the some content, then each person has to use their own passwords.
 * If You think that Your password are known, then You need to change it, but if there are Weaknesses in the Authentication mechanismus, then changing the password at best would help for the time depending how secure are used hash functions.
 * Does hash rotation, when Security depend by not one, but several different strong hash functions, would improve the Security? If database would be leaked, then it would cost a lot more of computation power to reverse engineer different hash functions. 
 * Does Services implement additional password security measures like pepper and salts? Pepper rotation depending by some status would help to improve the password security a lot.   
@@ -898,7 +898,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Lack of Security Architects of the Information Systems would lead into poor quality of the System.
 * Proper Security s were not implemented during Design and Prototyping.
 * System were not tested manually for dangerious possible User Input of the System.
-* Automated tools lacks functionality to test out from different User Roles perspective, because mostly Automated tools don't know or can't be Configured to find out, what these Roles should be able to do or what they should see.       
+* Automated tools lacks functionality to test out from different User Roles perspective, because mostly Automated tools don't include Unit-tests according Privileged and (or) Un-Privileged Role?       
 ```
 
 ```
@@ -1023,7 +1023,7 @@ By opening Infected File there are Possibility to spread Misinformation, Infect 
 
 From such incidents there are possible to learn a lot. I.e.:
 * More Security Tools for various range of Devices needed.
-* The European Computer Driving Licence (ECDL) should help to know more about Devices and how to use them Safely. Citizens should get backup from Country Government, so more Citizens would have easier access and would know how to operate during extreme Events and Incidents.
+* The European Computer Driving Licence (ECDL) could educate to know more about Devices and how to use them Safely. Citizens could get support by Country's Government, so more Citizens would have easier access and would know how to operate during extreme Events and Incidents.
 * Paying reasonable Price for Security tools and legal Operating Systems would be the option to keep better Safety. Some Linux Operating Systems are Free of Charge, but needs to be learned how to be used Safely.
 * Need to have common sense in Actions You do. 
 ```
@@ -1135,7 +1135,7 @@ Possibility of Information to be an miss-information.
 
 From such incidents there are possible to learn a lot. I.e.:
 * mur mur jurisdiction.
-* signing with e-signature, e-stamp and (or) using e.document system with public view would give better proof of the events, which should or should not happen.
+* signing with e-signature, e-stamp and (or) using e.document system with public view would give better proof of the events.
 * Placing the Bet or Bid of the events in this Country has huge Regulations already.
 ```
 
@@ -1243,7 +1243,7 @@ People could be fooled by not knowing of their wanted entity.
 From such incidents there are possible to learn a lot. I.e.:
 * Internet is horrible place, because when You are registering hostname-domain name then everything are take cared by registration authority, if some name are already taken, then they would suggest similar name and sometimes not pretty one, incl. numbers, symbols, etc.
 * One of those entities has electronic mail, other does not have yet, so one of them has already registered hostname-domain name.
-* In comparison there should not be allowed to register microsoft.<country_initials>, google.<country_initials> because You would be sued for phishing attack on the Big Tech Company. There still exists problem for names like m1crosoft.<country_initials> or goog1e.<country_initials>, because this could be used for creating fake hostname-domain name services over Internet, over Digital e.Space.
+* Don't allow to register microsoft.<country_initials>, google.<country_initials>, because You would be sued for phishing attack on the Big Tech Company? There still exists problem for names like m1crosoft.<country_initials> or goog1e.<country_initials>, because this could be used for creating fake hostname-domain name services over Internet, over Digital e.Space.
 * By returning back to previous entities, they sound similar, but one of them are with longer sentence. Usually people are too lazy to type more, so with shorter sentence hostname-domain name already with advantage, rest is only question of quality of service. Does those (up to year old) services saying the Truth in their Slogans. ing legitimacy for Payed Taxes to the Country Budget could be begint-started at first.
 * Nowadays big tech companies are extending their Volume-Size by Creating Bigger Brand Name, so if those entities align in the purpose, which has the same target Audience, then it would be wise to do collab entity. Your Customers don't need to pay, i.e. twice with less money in both places. But if something happends with one fishy deal, other could reach the required destination.
 * The Bigger Question in Letting register such names with capital and (or) non-capital letters which starts as "europol" shown in here as [BNS](https://www.lrt.lt/naujienos/verslas/4/1693782/gazprom-pranese-nutraukiantis-duju-tiekima-vamzdynu-jamalas-europa) and it could have links to entity, which are located in The Hague, Netherlands and is main law enforcement agency in the Continent.
@@ -1312,27 +1312,6 @@ From such incidents there are possible to learn a lot. I.e.:
 * Nowadays You could Purchase electric Vehicle's with Cameras and in-build IPad Control device directly in the Vehicle.
 * There are lacking of awareness trainings of the Commoners for using specific devices for pedestrians, drivers, pilots.
 * Idea: Does everything could be ended up to 3:17 with the Notice for need to pay for the error, which were done by the driver, if final cost of the Punishment is very low?
-```
-
-```
-##### I ncident
-
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/1701282/pamatykite-lietuvos-policijos-pareigunai-padeda-aptikti-nukautu-rusu-kunus-ukrainoje) Law enforcement Forces shown in the Victim Country.
-```
-
-```
-##### R esults 
-Possible of leak of metadata for specific coordinates.
-Law enforcement Forces risking their Lives.
-Who would be responsible for comming Guided Missle?
-```
-
-```
-##### L earning from Mistakes 
-
-From such incidents there are possible to learn a lot. I.e.:
-* Various devices are leaving coordinate metadata and that is positive approach.
-* Does there should be Located Law enforcement Forces with permission of the Eurojust (against violation to the Law) and (or) the Europol (against Terrorists)? In the Article there are lacking data for presence of more International Order.
 ```
 
 ```
@@ -1562,7 +1541,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Incidents and breaches has to be reported according Cybersecurity Law like following formulation "The cyber security policy is implemented by the National Cyber Security Center, the State Data Protection Inspectorate, the Lithuanian Police and other institutions whose functions are related to cyber security.".
 * The private limited liability company has the Site of URL	https://bankinglab.com which are using popular Content Management System which in the year of 2022 accumulated around of 1000 security vulnerabilities. Regular approach of Security in here to keep up with the updates which fix the problems.
 * Specific Banking applications and it Hardware & Software manufacturers must provide their Issues in the same way how these companies are doing URL: [Oracle.com](https://www.oracle.com/security-alerts/#SecurityAlerts), because they want to be Available in such Banking Transactions.
-* Does Certificates of the Public key Cryptography of the SSH should be regularly updated like SSL Certs for Site Security? 
+* Does Certificates of the Public key Cryptography of the SSH are regularly updated like SSL Certs for Site Security?
 ```
 
 ```
@@ -1587,7 +1566,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1820550/melynu-varneliu-chaosas-twitter-apsisaukeliai-apsimeta-itakingais-asmenimis-o-platforma-nezino-kaip-su-tuo-tvarkytis) Crow Sign/Symbol does not every time/always mean: What You See Is What You Are.
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1820550/melynu-varneliu-chaosas-twitter-apsisaukeliai-apsimeta-itakingais-asmenimis-o-platforma-nezino-kaip-su-tuo-tvarkytis) Crow Sign (Symbol) does not every time (always) mean: What You See Is What You Are.
 ```
 
 ```
@@ -1601,7 +1580,7 @@ People may be fooled by entities on the Platform which has proof of their Identi
 From such incidents there are possible to learn a lot. I.e.:
 * In some extend Social media of "Facebook" are trying to keep whole users community base as non-Fake Accounts. In that case each Union/State/Country has representatives who help to block those Fake Accounts, in instance by initiating and clicking Button to Report the User as Fake Account.
 * Identity  and Private and Personal Information storage and management requires additional Compliance to specific jurisdictional and standard regulation. Does the Company are compliant with any of those standards?
-* According provided Identity  cost Sum, it is really very cheap. For proper Administration of all Users this Sum should be at least doubled or trippled. But even in this Situation does there will be enough of personell to manage this Question? 
+* In this Situation: does there will be enough of employees to manage the problem? 
 ```
 
 ```
@@ -1765,7 +1744,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * The Website which are imposing as "vmi.lt" has ".net" domain. In contrast domains like ".net", ".gov", ".edu", ".mil" are in many times "stronger" stance as something as single ".lt" domain name.
 * The Portal of common domain purchase in U.S.A. is [GoDaddy](https://www.godaddy.com/en-ie/tlds/net-domain?countryview=1&isc=e1domgon1&countryview=1&currencyType=EUR), which allows to do World-Wide purchases and promotes original Country names on which they have been decided for themselves, in instance the "Türkiye".
 * Exists domain name forwarding, i.e. by going into "vmi.net" could be made Browser forwarding from Server side into a Site of "vmi.lt". In this case everything could end up better than described in the "R esults".
-* Bi-polar situation in the LTU, when there exists Site's like [Data Agency of the Country](https://www.stat.gov.lt/), when ".gov" domain name in use just after ".lt". And in the end we own normal domain ".gov.lt" for the Government domain + LTU domain. Now let us take the situation of sample domain of Lithuanian institution [IVPK](https://ivpk.lrv.lt/), which produce ".lrv" domain + ".lt" domain. This is equal situation of Government domain + LTU domain. Who should answer the Question for the regulars, citizens, which one could be Trusted? or does they both (.gov.lt) and (.lrv.lt) are Trusted domains? where first represent TopLevelDomain + CountryCodeTopLevelDomain and second represent some simple Domain + CountryCodeTopLevelDomain.
+* Bi-polar situation in the LTU, when there exists Site's like [Data Agency of the Country](https://www.stat.gov.lt/), when ".gov" domain name in use just after ".lt". And in the end we own normal domain ".gov.lt" for the Government domain + LTU domain. Now let us take the situation of sample domain of Lithuanian institution [IVPK](https://ivpk.lrv.lt/), which produce ".lrv" domain + ".lt" domain. This is equal situation of Government domain + LTU domain. Which one could be Trusted? or does they both (.gov.lt) and (.lrv.lt) are Trusted domains? where first represent TopLevelDomain + CountryCodeTopLevelDomain and second represent some simple Domain + CountryCodeTopLevelDomain.
 * If there would be poor Country with small amount of technical personnel and skills maybe would be greater to pass such situation into those who control ".net" TopLevelDomain and would handle it according their jurisdiction. Some Samples with SecondLevelDomains could be found in here [Wikipedia](https://en.wikipedia.org/wiki/Subdomain).
 ```
 
@@ -2006,10 +1985,10 @@ Loss of Authentication. Human-Error in public data leak.
 
 From such incidents there are possible to learn a lot. I.e.:
 *   Search Engine Hacks were known from the early days of Search Engine(s). Web Site Security could use ISO/IEC 27001 approach and to take Information Security, Cybersecurity, Privacy. Each of these Terms is at the same Level and important.
-*   If Web Site has number of Authentication Levels (i.e. public Site, Authenticated Site) then Web Administrator should get proper requests, which could explain on which Level Job should be completed.
+*   If Web Site has number of Authentication Levels (i.e. public Site, Authenticated Site) then Web Administrator could get proper organizational requests, that explains on which Level the Job has to be done.
 *   If there were no extra Job, then the Audit Logs could answer to the Question: what happened? unless the Security incident happen which lead into loss of Integrity and Authenticity of Journaling Data Logs.  
 *   General Data protection Reglament only works in Private Sector. For Public Sector it would need to look into the local Regulations and to Report the Issue.
-*   Common Automated Security  tools can't tell, which information should be Public and which - Not. OpenAI Bot allow to Set Up Your Learning Data, then it could be good to find out the problem, which were given in the previous Sentence.
+*   Plausibility, that Common Automated Security tools can't tell, which information could be Public and which - Not. OpenAI Bot allow to Set Up Your Learning Data, then it could be good to find out the problem, which were given in the previous Sentence.
 ```
 
 ```
@@ -2065,7 +2044,7 @@ Not clear enough.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*   The Article provide Fact "Telecomunication Company should never  SMS of their Users". If Telecomunication Company don't do that, then in addition they should not give Access to anybody else? because an Assets of a Person(s) is Untouchable. Illegal Orders may be the Problem for some kind of Jurisdictions.
+*   The Article provide Fact "Telecomunication Company has never SMS of their Users". If Telecomunication Company don't do that, then in addition they have to not give Access to anybody else? because an Assets of a Person(s) is Untouchable. Illegal Orders may be the Problem for some kind of Jurisdictions.
 *   The Article provide Fact that Internet Service Providers gonna block URL's, which are in Forbidden List. In this Regard, if You install Modern Anti-Virus & Anti-MalWare Software in the Computer System, then You get something similar. Multiple Modern Anti-Virus & Anti-MalWare Software Installations could be a Latency for Comfortable Usability of Your Goodies.
 ```
 
@@ -2249,7 +2228,7 @@ According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2149826/te
 
 From such incidents there are possible to learn a lot. I.e.:
 *  TV station „Mūsų TV“ provide public service. In example exist e.Service who is not a public service like Protonmail who has statement "private email service that uses end-to-end encryption and zero-access encryption to protect your communications". The difference between public and private service is that for the private service(s) are required to complete these procedures: Identification > Authentication > Authorization. Best example of similar private service(s) - Youtube "social media" platform. Of course exists Apps who uses their own Business Account to re-stream the service content.
-*  According provided jurisdictional document the disinformation means that this misinformation information are speaded deliberately. This should mean that subject did that on the purpose. The Jurisdictional Act also provide a lot ties with the Lithuanian Republic and it's Independence & Sovereignty. 
+*  According provided jurisdictional document the disinformation means that this misinformation information are speaded deliberately. This could mean that subject did that on the purpose. The Jurisdictional Act also provide a lot ties with the Lithuanian Republic and it's Independence & Sovereignty. 
 *  Exists and could exists news aggregators who include similar misinformation and disinformation related content to their news with one exception. This exception is the rule to place correct label to it. This has a lot of similarities for smookers who get to purchase cigarettes with horrible labels and glued Truths to it. It seems that e-cigarette(s) does not include this requirement.
 *  The news content is related with "full-scale invasion" [hrw.org](https://www.hrw.org/tag/russia-ukraine-war). Does media & news aggregators referencing this organization and use their content, i.e. contacts [hrw.org](https://www.hrw.org/about/get-local/paris)? 
 ```
@@ -2288,7 +2267,7 @@ The Web and plausibly non-web Phishing Messages.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*  According this Article You should not open pop-ups at all.
+*  According this Article You have to not open pop-ups at all.
 *  Anti-Security related code(s) are called as "malware".
 ```
 
@@ -2408,7 +2387,7 @@ Private data leak of the Service or Reputation attack to the Service owners.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* The r/n of the company by taking in the Account this Article should be "120124533". From row of similar company name's there could be not clear for the client(s) whose they really are (was) registered for that exact company.
+* The r/n of the company by taking in the Account this Article - "120124533". From row of similar company name's there could be not clear for the client(s) whose they really are (was) registered for that exact company.
 * Adequate relations between clients and service managers/owners could include mindfully correct way how to respond to an incident.
 * There could be taken notice - does informing everyone are right way to do? When after at least one data leak the same data could be shared infinity time, including first name, last name, phone number, email address.
 * Services could have first inbound data-number and different outbound data-number.
@@ -2430,7 +2409,7 @@ Availability of the service to the citizens could be in question.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Distributed system could help to collect data even when the availability to the internet is scarse.
-* Information exchanged between the electronic device and the service center should be protected with encryption and decryption, encoding and decoding, integrity s, stamps and signatures. When this mechanism has to be updated, then the service could be tested in a testing environment before an original update commense.
+* Information exchanged between the electronic device and the service center needs to be protected with encryption and decryption, encoding and decoding, integrity s, stamps and signatures. When this mechanism has to be updated, then the service could be tested in a testing environment before an original update commense.
 * The calculations in digits for the common user-citizen and cheapest option in a life-cycle is not taken in an account.
 ```
 
@@ -2530,9 +2509,9 @@ Electromobile charging was unavailable & client's could not use e.service.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* In a situation when e.service's (i.e. Software as a service) could be a service, which operates from other jurisdiction there could be issues to local security staff to defend local Rights for example to get a Compensation for a Client's. When e.service exists in the same economic zone, then there should be enough of safeguards in place to solve case like this.
+* In a situation when e.service's (i.e. Software as a service) could be a service, which operates from other jurisdiction there could be issues to local security staff to defend local Rights for example to get a Compensation for a Client's. When e.service exists in the same economic zone, then there could be enough of safeguards in place to solve case like this.
 * Company representative suggested for the client's to change their password's of the e.service.
-* In a situation of existance of unclonable RFID-tag's electromobile should be directly connected with a Tag. If this could be electromobile sharing service who depend by data in online database, then in a worst case of situation those electromobile's could be snached. There are nothing new by opening... the car with a Tag. Yet, mostly known that the mobile phone could be used instead of a Tag & this probably should be a different situation.
+* In a situation of existance of unclonable RFID-tag's electromobile could be directly connected with a Tag. If this could be electromobile sharing service who depend by data in online database, then in a worst case of situation those electromobile's could be snached. There are nothing new by opening... the car with a Tag. Yet, mostly known that the mobile phone could be used instead of a Tag & this probably would be a different situation.
 * How this service were breached are given no information in the Article. Using advanced Captcha technologies for authentication security could minimize Authentication related breaches.
 ```
 
@@ -2608,10 +2587,10 @@ Person plausibly lost a huge sum of Money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Internet is meant for the Internet e.Payments. When Person want to stop participating in unknown gambling activities, then this Person should take in an account plausibility that this(-ose) internet sites could deny his request for gambling, ref. [epaslaugos.lt](https://www.epaslaugos.lt/portal/service/74420/13221?searchId=dc364005-8bed-4487-b267-56e67ed3d504).
+* Internet is meant for the Internet e.Payments. When Person want to stop participating in unknown gambling activities, then this Person has to take in an account plausibility that this(-ose) internet sites could deny his request for gambling, ref. [epaslaugos.lt](https://www.epaslaugos.lt/portal/service/74420/13221?searchId=dc364005-8bed-4487-b267-56e67ed3d504).
 * When Person want to make Money Investment, then awareness of selecting right place are very important. Ref. [lb.lt](https://www.lb.lt/lt/investavimas-kaip-atpazinti-sukcius#ex-1-2).
 * At the previous reference domain are plausible to locate illegal and forbbiden investment internet sites. DNSSEC widespread use could enforce protective means when this tool are in use [nksc.lt](https://www.nksc.lt/uzkarda.html) and protection - full automatic.
-* Your computer - smartphone connection don't have DNSSEC support? Public and Private Key Cryptography Key Management usually are made by telecommunication companies and they provide list of DNS services, which Client should use. Registration for personal DNSSEC keys could help and improve the situation or usual approach - use Anti-Virus Software with this type of service. Anyway, common non-Browser Software Product could just not use this tech, then awareness of Software Product(s) plausibilities also are needed.   
+* Your computer - smartphone connection don't have DNSSEC support? Public and Private Key Cryptography Key Management usually are made by telecommunication companies and they provide list of DNS services, which Client could use. Registration for personal DNSSEC keys could help and improve the situation or usual approach - use Anti-Virus Software with this type of service. Anyway, common non-Browser Software Product could just not use this tech, then awareness of Software Product(s) plausibilities also are needed.   
 ```
 
 ```
@@ -2630,7 +2609,7 @@ Loss of Asset.
 
 From such incidents there are possible to learn a lot. I.e.:
 * In automobile sharing company [citybee.lt](https://citybee.lt/lt/transportas/) are plausible to rent the Car - Vehicle, which are described in the Article. Snaching the Car - Vehicle with other Person's data is not a common incident. This could lead into unknown & negative consequences for the business.
-* Smart Home, Smart Automobile industry has measures that with mobile phone, smart card You could open Doors. Safety and Emission Recalls shown in here [bmwusa.com](https://www.bmwusa.com/safety-and-emission-recalls.html). This should include Software and Hardware issues. Taking care of Your own Asset should go as priority no. One. p.s. Site Search in [bmw.com](https://www.bmw.com/en/search.html#recall) for Recall provide only "Fictional" Results.
+* Smart Home, Smart Automobile industry has measures that with mobile phone, smart card You could open Doors. Safety and Emission Recalls shown in here [bmwusa.com](https://www.bmwusa.com/safety-and-emission-recalls.html). This include Software and Hardware issues. Taking care of Your own Asset just could go as priority no. One. p.s. Site Search in [bmw.com](https://www.bmw.com/en/search.html#recall) for Recall provide only "Fictional" Results.
 ```
 
 ```
@@ -2650,7 +2629,7 @@ e.Service users compromising their own e.Service Accounts.
 From such incidents there are possible to learn a lot. I.e.:
 * When there is a talk about National Cyber Security Center, then citizens could argue that they use some type Browser Software, which could be at fault, to access this e.Service.
 * Does popular Browser Sofware is a very secure Software? I.e. Google Browser - a free (and open) Software.
-* TAMO has Google supported Cookiebot functionality, use www.googletagmanager.com + www.google.com/recaptch + fonts.googleapis.com. What this Site does not has is a guided functionality of [developers.google.com](https://developers.google.com/publisher-tag/guides/content-security-policy). Allowing what is allowed, rejecting what is not allowed and there should be less problems for e.Service Users, because they probably has smart enough Browser Software.
+* TAMO has Google supported Cookiebot functionality, use www.googletagmanager.com + www.google.com/recaptch + fonts.googleapis.com. What this Site does not has is a guided functionality of [developers.google.com](https://developers.google.com/publisher-tag/guides/content-security-policy). Allowing what is allowed, rejecting what is not allowed and there could be less problems for e.Service Users, because they probably has smart enough Browser Software.
 * Data collection activity from a long long time? When somebody could include malicious code in the source code of the System (directly/indirectly). When this could be the case, then they could grab the data of hundreds and thousands people. Secure versioning of a TAMO code? secure architecture re- of a authentication mechanism? searching for plausible data stealer code and how this was introduced to the System.
 ```
 
@@ -2691,8 +2670,8 @@ Person could get scammed by unknown entity(-ies).
 
 From such incidents there are possible to learn a lot. I.e.:
 * Minimum requirement to start doing actions in the online banking requires [barclaycard.co.uk](https://www.barclaycard.co.uk/content/dam/barclaycard/documents/business/help-and-support/Authentication-card.pdf) knowing PIN (what You known) and having PIN Sentry Card Device (what you have). From the Article there is no way to know what option(s) to authenticate itself to an e.banking institution this Person had & has.
-* The problem could be related with non-legal investment and about that Person(s) should build awareness using this source from the Lithuanian Bank: [lb.lt](https://www.lb.lt/lt/sukciavimas).
-* IP address to hostname conversion service could be at fault, fake Site could be build by the scammer who just look like a original Site. In this case Banking institution should have e.banking site with good and proper defences, i.e.  [lb.lt](https://www.lb.lt) has Header Security Rules "frame-ancestors 'self' monetos.lb.lt coins.lb.lt *.cv.lt *.cvonline.lt;". This data clearly provide data to the modern Browser App(s) and answer the serious questions: what are allowed and what aren't allowed?
+* The problem could be related with non-legal investment. Person(s) could build awareness using following source from the Lithuanian Bank: [lb.lt](https://www.lb.lt/lt/sukciavimas).
+* IP address to hostname conversion service could be at fault, fake Site could be build by the scammer who just look like a original Site. In this case Banking institution require to own e.banking site with good and proper defences, i.e.  [lb.lt](https://www.lb.lt) has Header Security Rules "frame-ancestors 'self' monetos.lb.lt coins.lb.lt *.cv.lt *.cvonline.lt;". This data clearly provide data to the modern Browser App(s) and answer the serious questions: what are allowed and what aren't allowed?
 ```
 
 ```
@@ -2712,7 +2691,7 @@ Huge chance of lack of transparency and money laundering issues.
 From such incidents there are possible to learn a lot. I.e.:
 * According Department of the Treasury (U.S.A.) to the digital currency is possible to add a "sovereign cryptocurrency" [treasury.gov](https://ofac.treasury.gov/faqs/topic/1626).
 * According Department of the Treasury (U.S.A.) to the digital currency is possible to add a "virtual currency" or the currency which is neither issued nor guaranteed by any jurisdiction. [treasury.gov](https://ofac.treasury.gov/faqs/topic/1626).
-* In Republic of Lithuania from previous view points there should be huge shortage of experts who could solve legal issues of Cryptocurrency and to protect the public interest. Uncontrolled Cryptocurrency could mean only huge gap in financial literacy when regular "Paypal" Accounts are "monitored" [vmi.lt](https://www.vmi.lt/evmi/pagrindinis?p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath=%2Fview_content.jsp&_com_liferay_portal_search_web_portlet_SearchPortlet_redirect=https%3A%2F%2Fwww.vmi.lt%2Fevmi%2Fpagrindinis%3Fp_p_id%3Dcom_liferay_portal_search_web_portlet_SearchPortlet%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview%26_com_liferay_portal_search_web_portlet_SearchPortlet_redirect%3Dhttps%253A%252F%252Fwww.vmi.lt%252Fevmi%252Fpagrindinis%253Fp_p_id%253Dcom_liferay_portal_search_web_portlet_SearchPortlet%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview%26_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath%3D%252Fsearch.jsp%26_com_liferay_portal_search_web_portlet_SearchPortlet_keywords%3DPaypal%26_com_liferay_portal_search_web_portlet_SearchPortlet_formDate%3D1710941103070%26_com_liferay_portal_search_web_portlet_SearchPortlet_scope%3Dthis-site&_com_liferay_portal_search_web_portlet_SearchPortlet_assetEntryId=793543&_com_liferay_portal_search_web_portlet_SearchPortlet_type=content&inheritRedirect=true).
+* In Republic of Lithuania from previous view points there are huge shortage of experts who could solve legal issues of Cryptocurrency and to protect the public interest. Uncontrolled Cryptocurrency could mean only huge gap in financial literacy when regular "Paypal" Accounts are "monitored" [vmi.lt](https://www.vmi.lt/evmi/pagrindinis?p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath=%2Fview_content.jsp&_com_liferay_portal_search_web_portlet_SearchPortlet_redirect=https%3A%2F%2Fwww.vmi.lt%2Fevmi%2Fpagrindinis%3Fp_p_id%3Dcom_liferay_portal_search_web_portlet_SearchPortlet%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview%26_com_liferay_portal_search_web_portlet_SearchPortlet_redirect%3Dhttps%253A%252F%252Fwww.vmi.lt%252Fevmi%252Fpagrindinis%253Fp_p_id%253Dcom_liferay_portal_search_web_portlet_SearchPortlet%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview%26_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath%3D%252Fsearch.jsp%26_com_liferay_portal_search_web_portlet_SearchPortlet_keywords%3DPaypal%26_com_liferay_portal_search_web_portlet_SearchPortlet_formDate%3D1710941103070%26_com_liferay_portal_search_web_portlet_SearchPortlet_scope%3Dthis-site&_com_liferay_portal_search_web_portlet_SearchPortlet_assetEntryId=793543&_com_liferay_portal_search_web_portlet_SearchPortlet_type=content&inheritRedirect=true).
 ```
 
 ```
@@ -2733,7 +2712,7 @@ News Pages are providing in random fashion wrong (re-)directions. People can't g
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* In technological way second level domains does not communicate with each other when the whole Web Software for first level domain is with the same Framework. When one content admin make changes in his second level domain news page as the result an other content admin who used his link does not get any notification(s). The whole purpose of using second level domains with unified framework should solve communication issues as described above. One contant admin feels at ease when he manage his own Site, no accountability of his to other content admin(s). Regular way to solve this issue — collecting all page modifications (history) at one place and providing unified button to open latest version of a page. This way there could be less problems with interlinking between different sites. Usualy content has limited time to exist and to solve this issue this(these) page(s) could provide information for how long the information are relevant. When using framework probably easies way would be to cache or scrap the content into own database, so content admin(s) could be at ease.
+* In technological way second level domains does not communicate with each other when the whole Web Software for first level domain is with the same Framework. When one content admin make changes in his second level domain news page as the result an other content admin who used his link does not get any notification(s). The whole purpose of using second level domains with unified framework have to solve communication issues as described above. One contant admin feels at ease when he manage his own Site, no accountability of his to other content admin(s). Regular way to solve this issue — collecting all page modifications (history) at one place and providing unified button to open latest version of a page. This way there could be less problems with interlinking between different sites. Usualy content has limited time to exist and to solve this issue this(these) page(s) could provide information for how long the information are relevant. When using framework probably easies way would be to cache or scrap the content into own database, so content admin(s) could be at ease.
 * This Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/1389617/beveik-30-tukst-euru-ir-nepasiteisinusi-pandemijos-suvaldymo-priemone-kas-nutiko-su-korona-stop-programele) give idea that exist(s) "Korona STOP" Software Application. This Article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1354688/uz-bdar-pazeidimus-programeleje-karantinas-bauda-nvsc-ir-jos-kurejams) give idea that exist(s) "Karantinas" Software Application. From personal experience — exists "Web Site(s)" for registration, so in general there exists number of solutions for the main purpose to make registration and grab the personal data. (a) Who's trusted and who's not? (b) What will be done with the data, which people has to enter into the software application(s) and web site(s)? (c) How the data will be handled? (d) Does all sites and software apps use one registrar and take data from that location? (e) Does all of those entities has legit privileges to do so?
 * When the landscape of software are not in place, then ennumeration of faulty software not easy to grasp.
 ```
@@ -2894,7 +2873,7 @@ Unavailable resources.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* HTTP response code of 404 means that while regular GET request in response got "NOT FOUND". This could mean that PDF file is not in a place where it should be. Plausible situation is that after a new file upload the site were not updated.
+* HTTP response code of 404 means that while regular GET request in response got "NOT FOUND". This could mean that PDF file is not in a place where it has to be. Plausible situation is that after a new file upload the site were not updated.
 * In a chance when there were more vulnerable information reporting for security researchers couldn't get so simple, i.e. [-](https://judu.lt/.well-known/security.txt) or [-](https://judu.lt/security.txt) return HTTP response code 404. GPG/PGP information for encrypting message(s) is unknown.
 * In West exists a hyghiene for linking documents in table like fashion. This means that information when the document were uploaded could be shown in page. This type of "Meta" information is unknown.
 * Even after getting some document in the Page, i.e. [judu.lt](https://judu.lt/wp-content/uploads/2021/06/VT-2020-ataskaita.pdf) in the beginning client will get response code of 200 and cache the document in the HTTP client Software. Afterwards gonna be 304 "NOT MODIFIED" response code's while this document does not change.
@@ -2936,7 +2915,7 @@ Entity lost hefty sum of money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Unsolicited messages and SPAM over e-mail tech are an common approach for phishing attacks in the Internet. Clients use email applications with in-build protective means, i.e. phishing filter, scam filter. Exists chance that security measure(s) gonna fail to block this message or those messages. For this reason general SPAM should be less effective, but huge in numbers (more blocking necessary). Targeted phishing emails has bigger success rate and could impact into losing hefty sum of money.
+* Unsolicited messages and SPAM over e-mail tech are an common approach for phishing attacks in the Internet. Clients use email applications with in-build protective means, i.e. phishing filter, scam filter. Exists chance that security measure(s) gonna fail to block this message or those messages. For this reason general SPAM has to be less effective, but huge in numbers (more blocking necessary). Targeted phishing emails has bigger success rate and could impact into losing hefty sum of money.
 * Not all entities aware that e-mail application(s) has or could have in-build security measures to defend from number of risks.
 ```
 
@@ -2975,7 +2954,7 @@ Unavailable resources for limited amount of time.
 
 From such incidents there are possible to learn a lot. I.e.:
 * When Web Site [vmi.lt](https://www.vmi.lt/evmi/en/misija-vizija-ir-vertyb%C4%97s) provide foreign language menu is great. Yet, not all actual information is shown in this foreign language. Plausible another problem when these foreign people could mistake the approved site by somebody with an other artificial site. There is problematic to find out more information about "vmi.lt" and existence of STI (lt. VMI) in here [vmi.lt](https://www.vmi.lt/evmi/en/teisin%C4%97-informacija). There is something who could provide proof of VMI.lt being non-phishing site [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.226992/asr). Second place to look at if you knowing lithuanian [lrv.lt](https://lrv.lt/lt/ministerijos-ir-istaigos/).
-* Take sample from other institution document [e-tar.lt](https://www.e-tar.lt/portal/lt/legalAct/ef108e70e9de11e6bf03a1097d29892a). This one does not provide actual information about internet site name. There is provided information about how this e-mail should be made off. By knowing real email schema there are plausible to conduct a phishing attack.
+* Take sample from other institution document [e-tar.lt](https://www.e-tar.lt/portal/lt/legalAct/ef108e70e9de11e6bf03a1097d29892a). This one does not provide actual information about internet site name. There is provided information about how this e-mail is to be made off. By knowing real email schema there are plausible to conduct a phishing attack.
 ```
 
 ```
@@ -3016,8 +2995,8 @@ By not fixing errors could mean only problem(s).
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Regular Citizens does not require to provide declarations. Only when exist requirement to pay Tax this citizen should get notification in the VMI system, i.e. You sold old Car and got extra money, then Pay a Tax. Everyone who forget should receive notifications from VMI.
-* In the situation when institution at fault and made error, then citizen is not responsible and payment should be void. Currently technologies like [satellites.pro](https://satellites.pro/France_map) helps in solving some of these problems.
+* Regular Citizens does not require to provide declarations. Only when exist requirement to pay Tax this citizen has to get a notification in the VMI system, i.e. You sold old Car and got extra money, then Pay a Tax. Everyone who forget gonna receive notifications from VMI.
+* In the situation when institution at fault and made error, then citizen is not responsible and payment could be a void. Currently technologies like [satellites.pro](https://satellites.pro/France_map) helps in solving some of these problems.
 * Human Error could be a leading problem in any sector including Information Security, Cybersecurity and Privacy protection. Poor quality automatized and untested functionality could be missused by threat agent.
 ```
 
@@ -3048,7 +3027,7 @@ According the Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2264301/
 
 ```
 ##### R esults
-Person should pay taxes instead of an entity when commercial purchases are made with person's disclosed account.
+Person required to open a new account, because he needs to pay taxes. Person require to know every account, that are linked with him.
 Entity could misuse account of this person and breach one or more jurisdictional regulation(s), take in account what is allowed and what - not.
 By traveling to other country issues are not terminated (what were done). 
 ```
@@ -3095,9 +3074,9 @@ Person is scammed and lost money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Employment should be money loss also in a situation when employee does not bring money to the employer with his work. Artificial and fake employment is one of threats of modern world.
+* Employment as itself could be a money loss also in a situation when employee does not bring money to the employer with his work. Artificial and fake employment is one of threats of modern world.
 * Sample for a money loss with "unknown way" could be a situation when Social Network App (Mobile Phone) allows digital payments. Person with simple action could make investment to unknown entity and investment always contain risks. [lb.lt](https://www.lb.lt/lt/naujienos/lietuvos-bankas-kaip-neprarasti-pinigu) provide ideas how to keep money safe and sound.
-* Does scammed person has some kind of insurance for investment(s)? Law enforcement should know it all.
+* Does scammed person has some kind of insurance for investment(s)? Law enforcement require to know it all.
 ```
 
 ```
@@ -3133,7 +3112,7 @@ Money loss for two persons.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* As of technological aspect, an electric banking outlet (type of (reverse-)vending machine for money) could have bad construction. Bad in a sence, that outside of an outlet exists plausibility to place external device who could skim the bank card. Skimming include reading information from magnetic tape and making a clone of the card. Bank cards include PIN protection over Chip, then it means there could be other external devices who could grab information of this PIN (i.e. Web camera, external Keyboard). Completely skimmed card could be cloned and used to take out money from people who are using those electric banking outlets. Insecure electric banking outlets should not be used. Security updates of operating system included in the outlet also has to be tamper-proof. Security sticker could show the situation when electric banking outlet were opened by third party. Only official privileged personel should manage electric banking outlets and they should have right license card.
+* As of technological aspect, an electric banking outlet (type of (reverse-)vending machine for money) could have bad construction. Bad in a sence, that outside of an outlet exists plausibility to place external device who could skim the bank card. Skimming include reading information from magnetic tape and making a clone of the card. Bank cards include PIN protection over Chip, then it means there could be other external devices who could grab information of this PIN (i.e. Web camera, external Keyboard). Completely skimmed card could be cloned and used to take out money from people who are using those electric banking outlets. Insecure electric banking outlets would be a problem. Security updates of operating system included in the outlet also has to be tamper-proof. Security sticker could show the situation when electric banking outlet were opened by third party. Only official privileged personel have to manage electric banking outlets and own right license card.
 ```
 
 ```
@@ -3151,7 +3130,7 @@ High chance of a scam attacks.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Bank provide information that person has to report scam as fast as possible. Around the globe exists solution as mobile bank on wheels who takes in account the last mile problem. This vehicle should have special identification touch points who has to be communicated for clients. Each bank has commitment to report situations when arise unacceptible risk for their clients. Only bank employees, who has privilege, in defined places and functions has right to ask for the card of the bank they represent. Like the law enforcement forces has rights to ask for showing personal identification card of a citizen or a resident, or a foreigner.
+* Bank provide information that person has to report scam as fast as possible. Around the globe exists solution as mobile bank on wheels who takes in account the last mile problem. This vehicle require to own special identification touch points who has to be communicated for clients. Each bank has commitment to report situations when arise unacceptible risk for their clients. Only bank employees, who has privilege, in defined places and functions has right to ask for the card of the bank they represent. Like the law enforcement forces has rights to ask for showing personal identification card of a citizen or a resident, or a foreigner.
 * Couriers deliver goods in a fixed time frame. In a time apart of that, these Couriers can't work.
 * Scammers deploy specific domain names for conducting of their operations, i.e. Article [lb.lt](https://www.lb.lt/en/news/fraud-alert-scam-emails-allegedly-sent-by-the-bank-of-lithuania) provide idea that EU domain could be used with any name and without proof of real banking institution from Available list. Usual domain registration is automated process and lacks of counter-measures to limit risks of scamming. 
 * Web Site [lb.lt](https://www.lb.lt/) contains resources for getting awareness tips to investment scams.
@@ -3210,7 +3189,7 @@ Plausible loss of money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* There may exists bug in telecommunication system when by answering phone You lose money. Telecommunication companies usually charge both situations for calling and for answering, or even dropping the call. In this accordance person should not answer unknown phone calls.
+* There may exists bug in telecommunication system when by answering phone You lose money. Telecommunication companies usually charge both situations for calling and for answering, or even dropping the call. In this accordance person need to not answer unknown phone calls.
 * When phone has chance to re-direct calls then this phone plausibly could be used for malicious re-directions and person, who receives calls can't understand when this phone come from unknown foreign location.   
 ```
 
@@ -3290,9 +3269,9 @@ Company lacks of procedures in a Risk Management.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Oficial information of Issues for this Company found in [lb.lt](https://www.lb.lt/lt/poveikio-priemones-2?query=UAB%20%22PHOENIX%20PAYMENTS%22&ff=1).
-* Weak Identity Authentication mechanism can't protect Assets of a Client and a Company. Incorrect use of Athentication mechanism could lead into downgraded security when this should not happen. Authentication Guide's include requirements, note [pci-dss](https://docs-prv.pcisecuritystandards.org/Guidance%20Document/Authentication/Multi-Factor-Authentication-Guidance-v1-w-note.pdf).
-* According Article Company should collect Financial Data for ensuring that Clients Assets are acceptable & according known Regulation, and auditable. Provided example of Customer Case File with flaws in finding out origin of customer income & funds. While being in risk factor an information need to share with the [Financial Crime Investigation Service under The Ministry of the Interior of the Republic of Lithuania](https://fntt.lrv.lt/en/). According Article each transaction and money operation has to be traceable.
-* Place for problems and complains regarding Law [commission.europa.eu](https://commission.europa.eu/about-european-commission/contact/problems-and-complaints_en) while protection of information disclosure should go according this [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/3832a702d8ea11e782d4fd2c44cc67af). Lithuanian Bank in here [lb.lt](https://www.lb.lt/lt/pranesimai-apie-finansu-rinka-reguliuojanciu-teises-aktu-pazeidimus) accepts with Lithuanian Market related Issues and provide chance to report violations of Law in a Financial sector.
+* Weak Identity Authentication mechanism can't protect Assets of a Client and a Company. Incorrect use of Athentication mechanism could lead into downgraded security when this could be stoped. Authentication Guide's include requirements, note [pci-dss](https://docs-prv.pcisecuritystandards.org/Guidance%20Document/Authentication/Multi-Factor-Authentication-Guidance-v1-w-note.pdf).
+* According Article Company require to collect Financial Data for ensuring that Clients Assets are acceptable & according known Regulation, and auditable. Provided example of Customer Case File with flaws in finding out origin of customer income & funds. While being in risk factor an information need to share with the [Financial Crime Investigation Service under The Ministry of the Interior of the Republic of Lithuania](https://fntt.lrv.lt/en/). According Article each transaction and money operation has to be traceable.
+* Place for problems and complains regarding Law [commission.europa.eu](https://commission.europa.eu/about-european-commission/contact/problems-and-complaints_en) while protection of information disclosure has to go according this [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/3832a702d8ea11e782d4fd2c44cc67af). Lithuanian Bank in here [lb.lt](https://www.lb.lt/lt/pranesimai-apie-finansu-rinka-reguliuojanciu-teises-aktu-pazeidimus) accepts with Lithuanian Market related Issues and provide chance to report violations of Law in a Financial sector.
 * Alongside disclosure exist risk of inclusion of technical issues who is linked to intellectual property related information (take a note in [en.wikipedia.org](https://en.wikipedia.org/wiki/Copyright_and_Information_Society_Directive_2001)) and protection of personal data information (take a note in [en.wikipedia.org](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)).
 ```
 
@@ -3350,7 +3329,7 @@ Plausible loss of Money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* This amount of Money is impossible to withdraw from electronic bank account without moving to bank facillity. (Article) There should be enforced limits to withdraw units per Day, per Week & per Month.
+* This amount of Money is impossible to withdraw from electronic bank account without moving to bank facillity. (Article) There has to be enforced limits to withdraw units per Day, per Week & per Month.
 * Article include Image of Block's of Money with included Banderole's [vlkk.lt](https://terminai.vlkk.lt/paieska?search=banderol%C4%97). (Far East style).
 ```
 
@@ -3391,7 +3370,7 @@ Plausible loss of money.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Article does not include information whether scammer and person know each other.
-* Telecommunication companies include limits to the service. Person with regular phone answer should not be able to lose more money that in this balance.
+* Telecommunication companies include limits to the service. Person with regular phone answer has to not be able to lose more money that in this balance.
 * Context in the Article has links with a Social Engineering. Usually Scammer reminds the person that he's poor and ask, if he want get Job and (or) Invest Money. Leaked Databases with sensitive personal data could be used to Scam those who don't have what to offer anyway.
 ```
 
@@ -3450,7 +3429,7 @@ Unavailable documentation.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*  This check include results: English Page should include one Presentation while Lithuanian — three. In return pair of Documents are Not Available while Resource over Social & Media Network could be used.
+*  This check include results: English Page include one Presentation while Lithuanian — three. In return pair of Documents are Not Available while Resource over Social & Media Network could be used.
 ```
 
 ```
@@ -3504,7 +3483,7 @@ Plausible loss of money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*  Citizens require for secure communication channel with their service provider of their official Bank Facilities. Regions has no to less Bank Facilities, so they got less Availability for their Service and more prone to these scams. Some financial services complete banking operations at specific time, so there should be possible to contact those representatives who could stop these banking operations when possible.
+*  Citizens require for secure communication channel with their service provider of their official Bank Facilities. Regions has no to less Bank Facilities, so they got less Availability for their Service and more prone to these scams. Some financial services complete banking operations at specific time, so there has to be possible to contact those representatives who could stop these banking operations when possible.
 *  Awareness training for the public with sample actors who could display how these scams are completed could decrease situations when people get fooled in handing their Wealth.
 ```
 
@@ -3681,7 +3660,7 @@ Lack of experience for data management and governance.
 From such incidents there are possible to learn a lot. I.e.:
 * Public institutions w/o experienced specialists are at disadvantage in software governance when they don't know how to deal with technologies and manage a data in technological environment.
 * Public governmental data center(s) already purchasing licenses and owning data, but specialists questions are left to each institution for themselves. Public sector tend to have bad reputation for programming specialists because of being outperformed by programming academias and private companies who want to take a share of the market.
-* ENISA is a Common Vulnerabilities and Exposures Numbering Authority in European Union and risky software applications should be taken accordingly, if software has to be used for processing private, confidential, sensitive data.
+* ENISA is a Common Vulnerabilities and Exposures Numbering Authority in European Union and risky software applications gonna be taken accordingly, when software has to be used for processing private, confidential, sensitive data.
 ```
 
 ```
@@ -3700,8 +3679,8 @@ Loss of a Confidentiality.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Secrets like passwords and PIN codes should be kept secret and not disclosed to anyone apart Yourself. Person should not carry those Secrets in clear text in Public environment.
-* Investment Clients should use official companies who are registred and have certificate & permission to do their business.
+* Secrets like passwords and PIN codes have to be kept secret and not disclosed to anyone apart Yourself. Person should not carry those Secrets in clear text in Public environment.
+* Investment Clients have to use official companies who are registred and have certificate & permission to do their business.
 * Email Service could be configured without more secure protocols and data could be passed through insecure routes over a net. Interception of data while routing and transfer could lead into a data loss.   
 ```
 
@@ -3876,7 +3855,7 @@ Clients can't connect to requested resources.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* epaslaugos.lt Site include User Guide. Site could include information for their Clients with explanation what they should and should not do when they get unique Error Identification Number.
+* epaslaugos.lt Site include User Guide. Site could include information for their Clients with explanation what they have or not to do when they get unique Error Identification Number.
 * One System or more Systems updates could result in Broken Authentication Mechanism. When they don't meet requirements of a Technical Specification something could get not working, i.e. inter-connectiveness. Information System maintenance has to be coordinated accordingly with responsibility to successful Auth tests. This could at least inform they Users with more user friendly notification.
 ```
 
@@ -4066,7 +4045,7 @@ Plausible loss of Money.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Lack of authentication measures mean that people could get bankrupt by scammers when they not intended to take a loan.
-* Including people into list who does not agree to take any kind of loans could help to protect those people. The person should know how to check, if he is the list through public protected & authenticated service.
+* Including people into list who does not agree to take any kind of loans could help to protect those people. The person have to know how to check, if he is the list through public protected & authenticated service.
 ```
 
 ```
@@ -4121,7 +4100,7 @@ Plausible a man-in-the-middle scam.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Journalist communicate with scammers. Usual suggestion in e-mail world for security reasons: Don't reply to the email of a scammer. In many cases exist possibility to be a victim of a phishing attack.
-* In case of driver license to be treated as personal identification document no unauthorized third parties should be involved in planning, designing, creating, sending and receiving this document.
+* In case of driver license to be treated as personal identification document no unauthorized third parties have to be involved in planning, designing, creating, sending and receiving this document.
 * Article include statement of a scammer, — it's all legal and official. There could be questions added, i.e.: Does this scammer for himself move through the mandatory Driver's Exam? with identity of somebody else? Sample of scammer's price is added in the Article. Scammers are creating and using their own advertisements.
 * Organizational and Examination Rules could be lacking and (or) with issues, so the place in-between would not simply be taken by scammers. Available and suggestions for legal advertisements over communication means could boost trust for getting driver's license in normal way.
 ```
@@ -4255,7 +4234,7 @@ Plausible loss of Money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Description in the Article provide idea about breach of a banking system when plausibly person willingly or unwillingly shared credentials (personal secret access data that newer should be shared with anyone else). Article provide idea that callers were using deception by hidding their real intend of a scam. Usually scammers are talking in foreign language and the Article does not provide any details about this situation.
+* Description in the Article provide idea about breach of a banking system when plausibly person willingly or unwillingly shared credentials (personal secret access data that newer have to be shared with anyone else). Article provide idea that callers were using deception by hidding their real intend of a scam. Usually scammers are talking in foreign language and the Article does not provide any details about this situation.
 * Investment as itself could look similar to gambling, at this time more attention gets a Bond [wikipedia.org](https://lt.wikipedia.org/wiki/Obligacija).
 ```
 
@@ -4275,7 +4254,7 @@ Loss of Availability
 
 From such incidents there are possible to learn a lot. I.e.:
 * According Article this incident is related with technical issues. Protection from Fire System was the culprit. Additional product(s) were needed to purchase and fix this issue.
-* The Article include idea about existence of very Complex Cybersecurity Solution. When failing service is not related with the Internet service, then there should be a question: why this is linked with e.service, that are provided to a number of Customers?
+* The Article include idea about existence of very Complex Cybersecurity Solution. When failing service is not related with the Internet service, a question: why this is linked with e.service, that are provided to a number of Customers?
 ```
 
 ```
@@ -4371,7 +4350,7 @@ Loss of Quality and Performance
 
 From such incidents there are possible to learn a lot. I.e.:
 * Slim protective layer of a product could lead into higher chance for unwanted breaking from environment and man-made Risks.
-* According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2458233/arteja-lietuvos-atsijungimo-nuo-brell-laikas-politikai-ir-ekspertai-ispeja-del-diversiju) a Wire in the Sea could be not at a Seabed, but much more Higher than that. Even on the Ground Wire could be placed in Air & in some aspect could be left in dangerious condition. Inventorization and administration & maintenance of these Assets should be in Place. Specialists should have proper Education to deal with that.
+* According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2458233/arteja-lietuvos-atsijungimo-nuo-brell-laikas-politikai-ir-ekspertai-ispeja-del-diversiju) a Wire in the Sea could be not at a Seabed, but much more Higher than that. Even on the Ground Wire could be placed in Air & in some aspect could be left in dangerious condition. Inventorization and administration & maintenance of these Assets have to be in Place. Specialists require proper Education to deal with that.
 * Number of Agencies are starting to monitor underwater Assets [lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2493837/svedija-tiria-itariama-kabelio-baltijos-juroje-apgadinima). Researchers provide proof, that this happens very often & don't need to link at fault a SCAPEGOAT.
 ```
 
@@ -4390,7 +4369,7 @@ Loss of Availability
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Backups of databases are done in similar periods. During backups clients are redirected to informational page about Maintenance. Backups should be kept safely out of a domain.
+* Backups of databases are done in similar periods. During backups clients are redirected to informational page about Maintenance. Backups have to be kept safely out of a domain.
 ```
 
 ```
@@ -4426,7 +4405,7 @@ Loss of Availability
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Web Sites that are used for services, e.commerce should be maintained and upgraded for providing services to expected maximum number of plausible active users. Server that can't handle this amount of users has risk to receive non-malicious attack of Distributed-Denial-of-Service. 
+* Web Sites that are used for services, e.commerce have to be maintained and upgraded for providing services to expected maximum number of plausible active users. Server that can't handle this amount of users has risk to receive non-malicious attack of Distributed-Denial-of-Service. 
 ```
 
 ```
@@ -4576,7 +4555,7 @@ Plausible loss of money
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Software (e)services provide more easy way to pay for goods and services. Clients should open separate Account on their Bank, so they will not link their main Account with some e.service that could be a target of scammers. Transfering money to this separate Account could take some time, but even so, does this Client is not placed any restrictions to daily-weekly-monthly money transfers?
+* Software (e)services provide more easy way to pay for goods and services. Clients have to open separate Account on their Bank, so they will not link their main Account with some e.service that could be a target of scammers. Transfering money to this separate Account could take some time, but even so, does this Client is not placed any restrictions to daily-weekly-monthly money transfers?
 ```
 
 ```
@@ -4594,7 +4573,7 @@ Plausible loss of money
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* When Office can't ensure, e.g. that man is really what he identifies himself, then this person could challenge the statement that he wanted to take money for real. There could be used data from some data breach. Before handing money to a person financial institution should ensure that innocent client's assets would be not at risk. Highly risky money operations should be stopped.
+* When Office can't ensure, e.g. that man is really what he identifies himself, then this person could challenge the statement that he wanted to take money for real. There could be used data from some data breach. Before handing money to a person financial institution has to ensure that innocent client's assets would be not at risk. Highly risky money operations have to be stopped.
 ```
 
 ```
@@ -4612,7 +4591,7 @@ Plausible loss of money
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Bank institution should need to provide awareness trainings to an elderly.
+* Bank institution needs to provide awareness trainings to an elderly.
 ```
 
 ```
@@ -4636,7 +4615,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/kitos-lietuvos-zinios/policija-gyventojams-siunciamos-melagingos-zinutes-apie-neva-neapmoketas-baudas-uz-greicio-virsijima/) citizens of Lithuania are getting Messages of Short Message Service that include phishing links. Clicking on those links should be avoided.
+According this Article [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/kitos-lietuvos-zinios/policija-gyventojams-siunciamos-melagingos-zinutes-apie-neva-neapmoketas-baudas-uz-greicio-virsijima/) citizens of Lithuania are getting Messages of Short Message Service that include phishing links.
 ```
 
 ```
@@ -4805,7 +4784,7 @@ Loss of Authenticity.
 
 From such incidents there are possible to learn a lot. I.e.:
 * High chance that look-a-like sites are used for phishing. Phishing sites are illegal service, that should be at least blocked.
-* E.commerce and payments are not working & should not work with less secure "http" protocol.
+* E.commerce and payments are not working & has to not work with less secure "http" protocol.
 ```
 
 ```
@@ -4845,7 +4824,7 @@ Loss of Availability
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Planning is necessary for fluent Maintenance. When information about Maintenance changes, then News Agreggators should be re-minded.
+* Planning is necessary for fluent Maintenance. When information about Maintenance changes, then News Agreggators has to send a reminder.
 ```
 
 ```
@@ -4881,8 +4860,8 @@ Loss of Confidentiality.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Credentials Data are Confidential and in most cases a Private Information, w/o permit brute-forcing Authentication Mechanisms are forbidden by Law. Citizens should beware of phishing attacks that could include those Digital Gift Cards. 
-* Authentication Mechanism should include safety-measure(s) that block malicious attacks. Companies should not allow to use small and non-random passwords in Authentication Mechanism. Reminders to change passwords should be welcomed. 
+* Credentials Data are Confidential and in most cases a Private Information, w/o permit brute-forcing Authentication Mechanisms are forbidden by Law. Citizens have to beware of phishing attacks that could include those Digital Gift Cards. 
+* Authentication Mechanism needs to include safety-measure(s) that block malicious attacks. Companies has not allow to use small and non-random passwords in Authentication Mechanism. Reminders to change passwords has to be welcomed. 
 ```
 
 ```
@@ -4907,19 +4886,19 @@ From such incidents there are possible to learn a lot. I.e.:
 * For unregulated Cryptocurrency Market Person is left for his own, it's illegal.
 * When e.service take money without providing accepted by user terms of use & w/o notification, it's illegal.
 * Personal Identification Code could be used for authorization of some actions, awareness after loss of this information could be lacking.
-* Authentication information is Confidential data and by giving this data to other Person there should be legitimate interest through giving permit to represent that person. Systems like that could be a target by scammers too.
+* Authentication information is Confidential data and by giving this data to other Person there have to be legitimate interest through giving permit to represent that person. Systems like that could be a target by scammers too.
 ```
 
 ```
 ##### I ncident
 
-According this check [esveikata.lt](https://www.esveikata.lt/duomenuSauga) provided information lacks of more visibility from e.service owner of commitment to keep "Privacy Policy" intact. According this check [esveikata.lt](https://www.esveikata.lt/slapukai) provided a Sample of Required Cookies as of "to Pay for Services" & ESPBI Information System Regulations include an "Aim" to create effective Payment Control System. There should be a concern that Pharmacy Information Systems provide information to ESPBI Information System and send additional information like Payment Type. The Question: Why You collect data, that are not meant to pursue those Aims of ESPBI System? The Check was conducted of ESPBI (2021) & IPR (2023). According this check [esveikata.lt](https://www.esveikata.lt/) there could be found a Security Measure of "Content Security Policy" and privileges for e.Services from Tech Giants Alphabet and Microsoft. The Question: Does Attack Vector are plausible that somebody would be able to misuse of their Services by phishing message with usage of their Payment System(s)?
+According this check [esveikata.lt](https://www.esveikata.lt/duomenuSauga) provided information lacks of more visibility from e.service owner of commitment to keep "Privacy Policy" intact. According this check [esveikata.lt](https://www.esveikata.lt/slapukai) provided a Sample of Required Cookies as of "to Pay for Services" & ESPBI Information System Regulations include an "Aim" to create effective Payment Control System. There have to be a concern that Pharmacy Information Systems provide information to ESPBI Information System and send additional information like Payment Type. The Question: Why You collect data, that are not meant to pursue those Aims of ESPBI System? The Check was conducted of ESPBI (2021) & IPR (2023). According this check [esveikata.lt](https://www.esveikata.lt/) there could be found a Security Measure of "Content Security Policy" and privileges for e.Services from Tech Giants Alphabet and Microsoft. The Question: Does Attack Vector are plausible that somebody would be able to misuse of their Services by phishing message with usage of their Payment System(s)?
 ```
 
 ```
 ##### R esults
 Plausible lacking of Professional Risk Assessments over System Data Types.
-Data minimisation should be taken more seriously (General Data Protection Reglament).
+Data minimisation has to be taken more seriously (General Data Protection Reglament).
 Highly probable that Clients and Customers does not get relevant information about Payments, Payment Types and they could be more easily fooled.
 ```
 
@@ -4928,7 +4907,7 @@ Highly probable that Clients and Customers does not get relevant information abo
 
 From such incidents there are possible to learn a lot. I.e.:
 * Data minimisation means collecting the minimum amount of personal data that you need to deliver an individual element of your service. Data minimisation does not mean that You have to smash the Data into even Smaller Particles or so.
-* [esveikata.lt](https://www.esveikata.lt/) has some Page for awareness of Risks from scammers. A link of [esveikata.lt](https://www.esveikata.lt/duomenuSauga) provide idea of "Data Security" and "Privacy Policy" inconsistency. The Privacy Policy require to use Informational Structure of Data & Data Types that are related with Clients and Customers. Only then possible to move into "Data Security" & commitment of Data Protection. Assume even Doctor could be a Client, but that does not mean, that this Available Privacy Policy should be made Universal for Doctors & Employees and Clients & Customers.
+* [esveikata.lt](https://www.esveikata.lt/) has some Page for awareness of Risks from scammers. A link of [esveikata.lt](https://www.esveikata.lt/duomenuSauga) provide idea of "Data Security" and "Privacy Policy" inconsistency. The Privacy Policy require to use Informational Structure of Data & Data Types that are related with Clients and Customers. Only then possible to move into "Data Security" & commitment of Data Protection. Assume even Doctor could be a Client, but that does not mean, that this Available Privacy Policy has to be made Universal for Doctors & Employees and Clients & Customers.
 ```
 
 ```
@@ -4966,7 +4945,7 @@ Informational
 
 From such incidents there are possible to learn a lot. I.e.:
 * Law Enforcement has specific use of Social Media Accounts, e.g. Facebook, through [faecbook.com](https://www.facebook.com/records/login/) portal. The Facebook aquired "WhatsApp" and currently their Brand is the company "META" Platform that control all their e.services. At the example of the Facebook other platforms could own similar Portals for Law Enforcement.
-* Now take an example of the Article [kauno.diena.lt](https://m.kauno.diena.lt/naujienos/lietuva/salies-pulsas/narkotiku-prekeiviai-telegrame-iesko-vaiku-talkininku-1179658), that show the Sample of illegal activity through a "Telegram" Social Media. The Social Media of "Telegram" are known of being the fishy platform with part of Community that conduct illegal activity, just like some electronic services, e.g. Onion services, that can only be accessed over Tor BROWSER. Through those services could happen non-minor amount of illegal activities, e.g. phishing, scamming, hacking, bullying, etc. One of a TREND should be an ILLEGAL EMPLOYMENT. Person from various range of Age could be a Victim of this illegal EMPLOYMENT. This are illegal activity too. The Regulation and awareness of fake EMPLOYMENT should have a huge concern by Country Officials. In some example, neighboring Countries for each other could make plausible illegal impact, that without (or in some cases even with) diplomatic relations are hard to fix. 
+* Now take an example of the Article [kauno.diena.lt](https://m.kauno.diena.lt/naujienos/lietuva/salies-pulsas/narkotiku-prekeiviai-telegrame-iesko-vaiku-talkininku-1179658), that show the Sample of illegal activity through a "Telegram" Social Media. The Social Media of "Telegram" are known of being the fishy platform with part of Community that conduct illegal activity, just like some electronic services, e.g. Onion services, that can only be accessed over Tor BROWSER. Through those services could happen non-minor amount of illegal activities, e.g. phishing, scamming, hacking, bullying, etc. One of a TREND has to be an ILLEGAL EMPLOYMENT. Person from various range of Age could be a Victim of this illegal EMPLOYMENT. This are illegal activity too. The Regulation and awareness of fake EMPLOYMENT has a huge concern by Country Officials. In some example, neighboring Countries for each other could make plausible illegal impact, that without (or in some cases even with) diplomatic relations are hard to fix. 
 ```
 
 ```
@@ -5027,7 +5006,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Scammers try to get victims trust and pretend themselves as legitimate employee of some Financial Institution or employee from Law Enforcement. More reads [lb.lt](https://www.lb.lt/lt/kaip-atpazinti-sukcius).
 * Scammers operate through the Phone, Email & Internet Service(s). Lithuanian Bank include awareness training in Financial Education, more interactive content [youtube.com](https://www.youtube.com/watch?v=1cEOS5AzKFc&ab_channel=Lietuvosbankas).
 * Web domain(s) could be controled by scammer(s) & for this reason there are suggested to stop using unknown (or not trusted) web sites, search engines, and to try out using Bookmark (or Favourite) that could keep actual link to Your trusted www Pages. WWW Browser has capability to Sync data, so beware to deploy WWW Browser with Personal & Private Account to Enterprise & Private Environment, because Bookmarks and security credentials gonna be Synced. Example of Bookmarks in leading Browser Solution [google.com](https://support.google.com/chrome/answer/188842).
-* Financial Institution in usual way provide a Personal Client Page. In this Page a Client could find all commitments between Financial Institution & Client. For this reason Client should know all depts that are linked to Client's Digital Entity. Exists e.Services who allows to keep important e.document(s), that are just like a Vault, so You could keep Your commitments until they are still active & actual. 
+* Financial Institution in usual way provide a Personal Client Page. In this Page a Client could find all commitments between Financial Institution & Client. For this reason Client have to know all depts that are linked to Client's Digital Entity. Exists e.Services who allows to keep important e.document(s), that are just like a Vault, so You could keep Your commitments until they are still active & actual. 
 ```
 
 ```
@@ -5126,7 +5105,7 @@ Plausible loss of Privacy
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Customer should have awareness training in situation when need do actions for blocking his personal bank account.
+* Customer need for awareness training in situation when there are necessary actions for blocking his personal bank account.
 ```
 
 ```
@@ -5146,13 +5125,13 @@ Loss of Money
 From such incidents there are possible to learn a lot. I.e.:
 * Doctor's paperwork nowadays are huge with signatures, stamps & Medical prescriptions.
 * Provided Statements: How System could operate, when You complete administration work of something and afterwards all of this data vanishes. Does other information will vanish too? Who's responsible? What to do?
-* System's Information are kept in a Database. When someone want to upgrade this System, he has to update from specific point, that has relationships with Database. New Update could affect relationships in Data, so there would be needed proffesionals Devs that could manage updates & database schema upgrades. When update are developed for very long period of time, then this problem could even increase. In ethical occasion normal System's has ticketing feedback to report errors in the System, plausible even to provide Questions and Answers. Everything depends by policies of a System. Security Representative should not allow to start any administration without periodical  and later on occasional training for how to use the System. When there are no Security Representative for Educating System's Personel or even maybe he don't even understand the System's itself, then quality of a service could deteriorate & etc. etc. I don't think that You could get professional System Representative in Public Sector, because of many factors. In other words this Article would not be posted at all. There is a TREND, that Professional Teams of Developers from Private Sector take hands on System Development and provide adequate Service. Public Sector join knowledge & Personel into Teams to work with Datacenters, so they could afford optimal professionality and cost. 
+* System's Information are kept in a Database. When someone want to upgrade this System, he has to update from specific point, that has relationships with Database. New Update could affect relationships in Data, so there would be needed proffesionals Devs that could manage updates & database schema upgrades. When update are developed for very long period of time, then this problem could even increase. In ethical occasion normal System's has ticketing feedback to report errors in the System, plausible even to provide Questions and Answers. Everything depends by policies of a System. Security Representative have to not allow to start any administration without periodical  and later on occasional training for how to use the System. When there are no Security Representative for Educating System's Personel or even maybe he don't even understand the System's itself, then quality of a service could deteriorate & etc. etc. I don't think that You could get professional System Representative in Public Sector, because of many factors. In other words this Article would not be posted at all. There is a TREND, that Professional Teams of Developers from Private Sector take hands on System Development and provide adequate Service. Public Sector join knowledge & Personel into Teams to work with Datacenters, so they could afford optimal professionality and cost. 
 ```
 
 ```
 ##### I ncident
 
-According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2471594/numeris-banko-balsas-sukciaus-kaip-neapsigauti) Telecommunication Standards allows to change a Phone Number of a Caller and (or) a Name of a Caller, that should be seen while receiving those calls. At this time Scammers gonna fool even more victims.
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2471594/numeris-banko-balsas-sukciaus-kaip-neapsigauti) Telecommunication Standards allows to change a Phone Number of a Caller and (or) a Name of a Caller, that has to be seen while receiving those calls. At this time Scammers gonna fool even more victims.
 ```
 
 ```
@@ -5165,7 +5144,7 @@ Risk: High.
 
 From such incidents there are possible to learn a lot. I.e.:
 * From the Article is plausible to come up with an idea, that a Phonebook of a Phone could be not enough for securing Your Numerlists.
-* By taking whole considerations from the Article there should be suggested to stop using any type of Phone as Authentication measure (e.g. for dials & calls and Short Message Services) and this should be recommended by higher-ups.
+* By taking whole considerations from the Article there have to be suggested to stop using any type of Phone as Authentication measure (e.g. for dials & calls and Short Message Services) and this have to be recommended by higher-ups.
 * The Article include strange point, that old Lithuanian telecommunication number system 8-600-00000 looks a-like to Chinese +86-<...> number system. From the statement plausible to comme up with an idea that the Lithuania is the China. Resources: Phone number system of a China [wikipedia](https://pl.wikipedia.org/wiki/Chi%C5%84ska_Republika_Ludowa) with a calling code of +86 (mainland). Lithuanian phone number system [rrt](https://www.rrt.lt/rrt-ragina-vartotojus-buti-budriais-ir-neperskambinti-itartinais-telefono-rysio-numeriais/?highlight=telefono%20numeracija). Well known situation when from March of 2024 Year from the start positioned number eight has to be changed into a zero [rrt.lt](https://www.rrt.lt/telefono-rysys-internetas-tv/telefono-rysio-numeriai/numeriu-skyrimas/).
 * Lithuania does not deploy security measure for a scammer banning in a telecommunication level. While on the Internet Security [nksc.lt](https://www.nksc.lt/pranesti.html) National Cyber Security Center under the Ministry of Defence accepts phishing Reports of an URL. Single URL Report could stop phishing for whole population, if security related counter-measures are in it's place.
 ```
@@ -5191,7 +5170,7 @@ Plausible loss of Privacy
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Before starting using some service and electronic service Clients should read Terms of Use, Privacy Policy and get to know, if the lended Object belong to him and he has right to share it.
+* Before starting using some service and electronic service Clients have to read Terms of Use, Privacy Policy and get to know, if the lended Object belong to him and he has right to share it.
 ```
 
 ```
@@ -5305,7 +5284,7 @@ Loss of Privacy
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* System's usualy has Common Statements Document & in this document actual domain name should be provided.
+* System's usualy has Common Statements Document & in this document actual domain name has to be provided.
 * How System's Administrator starts working with a System without training from a Security Representative of a System? Common questions, documentation & procedures could be provided through Distance Technologies too, e.g. Teams, Skype, Zoom... Software Products & When there exists Systems, that goes through Accreditation, e.g. [NKSC](https://www.nksc.lt/akreditacija.html), they could use their own Solutions or purchase Available ones, that meet all requirements. This could be something as a Black Chamber of [simonsingh.net](https://simonsingh.net/The_Black_Chamber/) and based on defined policy, e.g. [europa.eu](https://lithuania.representation.ec.europa.eu/europos-komisijos-vaizdo-stebejimo-politika_lt).
 * People with the same First Name and Last Name could be mistaken, e.g. f.last_name@domain.com, first_name.last_name@domain.com. PGP/GPG Keys could be mistaken or even could go through evil middle-man.  
 ```
@@ -5468,9 +5447,9 @@ Plausible loss of Money
 
 From such incidents there are possible to learn a lot. I.e.:
 * The Article include statement, that Police has assigned following case as a Robbery.
-* From Year of 2001 European Union made commitment in combating (computer) fraud and counterfeiting of non-cash means of payments [europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32001F0413). Given samples of Payment Instruments, that should be taken into Account: Credit Cards, EuroCheque Cards, other Cards issued by Financial Institutions, specific Cheques and Bills of Exchange. Cooperation between Member States are the Key for solving cases when scams are conducted by citizens from the European Union.
+* From Year of 2001 European Union made commitment in combating (computer) fraud and counterfeiting of non-cash means of payments [europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32001F0413). Given samples of Payment Instruments, that has to be taken into Account: Credit Cards, EuroCheque Cards, other Cards issued by Financial Institutions, specific Cheques and Bills of Exchange. Cooperation between Member States are the Key for solving cases when scams are conducted by citizens from the European Union.
 * The next Article [ojb.gov](https://www.ojp.gov/library/publications/learning-context-and-other-race-effect-strategies-improving-face-recognition) builds system for Eyewitnesses with the idea of improving Face Recognition Technology. Mug Shots, Photo Robots, Fingerprints could be taken into Account.
-* Communication through Digital Products could have own Flaws. Products, that support scamming, e.g. to change Person's face directly, to include another layer with other Person's face or to hide it w/o notice, should go through awareness training & use of these Products should be discouraged. Manufacturers must ensure, that their Products could have less chance to be used by a scammer.
+* Communication through Digital Products could have own Flaws. Products, that support scamming, e.g. to change Person's face directly, to include another layer with other Person's face or to hide it w/o notice, must be taken through awareness training & usability of these Products has to be discouraged. Manufacturers must ensure, that their Products could have less chance to be used by a scammer.
 ```
 
 ```
@@ -5491,6 +5470,29 @@ Loss of Privacy
 
 From such incidents there are possible to learn a lot. I.e.:
 * State Tax Inspectorate Site include (provide as a Service) required templates for Payments. This means, that both entities does not met all of those requirements.
+```
+
+```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2515354/sukciai-toliau-siaucia-is-triju-zmoniu-isviliojo-beveik-60-tukst-euru) people get scammed over Internet and (or) Telecommunications.
+```
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+Plausible loss of Money
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When Software Application has Vulnerabilities, they are disclosed like usually, e.g. [whatsapp.com](https://www.whatsapp.com/security/advisories/2023/) and [mitre.org](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=whatsapp).
+* CryptoCurrency investments according Lithuanian Bank are risky.
+* Every Citizen has to own Bank Account and keep & get their Salary to it. Pretty much no other ways. Scams by pretending as some kind of an officer from Police, an employee of Bank Institution has to be rare situation.
+* Lack of Digital literacy is more common problem in 3rd Grade Countries.
 ```
 
 ```
