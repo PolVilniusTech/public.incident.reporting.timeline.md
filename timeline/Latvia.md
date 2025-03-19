@@ -121,7 +121,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Does while registering for new Customer there would be possible to build WorkFlow in Stages 1-N? i.e. during Stage 1 You collect required data about the Driver, on other Stage for finishing making Service Available You are removing some personal data of the Client and leave only essential data for the Service like "date when license of the Driver expires" or so?
 * Testing for Security Flaws regarding access to the Database.
 * Management of the Database backups; testing functionality of those backups.
-* Does there are defined policy(-ies) who should be able to access those backups?  
+* Does there are defined policy(-ies) who has ability to access those backups?  
 * [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 * [Authentication (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) 
 ```
@@ -142,10 +142,10 @@ People may be interessted to input their passwords into some website.
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* If Bank Employees does not ask for any passwords, then does it should be different for other e-Services? Your password must be secure and known only by You. Use Your password(s) only in the official place(s) of the e-Service.
+* If Bank Employees does not ask for any passwords, then does it has to be different for other e-Service? Your password must be secure and known only by You. Use Your password(s) only in the official place(s) of the e-Service.
 * Does anyone are giving mutual trust for such Service? Let say, at least HTML link from the trusted Government Subject and other trusted third party.
 * Does the Security of such Service is going thru the audit process? If yes, then who doing this audit? Does the Auditor could be trusted?  
-* If there is legal need for several people to access the some content, then each of person should use their own passwords.
+* If there is legal need for several people to access the some content, then each person needs to use their own passwords.
 * If You think that Your password are known, then You need to change it, but if there are Weaknesses in the Authentication mechanismus, then changing the password at best would help for the time depending how secure are used hash functions.
 * Does hash rotation, when Security depend by not one, but several different strong hash functions, would improve the Security? If database would be leaked, then it would cost a lot more of computation power to reverse engineer different hash functions. 
 * Does Services implement additional password security measures like pepper and salts? Pepper rotation depending by some status would help to improve the password security a lot.   
@@ -217,35 +217,6 @@ The Attack were Graded as Puny.
 From such incidents there are possible to learn a lot. I.e.:
 * If Country-State does not Prevent such Events in International Level, then it means there were Attack Conducted to the Foreign Country from Anonymous backed by Entity-State. These People who are doing, participating, purchasing, requesting, allowing that has to be Punished by International rule-based Law.
 * If attack is Puny then there nothing more to add.
-```
-
-```
-##### I ncident
-
-According [-](https://www.lrt.lt/naujienos/lietuvoje/2/1628142/simasius-skelbia-atsaukiamas-leidimas-didziajam-seimos-gynimo-marsui-stabdys-yandex-veikla-vilniuje) more and more Services are Closed in the Lithuania which are providing e-Services to the Entities-States which Operates more or less by 1% rules and 99% obeys of Political form.
-
-More sources:
-* [@Lrt.lt](https://www.lrt.lt/naujienos/eismas/7/1629105/minske-maziau-pavezeju-bolt-traukiasi-is-baltarusijos)
-* [-](https://www.lrt.lt/naujienos/verslas/4/1627182/aibe-stabdo-rusisku-ir-baltarusisku-prekiu-tiekima-ukrainai-skirs-100-tukst-euru)
-* [-](https://www.lrt.lt/naujienos/verslas/4/1625935/pigu-lt-nutraukia-prekyba-rusiskomis-ir-baltarusiskomis-prekemis)
-* [-](https://www.lrt.lt/naujienos/verslas/4/1626204/lietuvos-pastas-stabdo-rusisku-ir-baltarusisku-prekiu-bei-leidiniu-platinima)
-* [-](https://www.lrt.lt/naujienos/verslas/4/1626363/ekoagros-stabdo-veikla-rusijoje-ir-baltarusijoje)
-
-```
-
-```
-##### R esults 
-Opposite Side would do the same. Usually thats like Monkey Sindrome. 
-```
-
-```
-##### L earning from Mistakes 
-
-From such incidents there are possible to learn a lot. I.e.:
-*    Something is wrong with Geopolitical situation when half of people shout about Ukraine: Crisis and other half - (non-international) War. 
-*    High chance of Puppet regimes to Puppet individuals who are easily used of to do something unethical.
-*    Nowadays most of Discussions happen in the Internet.
-*    Only Internet won't help to the Physical Security of the Country, so there would be needed to increase spending to the Security of all ranges to the 5 GDP.
 ```
 
 ```
