@@ -56,7 +56,7 @@ According [@err.ee](https://www.err.ee/357975/fbi-usa-taotleb-eestis-vahistatud-
 
 From such incidents there are possible to learn a lot. I.e.:
 * Against such Malware exists tools like this one [malwarebytes.com](https://blog.malwarebytes.com/detections/trojan-dnschanger/);
-* For such Incidents there should be available the Raport(s), including how to fix the Problem(s), i.e. [fbi.gov](https://www.fbi.gov/file-repository/dns-changer-malware.pdf/view).
+* For such Incidents there could exists Raport(s), that include how to fix Problems, i.e. [fbi.gov](https://www.fbi.gov/file-repository/dns-changer-malware.pdf/view).
 ```
 
 ```
@@ -146,7 +146,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Does while registering for new Customer there would be possible to build WorkFlow in Stages 1-N? i.e. during Stage 1 You collect required data about the Driver, on other Stage for finishing making Service Available You are removing some personal data of the Client and leave only essential data for the Service like "date when license of the Driver expires" or so?
 * Testing for Security Flaws regarding access to the Database.
 * Management of the Database backups; testing functionality of those backups.
-* Does there are defined policy(-ies) who should be able to access those backups?  
+* Does there are defined policy(-ies) who has ability to access those backups?  
 * [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 * [Authentication (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) 
 ```
@@ -167,10 +167,10 @@ People may be interessted to input their passwords into some website.
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* If Bank Employees does not ask for any passwords, then does it should be different for other e-Services? Your password must be secure and known only by You. Use Your password(s) only in the official place(s) of the e-Service.
+* If Bank Employees does not ask for any passwords, then does it's different for other e-Service? Your password must be secure and known only by You. Use Your password(s) only in the official place(s) of the e-Service.
 * Does anyone are giving mutual trust for such Service? Let say, at least HTML link from the trusted Government Subject and other trusted third party.
 * Does the Security of such Service is going thru the audit process? If yes, then who doing this audit? Does the Auditor could be trusted?  
-* If there is legal need for several people to access the some content, then each of person should use their own passwords.
+* If there is legal need for several people to access the some content, then each of person use their own passwords.
 * If You think that Your password are known, then You need to change it, but if there are Weaknesses in the Authentication mechanismus, then changing the password at best would help for the time depending how secure are used hash functions.
 * Does hash rotation, when Security depend by not one, but several different strong hash functions, would improve the Security? If database would be leaked, then it would cost a lot more of computation power to reverse engineer different hash functions. 
 * Does Services implement additional password security measures like pepper and salts? Pepper rotation depending by some status would help to improve the password security a lot.   
@@ -263,7 +263,7 @@ State could not use specific Software Application for their needs. High chance t
 
 From such incidents there are possible to learn a lot. I.e.:
 * The Terms and Conditions of the [NSO Group Pegasus licence](https://www.nsogroup.com/terms-conditions/) looks more like Criminal Code of Specific Country or State, so at least You would know the Consequences, if You would wish to attemt and do something Fishy. Unfortunately other Country or State Law not equal to another Country or State Law, or has huge-smaller Similarities.
-* Reglaments during the War and for so called Special Operations with Army, Militants, Military, Special Forces which would negatively effect the Country and (or) other Countries, Regulars and Commoners may not work as it should. And later on by Wasting of the Time would lead into searching for ScapeRabbit.
+* Reglaments during the War and for so called Special Operations with Army, Militants, Military, Special Forces which would negatively effect the Country and (or) other Countries, Regulars and Commoners may not work as usually does. And later on by Wasting of the Time would lead into searching for ScapeRabbit.
 * Problems with Countries with Institutions who are using such Apps usualy lack or without concern of having Specialists who would approve and permit usage of such App. These Specialists could be linked to the Human Rights, Law Enforcement. Who would wish to tie their Arms? Some Immigrants had tied their Arms while in Lithuania. Who asked, if they are dangerious?
 * If such Apps would be used by Corrupted States-Countries. It would be needed to Ban the usage of mobile phones, laptops, smart gadgets in specific Sector where information leak would negatively affect Global Security Rating (counting cost of the loss and count of total damage).
 * Such Apps could work by following (random ideas): I. reporting the Weakness and (or) Glitch to the Product of Tech Company and until it is not fixed by update or patch. Until then this Weakness would be used against somebody; II. by not having some Weakness and (or) Glitch to the Product of Tech Company would lead into not working App of Such Company as desired; III. some Weakness and (or) Glitch could be created with the intention and it is especially dangerious when there would be no Tech Professionals who would Fix it or in other words - the Product is too dangerious to be keept in the Production.
