@@ -157,7 +157,7 @@ From such incidents there are possible to learn a lot. I.e.:
 *    If Bank could be Shut Down, then it is nothing better than some kind of Institution for Saving Funds.
 *    100% of Possibility into Increase of Off-shore companies which would be effected and would help to do the same what is not Available in the Country-State.
 *    The Travel via (Space), Air, Road and (or) Sea are in Question.  
-*    Attacks from private-groups in CyberSpace on any Network without proper Agreement usually should be not allowed. Attack could not be called International, if these private-groups operates in the same Geographical Region, the same Country-State.
+*    Attacks from private-groups in CyberSpace on any Network without proper Agreement usually must to be not allowed. Attack could not be called International, if these private-groups operates in the same Geographical Region, the same Country-State.
 *    Allowing International attacks (without Agreement) from private-groups would make Internet Untrusted Space for most Internet Users, so it should be dealt like China do with Zero Covid Rule.
 *    Similar Incidents show: Sometimes (untrusted) private-groups are using Public Person(s) for disclosure of the Information. Always this Public Person takes the blame for everything what were happened and usually no one cares, who hides behind those who grabbed the Information. Unless there are glimps of Human Rights which are Internationally taken as Granted and no one Violate these Rights for such Public Person, but usually switching the Job would be better Opinion to take care of such matters. Does Country-State offers anything for Old-timers?  
 ```
