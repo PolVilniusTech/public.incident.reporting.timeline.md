@@ -5475,7 +5475,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2515354/sukciai-toliau-siaucia-is-triju-zmoniu-isviliojo-beveik-60-tukst-euru) people get scammed over Internet and (or) Telecommunications.
+According these Articles [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2515354/sukciai-toliau-siaucia-is-triju-zmoniu-isviliojo-beveik-60-tukst-euru) and [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2517751/bites-salono-darbuotoju-apsimetes-sukcius-isviliojo-30-tukst-euru) people get scammed over Internet and (or) Telecommunications.
 ```
 
 ```
@@ -5493,6 +5493,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * CryptoCurrency investments according Lithuanian Bank are risky.
 * Every Citizen has to own Bank Account and keep & get their Salary to it. Pretty much no other ways. Scams by pretending as some kind of an officer from Police, an employee of Bank Institution has to be rare situation.
 * Lack of Digital literacy is more common problem in 3rd Grade Countries.
+* Client's Knowledge of Goods and Services could prevent plausible scams, e.g. Does Solar Power Plant gonna be sold by Telecommunication Company? 
 ```
 
 ```
