@@ -722,8 +722,8 @@ From such innocents there are possible to learn a lot. I.e.:
 ##### I nnocent
 
 According [npr.org](https://www.npr.org/2025/01/16/nx-s1-5259837/meteorite-strike-sound-canada-home-security-camera) exists the chance to get hit by Meteorite.
-Following list for those who would be interested:
-* TODO.
+Following list of Meteorites, that landed on Earth, for those who would be interested:
+* [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1920195/desimt-metu-po-vieno-galingiausiu-stebetu-smugiu-celiabinske-kiek-esame-apsaugoti-nuo-galimos-katastrofos).
 * TODO.
 ```
 
