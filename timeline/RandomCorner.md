@@ -747,6 +747,7 @@ According these Articles:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2466442/policija-aiskinasi-kaip-intymios-nuotraukos-is-fotobudeles-bardake-atsidure-internete) exists chance of peep hole (web) cameras who plausibly could be used to spread cyberbullying content.
 * [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2486068/latviu-ministras-nera-panacejos-kovai-su-dronais-virs-kritines-civilines-infrastrukturos) small & cheap sky drone issues are taken in consideration.
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2493278/kariniu-oro-pajegu-aviacijos-bazeje-pastebetas-dronas-sulaikytas-jo-operatorius) sky drone flying above Protection Zone & w/o Permit.
+* [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2518958/saules-elektrinese-negales-buti-kinisku-elementu-verslas-sako-vien-istatymo-nepakaks) Components of Solar Power Plant(s) are controled by 3rd-parties through long distance technologies.
 ```
 
 ```
