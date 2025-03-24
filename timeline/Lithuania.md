@@ -5497,3 +5497,39 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2517407/aptiko-saugumo-spraga-pildyk-vartotojai-kortelemis-galejo-naudotis-ju-neuzregistrave) Telecommunication company had problems in their Network's Configuration.
+```
+
+```
+##### R esults
+Misconfiguration.
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2518544/nauji-sukciavimo-atvejai-is-gyventoju-isviliojo-daugiau-nei-30-tukst-euru) Scammers attack Clients of Investment platforms on the Internet.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
+##### I ncident
+
+According this Article's [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2518620/pagd-pasiruosimo-ekstremalioms-situacijoms-svetaineje-kibernetinis-incidentas) first paragraph — some vulnerable Link was detected & removed from LT72.lt Site.
+```
+
+```
+##### R esults
+Probable Defacement of the Site.
+Loss of Access Countrol.
+```
+
+```
