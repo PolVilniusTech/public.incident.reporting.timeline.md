@@ -5533,3 +5533,16 @@ Loss of Access Countrol.
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2522460/vilniaus-birzu-ir-anyksciu-apylinkese-sukciai-isviliojo-apie-220-tukst-euru) Scammers attack Clients of Investment platforms on the Internet. Scammers know how to use Telecommunications for fooling their victims.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
