@@ -5535,7 +5535,7 @@ Loss of Access Countrol.
 ```
 ##### I ncident
 
-According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2522460/vilniaus-birzu-ir-anyksciu-apylinkese-sukciai-isviliojo-apie-220-tukst-euru) Scammers attack Clients of Investment platforms on the Internet. Scammers know how to use Telecommunications for fooling their victims.
+According these Articles [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2522460/vilniaus-birzu-ir-anyksciu-apylinkese-sukciai-isviliojo-apie-220-tukst-euru) and [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2523594/visagine-sukciai-is-moters-isviliojo-126-tukst-euru) Scammers attack Clients of Investment platforms on the Internet. Scammers know how to use Telecommunications for fooling their victims. Anti-scammers operations to build more centralized & non-slow Network for National Security Protection.
 ```
 
 ```
