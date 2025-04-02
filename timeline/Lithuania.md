@@ -5549,7 +5549,6 @@ Plausible loss of Confidentiality.
 ##### I ncident
 
 According this Article [ELTA&LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2526510/sutriko-e-sveikatos-sistemos-veikla) System of e.Sveikata is not Available for Clients & for Privileged Users of this System. 
-
 ```
 
 ```
@@ -5562,6 +5561,19 @@ Loss of Availability
 
 From such incidents there are possible to learn a lot. I.e.:
 * System could be designed in a way, that typical data could be available in the offline mode. In a situation in return of connectivity data could be synced for new updates. Short term changes in the System are impossible.
+```
+
+```
+##### I ncident
+
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2526792/vilniuje-sukciai-is-gyventoju-isviliojo-bene-30-tukst-euru) Scammers attack their victims using telecommunicaition means and by pretending themselves as Officials.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
 ```
 
 ```
