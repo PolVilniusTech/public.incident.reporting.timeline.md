@@ -5577,3 +5577,14 @@ Plausible loss of Confidentiality.
 ```
 
 ```
+##### I ncident
+
+According following check [trafi.lt](https://trafi.lt/) attempt failed for accessing the Service.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
