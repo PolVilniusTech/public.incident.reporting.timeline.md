@@ -131,3 +131,14 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According check [eba.europa.eu](https://www.eba.europa.eu/) European Banking Authority is Unavailable. 
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
