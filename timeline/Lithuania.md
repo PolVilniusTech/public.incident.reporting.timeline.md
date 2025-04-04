@@ -5588,3 +5588,16 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
+
+According these Articles [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2528705/sukciai-vilnieti-ikalbejo-parduoti-buta-is-kauniecio-isviliojo-beveik-40-tukst-euru) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2527818/sukciu-siautejimas-vilniete-neteko-163-tukst-euru-paneveziete-itikinta-parduoti-buta) exists multiple cases of scamming. Impersonation. Investment Fraud. Phishing. Fake official site or official site with malware. Fake e.shop's basket.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
