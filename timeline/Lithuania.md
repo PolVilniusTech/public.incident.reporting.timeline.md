@@ -5579,7 +5579,7 @@ Plausible loss of Confidentiality.
 ```
 ##### I ncident
 
-According following check [trafi.lt](https://trafi.lt/) attempt failed for accessing the Service.
+According following check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2025-04-05%20TRAFI.LT%20Gateway%20Timeout.PNG) the attempt failed for accessing the Service.
 ```
 
 ```
