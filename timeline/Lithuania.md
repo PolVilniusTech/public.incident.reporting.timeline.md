@@ -5590,7 +5590,7 @@ Loss of Availability
 ```
 ##### I ncident
 
-According these Articles [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2528705/sukciai-vilnieti-ikalbejo-parduoti-buta-is-kauniecio-isviliojo-beveik-40-tukst-euru) and [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2527818/sukciu-siautejimas-vilniete-neteko-163-tukst-euru-paneveziete-itikinta-parduoti-buta) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2529679/sukciai-ivairiais-budais-is-zmoniu-isviliojo-apie-60-5-tukst-euru) exists multiple cases of scamming. Impersonation. Investment Fraud. Phishing. Fake official site or official site with malware. Fake e.shop's basket. Skimming & w/o permission access to information system. SMART-ID scam.
+According these Articles [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2528705/sukciai-vilnieti-ikalbejo-parduoti-buta-is-kauniecio-isviliojo-beveik-40-tukst-euru) and [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2527818/sukciu-siautejimas-vilniete-neteko-163-tukst-euru-paneveziete-itikinta-parduoti-buta) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2529679/sukciai-ivairiais-budais-is-zmoniu-isviliojo-apie-60-5-tukst-euru) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2529983/laimetas-konkursas-virto-nuostoliais-sukciai-is-vilnietes-isviliojo-23-tukst-euru) exists multiple cases of scamming. Impersonation. Investment Fraud. Phishing. Fake official site or official site with malware. Fake e.shop's basket. Skimming & unprivileged access to information system. SMART-ID scam. "Messenger" scam.
 ```
 
 ```
