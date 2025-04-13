@@ -5596,6 +5596,7 @@ According following Articles in down-bellow happened high amount of scamming cas
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2529679/sukciai-ivairiais-budais-is-zmoniu-isviliojo-apie-60-5-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2529983/laimetas-konkursas-virto-nuostoliais-sukciai-is-vilnietes-isviliojo-23-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2534570/sukciai-is-zmoniu-apgaule-isviliojo-apie-55-6-tukst-euru).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2535680/sukciai-is-vyro-vilniaus-rajone-isviliojo-13-tukst-euru).
 ```
 
 ```
