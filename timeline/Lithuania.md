@@ -5597,8 +5597,8 @@ According following Articles in down-bellow happened high amount of scamming cas
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2529983/laimetas-konkursas-virto-nuostoliais-sukciai-is-vilnietes-isviliojo-23-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2534570/sukciai-is-zmoniu-apgaule-isviliojo-apie-55-6-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2535680/sukciai-is-vyro-vilniaus-rajone-isviliojo-13-tukst-euru);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2540024/sukciai-nesnaudzia-siauliu-ir-kedainiu-gyventojai-prarado-beveik-27-tukst-euru).
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2544959/sukciai-nemiega-apsimesdami-prokuroru-ir-giminaite-is-senjoru-isviliojo-52-5-tukst-euru).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2540024/sukciai-nesnaudzia-siauliu-ir-kedainiu-gyventojai-prarado-beveik-27-tukst-euru);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2544959/sukciai-nemiega-apsimesdami-prokuroru-ir-giminaite-is-senjoru-isviliojo-52-5-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2546039/sukciai-vel-pasidarbavo-gyventojai-neteko-beveik-95-tukst-euru).
 ```
 
