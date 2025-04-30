@@ -5611,3 +5611,14 @@ Plausible loss of Confidentiality.
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2550561/testuojant-gyventoju-perspejimo-sistema-trumpam-sutriko-lrt-lt-veikla) for short duration of time legitimate users could not access the Website of lrt.lt. 
+```
+
+```
+##### R esults
+Limited loss of Availability
+```
+
+```
