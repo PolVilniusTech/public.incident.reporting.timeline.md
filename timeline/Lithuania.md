@@ -5599,7 +5599,8 @@ According following Articles in down-bellow happened high amount of scamming cas
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2535680/sukciai-is-vyro-vilniaus-rajone-isviliojo-13-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2540024/sukciai-nesnaudzia-siauliu-ir-kedainiu-gyventojai-prarado-beveik-27-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2544959/sukciai-nemiega-apsimesdami-prokuroru-ir-giminaite-is-senjoru-isviliojo-52-5-tukst-euru);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2546039/sukciai-vel-pasidarbavo-gyventojai-neteko-beveik-95-tukst-euru).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2546039/sukciai-vel-pasidarbavo-gyventojai-neteko-beveik-95-tukst-euru);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2550076/sukciai-is-vilniaus-ir-siauliu-rajono-gyventoju-isviliojo-35-tukst-euru).
 ```
 
 ```
