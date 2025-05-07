@@ -5635,7 +5635,7 @@ A web source for impersonation and phishing attacks.
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2555680/sukciai-is-vilnietes-is-vilnietes-isviliojo-beveik-30-tukst-euru) scammers using telecommunicaition means fooled their victime.
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2555680/sukciai-is-vilnietes-is-vilnietes-isviliojo-beveik-30-tukst-euru) scammers using telecommunicaition means fooled their victim.
 ```
 
 ```
