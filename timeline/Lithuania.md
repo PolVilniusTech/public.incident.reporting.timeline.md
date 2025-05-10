@@ -5637,7 +5637,8 @@ A web source for impersonation and phishing attacks.
 
 Following Articles are related to a Scam:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2555680/sukciai-is-vilnietes-is-vilnietes-isviliojo-beveik-30-tukst-euru) scammers are using telecommunicaition means to fool their victim;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2557765/sukciai-per-kelias-dienas-is-lietuvos-gyventoju-saskaitu-susizere-per-100-tukst-euru) scammers are using telecommunicaition means, impersonation & retrieve of confidential data, flawed investment platform.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2557765/sukciai-per-kelias-dienas-is-lietuvos-gyventoju-saskaitu-susizere-per-100-tukst-euru) scammers are using telecommunicaition means, impersonation & conduct retrieval of confidential data, flawed investment platform;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2558722/sukciai-vel-padare-dideliu-nuostoliu-gyventojams-isviliojo-per-96-tukst-euru) scammers are using dating software apps, telecommunicaition means, impersonation & conduct retrieval of confidential data, phishing over e-mail, impersonation & connecting to computer through distance administration software apps, fraud attacks & plausible a fake website for phishing. 
 ```
 
 ```
