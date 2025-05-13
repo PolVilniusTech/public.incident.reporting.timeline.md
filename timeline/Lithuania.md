@@ -5649,3 +5649,40 @@ Plausible loss of Confidentiality.
 ```
 
 ```
+##### I ncident
+According the Article [ELTA](https://www.lrt.lt/naujienos/svietimas/45/2560873/plagiato-tikrinimo-sistema-naudojusiu-studentu-duomenys-galimai-atsidure-jav-serveriuose) exists risks for data leakage, incl. privacy data, from widely used Plagiarism checker.
+```
+
+```
+##### R esults
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Plagiarism checkers, e.g. [Grammarly](https://www.grammarly.com/plagiarism-checker), [Plag](https://www.plag.lt/), [TurnitIn](https://www.turnitin.com/) provide service for comparing uploaded document with already existing document in their Database. Improperly secured legal environment could mean a plausible loss of Content, that are available in these documents, e.g. Business Information, Personal Information like Plain Passwords to some test environment(s), etc. With a costless or payless Service this data could have more uncertainty future. Willingly given data could be used as Service Owner would see fit of that.
+* Simple rule: Does there are trustworthy system to check Your password security? What, if upon a try, this password gonna be retrieved & used by third parties. 
+```
+
+```
+##### I ncident
+
+According the Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2560855/sutriko-registru-centro-veikla-istaiga-negali-aptarnauti-klientu) legal entity [registrucentras.lt](https://www.registrucentras.lt/) and it's e.services are unavailable.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Article does not point out, that all services, that depend by [registrucentras.lt](https://www.registrucentras.lt/) system could be an unavailable.
+```
+
+```
