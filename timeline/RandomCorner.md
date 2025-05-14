@@ -258,7 +258,7 @@ Fact check & Disinformation.
 
 From such innocents there are possible to learn a lot. I.e.:
 * In the International and Foreign relations usually plausible to inform each other and get permission, i.e. testing out readiness. This could be done by third entity with or w/o consent of previous entities.
-* For creating a fake content w/o historical correct events and by adding grain of salt to it could make this more linke a "Propaganda". Lithuania are in need of Researchers in Disinformation and Propaganda in their native language to boost Resistance from the Disinformation. The following Article: [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2402008/vu-mokslininkai-kuria-inovatyviu-dirbtinio-intelekto-iranki-propagandai-aptikti).
+* For creating a fake content w/o historical correct events and by adding grain of salt to it could make this more linke a "Propaganda". Lithuania are in need of Researchers in Disinformation and Propaganda in their native language to boost Resistance from the Disinformation, e.g. [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2561293/platinamas-propagandinis-leidinys-rusija-bando-paveikti-per-istorijos-interpretacijas). The following Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2402008/vu-mokslininkai-kuria-inovatyviu-dirbtinio-intelekto-iranki-propagandai-aptikti) include problem, that is meant to be solved with use of Artificial Intelligence.
 * Idea about disinformation in social media in the following Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2402027/socialiniai-tinklai-ir-propaganda-ar-tikrai-gebame-atskirti-tiesa-nuo-melo). When Articles could include both: how specific process protects and how this specific process could harm, then hegemonia gonna end? e.g. when this Article provide information about "COVID-19" and that spreaded information are all false, then You could add something true [Smitha Mundasad](https://www.bbc.com/news/health-56674796).
 ```
 
@@ -661,7 +661,8 @@ From such innocents there are possible to learn a lot. I.e.:
 
 This Article [LRT.lt](https://www.lrt.lt/naujienos/kultura/12/2455136/knygyne-vilniuje-kremliaus-propaganda-pabaltijys-netapo-tikrais-europieciais) provide information about highly likely disinformation printed material, that is written in spoken language, which make approx. 3,14 percent of World-Wide population (from 8.2 billion).
 More of same Content:
-* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2464822/baisu-as-apakes-knygyne-vilniuje-atlasai-kuriuose-krymas-rusijos-dalis)
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2464822/baisu-as-apakes-knygyne-vilniuje-atlasai-kuriuose-krymas-rusijos-dalis);
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2561293/platinamas-propagandinis-leidinys-rusija-bando-paveikti-per-istorijos-interpretacijas).
 ```
 
 ```
