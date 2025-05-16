@@ -315,3 +315,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+### 2025
+
+##### I ncident
+
+By taking into account this Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2564976/pries-lenkijos-valdanciuju-tinklapi-surengta-kibernetine-ataka) and previous Knowledge [ELTA](https://www.lrt.lt/pl/wiadomosci/1261/2555286/wicepremier-polski-rosja-ingeruje-w-wybory-prezydenckie) there are DDoS attacks in various sectors.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Security measures [PAP](https://www.lrt.lt/pl/wiadomosci/1261/2528224/gawkowski-w-2025-r-wydajemy-najwiecej-w-historii-polski-na-cyberbezpieczenstwo), that were deployed for the Country, that are significantly & numerous times attacked Country in the whole World. 
+```
+
+```
