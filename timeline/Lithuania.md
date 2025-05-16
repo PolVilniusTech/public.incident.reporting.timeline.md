@@ -5686,3 +5686,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2564465/salcininku-rajone-ir-klaipedoje-sukciai-is-zmoniu-isviliojo-apie-48-5-tukst-euru) scammers are using telecommunicaition means to fool their victims.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Driver's accident tricks of scammers could be prevented: call for (Road) Police to fill accident documents.
+* There could exists other Privacy related issues when Drivers are mounting webcams on their Vehicles & don't use anonymization tools while disclosing information in their Social Media, other public Cyber Space. Scammers could use this information for searching of their Targets.
+```
+
+```
