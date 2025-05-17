@@ -331,7 +331,7 @@ Loss of Availability.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*  Security measures [PAP](https://www.lrt.lt/pl/wiadomosci/1261/2528224/gawkowski-w-2025-r-wydajemy-najwiecej-w-historii-polski-na-cyberbezpieczenstwo), that were deployed for the Country, that are significantly & numerous times attacked Country in the whole World. 
+*  Security measures [PAP](https://www.lrt.lt/pl/wiadomosci/1261/2528224/gawkowski-w-2025-r-wydajemy-najwiecej-w-historii-polski-na-cyberbezpieczenstwo), that were deployed for the Country, that are significantly & numerous times attacked Country in the World. Understanding about CyberSecurity could be lacking, e.g. according [statista](https://www.statista.com/statistics/873097/malware-attacks-per-year-worldwide/) most of Countries, that got disrupted by malicious software and malicious source code to victim's computer infrastructure, occurred in the Asia-Pacific region in 2023. At the same time, not all Malware related incidents could be related to Cyber Incident, because some of them could be deployed through computer storage means like flash drive(s), etc.
 ```
 
 ```
