@@ -5687,6 +5687,7 @@ From such incidents there are possible to learn a lot. I.e.:
 
 ```
 ##### I ncident
+
 According the Articles [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2564465/salcininku-rajone-ir-klaipedoje-sukciai-is-zmoniu-isviliojo-apie-48-5-tukst-euru) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2564465/sukciai-is-zmoniu-ivairiais-budais-isviliojo-apie-65-8-tukst-euru) scammers are using telecommunicaition means, phishing & look-a-like sites, e-mail service to fool their victims.
 ```
 
@@ -5704,6 +5705,23 @@ From such incidents there are possible to learn a lot. I.e.:
 * Driver's accident tricks of scammers could be prevented: call for (Road) Police to fill accident documents.
 * There could exists other Privacy related issues when Drivers are mounting webcams on their Vehicles & don't use anonymization tools while disclosing information in their Social Media, other public Cyber Space. Scammers could use this information for searching of their Targets.
 * Site [vmi.lt](https://www.vmi.lt/evmi/?lang=en) has machine translated content for foreign languages. It expects, that all translations are perfect.
+```
+
+```
+##### I ncident
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2564771/buvusi-birzu-chirurga-papiktino-ligonineje-irengtos-vaizdo-kameros-sios-net-operacineje) the Hospital w/o consent does technological video surveillance.
+```
+
+```
+##### R esults
+Loss of Privacy
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Employess & Clients should be informed regarding video surveillance. Does exists possibility to reject consent of this type of surveillance?
 ```
 
 ```
