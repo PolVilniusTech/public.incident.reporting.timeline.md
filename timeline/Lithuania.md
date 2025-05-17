@@ -5688,7 +5688,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the Articles [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2564465/salcininku-rajone-ir-klaipedoje-sukciai-is-zmoniu-isviliojo-apie-48-5-tukst-euru) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2564465/sukciai-is-zmoniu-ivairiais-budais-isviliojo-apie-65-8-tukst-euru) scammers are using telecommunicaition means, phishing & look-a-like sites, e-mail service to fool their victims.
+According the Articles [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2564465/salcininku-rajone-ir-klaipedoje-sukciai-is-zmoniu-isviliojo-apie-48-5-tukst-euru), [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2564465/sukciai-is-zmoniu-ivairiais-budais-isviliojo-apie-65-8-tukst-euru) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2565336/sukciai-is-gyventoju-isviliojo-per-70-tukst-euru) scammers are using telecommunicaition means, impersonation, investment fraud, phishing & look-a-like sites, e-mail service to fool their victims.
 ```
 
 ```
