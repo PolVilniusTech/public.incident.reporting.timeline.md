@@ -5725,3 +5725,16 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Articles [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2570620/sukciai-ivairiais-budais-is-zmoniu-apgaule-isviliojo-apie-190-tukst-euru) scammers are using telecommunicaition means, impersonation, investment fraud, phishing & (crypto) investment platforms, internet platforms & services to fool their victims.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
