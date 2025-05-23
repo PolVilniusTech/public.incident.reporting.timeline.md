@@ -819,3 +819,21 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According [europa.eu](https://ec.europa.eu/digital-building-blocks/sites/display/EUDIGITALIDENTITYWALLET/What+is+the+wallet) and [ELTA](https://www.lrt.lt/naujienos/eismas/7/2571678/vairuojanciuju-lietuvoje-laukia-pokyciai-vairuotojo-pazymejimas-atrodys-kitaip) EU Digital Identity Wallets could go as Mandatory, because EU Member States already offer its own wallet Software app's at some level. 
+```
+
+```
+##### R eseach
+Plausible of building a new level of Monopoly.
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* There are no clear indication how the change could affect important goals [un.org](https://www.un.org/sustainabledevelopment/climate-action/).
+* Mobile Phone Industry want to remove Personal Computer Industry and don't offer Web-based Services alongside Software Apps. Even so, the Google Chromium [opensource.google](https://opensource.google/projects/chromium/) already is a Monopoly and don't have to offer alternatives for a safer, faster, and more stable web browsing. Less Cross-platform & more-Monopoly trend could be seen by those who should show the Example. 
+```
+
+```  
