@@ -749,6 +749,7 @@ According these Articles:
 * [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2486068/latviu-ministras-nera-panacejos-kovai-su-dronais-virs-kritines-civilines-infrastrukturos) small & cheap sky drone issues are taken in consideration.
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2493278/kariniu-oro-pajegu-aviacijos-bazeje-pastebetas-dronas-sulaikytas-jo-operatorius) sky drone flying above Protection Zone & w/o Permit.
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2518958/saules-elektrinese-negales-buti-kinisku-elementu-verslas-sako-vien-istatymo-nepakaks) Components of Solar Power Plant(s) are controled by 3rd-parties through long distance technologies.
+* [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2574008/eksperimentas-alytuje-atliekas-i-konteinerius-ismes-tik-su-raktu-ar-specialia-programele) Regions could open possibility for legislation, that could deploy (web) cameras in private spaces.
 ```
 
 ```
@@ -763,7 +764,7 @@ From such innocents there are possible to learn a lot. I.e.:
 * Let's build a Question: How Scammers get somebody's payment cards? stealing, social engineering people for handing their Assets or just use SKIMMING Tools. When Client place his own credit and (or) payment card into ATM, then exists risks, e.g. Exist Artificial Device(s), that is(are) placed on (or nearby) the ATM just for stealing sensitive information-PIN code and (or) cloning original card. In this situation Internet Communications could be taken into account that exists not-official web camera or artificial keyboard). Does Financial Institutions who own ATMs provide security measures to be aware on their perimeter? Does previous ATM and next version of ATMs changes are communicated out to their Clients? Other risk could be a non-secure Hardware & Software Device (or Product). Inventory Management and Maintenance are needed for ensuring whole Life-Cycle of the Product.
 * Lithuanian Bank recommend to stop sharing any vulgar pictures and videos [lb.lt](https://www.lb.lt/uploads/documents/images/Sukciavimo%20tipai%202023%2003%2014-02.jpg). The General Data Protection Regulation (GDPR) is the toughest privacy and security law in the world. Though it was drafted and passed by the European Union (EU), it imposes obligations onto organizations anywhere, so long as they target or collect data related to people in the EU [europa.eu](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng).
 * The Article of IoT provide idea of countermeasures against IoT flying drones, e.g. something as: conduct interruption of communication, to make it laggy & slow, very slow, maybe even in point of freeze. Detectability of an Operator (who control the sky drone(s)) could help to stop the following intrusion into Restricted Area.
-
+* Approach of a law uses hierarchial chain with open concerns and possibilities for this Document to provide a clear information and guidance in hardware management, e.g. (web) camera's use case. This Document shall (or should, when additional regulations and legislations has to be taken into account) ensure privacy, cybersecurity & information security. There are no optimal way to use a single (web) camera, because of physical security view point: two (web) cameras should be pointed to each others path. In this occasion more problems for illegal actions could be created.
 ```
 
 ```
