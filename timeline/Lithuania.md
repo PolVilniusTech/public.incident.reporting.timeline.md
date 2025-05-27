@@ -5727,7 +5727,11 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According Articles [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2570620/sukciai-ivairiais-budais-is-zmoniu-apgaule-isviliojo-apie-190-tukst-euru), [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2571681/sukciai-is-triju-moteru-isviliojo-apie-23-3-tukst-euru) & [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2573024/praejusia-para-virtine-nusikaltimu-sukciai-is-gyventoju-isviliojo-tukstancius-euru) scammers are using telecommunicaition means, impersonation, investment fraud, phishing & (crypto) investment platforms, internet platforms & services to fool their victims.
+According following Articles scammers are using telecommunicaition means, impersonation, investment fraud, phishing & (crypto) investment platforms, internet platforms & services to fool their victims:
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2570620/sukciai-ivairiais-budais-is-zmoniu-apgaule-isviliojo-apie-190-tukst-euru);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2571681/sukciai-is-triju-moteru-isviliojo-apie-23-3-tukst-euru);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2573024/praejusia-para-virtine-nusikaltimu-sukciai-is-gyventoju-isviliojo-tukstancius-euru);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2575020/sukciai-is-keturiu-gyventoju-isviliojo-per-120-tukst-euru).
 ```
 
 ```
