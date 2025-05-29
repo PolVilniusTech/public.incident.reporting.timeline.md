@@ -117,3 +117,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2577220/kova-su-antsvoriu-kai-dirbtinis-intelektas-tampa-gydytoju-dietologu-vaistininku) provided idea, that random Artificial Intelligence Software can't be right tool in the Health Sector, because of lacking health data.
+```
+
+```
+##### R esults 
+Loss of Theoretical Availability
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* At this time Persons could share their Health Conditions at Social Media publickly. History records of health should not be shared, because of scammers.
+* Food Supplements could be purchased in the Supermarket, online trade dealers (or Agents) offers their Services through telecommunication means & in-process person could share sensitive information, that could lead to another wave of scamming.
+* Differences between Artificial Intelligence Software vs Artificial Narrow Intelligence Software could be taken into the Account.
+* At this time exists hacking incidents inside Health Facilities. Through loss of personal health data exists possibility to get small amount of refund money according General Data Protection Reglament.
+* One important aspect for getting Work is the Health Status. Fabricated and (or) misleading data, content, methodologies could be reason of miscommunication, that leads into loss of life.  
+```
+
+```
