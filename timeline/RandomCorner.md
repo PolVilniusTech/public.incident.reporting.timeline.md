@@ -838,3 +838,22 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```  
+##### I nnocent
+
+This Regulation [europa.eu](https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:32022R0263) provide information about dual purpose Products, that are sanctioned by the E.U. It include import restrictions, financing or financial assistance or insurance and reinsurance restrictions & prohibited goods and technologies for selling, supplying, transferring or exporting.
+```
+
+```
+##### R eseach
+Control Measures for Dual Purpose Software and Hardware Products
+```
+
+```
+##### L earning from Mistakes 
+
+From such innocents there are possible to learn a lot. I.e.:
+* The Regulation in the first Appendix (a.k.a. Annex) include list of Websites, that vary depending location of each E.U. Member. Each Member could have their own sanction list, so this Regulation include unified list of sanctions from transport, telecommunications, energy, actions with Earth resources & Earth resources.
+* Restrictions directly & indirectly gonna impact common persons, because Article fifteen (15) are related with persons inside & outside of the Union who is a national of a Member State, legal persons, entity or body inside & outside of the Union's territory. The High chance, that Services won't try to deal with either Side to not be sanctioned. Does it worth?
+```
+
+```
