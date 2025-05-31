@@ -678,6 +678,7 @@ From such innocents there are possible to learn a lot. I.e.:
 * The Article has a hunch to the Freedom of Expression [amnesty.org](https://www.amnesty.org/en/what-we-do/freedom-of-expression/).
 * The Article has the Statement: The Censorship in Lithuania is Forbidden.
 * The Geographical Map Article (e.service approach): International Electronic Services take accustomed by local laws, e.g. Google "Understand country borders and names" according their open Question & Answer Site [google.com](https://support.google.com/maps/answer/3145721?hl=en). They use approach of "local versions of Google Maps" & "follow local legislation when displaying names and borders".
+* Kind a situation, that in [LRT.lt](https://www.lrt.lt/naujienos/lrt-tyrimai/5/2576876/tarptautinis-tyrimas-kremliaus-pravfondas-reme-ir-skandalinga-lietuvos-istorija) provided idea of "Tribunal", but about the meaning of Tribunal could be found in [wikipedia.org](https://en.wikipedia.org/wiki/Tribunal). This show, that it could be hard to find illegal program from huge number of applicants & distribute money with more care, e.g. of Fund for Media [BNS](https://www.lrt.lt/naujienos/kultura/12/2179699/reikia-trumpinti-diskusijas-ir-greiciau-vaziuoti-i-rezultata-kairys-ragina-mediju-fondo-taryba-skelbti-konkursa).
 ```
 
 ```
