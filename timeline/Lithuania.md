@@ -5733,7 +5733,8 @@ According following Articles scammers are using telecommunicaition means, Social
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2573024/praejusia-para-virtine-nusikaltimu-sukciai-is-gyventoju-isviliojo-tukstancius-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2575020/sukciai-is-keturiu-gyventoju-isviliojo-per-120-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2577593/sukciai-nesnaudzia-per-treciadieni-is-zmoniu-isviliojo-apie-106-8-tukst-euru);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2578099/sukciai-auku-ieskojo-pokalbiu-programeleje-telegram-ir-apsimete-policininkais).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2578099/sukciai-auku-ieskojo-pokalbiu-programeleje-telegram-ir-apsimete-policininkais);
+* [ELTA&BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2578964/keturi-zmones-policijai-pranese-apgaule-prarade-per-247-tukst-euru).
 ```
 
 ```
