@@ -858,3 +858,13 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I nnocent
+According [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2576011/lietuvoje-pernai-fiksuota-pusantro-karto-daugiau-kibernetiniu-incidentu) new Trend of Social Engineering attacks are taking place into leaking an information (Main Cause).
+```
+
+```
+##### R eseach
+Social Engineering
+```
+
+```
