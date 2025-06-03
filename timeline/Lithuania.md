@@ -5727,14 +5727,15 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According following Articles scammers are using telecommunicaition means, Social Engineering, impersonation, investment fraud, phishing & (crypto) investment platforms, internet platforms, social media & services to fool their victims:
+According following Articles scammers are using telecommunicaition means, Social Engineering, impersonation, investment fraud, agreement fraud, phishing & (crypto) investment platforms, internet platforms, social media & services to fool their victims:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2570620/sukciai-ivairiais-budais-is-zmoniu-apgaule-isviliojo-apie-190-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2571681/sukciai-is-triju-moteru-isviliojo-apie-23-3-tukst-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2573024/praejusia-para-virtine-nusikaltimu-sukciai-is-gyventoju-isviliojo-tukstancius-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2575020/sukciai-is-keturiu-gyventoju-isviliojo-per-120-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2577593/sukciai-nesnaudzia-per-treciadieni-is-zmoniu-isviliojo-apie-106-8-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2578099/sukciai-auku-ieskojo-pokalbiu-programeleje-telegram-ir-apsimete-policininkais);
-* [ELTA&BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2578964/keturi-zmones-policijai-pranese-apgaule-prarade-per-247-tukst-euru).
+* [ELTA&BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2578964/keturi-zmones-policijai-pranese-apgaule-prarade-per-247-tukst-euru);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2580647/sukciai-toliau-siaucia-is-zmoniu-isviliojo-beveik-110-tukst-euru).
 ```
 
 ```
@@ -5750,6 +5751,7 @@ Plausible loss of Confidentiality.
 From such incidents there are possible to learn a lot. I.e.:
 * When scamming are profitable, then exists trend for (World-wide) teaching facilities to make more scamming schemes. The Scamming is a Business. [LRT](https://www.lrt.lt/naujienos/lietuvoje/2/2560803/sukciavimo-epidemija-lietuvoje-aferistai-ruosiami-specialiuose-mokymo-centruose-uzsienyje). This is very similar as Phishing Campaigns through Web Systems.
 * Persons are needed for possibility to link correct (or good) e.shops with their e.Portals. There could be expectations from [registrucentras.lt](https://www.registrucentras.lt/), because they offer public information about legal persons & entities. If Scam could happen easily and Clients does not get legal protection as they shall get that, then as result could be included: loss of trust.
+* By taking into Account this Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2579108/japonijos-kova-su-sukciais-dirbtinis-intelektas-pokalbiu-analize-ir-itartini-numeriai) there could be suggested: to find locations where money are scammed at most cases and to conduct an information campaign; to build mobile phones with simple call recording capabilities (a.k.a. how often distance applications are used for recording Internet Conferences? Data Security over this?); Software Application, that checks Mobile Phone Number in Database of known Scammers; More International Cooperation in dealing with Scammers; Analysis of a call with Automated Mechanisms & Machine Learning Stuff (usually most of operating systems include some level of "virtual assistant" capability, but their functionality in legal situation kind a limited and (or) narrow as chat-bot, subscribing, purchase-of-tickets..., so there would be needed for more to security & data protection related functionality).
 ```
 
 ```
