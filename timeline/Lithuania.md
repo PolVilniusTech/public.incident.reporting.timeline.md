@@ -5735,7 +5735,8 @@ According following Articles scammers are using telecommunicaition means, Social
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2577593/sukciai-nesnaudzia-per-treciadieni-is-zmoniu-isviliojo-apie-106-8-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2578099/sukciai-auku-ieskojo-pokalbiu-programeleje-telegram-ir-apsimete-policininkais);
 * [ELTA&BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2578964/keturi-zmones-policijai-pranese-apgaule-prarade-per-247-tukst-euru);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2580647/sukciai-toliau-siaucia-is-zmoniu-isviliojo-beveik-110-tukst-euru).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2580647/sukciai-toliau-siaucia-is-zmoniu-isviliojo-beveik-110-tukst-euru);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2581568/klaipedoje-ir-vilniuje-sukciai-isviliojo-55-4-tukst-euru).
 ```
 
 ```
