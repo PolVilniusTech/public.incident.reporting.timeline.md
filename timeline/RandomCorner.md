@@ -684,7 +684,7 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 ##### I nnocent
 
-This Site [LRT.lt](www.lrt.lt) and common search for information about Scammers produce about Five Hundred Articles.
+This Site [LRT.lt](https://www.lrt.lt) over common search about Scammers produce about Five Hundred Articles.
 Search about Scam & Scammers in [github.com](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/timeline/Lithuania.md) Lithuanian Branch repeats about 166 times.
 ```
 
@@ -698,6 +698,7 @@ Why there are too much Scammers & Scams around? (Lithuanian Sample)
 
 From such innocents there are possible to learn a lot. I.e.:
 * Take a look from what People jokes? e.g. [lrt.lt](https://lnk.lt/priciupom-1-sezonas/292041) as funny elements for around of 80 percent per programme are taken by scamming people. Does scamming is even funny? It's for lt. pižonas (fr. pigeon) – narcissist, or commonly just a fool.
+* Take a look about a "Click Bait"! Article type, e.g. [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/214745/investuoti-kviecianciu-sukciu-interneto-svetaines-bus-blokuojamos).
 ```
 
 ```
