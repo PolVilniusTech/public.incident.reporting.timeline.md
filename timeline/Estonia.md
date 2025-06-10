@@ -410,3 +410,14 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According these Articles [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2586272/laikinai-buvo-sutrikusi-estijos-vrm-pavaldziu-istaigu-it-veikla) and [siseministeerium](https://www.siseministeerium.ee/uudised/siseministeeriumi-asutuste-it-teenuste-tavaparane-too-taastunud-kell-934-siseministeeriumi) Information Technology systems had temporary downtime of institutions, that are related to Ministry of Interior.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
