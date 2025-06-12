@@ -5738,7 +5738,9 @@ According following Articles scammers are using telecommunicaition means, Social
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2580647/sukciai-toliau-siaucia-is-zmoniu-isviliojo-beveik-110-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2581568/klaipedoje-ir-vilniuje-sukciai-isviliojo-55-4-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2583599/vilniuje-sulaikytas-telefoninis-sukcius-bandes-isvilioti-14-tukst-euru);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2586037/grigiskese-is-moters-isvilioti-10-tukst-euru).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2586037/grigiskese-is-moters-isvilioti-10-tukst-euru);
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-zmoniu-apgaule-isviliojo-apie-1025-tukst);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2588650/sukciai-apgavo-salcininku-ir-kedainiu-gyventojus-pasisavino-23-5-tukst-euru).
 ```
 
 ```
@@ -5756,6 +5758,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Persons are needed for possibility to link correct (or good) e.shops with their e.Portals. There could be expectations from [registrucentras.lt](https://www.registrucentras.lt/), because they offer public information about legal persons & entities. If Scam could happen easily and Clients does not get legal protection as they shall get that, then as result could be included: loss of trust.
 * By taking into Account this Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2579108/japonijos-kova-su-sukciais-dirbtinis-intelektas-pokalbiu-analize-ir-itartini-numeriai) there could be suggested: to find locations where money are scammed at most cases and to conduct an information campaign; to build mobile phones with simple call recording capabilities (a.k.a. how often distance applications are used for recording Internet Conferences? Data Security over this?); Software Application, that checks Mobile Phone Number in Database of known Scammers; More International Cooperation in dealing with Scammers; Analysis of a call with Automated Mechanisms & Machine Learning Stuff (usually most of operating systems include some level of "virtual assistant" capability, but their functionality in legal situation kind a limited and (or) narrow as chat-bot, subscribing, purchase-of-tickets..., so there would be needed for more to security & data protection related functionality).
 * The awareness material, e.g. [EUROPOL](https://www.europol.europa.eu/sites/default/files/documents/lt_0.pdf), how effective they are? 4th Page of previous PDF Sample (EUROPOL) has idea of "Saugokitės reklamų, siūlančių neįtikimas kainas ar stebuklingus gaminius. Jei pasiūlymas skamba per daug gerai, kad būtų tiesa, greičiausiai taip ir yra!". In some regard an usual Innovation Company produce a lil better Product (Software & Hardware incl. Firmware). What, if You will not get a security updates anymore or system can't upgrade? so everyone has to update & upgrade to latest Products even when they don't need a new glitter. When previous Product and new one are not compatible, then require replacement & that's the cost of Innovations. If these Products does not require rare Materials?
+* Telecommunication companies, that Communication Technologies are used for Scams, tend to make free of charge contribution and assistance with awareness training for most vulnerable persons.
 ```
 
 ```
