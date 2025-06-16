@@ -131,3 +131,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According these Articles [ELTA](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2590825/nkvc-perspeja-socialiniuose-tinkluose-plinta-vaizdo-klastotes) and [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2586598/zymus-zmones-siulo-aklumo-ir-slapimo-nelaikymo-gydyma-patarimai-kaip-atskirti-klastote) increased amount of "deepfake" content, that are spreading Disinformation.
+```
+
+```
+##### R esults
+Loss of Integrity
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Lack of verified and validated Content Databases.
+* Media content are usually not signed with a qualified electronic signature, nor Content Management Systems are able to process tools for required Data Integrity Confirmation. 
+```
+
+```
