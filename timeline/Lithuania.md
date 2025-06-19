@@ -2976,6 +2976,7 @@ GPS is unavailable.
 From such incidents there are possible to learn a lot. I.e.:
 * When single navigation system is jammed, then exists plausibility to use European-based counterpart with performance guarantees [bbc.co.uk](http://news.bbc.co.uk/2/hi/science/nature/5286200.stm).
 * GNSS testing software [github.com](https://github.com/barbeau/gpstest). This software has Apache v. 2.0 license.
+* From International perspective, e.g. exists [International Telecommunication Regulations](https://www.itu.int/en/wcit-12/pages/itrs.aspx), that are signed by 89 Countries. Assume this only for reference: The Article 1 define "authorized operating agencies", that should get mutual agreement on International telecommunication services. The Article 2 include definitions of Telecommunications, International telecommunication service, Government telecommunications and Service telecommunication and etc. The Fourth paragraph of Article 5 communicate out, that Member States should encourage authorized operating agencies to inform all users, including roaming users, in good time and free of charge... Government telecommunications during training could block specific frequency, but let's go back to the Article(s), - it does not give any hints about mutual agreement(s) or so so.
 ```
 
 ```
