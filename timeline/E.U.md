@@ -150,3 +150,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2594610/masinis-slaptazodziu-nutekejimas-nksc-pataria-kaip-apsaugoti-save-ir-savo-paskyras) huge amount of Companies got breached and private data has been leaked.
+```
+
+```
+##### R esults
+Loss of Privacy
+Loss of Confidentiality
+Loss of Integrity
+Plausible loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Sophisticated Attacks could mean a High Profile Hacker, e.g. [nytimes.com](https://www.nytimes.com/2023/07/20/technology/kevin-mitnick-dead-hacker.html).
+* If High Security spending Companies lose data, then local Companies already could be full of vulnerabilities and out of control of their data.
+* Specific Objects for Authentication could be withdrawn from usage and not releable, e.g. Driving License, e.g. when, according Article, there are circulating a lot of disclosed private User's Data.
+```
+
+```
