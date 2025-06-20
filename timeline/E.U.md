@@ -169,6 +169,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Sophisticated Attacks could mean a High Profile Hacker, e.g. [nytimes.com](https://www.nytimes.com/2023/07/20/technology/kevin-mitnick-dead-hacker.html).
 * If High Security spending Companies lose data, then local Companies already could be full of vulnerabilities and out of control of their data.
 * Specific Objects for Authentication could be withdrawn from usage and not releable, e.g. Driving License, e.g. when, according Article, there are circulating a lot of disclosed private User's Data.
+* The Article provide idea to test out Your own "Email", but for real, does this could be another social engineering?
 ```
 
 ```
