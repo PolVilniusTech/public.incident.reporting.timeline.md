@@ -661,8 +661,9 @@ From such innocents there are possible to learn a lot. I.e.:
 
 This Article [LRT.lt](https://www.lrt.lt/naujienos/kultura/12/2455136/knygyne-vilniuje-kremliaus-propaganda-pabaltijys-netapo-tikrais-europieciais) provide information about highly likely disinformation printed material, that is written in spoken language, which make approx. 3,14 percent of World-Wide population (from 8.2 billion).
 More of same Content:
-* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2464822/baisu-as-apakes-knygyne-vilniuje-atlasai-kuriuose-krymas-rusijos-dalis);
-* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2561293/platinamas-propagandinis-leidinys-rusija-bando-paveikti-per-istorijos-interpretacijas).
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2464822/baisu-as-apakes-knygyne-vilniuje-atlasai-kuriuose-krymas-rusijos-dalis) Atlas book, that wished to be sold in Lithuania;
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2561293/platinamas-propagandinis-leidinys-rusija-bando-paveikti-per-istorijos-interpretacijas) bilingual book of Historical Facts, that include Lithuania;
+* [LRT.lt](https://www.lrt.lt/lituanica/istorijos/752/2589949/maskva-visus-pavercia-rusais-kaip-kremlius-karaliauciuje-naikina-lietuvybe) about written book incl. non-Lithuanian Oficial.
 ```
 
 ```
@@ -679,6 +680,7 @@ From such innocents there are possible to learn a lot. I.e.:
 * The Article has the Statement: The Censorship in Lithuania is Forbidden.
 * The Geographical Map Article (e.service approach): International Electronic Services take accustomed by local laws, e.g. Google "Understand country borders and names" according their open Question & Answer Site [google.com](https://support.google.com/maps/answer/3145721?hl=en). They use approach of "local versions of Google Maps" & "follow local legislation when displaying names and borders".
 * Kind a situation, that in [LRT.lt](https://www.lrt.lt/naujienos/lrt-tyrimai/5/2576876/tarptautinis-tyrimas-kremliaus-pravfondas-reme-ir-skandalinga-lietuvos-istorija) provided idea of "Tribunal", but about the meaning of Tribunal could be found in [wikipedia.org](https://en.wikipedia.org/wiki/Tribunal). This show, that it could be hard to find illegal program from huge number of applicants & distribute money with more care, e.g. of Fund for Media [BNS](https://www.lrt.lt/naujienos/kultura/12/2179699/reikia-trumpinti-diskusijas-ir-greiciau-vaziuoti-i-rezultata-kairys-ragina-mediju-fondo-taryba-skelbti-konkursa).
+* Articles incl. ideas: "Bookstores with misinformation are popular", "Kaliningrad Oblast" in Lithuanian should be used as "Karaliaučiaus kraštas", the same land, that got historical "Convicts Settlers" like in Australia. By looking for Road Signs in Lithuania [taisykles.com](https://www.taisykles.com/assets/images/601-isankstine-krypciu-rodykle-ad78a02f4c362e940024133004e5da8f.gif), "Karaliaučius" and "Kaliningrad" included interchangeably. Name of "Kaliningrad" given in form of something as Chinese Pinyin, that are not native nor to Lithuania, nor to Russia.
 ```
 
 ```
