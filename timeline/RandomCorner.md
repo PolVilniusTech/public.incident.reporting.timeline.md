@@ -869,3 +869,26 @@ Social Engineering
 ```
 
 ```
+##### I nnocent 
+
+Learning Framework [gov.hk](https://www.search.gov.hk/viewer.html?url=https%3A%2F%2Fwww.edb.gov.hk%2Fattachment%2Ftc%2Fedu-system%2Fprimary-secondary%2Fapplicable-to-primary-secondary%2Fit-in-edu%2FInformation-Literacy%2FIL_learningFramework%2FInformationLiteracyforHongKongStudentsLearningFramework%282024%29_20250320_ENG.pdf) include important Job by Education System:
+* strengthened the parts on Information Evaluation;
+* strengthened Cyberbullying Prevention;
+* strengthened Personal Data Privacy;
+* strengthened Protection and Internet Addiction Prevention.
+In other hand Facility(ies) for teaching are opened & probably require the "Internet", e.g. [ICDL](https://icdl.org/official-launch-of-nanjing-vocational-colleges-2025-icdl-teacher-training-project-to-upskill-the-future-workforce-for-the-digital-economy/).
+```
+
+```
+##### R eseach
+Technical Skills in a Vocational Education.
+```
+
+```
+##### L earning from Mistakes 
+
+* By example, the Republic of Lithuania by similarity of technology holds terms "Žiniatinklis", "Saitynas" (a.k.a. this is HTTP protocol - OSI model' Application layer' protocol) the same as WWW, ref. [VLKK](https://vlkk.lt/naujienos/pakomisiu-naujienos/vietoj-ziniatinklio-saitynas). The Article make statement, that it's "most important part of the Internet". The mostly used term of Internet is "Internetas", the direct term with Lithuanian ending. Telecommunication companies sell Internet Service & no one are selling "Žiniatinklis" only, because this could be a pointless Step. What "Protection" could be strengthened regarding the "Learning Framework", when this could be copied by self-learning other tiny countries? How "Internet Addiction Prevention" would work? because, this is just stealing IT equipment and leaving with a "Computer" (at this point Big Tech are selling Tech with Cloud Account by start, so You need "Žiniatinklis") Stick and Wax table to write with. As public opinion, even family doctors does not necessary Job to treat "Addictions", then what kind of a Prison & Jail should be the Education System for teaching self-aware personality? In the end: does Learning Framework could be skipped by Vocational Education?
+* Security measures like 2FA (Two Factor Authentication) in offline state usage by Google Authenticator and Microsoft Authenticator are Available, but Software App should be downloaded through the Internet. Some students may don't even know, what is an Authentication, so so...
+```
+
+```
