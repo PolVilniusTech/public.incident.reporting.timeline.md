@@ -139,3 +139,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+In Site of [LRT.lt](https://www.lrt.lt/) there are plausible to find Articles, that depend by external Information Sources e.g. [x.com](https://x.com/TheStudyofWar). The Heading of this Information Source (x.com) are related to "U.S. National Security". From external perspective, according [LRT.lt](https://www.lrt.lt/naujienos/tavo-lrt/15/1654397/rusija-uzblokavo-portala-lrt-lt) the Site of LRT.lt, incl. Domain, IP address, are blocked by Russia.
+```
+
+```
+##### R esults 
+Loss of Risks to the local Media
+Loss of Views to the local Media
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Local Media does not include Social Media Modals, that are Unrealable & Unsafe, so WWW Viewers could be secure from negative and harmful Content of those Social Medias. Malicious external Information Sources, that are deeply embedded into the Site, could be manipulated into deliberately incl. Malware & Viruses. At such time Browsers could be affected by numerious of negative effects. Hacked Sites could be used for the same purpose, so HTTP Content Security Policy either way should be taken into Account, e.g. [github.com](https://github.com) is using that.
+* Site [LRT.lt](https://www.lrt.lt/) does not enforce Content Security Policy as HTTP Header Data. Site include Protection from usually ethical bots, e.g. "GPTBot" is excluded bot according Robots Exclusion Standard. From Russian part, it looks like from 302 included bots in Available Database [robotstxt.org](https://www.robotstxt.org/db.html) there are only two Russian Bots: Cassandra, Monster. The Site does block them. First bot is not related to Apache Cassandra Software App. Either way there are no other known Registry Authority of Ethical Bots for e.Robot Management over WWW.
+```
+
+```
