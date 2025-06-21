@@ -3,6 +3,19 @@
 * https://www.nksc.lt/tikrinti.html
 * https://www.cert.orange.pl/aktualnosci/raport-cert-orange-polska-za-2020-rok 6-13 p.
 
+### Table of Contents
+
+* [2016](#2016)
+* [2017](#2017)
+* [2018](#2018)
+* [2019](#2019)
+* [2020](#2020)
+* [2021](#2021)
+* [2022](#2022)
+* [2023](#2023)
+* [2024](#2024)
+* [2025](#2025)
+
 ### 2016
 
 ##### I ncident
@@ -5744,7 +5757,8 @@ According following Articles scammers are using telecommunicaition means, Social
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2588650/sukciai-apgavo-salcininku-ir-kedainiu-gyventojus-pasisavino-23-5-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2589546/sukciai-pinigus-viliojo-apsimesdami-policininkais-prokurorais-elektros-tinklu-atstovais);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2592126/per-para-lietuvoje-astuoni-stambesni-sukciavimo-atvejai);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2594414/sukciai-prisistate-advokatais-banko-darbuotojais-isviliojo-apie-64-7-tukst-euru).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2594414/sukciai-prisistate-advokatais-banko-darbuotojais-isviliojo-apie-64-7-tukst-euru) <a name="2025-2594414-1"></a>;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2594414/sukciai-prisistate-advokatais-banko-darbuotojais-is-zmoniu-isviliojo-75-7-tukst-euru) <a name="2025-2594414-2"></a>.
 ```
 
 ```
@@ -5763,6 +5777,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * By taking into Account this Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2579108/japonijos-kova-su-sukciais-dirbtinis-intelektas-pokalbiu-analize-ir-itartini-numeriai) there could be suggested: to find locations where money are scammed at most cases and to conduct an information campaign; to build mobile phones with simple call recording capabilities (a.k.a. how often distance applications are used for recording Internet Conferences? Data Security over this?); Software Application, that checks Mobile Phone Number in Database of known Scammers; More International Cooperation in dealing with Scammers; Analysis of a call with Automated Mechanisms & Machine Learning Stuff (usually most of operating systems include some level of "virtual assistant" capability, but their functionality in legal situation kind a limited and (or) narrow as chat-bot, subscribing, purchase-of-tickets..., so there would be needed for more to security & data protection related functionality).
 * The awareness material, e.g. [EUROPOL](https://www.europol.europa.eu/sites/default/files/documents/lt_0.pdf), how effective they are? 4th Page of previous PDF Sample (EUROPOL) has idea of "Saugokitės reklamų, siūlančių neįtikimas kainas ar stebuklingus gaminius. Jei pasiūlymas skamba per daug gerai, kad būtų tiesa, greičiausiai taip ir yra!". In some regard an usual Innovation Company produce a lil better Product (Software & Hardware incl. Firmware). What, if You will not get a security updates anymore or system can't upgrade? so everyone has to update & upgrade to latest Products even when they don't need a new glitter. When previous Product and new one are not compatible, then require replacement & that's the cost of Innovations. If these Products does not require rare Materials?
 * Telecommunication companies, that Communication Technologies are used for Scams, tend to make free of charge contribution and assistance with awareness training for most vulnerable persons.
+* According pair of links [ELTA](#2025-2594414-2) and [ELTA](#2025-2594414-1) it's possible to notice, that Media's Framework leave past Articles (not updated), so there a lot of similar Content of the same Situation(s). For Integrity reasons it's OK. But, that leaves risk of Misinformation, data duplication occurrences are for much greater extend, then Web Storage are wasted. Some Medias include CO2 emission calculator(s), that suggest to make responsible Searches. In Concludion: most Impactful e.Scamming could be linked with eco-Terror.
 ```
 
 ```
