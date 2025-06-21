@@ -5758,7 +5758,8 @@ According following Articles scammers are using telecommunicaition means, Social
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2589546/sukciai-pinigus-viliojo-apsimesdami-policininkais-prokurorais-elektros-tinklu-atstovais);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2592126/per-para-lietuvoje-astuoni-stambesni-sukciavimo-atvejai);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2594414/sukciai-prisistate-advokatais-banko-darbuotojais-isviliojo-apie-64-7-tukst-euru) <a name="2025-2594414-1"></a>;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2594414/sukciai-prisistate-advokatais-banko-darbuotojais-is-zmoniu-isviliojo-75-7-tukst-euru) <a name="2025-2594414-2"></a>.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2594414/sukciai-prisistate-advokatais-banko-darbuotojais-is-zmoniu-isviliojo-75-7-tukst-euru) <a name="2025-2594414-2"></a>;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2594905/is-keturiu-gyventoju-sukciai-isviliojo-beveik-24-tukst-euru).
 ```
 
 ```
