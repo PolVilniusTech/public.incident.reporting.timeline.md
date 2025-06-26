@@ -5782,3 +5782,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2597895/sukciai-is-imones-pasisavino-daugiau-nei-68-tukst-euru) a fake site was used for grabbing Confidential, Private Information and unintended Money loss.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Modern Bank Sites already are using "content-security-policy" to provide list of trusted sites & everything else by browsers should be treated as not trusted. In this way exists high chance of manual intervention for grabbing Confidential Codes and using them at the same time, when a victim connects to fake site. For this reason, there should be a strange delay between of operations, that could be noticeable, but no details in the Article. In other hand, Modern Browsers has automatic control, so automation of steps & stages should be not so hard to do. Linking actions from a Server to the Browser is not a hard task & a lot of Companys & Businesses use that for automation of their specific Payments. 
+* Financial Institutions does not change their Visual Design very often & when they do that, then exists high chance for them to change their own Name of Company, so Clients could easily adapt to a new Style and everything what goes together. A Regular Design change could be misused by Scammers too, so exists need for stopping & evading registration of look-a-like domain, that are very similar to a name of Financial Institution. Extending Browser with possibility of knowing Country and (or) Member State position of Site could help to be more aware to whom Server a victim is connecting. The Article does not explain similarity of phishing domain.
+* Fake Software Application could be created for the same consequences, but in this way a malware Software would be present in victims device. Analysis of Software Application should be Available.
+```
+
+```
