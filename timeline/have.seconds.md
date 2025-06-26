@@ -159,3 +159,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+The Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2597910/budrys-labai-tiketina-kad-naujos-europines-sankcijos-rusijai-bus-patvirtintos) include idea, that sanctions could be blocked by some State Members. 
+```
+
+```
+##### R esults 
+Loss of National Security
+Loss of Economical Certainty
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Investment in the Countries, that are constantly sanctioned, and around are decreasing their Reputation, Clients & increasing risk of being sanctioned for themselves, so this is bad place for Businesses to boom.
+```
+
+```
