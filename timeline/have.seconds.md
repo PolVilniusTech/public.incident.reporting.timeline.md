@@ -174,7 +174,7 @@ Loss of Economical Certainty
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* Investment in the Countries, that are constantly sanctioned, and around are decreasing their Reputation, Clients & increasing risk of being sanctioned for themselves, so this is bad place for Businesses to boom.
+* Investment in the Countries, that are constantly sanctioned, and around are decreasing their Reputation, Clients & increasing risk of being sanctioned for themselves, so this are bad place for Businesses to boom.
 ```
 
 ```
