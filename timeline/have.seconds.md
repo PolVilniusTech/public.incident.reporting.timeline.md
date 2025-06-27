@@ -175,7 +175,7 @@ Loss of Economical Certainty
 
 From such incidents there are possible to learn a lot. I.e.:
 * Investment in the Countries, that are constantly sanctioned, and around are decreasing their Reputation, Clients & increasing risk of being sanctioned for themselves, so this are bad place for Businesses to boom.
-* According following Article [LRT.lt](https://www.lrt.lt/naujienos/nuomones/3/2597506/saulius-spurga-ar-gerai-buti-laisva-nuo-kinijos-salimi) as sanctions could be placed the removal of Diplomatic Ties. The Lithuania in other hand keep those ties by [mfa.lt](https://cn.mfa.lt/), because of their people who are Traveling abroad. Consolidating personel for administration of number of Countries could be a Solution too, because of Schengen Zone.
+* According following Article [LRT.lt](https://www.lrt.lt/naujienos/nuomones/3/2597506/saulius-spurga-ar-gerai-buti-laisva-nuo-kinijos-salimi) as sanctions could be placed the removal of Diplomatic Ties. The Lithuania in other hand keep those ties by [mfa.lt](https://cn.mfa.lt/), because of their people who are traveling abroad. Consolidating personel for administration of number of Countries could be a Solution too, because of Schengen Zone.
 ```
 
 ```
