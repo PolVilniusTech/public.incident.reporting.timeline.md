@@ -5804,3 +5804,26 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2598382/sukciai-ivairiais-budais-apgaule-is-zmoniu-isviliojo-apie-73-8-tukst-euru) scammers are using investment of Cryptocurrency, impersonation, telecommunication means, fake web site with mobile signature authentication.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* In usual way various telecommunication calls using mobile phone already has direct cost to the user who is calling. Telecommunication calls to specific numbers could be more costly, but in this case, a common service, that is operating such number shall inform caller about used higher cost of a call, than usual one.
+* First big paragraph of the Article is not informative enough. By description, a Person did investment into Cryptocurrencies, but there are provided no following information how those scammers fooled him. By investing into Cryptocurrency, that Person accepted all risks for described investment, where are scamming?
+* Second bigger paragraph provide idea, that Person were scammed by something as a Team of debt collectors. There are no public awareness training regarding such situation.
+* Last bigger paragraph provide idea, that technology of Mobile Signature is targeted by scammers. The Article provide no information about possibilities, that mobile signature tech are vulnerable. When YES, then who affected (entity or whole infrastructure)?
+```
+
+```
