@@ -5827,3 +5827,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2598890/is-klaipediecio-sukciai-isviliojo-30-tukst-euru-is-dar-dvieju-gyventoju-po-9-tukst) person was fooled for completing investment through the Internet.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Exists a trend, that Scammers by getting Personal Information could use it for sending Parcels through self-parcel Service. In this occasion the Person gonna be trapped into countering fake or even dangerious Presents & some of them require for Pay first and Goods as second. Term of Investment must be more clear.
+```
+
+```
+
