@@ -895,3 +895,23 @@ Technical Skills in a Vocational Education.
 ```
 
 ```
+##### I nnocent 
+
+The Research paper [researchgate.net](https://www.researchgate.net/publication/322676918_ROLE_AND_IMPACT_OF_MEDIA_ON_SOCIETY_A_SOCIOLOGICAL_APPROACH_WITH_RESPECT_TO_DEMONETISATION) does sociological analysis about role of Media in situations of awareness of importance. Media used for informing, educating, entertaining people. Media creates an understanding of current happenings. When traditional media becomes a Grain of Salt, then Social media is becoming more trusted and accessed piece of information. With the advancement of science and technology appear new features of tagging, location  sharing, photo  and video exchange, chatting through messages, audio & video calling, searching for interesting discoveries & all of this have made life more engaging for everybody. Anyway, the Media "plays a vital role in informing people on social issue coverage". Discontinuing of Money must spread like Wildfire. The demonetization could become as a successful  economic revolution. In the India this become so religious by taking "the denomination of 1000" like taking some type of king from his seat, it's now just a simple "nominal of 1000".
+```
+
+```
+##### R eseach
+Research on Sociology for countering the Scam.
+```
+
+```
+##### L earning from Mistakes 
+
+* In jurisdictional language exists term of liability, so as end of support goes as Cessation of Liabilities, ref. [prsindia.org](https://prsindia.org/files/bills_acts/bills_parliament/2016/Issues_for_Consideration-Specified_Bank_Notes_Ordinance_3.pdf).
+* 132th page of Research paper provide idea of the main aim of demonetization - to make cashless society and to include the concept of digital India. Pair of Philosophical Questions: A. Does instead of Passport citizens gonna receive Mobile Phone for all e.services incl. monetary means & in one place? w/o it You can't survive. "Issues like demonetization are related to every individual of the society". B. Does there will be chosen one bias technology? w/o critical vulnerabilities for itsc own security.
+* In the Research there are analysed arguments, that are leaving only "null effects". Does Media goes for an Impact and in process attain more Grain of a Salt? If this Research from Academia, then the Academia for itself has null researches too. Students usually skip null researches, because of a shame. These students better leave themselves w/o diploma or in opposide side, which they don't communicate out. An Academia Media Press could be a strong point of self awareness program, but future requirement for Novelity, when there gonna be small Impact amounts of new Researches gonna Impact Future Generations.
+* Demonetization of old notes helps in preventing counterfeit notes, that could be contributing terrorism & huge concerns for a national security. This helps in elimination of the "black economy" & "black money", or by the West way - the "black market". Conclusion - a terrorist & financial underworld by all means gonna want to stay with old & less protected currency.
+```
+
+```
