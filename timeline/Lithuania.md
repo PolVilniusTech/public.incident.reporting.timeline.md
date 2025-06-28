@@ -5845,6 +5845,7 @@ Plausible loss of Confidentiality.
 From such incidents there are possible to learn a lot. I.e.:
 * Exists a trend, that Scammers by getting Personal Information could use it for sending Parcels through self-parcel Service. In this occasion the Person gonna be trapped into countering fake or even dangerious Presents & some of them require for Pay first and Goods as second. Term of Investment must be more clear.
 * Second problem for electronic Space, that People just can't handle their Passwords, Passcodes, PINs or whatever, that should be 100% Confidential, e.g. [ve.lt](https://ve.lt/kriminalai/suzinojo-elementariausio-neatsargumo-kaina-piktavaliams-pin-kodo-spelioti-nereikejo).
+* Something as simple as "Prohibiting instant removal of email messages from email box" (Electronic Mail Service) at some point could prevent unnoticed Phishing campaigns over hacked Accounts. Complete take over of Service could be still vulnerable, but by giving at least three day period to review previous discarded email messages could make the Internet more trusted space around.
 ```
 
 ```
