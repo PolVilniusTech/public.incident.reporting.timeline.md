@@ -5849,4 +5849,16 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
 
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2600184/is-neringos-imones-sukciai-pasisavino-pinigus) exists illegal way of Company's Money transfer from one Bank account to another one w/o CFO & CEO approval. Scammers conduct successful Money stealing campaign with help of Telecommunication & Internet Tech.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
