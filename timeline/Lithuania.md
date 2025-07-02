@@ -5862,3 +5862,14 @@ Plausible loss of Confidentiality.
 ```
 
 ```
+##### I ncident
+
+According the Article [15min](https://www.15min.lt/verslas/naujiena/mokslas-it/nepatogumai-swedbank-vartotojams-prie-elektroniniu-valdzios-vartu-neprisijungsite-1290-2481256) for 2 hours and 5 minutes Authentication to External Services mechanism of Bank Swedbank was unavailable.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
