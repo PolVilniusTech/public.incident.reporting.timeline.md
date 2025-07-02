@@ -5873,3 +5873,23 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2601240/sauliu-vadas-siulo-drausti-tiktok-ir-telegram-pralaimime-informacine-kova-su-rusija) Lithuanian Media has Comment Section(s), that constantly are used by automated Phishing campaigns with so called "Bots".
+```
+
+```
+##### R esults
+Loss of Integrity
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* At some point, from initial start of this Incident Report Blog, no media aggregator made a statement about Bot(s), who attack Media's Infrastructure with generative bias content.
+* Exists security countermeasure, that is constructed as mathematical puzzle to counter automation of Bot(s). Pretty decent one has the Search Engine of Baidu Search & not bad one - Google's re-Captcha.
+
+```
+
+```
