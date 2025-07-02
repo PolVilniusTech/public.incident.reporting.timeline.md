@@ -131,11 +131,12 @@ Loss of Theoretical Availability
 ##### L earning from Mistakes 
 
 From such incidents there are possible to learn a lot. I.e.:
-* At this time Persons could share their Health Conditions at Social Media publickly. History records of health should not be shared, because of scammers.
+* At this time Persons could share their Health Conditions at Social Media publicly. History records of health should not be shared, because of scammers.
 * Food Supplements could be purchased in the Supermarket, online trade dealers (or Agents) offers their Services through telecommunication means & in-process person could share sensitive information, that could lead to another wave of scamming.
 * Differences between Artificial Intelligence Software vs Artificial Narrow Intelligence Software could be taken into the Account.
 * At this time exists hacking incidents inside Health Facilities. Through loss of personal health data exists possibility to get small amount of refund money according General Data Protection Reglament.
-* One important aspect for getting Work is the Health Status. Fabricated and (or) misleading data, content, methodologies could be reason of miscommunication, that leads into loss of life.  
+* One important aspect for getting Work is the Health Status. Fabricated and (or) misleading data, content, methodologies could be reason of miscommunication, that leads into loss of life.
+* Number of countries make Join Statements on the cooperation in the field of Artificial Intelligence in the Defence Sector [asean.org](https://asean.org/joint-statement-by-the-asean-defence-ministerial-on-cooperation-in-the-field-of-artificial-intelligence-in-the-defence-sector/). "AI" gets "incorporated in military applications in the defence establishments". It should be suggested to include "Software" or "Software & Hardware" or "Software & Hardware & Firmware" between pair of words "military" and "applications". In other case, the east Europeans won't understand.
 ```
 
 ```
