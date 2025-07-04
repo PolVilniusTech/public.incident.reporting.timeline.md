@@ -180,3 +180,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+The Article [LB](https://www.lb.lt/lt/subjektu-sarasas) include List of financial assets who are not recommended to be used in Lithuania at all, because of not having the correct licensing. 
+```
+
+```
+##### R esults
+Limited Precision of Data.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* After testing it out loud one third of the List: [1] 25 sites blocked by redirect to LB, [2] 6 sites blocked by unknown, [3] 10 sites blocked directly by NCSC, [4] 1 site blocked by cloudflare, [5] 30 w/o site blocking while in the Blocked List, [6] 34 sites are not available, [7] ~15 sites blocked while domain are not available, but could be way more.
+* After testing it out loud one third of the List: Only three sites provide Service in the Lithuanian Language.
+* After testing it out loud one third of the List: [1] at least 6 domains has incorrect SSL Certificates & untrusted, [2] at least 25 domains provide idea for offering purchase of domain, pretend to be unregistered, [3] at least 3 sites have banned tester's IP range by testers perspective, [4] at least 2 sites contain MALWARE, are reported as containing MALWARE, [5] at least 13 sites redirect to other site with similar name, for financial asset, that are huge loss of reputation, [6] at least 4 sites redirect to way different site name, for financial asset, that are the same as Phishing site & not recommended, [7] at least 2 sites redirect to different domain with intend of online adverstment & not incl. sites, like those, that offer domain purchases, [8] at least one site create authentication mechanism from one country range, while main site are in another, for financial asset, that are not recommended, because, that is like mimicking a phishing site.
+* After testing it out loud one third of the List, the Documentation, that are provided by LB: [1] Some domains are not inlisted in Domain List for Export View, while exists in Web View, [2] Some domains are not inlisted in Domain List for Web View, while exists in Export View, [3] Listed row of information without specifying domain, [4] Exists Company, that is shown as Unknown (while site's Terms of Use exists: Website's operator ~A. E., info@a.-e.~.mytestdoain.com, easy to notice, that email name does not look legitimate & "mytestdoain.com" is highly a phishing site, because of operator's name of A. E.).
+* After testing it out loud one third of the List, some Ideas left: [1] Huge site aggregators & hosting sites could provide info at what server it operates. Normalisation of hiding geographical location only encourage the grow of phishing sites, [2] A lot of these sites while being blocked could be operating in the Darknet, [3] Some Internet Sites are using Server Software, that is suited (or pretend) for both functionalities in the use of Internet: Web Site and non-Web Site as Internet Software App, [4] The Domain List does not show non-WWW Software Apps, but that Software are related to the Internet too, [5] Some Sites are blocked in multiple domains, so redirection to LB & NCSC notifications occur.
+```
+
+```
