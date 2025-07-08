@@ -5894,3 +5894,20 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According following Articles scammers use telecommunication means, impersonation, phishing attacks, fake site(s) to fool their victims:
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-siauliuose-taurages-klaipedos-ir-panevezio-apskrityje-is-zmoniu-isviliojo-apie-275-tukst-euru/);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2604629/is-dvieju-moteru-sukciai-isviliojo-beveik-69-tukst-euru).
+
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
