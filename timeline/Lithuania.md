@@ -5896,9 +5896,12 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According following Articles scammers use telecommunication means, impersonation, phishing attacks, fake site(s) to fool their victims:
+According following Articles scammers use telecommunication means, impersonation, phishing attacks, fake site(s) (incl. who accept private citizen's authentication measures), investment platform site(s), site banners to fool their victims:
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-siauliuose-taurages-klaipedos-ir-panevezio-apskrityje-is-zmoniu-isviliojo-apie-275-tukst-euru/);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2604629/is-dvieju-moteru-sukciai-isviliojo-beveik-69-tukst-euru).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2604629/is-dvieju-moteru-sukciai-isviliojo-beveik-69-tukst-euru)
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2605093/vilnietis-sukciams-atidave-19-5-tukst-euru-klaipedietis-16-tukst);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2605576/alytuje-sukciai-is-moters-isviliojo-apie-38-3-tukst-euru);
+* [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2605654/nkvc-170-facebook-reklamu-skirtu-lietuvos-vartotojams-naudojamos-sukciavimo-schemose).
 
 ```
 
@@ -5908,6 +5911,25 @@ Plausible loss of Money.
 Plausible loss of Privacy.
 Plausible loss of Confidentiality.
 Plausible loss of Integrity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* In Lithuania no caller are usually talking in english language, so either there are no trust should be given for foreign language - russian language.
+* Article of the LRT.lt provide triple purpose meaning by representing hundred seventy banners, e.g. 1) "unknown origin", 2) "manipulation over sensitive topics", 3) "using Lithuanian public" figures who are "deepfaked". The Article contain wibe of manipulation over sensitive topic too & the results does not provide enough evidence of scams. The unknown origin from itself by default does not contain a negative meaning, unless you tend to use approach: block everything for everyone and allow only according of somebody decision, that shall be well-known. Adverstments are usualy dealt by Cybersecurity tools & bias to attach it into malicious negative perspective are left for themselves. Article does not question how to know, if some public person are "deepfaked", that when some person does not use inappropriate service for doing what he is doing, e.g. to Tag Content as Deepfake & w/o doing so, that public person could own all rights to shut down that content. When scammer reports are accepted by virtual patrol of Police, then analysis could be provided by him too.
+```
+
+```
+##### I ncident
+
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2605718/sutriko-tele2-tinklo-veikla-gyventojai-negali-prisiskambinti-neveikia-svetaine) Tele2 telecommunication services are unavailable.
+```
+
+```
+##### R esults
+Loss of Availability
 ```
 
 ```
