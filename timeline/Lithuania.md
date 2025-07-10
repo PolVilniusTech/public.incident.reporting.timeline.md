@@ -5919,6 +5919,7 @@ Plausible loss of Integrity.
 From such incidents there are possible to learn a lot. I.e.:
 * In Lithuania no caller are usually talking in english language, so either there are no trust should be given for foreign language - russian language.
 * Article of the LRT.lt provide triple purpose meaning by representing hundred seventy banners, e.g. 1) "unknown origin", 2) "manipulation over sensitive topics", 3) "using Lithuanian public" figures who are "deepfaked". The Article contain wibe of manipulation over sensitive topic too & the results does not provide enough evidence of scams. The unknown origin from itself by default does not contain a negative meaning, unless you tend to use approach: block everything for everyone and allow only according of somebody decision, that shall be well-known. Adverstments are usualy dealt by Cybersecurity tools & bias to attach it into malicious negative perspective are left for themselves. Article does not question how to know, if some public person are "deepfaked", that when some person does not use inappropriate service for doing what he is doing, e.g. to Tag Content as Deepfake & w/o doing so, that public person could own all rights to shut down that content. When scammer reports are accepted by virtual patrol of Police, then analysis could be provided by him too.
+* Deepfakes regarding media shall be plausible to report using contacts at the bottom of this site [zeit.lt](https://zeit.lt/en/legal-information/259).
 ```
 
 ```
