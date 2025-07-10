@@ -5925,7 +5925,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2605718/sutriko-tele2-tinklo-veikla-gyventojai-negali-prisiskambinti-neveikia-svetaine) Tele2 telecommunication services are unavailable.
+According these Articles [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2605718/sutriko-tele2-tinklo-veikla-gyventojai-negali-prisiskambinti-neveikia-svetaine) and [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2605816/tele2-latvijoje-trikdzius-baltijos-salyse-leme-darbai-estijos-sviesolaidiniame-tinkle) Tele2 telecommunication services are unavailable & problem - maintenance in an outside of telecommunication infrastructure of the Origin Country.
 ```
 
 ```
