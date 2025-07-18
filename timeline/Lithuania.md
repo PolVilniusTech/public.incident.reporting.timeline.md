@@ -5934,3 +5934,29 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
+
+According following Articles scammers use telecommunication means, an investment platform, impersonation techniques, phishing sites, published content online,  a dating site, a social engineering, a lottery scam with a fake phishing site to fool their victims:
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2605981/sirvintose-sukciai-is-moters-isviliojo-daugiau-nei-25-tukst-euru);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2606392/sukciai-is-gyventoju-isviliojo-beveik-145-tukst-euru);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2612079/kelmes-rajone-ir-klaipedos-apskrityje-sukciai-is-zmoniu-isviliojo-apie-6-tukst-euru).
+
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2606521/i-sukciu-tinklus-ikliuna-vis-daugiau-zmoniu-siulo-bankams-priskirti-daugiau-atsakomybes) provide idea of liability according financial institution's responsibilities for a compensation to the victims.
+* 2011 Year Statistics [gov.lt](https://osp.stat.gov.lt/statistikos-leidiniu-katalogas?publication=22) show, that Russians consist only about 5-6 percent of full Demography of Lithuania. Scams demoralize small minority of people of the Lithuania when Articles explicitly extract scam situations of used the russian language only.
+```
+
+```
