@@ -5956,7 +5956,7 @@ Plausible loss of Integrity.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2606521/i-sukciu-tinklus-ikliuna-vis-daugiau-zmoniu-siulo-bankams-priskirti-daugiau-atsakomybes) provide idea of liability according financial institution's responsibilities for a compensation to the victims.
-* 2011 Year Statistics [gov.lt](https://osp.stat.gov.lt/statistikos-leidiniu-katalogas?publication=22) show, that Russians consist only about 5-6 percent of full Demography of Lithuania. Scams demoralize small minority of people of the Lithuania when Articles explicitly extract scam situations of used the russian language only.
+* 2011 Year Statistics [gov.lt](https://osp.stat.gov.lt/statistikos-leidiniu-katalogas?publication=22) show, that Russians consist only about 5-6 percent of full Demography of Lithuania. Scams demoralize small minority of people of the Lithuania when Articles explicitly extract scam situations of used the russian language only. In number of Years telecommunication services are slacking and skipping Anti-scam counter-measures, e.g. informing origin country and region of a dealer's call.   
 ```
 
 ```
