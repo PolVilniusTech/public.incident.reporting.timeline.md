@@ -283,3 +283,15 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.tv3.lt/naujiena/uzsienis/didelio-masto-kibernetine-ataka-ukraina-sutrikde-rusijos-gazprom-sistemos-veikla-n1437100) "Gazprom" and related sub-companies Computer Network Infrastructure was disrupted & available Information were wiped out.
+```
+
+```
+##### R esults 
+Service disruption.
+Loss of data.
+```
+
+```
