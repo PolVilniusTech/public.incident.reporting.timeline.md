@@ -197,7 +197,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the Article [ELTA](https://www.lrytas.lt/it/ismanyk/2025/07/25/news/visame-pasaulyje-buvo-sutrikusi-e-musko-palydovu-sistemos-starlink-veikla-38799374) "Starlink" e.service was unavailable for about of two and half hours.
+According the Article [ELTA](https://www.lrytas.lt/it/ismanyk/2025/07/25/news/visame-pasaulyje-buvo-sutrikusi-e-musko-palydovu-sistemos-starlink-veikla-38799374) "Starlink" e.service was unavailable for about of two hours and half.
 ```
 
 ```
