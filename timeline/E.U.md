@@ -189,7 +189,7 @@ Plausible loss of Availability
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* The Article does not specify information or information group, that got lost. Lost information could be useless too.  
+* The Article does not specify information or information groups, that got lost. Lost information could be useless too.  
 ```
 
 ```
