@@ -915,3 +915,27 @@ Research on Sociology for countering the Scam.
 ```
 
 ```
+##### I nnocent 
+
+The Information System [unesco.org](https://whc.unesco.org/en/list/541) of UNESCO contain great heritage of the Republic of Lithuania. Unfortunately two additional links are unresponsive:
+* [visitworldheritage.com](https://visitworldheritage.com/en/eu/entry/5e1ea201-d0a2-4390-8e32-596a4ca5a90b);
+* [http://neris.mii.lt/](http://neris.mii.lt/towns/vilnius/vilnius.html).
+```
+
+```
+##### R eseach
+Resource & Availability & Notification Management.
+```
+
+```
+##### L earning from Mistakes 
+
+* Maybe exists people who matters for an positive image and has responsibility to update the information, e.g. WWW link(s).
+* Plausible trend of building a lot of systems & a lot of content, that can't be managed in the fair price.
+* Important information systems (IS) could be lacking for Role-based management, that could allow assign responsible people to the specific, important content.
+* Lack of utilities tools for Content Management System type information system(s), that does not contain common HTTP Status checks of provided WWW links.
+* Important information systems are & could be lacking for a common notification functionality, that de facto already are included in Social Networks.
+* Availability is one component out of number of components in the Information Security. Alongside of teaching material [unesco.org](https://www.unesco.org/en/scamalert) of existance of scams & reports of [unesco.org](https://www.unesco.org/en/ios/report-wrongdoing) fraud, corruption & misconduct there could be Unified Reporting Form for reporting of something as responsible disclosure of Cybersecurity issues too.
+```
+
+```
