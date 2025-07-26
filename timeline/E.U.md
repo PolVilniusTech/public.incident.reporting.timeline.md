@@ -173,3 +173,23 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+According the Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2623297/creditinfo-patyre-milziniska-kibernetine-ataka-klientu-lietuvoje-duomenys-saugus) Terabytes of data was stolen from global credit bureau and information service "Creditinfo".
+```
+
+```
+##### R esults
+Plausible loss of Privacy
+Plausible loss of Confidentiality
+Plausible loss of Integrity
+Plausible loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* The Article does not specify information or information group, that got lost. Lost information could be useless too.  
+```
+
+```
