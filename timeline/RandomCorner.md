@@ -754,6 +754,7 @@ According these Articles:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2493278/kariniu-oro-pajegu-aviacijos-bazeje-pastebetas-dronas-sulaikytas-jo-operatorius) sky drone flying above Protection Zone & w/o Permit.
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2518958/saules-elektrinese-negales-buti-kinisku-elementu-verslas-sako-vien-istatymo-nepakaks) Components of Solar Power Plant(s) are controled by 3rd-parties through long distance technologies.
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2574008/eksperimentas-alytuje-atliekas-i-konteinerius-ismes-tik-su-raktu-ar-specialia-programele) Regions could open possibility for legislation, that could deploy (web) cameras in private spaces.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2626114/urm-jei-iskrides-dronas-is-baltarusijos-karines-paskirties-atstovui-bus-iteikta-nota).
 ```
 
 ```
