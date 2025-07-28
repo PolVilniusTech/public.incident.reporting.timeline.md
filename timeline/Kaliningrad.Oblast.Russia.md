@@ -295,3 +295,14 @@ Loss of data.
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/verslas/4/2626130/rusijos-bendrove-aeroflot-pranese-apie-sistemu-gedimus-atideda-ir-atsaukia-skrydzius) were found erroneous functionality in numerous Information Systems of Company "Aeroflot".
+```
+
+```
+##### R esults 
+Service disruption.
+```
+
+```
