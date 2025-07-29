@@ -940,3 +940,15 @@ Resource & Availability & Notification Management.
 ```
 
 ```
+##### I nnocent 
+
+The Article [lrt.lt](https://www.lrt.lt/naujienos/eismas/7/2622114/netvarde-emociju-pludo-keiksmais-technines-apziuros-naujoves-jau-kirto-perekupams) provide idea about Mandatory technical examination of the vehicle - bicycle. There are twelve persons who got scamed odometer data, e.g. [aliexpress.com](https://ae01.alicdn.com/kf/HTB1ETgcNFXXXXcIaXXXq6xXFXXX5/BC-8-12-Waterproof-Bicycle-Speedometer-Road-Bike-Computer-Mountain-Bike-Wire-Odometer-Cycling-Odograph.jpg). Participation in Road Traffic should be banned by those Bicycles.
+```
+
+```
+##### R eseach
+Two wheelers could be Bicycle, motor vehicles as Moped, Motobike or simply Motor vehicle. 
+Ans. Electric Bicycles in some case could be powerful good enough too.
+```
+
+```
