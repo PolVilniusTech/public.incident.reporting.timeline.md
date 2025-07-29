@@ -421,19 +421,23 @@ From such innocents there are possible to learn a lot. I.e.:
 	01.03. Quantum machine learninig; 
 	01.04. Reinforced learning; 
 	01.05. Rule-based learning; 
-  01.06. Supervised learning; 
-    01.06.01. Self-supervised learning; 
-    01.06.02. Semi-supervised learning; 
+  	01.06. Supervised learning; 
+    	01.06.01. Self-supervised learning; 
+    	01.06.02. Semi-supervised learning; 
 	01.07. Unsupervised learning; 
-    01.07.01.  Self-unsupervised learning; 
-    01.07.02.  Semi-unsupervised learning. 
-02. Artificial narrow intelligence. 
-03. Artificial general intelligence (to Artificial generative intelligence). 
-04. Superintelligence (to Artificial super intelligence). 
-05. (to Artificial super strong intelligence?). 
+    	01.07.01.  Self-unsupervised learning; 
+    	01.07.02.  Semi-unsupervised learning. 
+02. Artificial non-super intelligence, i.e.:
+  	02.01. Artificial narrow intelligence;
+  	02.02. Artificial general intelligence (to Artificial generative intelligence);
+	02.02.01. Common Artificial general intelligence;
+  	02.02.02. Ambient intelligence.
+03. Superintelligence (to Artificial super intelligence). 
+04. (to Artificial super strong intelligence?). 
 * Without known functionality the "Machine-learning algorithm" would just go into automatic & plausibly biased evaluation from evaluator(s). In a sense this could be simple MS Excel file with automatic data input from evaluator(s). Plausible huge disinformation with lost sense of a big or small functionality realisation.
 * Exist problem of losing consent and last words in a situation. In the sense companies could just include terms of use with making consent on "new updates of the terms" when they are rolling out. Automatic notification and monitoring of consent status could be an option. User has to be aware that his data could be shared with known or unknown sources. Plausible problem of cybersecurity breach when consent are applied & provided w/o real consent of the original person to confirm his consent status. A danger zone of false consent.
 * Exist problem for authors to lose their authorship when automatic tools grab the information w/o consent. I.e. person from private company is made a teacher and stripped out of his knowledge. Blog is filled with content and scrapped with auto-matic web scrap tools. In technical aspect exists robot exclusion standard. In other aspect — just print a book (e.book) with some publisher. Authorship usually are defended by kind of Historian(s) who has perfect tools for this Task. Parlament of Republic of Lithuania distribute hefty sum of money to numerious news aggregators and publishers for sustaining digital competition. Number of publishers and authors could join into the fund to create fee and taxation mechanism for payments from Artificial Intelligence companies for use of their dataset for providing consent who would allow content use in machine-learning type of functionality.
+* Lithuania have passed the Field of Large Language Models, e.g. open source language model "TildėLM", for eTranslation & everything regarding Translation to Businesses and Enterprises. Article [KTU](https://www.lrt.lt/naujienos/svietimas/45/2627124/ktu-mokslininke-del-di-vertejai-ir-kalbininkai-yra-ir-bus-prestizine-profesija).
 * High-tech AI companies and those who control them must include high risk of plausibilty for deepfake and scamming of regular people when public information are used without consent, with trickery and by breaching international privacy norms. Who has capability to build deepfake is a risk subject (ISO/IEC 27005:2022 - risk source). Affected entity and person — risk object, e.g. Mačiulis, N. [-](https://www.tv3.lt/naujiena/lietuva/sukciai-pasinaudojo-ir-ekonomisto-nerijaus-maciulio-atvaizdu-ir-balsu-nebuvo-malonus-jausmas-n1436874).
 ```
 
