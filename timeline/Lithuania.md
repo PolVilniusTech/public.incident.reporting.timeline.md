@@ -5943,7 +5943,8 @@ According following Articles scammers use telecommunication means, an investment
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2605981/sirvintose-sukciai-is-moters-isviliojo-daugiau-nei-25-tukst-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2606392/sukciai-is-gyventoju-isviliojo-beveik-145-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2612079/kelmes-rajone-ir-klaipedos-apskrityje-sukciai-is-zmoniu-isviliojo-apie-6-tukst-euru);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2624023/sukciai-is-vyro-isviliojo-45-tukst-euru-itikino-investuoti-i-internetine-platforma).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2624023/sukciai-is-vyro-isviliojo-45-tukst-euru-itikino-investuoti-i-internetine-platforma);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2627078/pajuryje-policija-sulaike-pinigu-paimti-atejusi-sukciu-sake-kad-dukte-pateko-i-avarija).
 
 ```
 
