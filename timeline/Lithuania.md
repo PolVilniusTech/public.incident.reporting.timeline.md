@@ -5939,14 +5939,15 @@ Loss of Availability
 ```
 ##### I ncident
 
-According following Articles scammers use telecommunication means, an investment platforms, impersonation techniques, phishing sites, published content online,  a dating site, a social engineering, a lottery scam with a fake phishing site to fool their victims:
+According following Articles scammers use telecommunication means, an investment platforms, impersonation techniques, phishing offers through purchased site accounts, phishing sites, published content online,  a dating site, a social engineering, a lottery scam with a fake phishing site to fool their victims:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2605981/sirvintose-sukciai-is-moters-isviliojo-daugiau-nei-25-tukst-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2606392/sukciai-is-gyventoju-isviliojo-beveik-145-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2612079/kelmes-rajone-ir-klaipedos-apskrityje-sukciai-is-zmoniu-isviliojo-apie-6-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2624023/sukciai-is-vyro-isviliojo-45-tukst-euru-itikino-investuoti-i-internetine-platforma);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2627078/pajuryje-policija-sulaike-pinigu-paimti-atejusi-sukciu-sake-kad-dukte-pateko-i-avarija);
-* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2627412/venipak-ispeja-apie-suaktyvejusius-sukcius-nespauskite-nuorodu).
-
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2627412/venipak-ispeja-apie-suaktyvejusius-sukcius-nespauskite-nuorodu);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2630110/sukciai-sostineje-ir-klaipedos-savivaldybeje-is-zmoniu-isviliojo-22-4-tukst-euru);
+* [ELTA](https://www.lrt.lt/naujienos/verslas/4/2630126/sukciu-grupe-kaltinama-del-net-215-nusikaltimu-skelbdavo-apie-neva-parduodamas-prekes).
 ```
 
 ```
