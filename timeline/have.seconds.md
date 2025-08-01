@@ -202,3 +202,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+The Article [BNS](https://www.lrt.lt/naujienos/svietimas/45/2630081/svietimo-ministerija-nurode-mokykloms-parengti-tvarkas-del-mobiliuju-telefonu-naudojimo) include silly sample of Wooden Phone Box, that contain number of Smart Phones.
+```
+
+```
+##### R esults
+Bad sample of data security.
+Taking somebody's else phone must have legal consequences.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Some telecommunication company include advertisement about placing mobile phone's to a box, but itself when this question goes into public or protected space, itself this could be a bad sample of data security. What If somebody gonna look into other's phone data?
+* In some case nowadays something as [rakuten.co.jp](https://item.rakuten.co.jp/look-it/sslb-424-r/) could be only a Dream of a common pupil from the Lithuania.
+* For making sample, Teachers must go along to the same rules and place their Phone's in a similar secret-storage box.
+```
+
+```
