@@ -5947,7 +5947,9 @@ According following Articles scammers use telecommunication means, an investment
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2627078/pajuryje-policija-sulaike-pinigu-paimti-atejusi-sukciu-sake-kad-dukte-pateko-i-avarija);
 * [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2627412/venipak-ispeja-apie-suaktyvejusius-sukcius-nespauskite-nuorodu);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2630110/sukciai-sostineje-ir-klaipedos-savivaldybeje-is-zmoniu-isviliojo-22-4-tukst-euru);
-* [ELTA](https://www.lrt.lt/naujienos/verslas/4/2630126/sukciu-grupe-kaltinama-del-net-215-nusikaltimu-skelbdavo-apie-neva-parduodamas-prekes).
+* [ELTA](https://www.lrt.lt/naujienos/verslas/4/2630126/sukciu-grupe-kaltinama-del-net-215-nusikaltimu-skelbdavo-apie-neva-parduodamas-prekes);
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/rusiskai-kalbejes-sukcius-is-nemencines-gyventojos-isviliojo-pinigus/);
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-klaipedietes-isviliojo-banko-kortele-su-pin-kodu-ir-pasisavino-pinigus/).
 ```
 
 ```
