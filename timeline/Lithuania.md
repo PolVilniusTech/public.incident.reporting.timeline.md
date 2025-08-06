@@ -5939,7 +5939,7 @@ Loss of Availability
 ```
 ##### I ncident
 
-According following Articles scammers use telecommunication means, an investment platforms, impersonation techniques, phishing offers through purchased site accounts, phishing sites, published content online,  a dating site, a social engineering, a lottery scam with a fake phishing site to fool their victims:
+According following Articles scammers use telecommunication means, an investment platforms, impersonation techniques, romantic scam, phishing offers through purchased site accounts, phishing sites, published content online,  a dating site, a social engineering, a lottery scam with a fake phishing site to fool their victims:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2605981/sirvintose-sukciai-is-moters-isviliojo-daugiau-nei-25-tukst-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2606392/sukciai-is-gyventoju-isviliojo-beveik-145-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2612079/kelmes-rajone-ir-klaipedos-apskrityje-sukciai-is-zmoniu-isviliojo-apie-6-tukst-euru);
@@ -5949,7 +5949,8 @@ According following Articles scammers use telecommunication means, an investment
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2630110/sukciai-sostineje-ir-klaipedos-savivaldybeje-is-zmoniu-isviliojo-22-4-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/verslas/4/2630126/sukciu-grupe-kaltinama-del-net-215-nusikaltimu-skelbdavo-apie-neva-parduodamas-prekes);
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/rusiskai-kalbejes-sukcius-is-nemencines-gyventojos-isviliojo-pinigus/);
-* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-klaipedietes-isviliojo-banko-kortele-su-pin-kodu-ir-pasisavino-pinigus/).
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-klaipedietes-isviliojo-banko-kortele-su-pin-kodu-ir-pasisavino-pinigus/);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2635069/senjore-tapo-romantiniu-sukciu-auka-susipazinusi-per-programele-neteko-10-tukst-euru).
 ```
 
 ```
