@@ -939,3 +939,21 @@ Ans. Electric Bicycles in some case could be powerful good enough too.
 ```
 
 ```
+##### I nnocent 
+
+The Article [growthbusiness.co.uk](https://growthbusiness.co.uk/us-takeovers-of-british-tech-companies-rise-by-50-in-2020-19972/) provide idea about Threat of losing important Technology Market, e.g. Software & Hardware, as the Example of the United Kingdom in 2021. According [ES IR AŠ](https://op.europa.eu/webpub/com/eu-and-me/lt/) PDF, DOI:10.2775/528454, United Kingdom left from European Union in 2020.
+```
+
+```
+##### R eseach
+Local safeguards from a Brain Drain of non-local Entities.
+```
+
+```
+##### L earning from Mistakes 
+
+* Sample of Republic of Lithuania, that have included Law on Competition 23 March 1999 No. VIII-1099, that used to protect freedom of fair competition in the Republic Of Lithuania. This Law implement number of legal Acts of the European Union.
+* In sense of visibility for whole bunch of Jurisdictional Situations and comparison between Countries or Member States are scarce to be found.
+```
+
+```  
