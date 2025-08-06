@@ -946,13 +946,14 @@ The Article [growthbusiness.co.uk](https://growthbusiness.co.uk/us-takeovers-of-
 
 ```
 ##### R eseach
-Local safeguards from a Brain Drain of non-local Entities.
+Local safeguards from a Brain Drain of local & non-local Entities.
 ```
 
 ```
 ##### L earning from Mistakes 
 
 * Sample of Republic of Lithuania, that have included Law on Competition 23 March 1999 No. VIII-1099, that used to protect freedom of fair competition in the Republic Of Lithuania. This Law implement number of legal Acts of the European Union.
+* During evolution of E.U. some local systems gonna be phased out. It's important to keep knowledge points in place in times of need. Ref. [europa.eu](https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t_en) 
 * In sense of visibility for whole bunch of Jurisdictional Situations and comparison between Countries or Member States are scarce to be found.
 ```
 
