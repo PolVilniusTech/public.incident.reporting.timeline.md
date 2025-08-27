@@ -5939,7 +5939,7 @@ Loss of Availability
 ```
 ##### I ncident
 
-According following Articles scammers use telecommunication means, an investment platforms, impersonation techniques, romantic scam, phishing offers through purchased site accounts, phishing sites, published content online,  a dating site, a social engineering, a lottery scam with a fake phishing site to fool their victims:
+According following Articles scammers use telecommunication means, an investment platforms, cryptocurrency, impersonation techniques and direct access requests, romantic scam, phishing offers through purchased site accounts, phishing sites, published content online,  a dating site, a social engineering, a lottery scam with a fake phishing site to fool their victims:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2605981/sirvintose-sukciai-is-moters-isviliojo-daugiau-nei-25-tukst-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2606392/sukciai-is-gyventoju-isviliojo-beveik-145-tukst-euru);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2612079/kelmes-rajone-ir-klaipedos-apskrityje-sukciai-is-zmoniu-isviliojo-apie-6-tukst-euru);
@@ -5950,7 +5950,10 @@ According following Articles scammers use telecommunication means, an investment
 * [ELTA](https://www.lrt.lt/naujienos/verslas/4/2630126/sukciu-grupe-kaltinama-del-net-215-nusikaltimu-skelbdavo-apie-neva-parduodamas-prekes);
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/rusiskai-kalbejes-sukcius-is-nemencines-gyventojos-isviliojo-pinigus/);
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-klaipedietes-isviliojo-banko-kortele-su-pin-kodu-ir-pasisavino-pinigus/);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2635069/senjore-tapo-romantiniu-sukciu-auka-susipazinusi-per-programele-neteko-10-tukst-euru).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2635069/senjore-tapo-romantiniu-sukciu-auka-susipazinusi-per-programele-neteko-10-tukst-euru);
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/visagine-sukciai-is-moters-isviliojo-15-tukst-euru/);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2638041/sukciai-is-vyro-vilniuje-isviliojo-per-49-tukst-euru);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2639041/vilniuje-sukciai-is-moters-isviliojo-beveik-60-tukst-euru).
 ```
 
 ```
@@ -5971,3 +5974,78 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the following Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2640193/sutriko-tele2-veikla-priezastys-aiskinamos) telecommunication company TELE2 has interruptions of their service(s).
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### I ncident
+
+According the following Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2643055/sukciai-is-keturiu-salies-gyventoju-isviliojo-apie-65-4-tukst-euru) person made his investment into unknown investment accounts, scammers made impersonations to victims and succeeded in their scams.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According the following Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2643558/buvo-sutrikusi-sistemos-enotaras-veikla-gyventojai-negalejo-gauti-paslaugu-nuotoliu) Notary Services System "eNotaras" can't be reached. Notary Services System undergo change of Internet Service Provider.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### I ncident
+
+According the following Article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2635297/ispejama-apie-sukcius-kurie-dengiasi-zinomais-lrt-vardais) in social media were found video & audio clips, that are made by scammers and who are impersonating as LRT News service (Press). 
+```
+
+```
+##### R esults
+Loss of Money.
+Loss of Privacy.
+Loss of Integrity.
+```
+
+```
+##### I ncident
+
+According the following Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2649063/sukciai-is-gyventoju-isviliojo-beveik-50-tukst-euru) russian speaking scammers are using "Whats App" Software App and could make successful scams, russian speaking scammers are impersonating as employees of a telecommunication company, police forces, a bank organisation and make successful scams.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According the following Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2650467/buvo-sutrikusi-swedbank-programeles-ir-interneto-banko-veikla) Software App and Internet Bank of "Swedbank" Bank lost communications for full period of 10 minutes.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+
