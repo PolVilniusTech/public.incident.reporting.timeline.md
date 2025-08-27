@@ -6048,4 +6048,30 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
 
+According following Articles scammers use impersonation of Automobile parking service & conduct phishing attacks, sending short messages with malicious job offers, make requests to take multiple malicious loans, use distance computer control software to make malicious investment, make impersonation as telecommunication and bank and police employees & in some cases speak in russian language, requests to make crypto-investments or other type of investments, request by need of getting back invested money to make 2nd-hand investment, make a breach to a bank account and successfuly transfer money & fool their victims:
+* [BNS](https://www.lrt.lt/naujienos/verslas/4/2651838/unipark-ispeja-vairuotojus-apie-sukciu-siunciamas-melagingas-zinutes-imones-vardu);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2653066/kaune-sukciai-is-jauno-vyro-isviliojo-30-tukstanciu-euru);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2655078/sukciai-is-vilniecio-isviliojo-235-tukst-euru);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2656073/sukciai-is-gyventoju-isviliojo-62-5-tukst-euru).
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* the Lithuania does not have more than one type of citizenship, so only Lithuanian citizenship justice are legal.
+* Russian speaking people are minority in the Lithuania & E.U. does not have any Country, that make russian language one of E.U. language.
+* Software Applications, that allow distance control of Device are increasing. There could be need of secure default settings and better computer proficiency & knowledge in using that in correct way.
+```
+
+```
