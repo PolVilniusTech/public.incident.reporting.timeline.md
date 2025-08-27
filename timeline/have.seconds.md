@@ -223,3 +223,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+The Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2650041/radviliskio-tarybos-nare-margaitiene-prokuroras-praso-nuteisti-del-telefono-pasisavinimo) shows gliches in process of inventory management when official could get a free phone (Computerphone).
+```
+
+```
+##### R esults
+Bad sample of data security.
+Plausible unique App(s) & access to custom & non-public services.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* Defined past and present IMEI code checks could prevent this type of incidents.
+```
+
+```
