@@ -6054,7 +6054,8 @@ According following Articles scammers use impersonation of Automobile parking se
 * [BNS](https://www.lrt.lt/naujienos/verslas/4/2651838/unipark-ispeja-vairuotojus-apie-sukciu-siunciamas-melagingas-zinutes-imones-vardu);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2653066/kaune-sukciai-is-jauno-vyro-isviliojo-30-tukstanciu-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2655078/sukciai-is-vilniecio-isviliojo-235-tukst-euru);
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2656073/sukciai-is-gyventoju-isviliojo-62-5-tukst-euru).
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2656073/sukciai-is-gyventoju-isviliojo-62-5-tukst-euru);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2658174/sukciai-is-gyventoju-pasisavino-beveik-75-tukst-euru).
 ```
 
 ```
@@ -6072,6 +6073,8 @@ From such incidents there are possible to learn a lot. I.e.:
 * the Lithuania does not have more than one type of citizenship, so only Lithuanian citizenship justice are legal.
 * Russian speaking people are minority in the Lithuania & E.U. does not have any Country, that make russian language one of E.U. language.
 * Software Applications, that allow distance control of Device are increasing. There could be need of secure default settings and better computer proficiency & knowledge in using that in correct way.
+* Lithuanian Constitution give enough rights for private life, so not all people just know their rights and defend them. The top management could be skipping these Rights as in business centric countries. Labor union(s) could be lacking, so employees rights could be damaged already.
+* The first ELTA Article from top provide idea, that Lithuania Cybersecurity Regulation accept Banking operations with something as simple as a Password. This just can't be called a Bank & bellow of that as a Savings Institution? Big Tech has a trend, that provide Authentication with not only requirement of a single & simple password. The used option of second e-mail address can't reach level of 2nd Factor Authentication.
 ```
 
 ```
