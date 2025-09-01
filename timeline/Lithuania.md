@@ -2976,7 +2976,8 @@ From such incidents there are possible to learn a lot. I.e.:
 According Articles [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2194490/tyrejai-atakos-pries-navigacijos-sistemas-dazneja) and [Err.ee](https://news.err.ee/1609326360/second-finnair-flight-turns-back-from-tartu-due-to-gps-interference) GPS jamming is taking place since the end of 2022. GPS disturbances and GPS interference prohibit use of a Global Positioning System (GPS).
 More information regarding GPS jamming:
 * [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2462795/neraminantys-duomenys-gps-trikdziu-skaicius-yra-padidejes-6-kartus);
-* [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2618008/birzeli-pilotu-pranesimu-apie-gps-trikdzius-rekordas-22-kartus-daugiau-nei-pries-metus).
+* [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2618008/birzeli-pilotu-pranesimu-apie-gps-trikdzius-rekordas-22-kartus-daugiau-nei-pries-metus);
+* [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2661412/ursulos-von-der-leyen-lektuvas-tapo-gps-trikdziu-taikiniu-itariama-rusija).
 ```
 
 ```
@@ -2988,7 +2989,7 @@ GPS is unavailable.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* When single navigation system is jammed, then exists plausibility to use European-based counterpart with performance guarantees [bbc.co.uk](http://news.bbc.co.uk/2/hi/science/nature/5286200.stm).
+* GPS, GALILEO & other systems like GLONASS or BDS jamming prohibit use of any satellite navigation tech.
 * GNSS testing software [github.com](https://github.com/barbeau/gpstest). This software has Apache v. 2.0 license.
 * From International perspective, e.g. exists [International Telecommunication Regulations](https://www.itu.int/en/wcit-12/pages/itrs.aspx), that are signed by 89 Countries. Assume this only for reference: The Article 1 define "authorized operating agencies", that should get mutual agreement on International telecommunication services. The Article 2 include definitions of Telecommunications, International telecommunication service, Government telecommunications and Service telecommunication and etc. The Fourth paragraph of Article 5 communicate out, that Member States should encourage authorized operating agencies to inform all users, including roaming users, in good time and free of charge... Government telecommunications during training could block specific frequency, but let's go back to the Article(s), - it does not give any hints about mutual agreement(s) or so so.
 * Aliuminium foil in some cases provide enough shielding from the interference [LRT.lt](https://www.lrt.lt/mediateka/irasas/2000436120/padeda-apsaugines-folijos-dezutes-gps-trikdziai-vis-dazniau-trukdo-skrydziams-nidoje).
