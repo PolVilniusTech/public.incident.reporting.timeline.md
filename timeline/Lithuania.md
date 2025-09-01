@@ -6050,12 +6050,15 @@ Loss of Availability
 ```
 ##### I ncident
 
-According following Articles scammers use impersonation of Automobile parking service & conduct phishing attacks, sending short messages with malicious job offers, make requests to take multiple malicious loans, use distance computer control software to make malicious investment, make impersonation as telecommunication and bank and police employees & in some cases speak in russian language, requests to make crypto-investments or other type of investments, request by need of getting back invested money to make 2nd-hand investment, make a breach to a bank account and successfuly transfer money & fool their victims:
+According following Articles scammers use impersonation of Automobile parking service & conduct phishing attacks, sending short messages with malicious job offers, make requests to take multiple malicious loans, use distance computer control software to make malicious investment, make impersonation as telecommunication and bank and police employees & in some cases speak in russian language, requests to make crypto-investments or other type of investments, request by need of getting back invested money to make 2nd-hand investment, make a breach to a bank account and successfuly transfer money & fool their victims, conduct disinformation initiative over impersonated account:
 * [BNS](https://www.lrt.lt/naujienos/verslas/4/2651838/unipark-ispeja-vairuotojus-apie-sukciu-siunciamas-melagingas-zinutes-imones-vardu);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2653066/kaune-sukciai-is-jauno-vyro-isviliojo-30-tukstanciu-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2655078/sukciai-is-vilniecio-isviliojo-235-tukst-euru);
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2656073/sukciai-is-gyventoju-isviliojo-62-5-tukst-euru);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2658174/sukciai-is-gyventoju-pasisavino-beveik-75-tukst-euru).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2658174/sukciai-is-gyventoju-pasisavino-beveik-75-tukst-euru);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2659034/grigiskese-ir-panevezyje-sukciai-is-dvieju-moteru-isviliojo-23-tukst-euru);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2660061/sukciai-is-triju-zmoniu-isviliojo-beveik-12-tukst-euru);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2661561/patarejas-apie-adamkaus-mirti-skelbianti-ruginienes-x-paskyra-suklastota).
 ```
 
 ```
