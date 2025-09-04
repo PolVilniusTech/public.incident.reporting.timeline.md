@@ -306,3 +306,14 @@ Service disruption.
 ```
 
 ```
+##### I ncident
+
+According [-](https://www.lrt.lt/naujienos/pasaulyje/6/2664581/svedija-pranesa-jog-baltijos-juros-regione-staigiai-padidejo-aviacijos-gps-trukdziu) Global Navigation Satellite System interruptions has increased by thousands of times.
+```
+
+```
+##### R esults 
+Service disruption.
+```
+
+```
