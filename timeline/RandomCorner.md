@@ -114,6 +114,7 @@ From such innocents there are possible to learn a lot. I.e.:
 * Passport of Opportunities — set of words plausibly could link with a "Gold" Passport System. A way to get more non-hard workers & tourists.
 * Aliens registration center — According the first word who has only Russian translation and English translation in here [vlkk.lt](https://terminai.vlkk.lt/paieska?search=Alien&zodzio_dalis=0&kalba=2&kaip0=on&sritys=&statusas=0&rykiavimas=0) plausibly could make anti-advertising to the rest of the World. At least this does not include Extraterrestrials (Chapter 12) [nasa.gov](https://www.nasa.gov/wp-content/uploads/2015/01/archaeology_anthropology_and_interstellar_communication_tagged.pdf). Russian Wikipedia Page does not include anything related to [wikipedia.org](https://ru.wikipedia.org/w/index.php?search=u%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D1%86&title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&profile=advanced&fulltext=1&ns0=1) Aliens. Plausibly this is a sensitive information.
 * From this Article exists plausibility to align two meanings: Alien and Migrant (or even Invader). Antonym of these meanings could be: Autochton, Indigenious local, Native.
+* Source of [cnn](https://edition.cnn.com/2024/11/14/politics/alien-enemies-act-1798-trump-cec) display legislation, that is related to "Alien Enemies Act", but on this behalf the specific condition, that should be met, when an actual "war is declared". Opposing lawmakers align something like this to a "xenophobia".
 ```
 
 ```
