@@ -6082,3 +6082,21 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the following Article [LRT.lt,BNS](https://www.lrt.lt/naujienos/verslas/4/2663803/sutriko-atsiskaitymai-kortelemis-su-problemomis-susiduria-keliu-banku-klientai) pair of financial organisations has irregular and faulty card payment services. Hardware who are issued by those banking companies could be inaccessible.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Each entity, that gets banking services from financial organisation could need to update their specific & unique firmware. At situations like this each entity require to update their Hardware for service to be functional.
+```
+
+```
