@@ -6101,3 +6101,25 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the following Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2666074/sukciai-is-gyventoju-isviliojo-77-tukst-euru-apsimete-policijos-banko-darbuotojais) scammers ditched hefty sum of money from people.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Idea, that russian speaking telecommunication and police & bank employees could racket out money from people could only link to corrupted employees. In this case scenario it's strange, that everyone turning a blind eye, that something like that are allowed in the country. Understanding a foreign language is not a feat at all & not many moved persons to the Lithuania try to learn a new language.
+* For corrupted scammers who works or pretend as working in legal entity could be placed sanctions, that forbid their working career, e.g. computer hacker who made a huge cybersecurity incident has got forbidden to use an Internet.
+```
+
+```
