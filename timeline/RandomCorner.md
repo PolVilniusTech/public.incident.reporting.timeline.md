@@ -761,6 +761,7 @@ According these Articles:
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2518958/saules-elektrinese-negales-buti-kinisku-elementu-verslas-sako-vien-istatymo-nepakaks) Components of Solar Power Plant(s) are controled by 3rd-parties through long distance technologies.
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2574008/eksperimentas-alytuje-atliekas-i-konteinerius-ismes-tik-su-raktu-ar-specialia-programele) Regions could open possibility for legislation, that could deploy (web) cameras in private spaces.
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2626114/urm-jei-iskrides-dronas-is-baltarusijos-karines-paskirties-atstovui-bus-iteikta-nota) Unidentified Flying Object (IoT).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2666254/nustatytos-dvi-salyje-naudojamos-vaizdo-kameros-keliancios-gresme-duomenu-saugumui) Vulnerabilities of IP digital cameras of "GeoVision" & "ACTi Corporation" could allow remote control from a 3-rd party side.
 ```
 
 ```
