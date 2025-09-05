@@ -960,3 +960,20 @@ Local safeguards from a Brain Drain of local & non-local Entities.
 ```
 
 ```  
+##### I nnocent 
+
+The Article [cambridge.org](https://dictionary.cambridge.org/dictionary/polish-english/trybunal) provide bilinual translation Polish - English for a single word - Tribunal.
+```
+
+```
+##### R eseach
+Responsible disclosure in the Dictionary & the Translator.
+```
+
+```
+##### L earning from Mistakes 
+
+* At these times Cybersecurity take higher level of an attention and create possibilities for minors to report all plausible vulnerabilities of important information systems around web. For making to understand those regulations better are important to develop and maintain bilingual Dictionary. Some systems of those are good and some are just for a read only knowledge. The invention of the Internet gave this type of a chance for self-learning. Responsible disclosure in Authenticated User Interface of the System are hard to grasp (cambridge.org). So the situation, e.g. Court equal to Tribunal, could be discussed. Maybe two words in here a.k.a. "special tribunal" in English could be more correct who could align to the word "trybunał" in Polish?
+```
+
+```
