@@ -6103,7 +6103,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the following Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2666074/sukciai-is-gyventoju-isviliojo-77-tukst-euru-apsimete-policijos-banko-darbuotojais) scammers ditched hefty sum of money from people.
+According the following Articles [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2666074/sukciai-is-gyventoju-isviliojo-77-tukst-euru-apsimete-policijos-banko-darbuotojais) & [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2667031/lietuvoje-per-para-is-gyventoju-isvilioti-40-tukst-euru) scammers ditched hefty sum of money from people.
 ```
 
 ```
