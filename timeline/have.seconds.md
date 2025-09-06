@@ -242,3 +242,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+The Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2667096/lrt-vadove-faktas-kad-segaloviciene-vadovauja-valstybes-kontrolei-nepriduoda-ramybes) include statement of the National Radio and Television of Lithuania: "Do we feel pressure from other political forces, institutions? I will reply as follows YES".
+```
+
+```
+##### R esults
+Risk Management could include threat of Social Engineering and Social Experiments against masses.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+Awareness by controversial sample(s) of Social Engineering and Social Experiment(s):
+*  The Article [mashable](https://mashable.com/article/anonymous-researchers-used-ai-on-reddit-debate-forum) issue announcement how researchers launched AI bots and generated thousands of comments. This was completed w/o notification and currently are treated as "highly unethical" experiment.
+```
+
+```
