@@ -258,6 +258,7 @@ Risk Management could include threat of Social Engineering and Social Experiment
 From such incidents there are possible to learn a lot. I.e.:
 Awareness by controversial sample(s) of Social Engineering and Social Experiment(s):
 *  The Article [mashable](https://mashable.com/article/anonymous-researchers-used-ai-on-reddit-debate-forum) issue announcement how researchers launched AI bots and generated thousands of comments. This was completed w/o notification and currently are treated as "highly unethical" experiment.
+*  The Article [theguardian](https://www.theguardian.com/technology/2023/apr/10/i-didnt-give-permission-do-ais-backers-care-about-data-law-breaches) include information, that Artificial Intelligence use scraped information from the Internet. Included concerns of Operations, that breach personal data and copyright laws.
 ```
 
 ```
