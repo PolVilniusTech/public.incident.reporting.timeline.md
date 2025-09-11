@@ -6103,7 +6103,11 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the following Articles [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2666074/sukciai-is-gyventoju-isviliojo-77-tukst-euru-apsimete-policijos-banko-darbuotojais) & [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2667031/lietuvoje-per-para-is-gyventoju-isvilioti-40-tukst-euru) scammers ditched hefty sum of money from people.
+Following articles are related to scammers:
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2666074/sukciai-is-gyventoju-isviliojo-77-tukst-euru-apsimete-policijos-banko-darbuotojais) - social engineering (impersonation) using mobile phone and stealing victim's financial asset, credentials to an Internet banking account;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2667031/lietuvoje-per-para-is-gyventoju-isvilioti-40-tukst-euru) - social engineering (impersonation) using mobile phone and stealing victim's financial assets, credentials to an Internet banking account;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2669166/zarasu-rajone-is-moters-sukciai-isviliojo-27-7-tukst-euru) - investment scam (cryptocurrency);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2670115/is-vyro-banko-saskaitos-pasisavinta-daugiau-negu-27-tukst-euru) - loss of money by use of victim's financial asset (last year). Successful hacking into Internet banking account through financial phishing attack & stealing victim's financial assets.
 ```
 
 ```
@@ -6120,6 +6124,8 @@ Plausible loss of Integrity.
 From such incidents there are possible to learn a lot. I.e.:
 * Idea, that russian speaking telecommunication and police & bank employees could racket out money from people could only link to corrupted employees. In this case scenario it's strange, that everyone turning a blind eye, that something like that are allowed in the country. Understanding a foreign language is not a feat at all & not many moved persons to the Lithuania try to learn a new language.
 * For corrupted scammers who works or pretend as working in legal entity could be placed sanctions, that forbid their working career, e.g. computer hacker who made a huge cybersecurity incident has got forbidden to use an Internet.
+* Exists financial [ombudsman](https://www.britannica.com/topic/ombudsman) who are investigating citizens’ complaints of bureaucratic abuse, so those impersonators could be checked more in detail.
+* Exists new trend of refunding scammed money, so financial institutions could implement more strict countermeasures for protecting financial asset(s).
 ```
 
 ```
