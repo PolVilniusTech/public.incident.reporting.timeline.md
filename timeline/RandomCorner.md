@@ -647,7 +647,7 @@ From such innocents there are possible to learn a lot. I.e.:
 ```
 ##### I nnocent
 
-This Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2439296/zuokas-siulo-steigti-dirbtinio-intelekto-ministerija-paskirti-virtualu-ministra) provide idea that Public Sector of Lithuania could create Artificial Intelligence (AI) based Digitization Commision.
+This Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2439296/zuokas-siulo-steigti-dirbtinio-intelekto-ministerija-paskirti-virtualu-ministra) provide idea, that Public Sector of Lithuania could create Artificial Intelligence (AI) based Digitization Commision. Ideas are considered by the parliamentarian [lrt.lt](https://www.lrt.lt/naujienos/pozicija/679/2672290/arturas-zuokas-kaip-elektra-tampa-karsta-bulve).
 ```
 
 ```
