@@ -993,6 +993,7 @@ Legalization of mass surveillance of mobile applications.
 
 * Statement of the E.U. Commission: "immediate and irreversible deletion of all accidentally processed data capable of identifying individuals". Does this shall make an incident and had to be reported according proper privacy related regulations? 
 * Statement of the E.U. Commission: "deletion of the data in principle after a period of 90 days, or in any event no later than when the pandemic is declared under control". Does Internet Service Provider already keep required flow data according requirements for specific amount of time, so does this gonna include whole chain of communication nodes? Person could just remove mobile application and be untraceble, then for what a point of going into space of breaching the privacy law(s)?
+* Software application, that could work on newest hardware only require for "Bluetooth" enforced [lrv.lt](https://nvsc.lrv.lt/uploads/nvsc/documents/files/KORONA-STOP-LT-2020-11-05.pdf), it's pseudo-guessing, that person next to you gonna have newest phone with "Bluetooth" ON when he are in the bad shape?
 ```
 
 ```
