@@ -262,3 +262,21 @@ Awareness by controversial sample(s) of Social Engineering and Social Experiment
 ```
 
 ```
+##### I ncident
+
+The Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2675028/trumpas-rusijos-dronu-isiverzimas-i-lenkija-galejo-ivykti-per-klaida) include statement of foreign military for denying their actions.
+```
+
+```
+##### R esults
+Risk Management could include confusion situations for disinformation and propaganda operations.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*  Information security use "non-repudiation" feature where a situation with specific actions by author(s) cannot be denied when it was completed by the same author(s). In the scenario, it could be linked with classified information, that foreign military won't disclose according their law and this statement is just useless. 
+```
+
+```
