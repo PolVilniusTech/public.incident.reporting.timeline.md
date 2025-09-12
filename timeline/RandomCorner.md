@@ -978,3 +978,21 @@ Responsible disclosure in the Dictionary & the Translator.
 ```
 
 ```
+##### I nnocent 
+
+The Article [europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020H0518) include Union Toolbox against COVID-19 with use of mobile applications and anonymised data.
+```
+
+```
+##### R eseach
+Legalization of mass surveillance of mobile applications.
+```
+
+```
+##### L earning from Mistakes 
+
+* Statement of the E.U. Commission: "immediate and irreversible deletion of all accidentally processed data capable of identifying individuals". Does this shall make an incident and had to be reported according proper privacy related regulations? 
+* Statement of the E.U. Commission: "deletion of the data in principle after a period of 90 days, or in any event no later than when the pandemic is declared under control". Does Internet Service Provider already keep required flow data according requirements for specific amount of time, so does this gonna include whole chain of communication nodes? Person could just remove mobile application and be untraceble, then for what a point of going into space of breaching the privacy law(s)?
+```
+
+```
