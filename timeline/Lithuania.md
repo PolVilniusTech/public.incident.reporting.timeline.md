@@ -6107,7 +6107,9 @@ Following articles are related to scammers:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2666074/sukciai-is-gyventoju-isviliojo-77-tukst-euru-apsimete-policijos-banko-darbuotojais) - social engineering (impersonation) using mobile phone and stealing victim's financial asset, credentials to an Internet banking account;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2667031/lietuvoje-per-para-is-gyventoju-isvilioti-40-tukst-euru) - social engineering (impersonation) using mobile phone and stealing victim's financial assets, credentials to an Internet banking account;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2669166/zarasu-rajone-is-moters-sukciai-isviliojo-27-7-tukst-euru) - investment scam (cryptocurrency);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2670115/is-vyro-banko-saskaitos-pasisavinta-daugiau-negu-27-tukst-euru) - loss of money by use of victim's financial asset (last year). Successful hacking into Internet banking account through financial phishing attack & stealing victim's financial assets.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2670115/is-vyro-banko-saskaitos-pasisavinta-daugiau-negu-27-tukst-euru) - loss of money by use of victim's financial asset (last year). Successful hacking into Internet banking account through financial phishing attack & stealing victim's financial assets;
+* [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2675725/maxima-perspeja-apie-netikrus-imones-vardu-rengiamus-konkursus) scammers using social media impersonate popular brand, conduct phishing attacks and try to steal private information from their victims;
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2676042/sukciai-kone-masiskai-atakavo-gyventojus-po-skambuciu-tukstanciai-prarastu-euru) social engineering (impersonation) using mobile phone and stealing victims' financial assets, credentials to an e.Banking account.
 ```
 
 ```
@@ -6126,6 +6128,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * For corrupted scammers who works or pretend as working in legal entity could be placed sanctions, that forbid their working career, e.g. computer hacker who made a huge cybersecurity incident has got forbidden to use an Internet.
 * Exists financial [ombudsman](https://www.britannica.com/topic/ombudsman) who are investigating citizens’ complaints of bureaucratic abuse, so those impersonators could be checked more in detail.
 * Exists new trend of refunding scammed money, so financial institutions could implement more strict countermeasures for protecting financial asset(s).
+* Risk Management could provide ideas, that scammers could use pretext by stealing money from bank accounts of their victims & in most cases of given roles are not related to official privilege of a "debt collectors".
 ```
 
 ```
