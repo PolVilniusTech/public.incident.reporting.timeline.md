@@ -280,3 +280,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+The Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2676162/noredamas-pasisavinti-savivaldybes-lesas-tarybos-narys-fiktyviai-nuomojosi-patalpa) provide fact, that hazardous environment could be used for conducting work of an official. This could include the usage of Computer Devices.
+```
+
+```
+##### R esults
+Disclosed scamming scheme
+Judicial powers don't show prevention efforts to stop escalation of this scheme
+Law enforcement taken only for a single case of a scammer 
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*  European Union has European Agency for Safety and Health at Work [europa.eu](https://oira.osha.europa.eu/en), that could be used by any Member State of EU for conducting important actions of Risk Management depending by a Sector or by general (common) choice, e.g. to Computer Devices related Risks, b.t.w. loss of important data, confidential data, etc.
+*  When You take any Job seriously, the law of security and health of Employees of Republic of Lithuania [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.215253/asr) shall be a bible for an Employer. The Article with a scamming scheme give a hint, that rights of employees for healthly and safe environment are taken at very low level. Even so, chances, that specific type of information, that could be lost or even manipulated in whole process are not taken into an account, if they would be relevant at one point or another.
+```
+
+```
