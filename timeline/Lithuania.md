@@ -6128,7 +6128,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * For corrupted scammers who works or pretend as working in legal entity could be placed sanctions, that forbid their working career, e.g. computer hacker who made a huge cybersecurity incident has got forbidden to use an Internet.
 * Exists financial [ombudsman](https://www.britannica.com/topic/ombudsman) who are investigating citizens’ complaints of bureaucratic abuse, so those impersonators could be checked more in detail.
 * Exists new trend of refunding scammed money, so financial institutions could implement more strict countermeasures for protecting financial asset(s).
-* Risk Management could provide ideas, that scammers could use pretext by stealing money from bank accounts of their victims & in most cases of given roles are not related to official privilege of a "debt collectors".
+* Risk Management could provide ideas, that scammers could use pretext by stealing money from bank accounts of their victims & in most cases of given roles are not related to official privilege of a "debt collector".
 ```
 
 ```
