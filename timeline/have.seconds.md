@@ -301,3 +301,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+The Article [LRT.lt](https://www.lrt.lt/en/news-in-english/19/2678643/us-officers-attend-russia-belarus-war-games-amid-warming-ties-with-minsk) provide idea of spectators, that confirm International Regulation. At the same time [BNS](https://www.lrt.lt/ru/novosti/17/2678340/vitkauskas-vo-vremia-zapad-fiksiruetsia-rost-informatsionnogo-davleniia) CyberSpace are under constant magnifier with increasing amount of misinformation and disinformation.
+```
+
+```
+##### R esults
+Increasing amount of misinformation and disinformation.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+*  When International Agreements were more taken in consideration after signing them, Russian Side were constantly checking Lithuanian positions like in the Article & according International Law. Applicable International Law could be breached as easy as it sounds, because of number of happened unlawful special operations, that are not accepted by International Spectrum.
+*  U.S.A. ten Years earlier started deploy Railway Technology, than Russian Counterpart. At this time attention for decreasing military mobility by invading forces & enhancing security and infrastructure in the Baltics against unlawful intrusion through Railway Vehicles are having small interest through expected policing through Air, Road, Rail, Sea... 
+```
+
+```
