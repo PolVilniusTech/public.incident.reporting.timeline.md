@@ -206,3 +206,14 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
+
+According the Article [ELTA](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2678174/visame-pasaulyje-buvo-sutrikes-starlink-rysio-veikimas) "Starlink" e.service was unavailable for unknown amount of time.
+```
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
