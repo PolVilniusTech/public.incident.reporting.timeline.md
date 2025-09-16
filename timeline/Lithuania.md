@@ -6109,8 +6109,9 @@ Following articles are related to scammers:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2669166/zarasu-rajone-is-moters-sukciai-isviliojo-27-7-tukst-euru) - investment scam (cryptocurrency);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2670115/is-vyro-banko-saskaitos-pasisavinta-daugiau-negu-27-tukst-euru) - loss of money by use of victim's financial asset (last year). Successful hacking into Internet banking account through financial phishing attack & stealing victim's financial assets;
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2675725/maxima-perspeja-apie-netikrus-imones-vardu-rengiamus-konkursus) scammers using social media impersonate popular brand, conduct phishing attacks and try to steal private information from their victims;
-* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2676042/sukciai-kone-masiskai-atakavo-gyventojus-po-skambuciu-tukstanciai-prarastu-euru) social engineering (impersonation) using mobile phone and stealing victims' financial assets, credentials to an e.Banking account.
-* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/naujojoje-akmeneje-sukcius-is-senjoro-isviliojo-beveik-35-tukst-euru/) scammers & social engineering (impersonation) using mobile phone.
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2676042/sukciai-kone-masiskai-atakavo-gyventojus-po-skambuciu-tukstanciai-prarastu-euru) social engineering (impersonation) using mobile phone and stealing victims' financial assets, credentials to an e.Banking account;
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/naujojoje-akmeneje-sukcius-is-senjoro-isviliojo-beveik-35-tukst-euru/) scammers & social engineering (impersonation) using mobile phone;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2679355/alytuje-vilniuje-ir-kaune-sukciai-is-zmoniu-isviliojo-apie-24-1-tukst-euru) scammers use targeted phishing for catching their victim into making one-way investment through investment e.platform. Phishing using short text message through telecommunication means, that re-directs into scamming site. Through mobile phone scammer made an impersonation, that lead into losing financial assets for a victim.    
 ```
 
 ```
@@ -6130,6 +6131,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Exists financial [ombudsman](https://www.britannica.com/topic/ombudsman) who are investigating citizens’ complaints of bureaucratic abuse, so those impersonators could be checked more in detail.
 * Exists new trend of refunding scammed money, so financial institutions could implement more strict countermeasures for protecting financial asset(s).
 * Risk Management could provide ideas, that scammers could use pretext by stealing money from bank accounts of their victims & in most cases of given roles are not related to official privilege of a "debt collector".
+* The Phishing attack in some percentage could be stopped by NCSC DNS Firewall [nksc.lt](https://www.nksc.lt/irankiai.html). E.g. Web users must learn how to make secure configuration of their Web Broswer [nksc.lt](https://www.nksc.lt/uzkarda.html). Moodle type e.learning platform, that does not request for e.payment(s), could add awareness training against scamming, that could be found in the same Site [nksc.lt](https://www.nksc.lt/mokymai/).
 ```
 
 ```
