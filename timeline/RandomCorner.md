@@ -997,3 +997,15 @@ Legalization of mass surveillance of mobile applications.
 ```
 
 ```
+##### I nnocent 
+
+The Article [europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401640&qid=1758274912363) of Directive 2024/1640 deploy Risk Assessment as important aspect of institution (Section Three), Senior Management fully must have good reputation, and act with honesty and integrity (Section Two Article Six).
+```
+
+```
+##### R eseach
+Availability of Knowledge & Platform for efficient Risk Management.
+Availability of Human Resources where Chiefs-Bosses are applicable & meets Requirements of the Directive.
+```
+
+```
