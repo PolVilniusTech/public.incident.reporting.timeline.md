@@ -1009,3 +1009,9 @@ Availability of Human Resources where Chiefs-Bosses are applicable & meets Requi
 ```
 
 ```
+##### L earning from Mistakes 
+
+* Jurisdictional Portals don't include important list of Standards, e.g. ISO 13616, that are linked with their regulation. For this example, You could take an IBAN (International Bank Account Number). Exists Risks from adversaries and (or) other Nation level Countries perspective, where this type of standard could be irrelevant. Then, the Integrity of this type of functionality could be damaged.
+```
+
+```
