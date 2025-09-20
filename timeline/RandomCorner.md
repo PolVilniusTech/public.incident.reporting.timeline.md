@@ -707,6 +707,7 @@ Why there are too much Scammers & Scams around? (Lithuanian Sample)
 From such innocents there are possible to learn a lot. I.e.:
 * Take a look from what People jokes? e.g. [lrt.lt](https://lnk.lt/priciupom-1-sezonas/292041) as funny elements for around of 80 percent per programme are taken by scamming people. Does scamming is even funny? It's for lt. pižonas (fr. pigeon) – narcissist, or commonly just a fool.
 * Take a look about a "Click Bait"! Article type, e.g. [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/214745/investuoti-kviecianciu-sukciu-interneto-svetaines-bus-blokuojamos).
+* Law enforcement forces globaly, who are so bad, that can't prevent growing amount of scamming: [UNPOL](https://police.un.org/en), [INTERPOL](https://www.interpol.int/). Mainly in the E.U. with some Operational Agreements [EUROPOL](https://www.europol.europa.eu/).
 ```
 
 ```
