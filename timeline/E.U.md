@@ -217,3 +217,15 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
+
+According the Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2686084/kibernetine-ataka-sutrikde-didziuju-europos-uostu-veikla) 
+there was disruption in registration and passanger boarding system, that impacted efficiency of operations.
+```
+
+```
+##### R esults
+Loss of Efficiency
+```
+
+```
