@@ -1016,3 +1016,22 @@ Availability of Human Resources where Chiefs-Bosses are applicable & meets Requi
 ```
 
 ```
+##### I nnocent 
+
+The Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2689614/reikalauja-apple-google-microsoft-pasiaiskinti-del-finansinio-sukciavimo-internete) include bias request to Big Tech companies for collecting counter-measures, that ensure preventention of financial scam and Fraud attacks. This request was conducted according Digital Service Act [europa.eu](https://eur-lex.europa.eu/EN/legal-content/summary/digital-services-act.html).
+```
+
+```
+##### R eseach
+1. Does the European Union is a leader of Censorship?
+2. How Censorship could be linked with Social Engineering?
+3. Does Censorship prevent spread of Disinformation?
+```
+
+```
+##### L earning from Mistakes 
+
+* Important Step, that are provided by Lithuanian Bank against Financial Scam & Fraud Attacks — Don't shame Yourself & don't compromise Yourself. Then what a point for a grown-up person to be protected from something as "Morality Police" style [hespress.com](https://en.hespress.com/95445-libya-morality-police-to-be-reinstated-in-crackdown-on-personal-freedoms.html) with a Statement, that for "seeking personal freedom should go to Europe"? 
+```
+
+```
