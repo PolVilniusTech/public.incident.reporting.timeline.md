@@ -2977,13 +2977,13 @@ According Articles [Lrt.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2194490/tyr
 More information regarding GPS jamming:
 * [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2462795/neraminantys-duomenys-gps-trikdziu-skaicius-yra-padidejes-6-kartus);
 * [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2618008/birzeli-pilotu-pranesimu-apie-gps-trikdzius-rekordas-22-kartus-daugiau-nei-pries-metus);
-* [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2661412/ursulos-von-der-leyen-lektuvas-tapo-gps-trikdziu-taikiniu-itariama-rusija);
-* [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2664581/svedija-pranesa-jog-baltijos-juros-regione-staigiai-padidejo-aviacijos-gps-trukdziu).
+* [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2664581/svedija-pranesa-jog-baltijos-juros-regione-staigiai-padidejo-aviacijos-gps-trukdziu);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2690460/i-lietuva-skrides-ispanu-gynybos-ministres-lektuvas-prie-rusijos-patyre-gps-trukdziu).
 ```
 
 ```
 ##### R esults
-GPS is unavailable.
+In specific location(s) the Global Positioning System is unavailable.
 ```
 
 ```
