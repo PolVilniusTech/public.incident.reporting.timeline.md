@@ -213,7 +213,7 @@ According Articles [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2664581/svedij
 
 ```
 ##### R esults
-In specific location the Global Positioning System is unavailable.
+In specific locations the Global Positioning System are unavailable.
 ```
 
 ```
