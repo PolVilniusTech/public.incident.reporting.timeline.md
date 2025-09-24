@@ -208,6 +208,17 @@ Loss of Availability
 ```
 ##### I ncident
 
+According Articles [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2664581/svedija-pranesa-jog-baltijos-juros-regione-staigiai-padidejo-aviacijos-gps-trukdziu) & [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2661412/ursulos-von-der-leyen-lektuvas-tapo-gps-trikdziu-taikiniu-itariama-rusija) the Global Positioning System (GPS) gets jamming attacks.
+```
+
+```
+##### R esults
+In specific location the Global Positioning System is unavailable.
+```
+
+```
+##### I ncident
+
 According the Article [ELTA](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2678174/visame-pasaulyje-buvo-sutrikes-starlink-rysio-veikimas) "Starlink" e.service was unavailable for unknown amount of time.
 ```
 
