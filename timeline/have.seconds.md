@@ -320,3 +320,14 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+The Article [NKSC](https://nksc.lrv.lt/lt/naujienos/vyriausybe-patvirtino-kibernetinio-saugumo-istatymo-igyvendinima-reglamentuojancius-dokumentus/) add idea about additional E.U. directive, that is related with E.U. Computer Networks and Information Systems (incl. related Networks & Systems of Private Sector). [lrs.lt](https://e-seimas.lrs.lt/rs/legalact/TAP/98f2a24099c111eea70ce7cabd08f150) explains the meaning of Information Resources of the Country. The Cybersecurity updated regulation [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/e16e7761fc4b11e89b04a534c5aaf5ce) in the Appendix include Information Resources of the Country, that are categorized according importance of the data they hold.
+```
+
+```
+##### R esults
+Networks and Systems of Private Sector after NIS2 are gonna blend in to the whole category list of Information Resources of the Country.
+```
+
+```
