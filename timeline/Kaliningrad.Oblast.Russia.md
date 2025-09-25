@@ -317,3 +317,14 @@ Service disruption.
 ```
 
 ```
+##### I ncident
+
+According Article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2690460/i-lietuva-skrides-ispanu-gynybos-ministres-lektuvas-prie-rusijos-patyre-gps-trukdziu) GPS jamming is prohibiting use of a Global Positioning System (GPS).
+```
+
+```
+##### R esults
+In specific location the Global Positioning System is unavailable.
+```
+
+```
