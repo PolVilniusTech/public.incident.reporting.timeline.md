@@ -6113,7 +6113,8 @@ Following articles are related to scammers:
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/naujojoje-akmeneje-sukcius-is-senjoro-isviliojo-beveik-35-tukst-euru/) scammers & social engineering (impersonation) using mobile phone;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2679355/alytuje-vilniuje-ir-kaune-sukciai-is-zmoniu-isviliojo-apie-24-1-tukst-euru) scammers use targeted phishing for catching their victim into making one-way investment through investment e.platform. Phishing using short text message through telecommunication means, that re-directs into scamming site. Through mobile phone scammer made an impersonation, that lead into losing financial assets for a victim;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2686094/sukciai-is-triju-sostines-gyventoju-apgaule-isviliojo-apie-107-tukst-euru) scammers pretend themselves as real estate agents, fund investment agents using internet platform, that accept money in cash, social engineering (impersonation) using mobile phone;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2690196/rusiskai-ir-angliskai-kalbeje-sukciai-is-triju-moteru-isviliojo-apie-85-5-tukst-euru) scammers use non-national tongue, does impersonation and social engineering & racketeering, steals victim's account's e.credentials of financial e.site.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2690196/rusiskai-ir-angliskai-kalbeje-sukciai-is-triju-moteru-isviliojo-apie-85-5-tukst-euru) scammers use non-national tongue, does impersonation and social engineering & racketeering, steals victim's account's e.credentials of financial e.site;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2691150/rusiskai-ir-lietuviskai-kalbeje-sukciai-is-vilnietes-isviliojo-21-5-tukst-euru) multiple of scammers complete impersonation and social engineering through unknown software and hardware (mobile phone).
 ```
 
 ```
