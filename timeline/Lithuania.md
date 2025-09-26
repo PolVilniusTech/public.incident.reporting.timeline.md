@@ -6114,7 +6114,8 @@ Following articles are related to scammers:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2679355/alytuje-vilniuje-ir-kaune-sukciai-is-zmoniu-isviliojo-apie-24-1-tukst-euru) scammers use targeted phishing for catching their victim into making one-way investment through investment e.platform. Phishing using short text message through telecommunication means, that re-directs into scamming site. Through mobile phone scammer made an impersonation, that lead into losing financial assets for a victim;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2686094/sukciai-is-triju-sostines-gyventoju-apgaule-isviliojo-apie-107-tukst-euru) scammers pretend themselves as real estate agents, fund investment agents using internet platform, that accept money in cash, social engineering (impersonation) using mobile phone;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2690196/rusiskai-ir-angliskai-kalbeje-sukciai-is-triju-moteru-isviliojo-apie-85-5-tukst-euru) scammers use non-national tongue, does impersonation and social engineering & racketeering, steals victim's account's e.credentials of financial e.site;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2691150/rusiskai-ir-lietuviskai-kalbeje-sukciai-is-vilnietes-isviliojo-21-5-tukst-euru) multiple of scammers complete impersonation and social engineering through unknown software and hardware (mobile phone).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2691150/rusiskai-ir-lietuviskai-kalbeje-sukciai-is-vilnietes-isviliojo-21-5-tukst-euru) multiple of scammers complete impersonation and social engineering through unknown software and hardware (mobile phone);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2693106/rusiskai-su-klaipedieciu-bendrave-sukciai-isviliojo-kortele-ir-isgrynino-15-2-tukst-euru) scammers use, does impersonation and social engineering through telecommunication means, exists chance, that they could hold some knowledge as how to hack A.T.M.s.
 ```
 
 ```
@@ -6135,6 +6136,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Exists new trend of refunding scammed money, so financial institutions could implement more strict countermeasures for protecting financial asset(s).
 * Risk Management could provide ideas, that scammers could use pretext by stealing money from bank accounts of their victims & in most cases of given roles are not related to official privilege of a "debt collector".
 * The Phishing attack in some percentage could be stopped by NCSC DNS Firewall [nksc.lt](https://www.nksc.lt/irankiai.html). E.g. Web users must learn how to make secure configuration of their Web Broswer [nksc.lt](https://www.nksc.lt/uzkarda.html). Moodle type e.learning platform, that does not request for e.payment(s), could add awareness training against scamming, that could be found in the same Site [nksc.lt](https://www.nksc.lt/mokymai/).
+* Law Enforcement could need for a better legislation especially for electronic stuff (incl. Software & Hardware), that include not only Networks & Systems, use of Cyberspace, but of course, the Hardware too.
 ```
 
 ```
