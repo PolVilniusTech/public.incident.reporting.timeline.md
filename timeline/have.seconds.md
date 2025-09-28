@@ -331,3 +331,15 @@ Networks and Systems of Private Sector after NIS2 are gonna blend in to the whol
 ```
 
 ```
+##### I ncident
+
+The Article [valstybeskontrole.lt](https://www.valstybeskontrole.lt/LT/Post/13581/auditoriai-ivertino-nacionalinio-transliuotojo-pastangas-gyventi-taupiau) provide information about conducted audit of the LRT during 2008 financial crisis.
+```
+
+```
+##### R esults
+Available public information about LRT owned building-shelter.
+Lack of evaluation of objectiveness, independent & non-aligned & neutral news coverage of the LRT.
+```
+
+```
