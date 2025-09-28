@@ -2628,7 +2628,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2215652/kaip-ir-kokie-tamo-duomenys-buvo-nutekinti-vogta-is-vartotoju-kompiuteriu-ispeja-del-galimo-pavojaus) TAMO e.service users are constantly attacked from entities who want to get data from this Site. Statement: Probable data collection activity from a long long past. Service users compromising e.service, so probably they need to refresh Knowledge of Cybersecurity.
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2215652/kaip-ir-kokie-tamo-duomenys-buvo-nutekinti-vogta-is-vartotoju-kompiuteriu-ispeja-del-galimo-pavojaus) TAMO e.service users are constantly attacked by malicious entities who want to get data from this Site & their Users. Statement: Probable data collection activity from a long long past. Service users are compromising e.service by themselves, so probably they need to refresh some Knowledge of Cybersecurity.
 ```
 
 ```
@@ -2640,10 +2640,8 @@ e.Service users compromising their own e.Service Accounts.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* When there is a talk about National Cyber Security Center, then citizens could argue that they use some type Browser Software, which could be at fault, to access this e.Service.
-* Does popular Browser Sofware is a very secure Software? I.e. Google Browser - a free (and open) Software.
-* TAMO has Google supported Cookiebot functionality, use www.googletagmanager.com + www.google.com/recaptch + fonts.googleapis.com. What this Site does not has is a guided functionality of [developers.google.com](https://developers.google.com/publisher-tag/guides/content-security-policy). Allowing what is allowed, rejecting what is not allowed and there could be less problems for e.Service Users, because they probably has smart enough Browser Software.
-* Data collection activity from a long long time? When somebody could include malicious code in the source code of the System (directly/indirectly). When this could be the case, then they could grab the data of hundreds and thousands people. Secure versioning of a TAMO code? secure architecture re- of a authentication mechanism? searching for plausible data stealer code and how this was introduced to the System.
+* Malicious mirrored service could be a culprit of this incident for collecting credentials from e.service users.
+* With TAMO related supply-chain site(s) could be used as malware distribution point(s). The NIS2 E.U. Directive should require to scan & handle own root directory of e.services like TAMO for any harmful computer viruses and malware. 3rd-party external components could be left unchecked.
 ```
 
 ```
