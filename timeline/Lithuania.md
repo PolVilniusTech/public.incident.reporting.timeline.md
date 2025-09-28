@@ -2998,6 +2998,17 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
+According the Article [lrytas.lt](https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/04/25/news/rinkimu-repeticija-virto-skandalu-mokymu-metu-vrk-per-klaida-nutekino-tukstanciu-rinkeju-duomenis-31571467) one member of Central Electoral Commission by accident through electronic mail service shared non-anonymized data of twenty thousand voters, that include: First Name, Last Name, Personal Identification Code, Home Address. 
+```
+
+```
+##### R esults
+Shared non-anonymized information of twenty thousand voters.
+```
+
+```
+##### I ncident
+
 According the Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2261495/450-euru-virto-24-eurais-teikdamas-pajamu-deklaracija-vilnietis-vos-nepermokejo) citizen got a inaccurate declaration from the State Tax Inspectorate (lt. VMI).
 According this Article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2262464/registru-centras-lietuvoje-per-50-tukst-zemes-sklypu-ribos-yra-netikslios) provided statistics in errors.
 ```
