@@ -2509,13 +2509,13 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2193161/bendrove-ignitis-patyre-programisiu-ataka) e.service (Software as a service) of a company "Ignitis" got a successful cyberattack.
+According this Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2193161/bendrove-ignitis-patyre-programisiu-ataka) e.service (Software as a service) of the company "Ignitis" was breached by a successful cyberattack.
 ```
 
 ```
 ##### R esults
 Twenty thousand client's data were lost. This include data as a First Name, a Last Name, an E-mail address, a RFID data, a license plate number of an electromobile.
-Electromobile charging was unavailable & client's could not use e.service.
+After cyberattack electromobile charging was unavailable & clients could not use their e.service.
 ```
 
 ```
