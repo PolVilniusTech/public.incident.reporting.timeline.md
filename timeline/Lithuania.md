@@ -20,7 +20,7 @@
 
 ##### I ncident
 
-According [@lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/151146/vrk-rinkejo-puslapis-bus-isjungtas-kol-bus-pasalintos-gresmes) temporarily were shut down "Voter Page" Portal (following — System), because security gap has been found. Reported the Central Electoral Commission (following — VRK, engl. lang. CEC).
+According [@lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/151146/vrk-rinkejo-puslapis-bus-isjungtas-kol-bus-pasalintos-gresmes) temporarily were shut down "Voter Page" Portal (following — System), because security gap has been found. Reported the  (following — VRK, engl. lang. CEC).
 ```
 
 ```
@@ -2998,7 +2998,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the Article [lrytas.lt](https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/04/25/news/rinkimu-repeticija-virto-skandalu-mokymu-metu-vrk-per-klaida-nutekino-tukstanciu-rinkeju-duomenis-31571467) one member of Central Electoral Commission by accident through electronic mail service shared non-anonymized data of twenty thousand voters, that include: First Name, Last Name, Personal Identification Code, Home Address. 
+According the Article [lrytas.lt](https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/04/25/news/rinkimu-repeticija-virto-skandalu-mokymu-metu-vrk-per-klaida-nutekino-tukstanciu-rinkeju-duomenis-31571467) one member of Central Electoral Commission (CEC) by accident through electronic mail service shared non-anonymized data of twenty thousand voters, that include: First Name, Last Name, Personal Identification Code, Home Address. 
 ```
 
 ```
