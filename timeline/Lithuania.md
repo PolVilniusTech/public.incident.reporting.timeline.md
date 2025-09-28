@@ -2914,7 +2914,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2248995/sukciai-is-imones-vilniuje-apgaules-budu-isviliojo-beveik-305-tukst-euru) a personel received malicious request over email to transfer money using fabricated message.
+According the Article [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2248995/sukciai-is-imones-vilniuje-apgaules-budu-isviliojo-beveik-305-tukst-euru) a company received malicious request over email, that request transfer of money using fabricated message(s).
 ```
 
 ```
