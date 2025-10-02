@@ -6127,6 +6127,7 @@ Following articles are related to scammers:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2693106/rusiskai-su-klaipedieciu-bendrave-sukciai-isviliojo-kortele-ir-isgrynino-15-2-tukst-euru) - scammers use, does impersonation and social engineering through telecommunication means, exists chance, that they could hold some knowledge as how to hack A.T.M.s.
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2695026/vilniuje-sukciai-is-senjores-isviliojo-17-5-tukst-euru) - scammers using telecommunication means brainwashed their victim into handing money, during communication non-national tongue was used.
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2697075/sukciai-is-sostines-gyventoju-isviliojo-daugiau-nei-55-tukst-euru) - scammers deploy vishing attack, impersonation and social engineering, investment platform as their toolset for stealing financial assest(s).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2699058/visagino-gyventojas-sukciams-pervede-beveik-40-tukst-euru) - scammers use telecommunication means.
 ```
 
 ```
