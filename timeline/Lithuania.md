@@ -917,13 +917,24 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
+According [Facebook](https://www.facebook.com/paysera.lt/posts/%EF%B8%8F-d%C4%97mesio-internete-aptinkami-netikri-paysera-puslapiai-b%C5%ABkite-atsarg%C5%ABs-ir-savo-/4660419064008610/) exists fake website, that try to represent original service. Existence of Facebook Account proves the organization's Contact Information [paysera.lt](https://www.paysera.lt/v2/lt-LT/index).
+
+```
+
+```
+##### R esults 
+Exists look-a-like scamming site.
+```
+
+```
+##### I ncident
+
 According [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/1538042/buhaltere-ikliuvo-i-sukciu-pinkles-o-prienu-savivaldybes-istaiga-neteko-daugiau-nei-35-tukst-euru) Article  some Employee of the Institution got fabricated e-mail with the Request from Director of this Institution. 
 ```
 
 ```
 ##### R esults 
-The Request of the Director were completed successfully. 
-The Director denies that the Request were sended by him.
+Plausible loss of money.
 ```
 
 ```
