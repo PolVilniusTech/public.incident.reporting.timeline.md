@@ -1037,7 +1037,7 @@ The Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2689614/reikalauja-appl
 ```
 ##### I nnocent 
 
-The Article [ELTA](https://www.respublika.lt/lt/naujienos/mokslas/mokslas/mokslininkai-komikas-nuolat-cituoja-tyrima-kurio-visiskai-nesupranta/) express concerns about scientific research, that could lack of explanation or maybe even could include scamming patterns, who would be not understood by common people, that use Technologies.
+The Article [ELTA](https://www.respublika.lt/lt/naujienos/mokslas/mokslas/mokslininkai-komikas-nuolat-cituoja-tyrima-kurio-visiskai-nesupranta/) express concerns about scientific research, that are interpreted in wrong way. Common people, that use Technologies finds lack of explanation or, maybe, even scamming patterns, that later on would be hardly fixable.
 ```
 
 ```
