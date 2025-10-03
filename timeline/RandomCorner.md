@@ -1042,8 +1042,9 @@ The Article [ELTA](https://www.respublika.lt/lt/naujienos/mokslas/mokslas/moksli
 
 ```
 ##### R eseach
-List of Scientific concerns from the Media Press perspective who make citations by themselves in their webpages.
-* [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2643310/griauna-pasitikejima-mokslu-identifikuota-tukstanciai-suklastotu-moksliniu-tyrimu);
+List of Scientific concerns from the Media Press perspective (who make citations by themselves (incl. automatization tools) in their webpages):
+* [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2693227/mokslininkai-dirbtinio-intelekto-kuriami-netikri-tyrimai-klaidina-visuomene) plausible clickbait - artificial intelligence (AI), copyright & AI, standardization, less autonomy;
+* [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2643310/griauna-pasitikejima-mokslu-identifikuota-tukstanciai-suklastotu-moksliniu-tyrimu) forged data, artificial intelligence, plagiarism, photoshoping, predatory journals, hyperbolic writing;
 * TODO.
 ```
 
