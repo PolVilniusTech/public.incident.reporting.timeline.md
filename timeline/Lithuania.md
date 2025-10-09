@@ -6141,7 +6141,8 @@ Following articles are related to scammers:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2699058/visagino-gyventojas-sukciams-pervede-beveik-40-tukst-euru) - scammers use telecommunication means;
 * [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2701062/nesutramdomas-sukciu-siautejimas-vos-per-para-gyventojai-jiems-atidave-118-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attacks, offers job per website, their activity are increased from usual level;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2704063/sukciai-is-visagino-gyventojos-isviliojo-32-tukst-euru) scammers deploy vishing attacks through impersonation & telecommunication means;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2705102/sukciai-apgavo-pora-klaipedoje-ir-pasisavino-85-tukst-euru) scammers deploy vishing attacks through impersonation & telecommunication means.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2705102/sukciai-apgavo-pora-klaipedoje-ir-pasisavino-85-tukst-euru) scammers deploy vishing attacks through impersonation & telecommunication means;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2707092/rusiskai-kalbeje-sukciai-is-vilniecio-isviliojo-31-tukst-euru) scammers deploy vishing attacks through impersonation & telecommunication means, phishing links & social engineering to initiate unknown payment, loans through unknown e.site, financial institution(s).
 ```
 
 ```
