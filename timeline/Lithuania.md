@@ -6164,6 +6164,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Risk Management could provide ideas, that scammers could use pretext by stealing money from bank accounts of their victims & in most cases of given roles are not related to official privilege of a "debt collector".
 * The Phishing attack in some percentage could be stopped by NCSC DNS Firewall [nksc.lt](https://www.nksc.lt/irankiai.html). E.g. Web users must learn how to make secure configuration of their Web Broswer [nksc.lt](https://www.nksc.lt/uzkarda.html). Moodle type e.learning platform, that does not request for e.payment(s), could add awareness training against scamming, that could be found in the same Site [nksc.lt](https://www.nksc.lt/mokymai/).
 * Law Enforcement could need for a better legislation especially for electronic stuff (incl. Software & Hardware), that include not only Networks & Systems, use of Cyberspace, but of course, the Hardware too.
+* Tiny bit of suggestions could be found in here [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2619051/specialistas-patare-kaip-elgtis-jeigu-tapote-sukciu-auka).
 ```
 
 ```
