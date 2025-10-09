@@ -763,6 +763,7 @@ According these Articles:
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2574008/eksperimentas-alytuje-atliekas-i-konteinerius-ismes-tik-su-raktu-ar-specialia-programele) Regions could open possibility for legislation, that could deploy (web) cameras in private spaces.
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2626114/urm-jei-iskrides-dronas-is-baltarusijos-karines-paskirties-atstovui-bus-iteikta-nota) Unidentified Flying Object (IoT).
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2666254/nustatytos-dvi-salyje-naudojamos-vaizdo-kameros-keliancios-gresme-duomenu-saugumui) Vulnerabilities of IP digital cameras of "GeoVision" & "ACTi Corporation" could allow remote control from a 3-rd party side.
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2707527/zmonos-pokalbiu-slapta-besiklausiusiam-vyrui-teismas-skyre-3-5-tukst-euru-bauda) & [ebay.com](https://www.ebay.com/sch/i.html?_nkw=ip+camera) Security Surveillance Tools used as Illegal Spy Tools.
 ```
 
 ```
