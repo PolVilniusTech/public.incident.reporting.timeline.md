@@ -6169,3 +6169,14 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+Following article [Lrytas.lt](https://www.lrytas.lt/it/ismanyk/2025/10/13/news/vienu-metu-sutriko-bent-dvieju-lietuvos-aukstuju-mokyklu-interneto-svetaines-39899923) describe, that Web Services of two Higher Education Schools are unavailable.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
