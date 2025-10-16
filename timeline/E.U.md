@@ -240,3 +240,26 @@ Loss of Efficiency
 ```
 
 ```
+##### I ncident
+
+According the Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2712078/qantas-per-didele-kibernetine-ataka-pavogti-klientu-duomenys-atsidure-internete) number of global Companies lost their data, that include "Disney", "Google", "IKEA", "Toyota", "McDonald's", "Air France", "KLM". 
+```
+
+```
+##### R esults
+Loss of Confidentiality.
+Loss of Privacy.
+```
+
+```
+##### I ncident
+
+According the Article [ELTA](https://www.tv3.lt/naujiena/uzsienis/prorusiski-programisiai-surenge-ataka-pries-vokietijos-viesuju-pirkimu-portala-n1460508) because of Distributed denial of service attacks the dtvp.de Deutschland's Public Procurement System's Portal was unavailable up to one week.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
