@@ -6180,3 +6180,40 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According following Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2715453/unipark-ispeja-apie-sukciu-siunciamas-sms-zinutes) exists Unipark's "suspected" & "in question" web site, that pretends as being Unipark's asset. Plausibly the asset is used in SMS Scam.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Integrity.
+Plausible loss of Authenticity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Unipark's Web portal got data leak in 2024. The data could be used in phishing attacks.
+* Registration of Domain Name requires for Personal Data & dealing with created phishing site has to be taken care of by e.police.
+```
+
+```
+##### I ncident
+
+Following articles are related to scammers:
+* [ELTA](https://lnk.lt/straipsniai/kriminalai/sukciai-is-zmoniu-isviliojo-50-tukst-euru/340118) scammers use targeted phishing links, financial phishing site and (or) vulnerable financial web site, conduct vishing attacks, impersonation using telecommunication means;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2716094/is-triju-vilnieciu-sukciai-isviliojo-per-42-tukst-euru) scammers use, probably, financial phishing site, conduct vishing attacks, impersonation using telecommunication means, physically go to their victim private property.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
