@@ -6137,13 +6137,13 @@ Following articles are related to scammers:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2691150/rusiskai-ir-lietuviskai-kalbeje-sukciai-is-vilnietes-isviliojo-21-5-tukst-euru) - multiple of scammers complete impersonation and social engineering through unknown software and hardware (mobile phone);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2693106/rusiskai-su-klaipedieciu-bendrave-sukciai-isviliojo-kortele-ir-isgrynino-15-2-tukst-euru) - scammers use, does impersonation and social engineering through telecommunication means, exists chance, that they could hold some knowledge as how to hack A.T.M.s;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2695026/vilniuje-sukciai-is-senjores-isviliojo-17-5-tukst-euru) - scammers using telecommunication means brainwashed their victim into handing money, during communication non-national tongue was used;
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2697075/sukciai-is-sostines-gyventoju-isviliojo-daugiau-nei-55-tukst-euru) - scammers deploy vishing attack, impersonation and social engineering, investment platform as their toolset for stealing financial assest(s);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2697075/sukciai-is-sostines-gyventoju-isviliojo-daugiau-nei-55-tukst-euru) - scammers deploy vishing attack, foreign tongue, impersonation and social engineering, investment platform as their toolset for stealing financial assest(s);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2699058/visagino-gyventojas-sukciams-pervede-beveik-40-tukst-euru) - scammers use telecommunication means;
-* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2701062/nesutramdomas-sukciu-siautejimas-vos-per-para-gyventojai-jiems-atidave-118-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attacks, offers job per website, their activity are increased from usual level;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2704063/sukciai-is-visagino-gyventojos-isviliojo-32-tukst-euru) scammers deploy vishing attacks through impersonation & telecommunication means;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2705102/sukciai-apgavo-pora-klaipedoje-ir-pasisavino-85-tukst-euru) scammers deploy vishing attacks through impersonation & telecommunication means;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2707092/rusiskai-kalbeje-sukciai-is-vilniecio-isviliojo-31-tukst-euru) scammers deploy vishing attacks through impersonation & telecommunication means, phishing links & social engineering to initiate unknown payment, loans through unknown e.site, financial institution(s);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2709138/sostineje-vilniaus-rajone-ir-kupiskyje-sukciai-is-zmoniu-isviliojo-apie-22-8-tukst-euru) scammers use impersonation & telecommunication means, deploy vishing attacks, (manually and (or) automatically) sends phishing links through Ad Portal.
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2701062/nesutramdomas-sukciu-siautejimas-vos-per-para-gyventojai-jiems-atidave-118-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attacks, foreign tongue, offers job per website, their activity are increased from usual level;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2704063/sukciai-is-visagino-gyventojos-isviliojo-32-tukst-euru) scammers deploy vishing attacks, foreign tongue through impersonation & telecommunication means;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2705102/sukciai-apgavo-pora-klaipedoje-ir-pasisavino-85-tukst-euru) scammers deploy vishing attacks, foreign tongue through impersonation & telecommunication means;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2707092/rusiskai-kalbeje-sukciai-is-vilniecio-isviliojo-31-tukst-euru) scammers deploy vishing attacks, foreign tongue through impersonation & telecommunication means, phishing links & social engineering to initiate unknown payment, loans through unknown e.site, financial institution(s);
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2709138/sostineje-vilniaus-rajone-ir-kupiskyje-sukciai-is-zmoniu-isviliojo-apie-22-8-tukst-euru) scammers use impersonation & telecommunication means, deploy vishing attacks, foreign tongue, (manually and (or) automatically) sends phishing links through Ad Portal.
 ```
 
 ```
@@ -6204,8 +6204,9 @@ From such incidents there are possible to learn a lot. I.e.:
 ##### I ncident
 
 Following articles are related to scammers:
-* [ELTA](https://lnk.lt/straipsniai/kriminalai/sukciai-is-zmoniu-isviliojo-50-tukst-euru/340118) scammers use targeted phishing links, financial phishing site and (or) vulnerable financial web site, conduct vishing attacks, impersonation using telecommunication means;
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2716094/is-triju-vilnieciu-sukciai-isviliojo-per-42-tukst-euru) scammers use, probably, financial phishing site, conduct vishing attacks, impersonation using telecommunication means, physically go to their victim private property.
+* [ELTA](https://lnk.lt/straipsniai/kriminalai/sukciai-is-zmoniu-isviliojo-50-tukst-euru/340118) scammers use targeted phishing links, financial phishing site and (or) vulnerable financial web site, conduct vishing attacks, foreign tongue, impersonation using telecommunication means;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2716094/is-triju-vilnieciu-sukciai-isviliojo-per-42-tukst-euru) scammers use, probably, financial phishing site, conduct vishing attacks, foreign tongue, impersonation using telecommunication means, physically go to their victim private property;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2717033/is-kaunietes-sukciai-isviliojo-per-30-tukst-euru) scammers deploy vishing attacks, foreign tongue through impersonation & telecommunication means.
 ```
 
 ```
