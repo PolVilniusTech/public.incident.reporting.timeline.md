@@ -110,6 +110,20 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2323621/defektas-crowdstrike-irangos-atnaujinime-paveike-8-5-mln-kompiuteriu-su-windows) supplychain attack "CrowdStrike" has interrupted and closed number of systems, that had to be restored by computer incident response teams.
+```
+
+```
+##### R esults
+Loss of Availability.
+Plausible loss of data.
+Loss of Efficiency.
+Loss of Money.
+```
+
+```
 ### 2025
 
 ##### I ncident
@@ -157,10 +171,10 @@ According the Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/259
 
 ```
 ##### R esults
-Loss of Privacy
-Loss of Confidentiality
-Loss of Integrity
-Plausible loss of Availability
+Loss of Privacy.
+Loss of Confidentiality.
+Loss of Integrity.
+Plausible loss of Availability.
 ```
 
 ```
@@ -181,10 +195,10 @@ According the Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/262
 
 ```
 ##### R esults
-Plausible loss of Privacy
-Plausible loss of Confidentiality
-Plausible loss of Integrity
-Plausible loss of Availability
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
 ```
 
 ```
@@ -202,7 +216,7 @@ According the Article [ELTA](https://www.lrytas.lt/it/ismanyk/2025/07/25/news/vi
 
 ```
 ##### R esults
-Loss of Availability
+Loss of Availability.
 ```
 
 ```
@@ -224,7 +238,7 @@ According the Article [ELTA](https://www.lrt.lt/naujienos/mokslas-ir-it/11/26781
 
 ```
 ##### R esults
-Loss of Availability
+Loss of Availability.
 ```
 
 ```
@@ -236,7 +250,7 @@ there was disruption in registration and passanger boarding system, that impacte
 
 ```
 ##### R esults
-Loss of Efficiency
+Loss of Efficiency.
 ```
 
 ```
@@ -260,6 +274,37 @@ According the Article [ELTA](https://www.tv3.lt/naujiena/uzsienis/prorusiski-pro
 ```
 ##### R esults
 Loss of Availability.
+```
+
+```
+##### I ncident
+
+According this [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2720142/daugiau-nei-500-imoniu-paliete-interneto-trikdziai-nustatyti-svetainiu-veikla-atkuriama) number of Systems has been not available, because of problems in a Cloud Service "Amazon Web Services".
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### I ncident
+
+According this [-](https://www.lrt.lt/naujienos/verslas/4/2719124/kas-perka-jusu-skaitmenine-praeiti-lietuvos-startuolis-tiriamas-del-duomenu-prekybos) Lithuanian Startup has started to personalize personal (private) data out of Internet through public access only. Startup has issues with the Privacy compliance when person's can't decide of opt-out.
+```
+
+```
+##### R esults
+Loss of Compliance.
+Loss of Privacy.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Number of services like this does not collect anything by default. Start-up yet could be on research and test phase.
+* Usually after properly completed identification & authentication person's could request to search for their data around the Web. Residual risk are related to illegal indexing of private information by fake identification & authentication..
 ```
 
 ```
