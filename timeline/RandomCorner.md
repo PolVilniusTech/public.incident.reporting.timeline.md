@@ -1059,12 +1059,12 @@ The Article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2717255/savai
 ```
 ##### R eseach
 Operating Systems, that are used in academia, research institutions, scientific computing...
-2025 The Copilot AI estimate OS usage in Global Scientific Area:
+* 2025 The Copilot AI estimate OS usage in Global Scientific Area:
 1. Linux OS usage estimated between 70 and 90 percentage out of 100 percent.
 2. Windows OS usage estimated between 10 and 25 percentage out of 100 percent.
 3. MacOS usage estimated between 1 and 5 percentage out of 100 percent.
-2025 The Gemini AI dodge listing out percentages by OS and conclude the fact, that 100 percent of Supercomputers are used with Linux due to its open-source nature, customizability, stability, and ability to handle massive parallel processing. B.t.w. Linux is the de facto standard for Scientific Servers or Clusters.
-2025 The DeepSeek AI list out table of categories & operating systems, that are used for number of occasions:
+* 2025 The Gemini AI dodge listing out percentages by OS and conclude the fact, that 100 percent of Supercomputers are used with Linux due to its open-source nature, customizability, stability, and ability to handle massive parallel processing. B.t.w. Linux is the de facto standard for Scientific Servers or Clusters.
+* 2025 The DeepSeek AI list out table of categories & operating systems, that are used for number of occasions:
 1. Supercomputer - 100% (Linux); 0% (Windows); 0% (macOS).
 2. Research Cloud (or Research Grid) - 95% (Linux); 5% (Windows); 1% (macOS).
 3. Lab Instrument - 20-40% (Linux); 50-70% (Windows); 5-10% (macOS).
