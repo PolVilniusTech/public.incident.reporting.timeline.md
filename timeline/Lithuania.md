@@ -6218,3 +6218,23 @@ Plausible loss of Integrity.
 ```
 
 ```
+##### I ncident
+
+According this [-](https://www.lrt.lt/naujienos/verslas/4/2719124/kas-perka-jusu-skaitmenine-praeiti-lietuvos-startuolis-tiriamas-del-duomenu-prekybos) Lithuanian Startup has started to personalize personal (private) data out of Internet through public access only. Startup has issues with the Privacy compliance when person's can't decide of opt-out.
+```
+
+```
+##### R esults
+Loss of Compliance.
+Loss of Privacy.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Number of services like this does not collect anything by default. Start-up yet could be on research and test phase.
+* Usually after properly completed identification & authentication person's could request to search for their data around the Web. Residual risk are related to illegal indexing of private information by fake identification & authentication..
+```
+
+```
