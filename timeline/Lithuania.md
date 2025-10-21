@@ -6238,3 +6238,17 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According following article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2721119/sukciautoja-itikino-kauniete-paimti-beveik-23-tukst-euru-paskolu) scammer use telecommunication means, deploy vishing attack, foreign tongue, victim by himself use e.platforms for taking out loans for unknown purposes.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
