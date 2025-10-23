@@ -6240,7 +6240,9 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According following article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2721119/sukciautoja-itikino-kauniete-paimti-beveik-23-tukst-euru-paskolu) scammer use telecommunication means, deploy vishing attack, foreign tongue, victim by himself use e.platforms for taking out loans for unknown purposes.
+According following articles scammers are mentioned: 
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2721119/sukciautoja-itikino-kauniete-paimti-beveik-23-tukst-euru-paskolu) scammer use telecommunication means, deploy vishing attack, foreign tongue, victim by himself use e.platforms for taking out loans for unknown purposes.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2723080/vilniuje-ir-taurageje-sukciai-is-dvieju-zmoniu-isviliojo-17-6-tukst-euru) unwanted investment through unknown e.investment platform.
 ```
 
 ```
@@ -6249,6 +6251,14 @@ Plausible loss of Money.
 Plausible loss of Privacy.
 Plausible loss of Confidentiality.
 Plausible loss of Integrity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Scamming are one of main reasons of crime in 2024 [ELTA](https://www.elta.lt/lt/pranesimai-spaudai/europos-reikalu-komitete-pristatytos-eurojusto-ir-europolo-2024-m-veiklos-ataskaitos-258806), when scammers join in organized crime groups, that are looking for ways to entangle their victims into doing actions, that result in an undesirable consequences. One of highest problematic groups are those, that known too well whole legislational and jurisdictional kitchen.
+* Public News of scamming are not fully open for public in the web-site of www.elta.lt.
 ```
 
 ```
