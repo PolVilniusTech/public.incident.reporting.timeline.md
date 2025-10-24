@@ -6262,3 +6262,14 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2723415/reddit-duomenu-rinkimo-ieskinys-ir-lietuviu-imonei-oxylabs) company Oxylabs automatically collected information from the Social Media "Reddit" w/o taking in consideration terms of use/terms of service.
+```
+
+```
+##### R esults
+Loss of Confidentiality.
+```
+
+```
