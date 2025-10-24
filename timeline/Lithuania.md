@@ -6269,6 +6269,7 @@ According Article [BNS](https://www.lrt.lt/naujienos/verslas/4/2723415/reddit-du
 
 ```
 ##### R esults
+Loss of Confidentiality.
 Loss of Privacy.
 ```
 
