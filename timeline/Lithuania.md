@@ -6274,3 +6274,17 @@ Loss of Privacy.
 ```
 
 ```
+##### I ncident
+
+According following article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2725048/sukciai-is-vilniaus-klaipedos-ir-panevezio-gyventoju-isviliojo-virs-50-tukst-euru) scammers use telecommunication means and (or) fake e.mail address, deploy vishing attack, phishing attack, impersonation, foreign tongue, victim by himself personally hand his own assets.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
