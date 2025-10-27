@@ -6288,3 +6288,39 @@ Plausible loss of Integrity.
 ```
 
 ```
+##### I ncident
+
+According following article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2727284/buvo-sutrikusios-luminor-banko-elektronines-paslaugos) financial institution "Luminor" got limited access to an internet bank and a software application & a call center was unavailable. 
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### I ncident
+
+According following article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2727142/vilniuje-buvo-sutrikes-elektros-tiekimas-su-trikdziais-susidure-21-tukst-vilnieciu) numerous quantity of citizen had no electricity, ten traffic light signals was out of order.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### I ncident
+
+According following article [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2727116/neuzkibkite-ant-sukciu-kabliuko-prisidenge-draudiko-vardu-siulo-pelninga-darba) social media are used by scammers to offer Advertisements for online only activity in behalf of Lithuanian company "Lietuvos draudimas".
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
