@@ -308,3 +308,17 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According this [-](https://www.lrt.lt/naujienos/lietuvoje/2/2728171/paulauskas-per-pastaruosius-du-menesius-policija-i-oro-balionus-reagavo-140-kartu) exists increased number of telecommunication SIM cards purchases by huge numbers. This could lead into trafficked SIM cards by unknown entities.
+```
+
+```
+##### R esults
+Plausible loss of Money. 
+Plausible loss of Privacy. 
+Plausible loss of Confidentiality. 
+Plausible loss of Integrity.
+```
+
+```
