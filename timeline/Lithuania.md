@@ -6317,7 +6317,8 @@ According following articles:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2728045/sukciai-is-zmoniu-isviliojo-apie-47-tukst-euru) scammers deploy vishing attacks, foreign tongue through impersonation & telecommunication means; fraud attack using physical financial asset; robbing attack with unknown circumstances from electronic Bank Account;
 * [ELTA](https://www.lrt.lt/naujienos/verslas/4/2728159/lietuvos-pastas-ispeja-gyventojus-jo-vardu-siunciamos-apgaulingos-sms-zinutes) telecommunications are used by scammers to send Short Message Service with text, that deploy imitation of "AB Lietuvos paštas". Completion of malicious request could result in loss of unique personal identity code, financial asset's information... Scammers know-how how to display text instead of telephone number;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2729127/sukciai-is-zmoniu-ir-imones-isviliojo-apie-80-tukst-euru) scammers deploy look alike pharming sites, that allow electronic payments; get unauthorized access to financial bank account; deploy vishing attacks, foreign tongue through impersonation & telecommunication means; use social engineering through software app "Messenger" & grab confidential information from their victim;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2730063/lietuviskai-ir-rusiskai-kalbeje-sukciai-is-klaipediecio-isviliojo-19-7-tukst-euru) scammers deploy vishing attacks, foreign tongue through impersonation & telecommunication means.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2730063/lietuviskai-ir-rusiskai-kalbeje-sukciai-is-klaipediecio-isviliojo-19-7-tukst-euru) scammers deploy vishing attacks, foreign tongue through impersonation & telecommunication means;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2731022/rusiskai-kalbeje-sukciai-is-triju-zmoniu-isviliojo-105-5-tukst-euru) scammers deploy vishing attacks, foreign tongue through impersonation & telecommunication means.
 ```
 
 ```
