@@ -6330,3 +6330,18 @@ Plausible loss of Integrity.
 ```
 
 ```
+##### I ncident
+
+According following article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2731138/lrtk-uzblokavo-tris-naujas-piratines-filmu-svetaines-kopijas) exists redirected versions of banned web sites. Redirected web sources must be banned. Full list of banned web sites could be found in here [rtk.lt](https://www.rtk.lt/lt/atviri-duomenys/interneto-svetaines-kuriose-pazeidziamos-autoriu-teises). Banned web sites, that approve international sanctions could be found in here [rtk.lt](https://www.rtk.lt/lt/atviri-duomenys/ribojimai-susije-su-tarptautiniu-sankciju-igyvendinimu).
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Loss of Integrity.
+Loss of Authenticity.
+```
+
+```
