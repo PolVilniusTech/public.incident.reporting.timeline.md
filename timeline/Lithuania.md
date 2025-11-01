@@ -6345,3 +6345,17 @@ Loss of Authenticity.
 ```
 
 ```
+##### I ncident
+
+According following article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2732051/is-keturiu-zmoniu-sukciai-isviliojo-per-21-tukst-euru) scammers use telecommunication means, deploy vishing attack, impersonation, foreign tongue, targeted phishing and (or) fraud attack via social media's computer or mobile phone software app, pharming site.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
