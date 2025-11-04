@@ -6347,7 +6347,9 @@ Loss of Authenticity.
 ```
 ##### I ncident
 
-According following article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2732051/is-keturiu-zmoniu-sukciai-isviliojo-per-21-tukst-euru) scammers use telecommunication means, deploy vishing attack, impersonation, foreign tongue, targeted phishing and (or) fraud attack via social media's computer or mobile phone software app, pharming site.
+According following articles:
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2732051/is-keturiu-zmoniu-sukciai-isviliojo-per-21-tukst-euru) scammers use telecommunication means, deploy vishing attack, impersonation, foreign tongue, targeted phishing and (or) fraud attack via social media's computer or mobile phone software app, pharming site;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2735032/sukciai-pasisavino-tukstancius-siusdami-fiktyvias-nuorodas-apsimesdami-bankininkais) scammers use telecommunication means, deploy vishing attack, impersonation, foreign tongue, targeted phishing, fake employment, fake delivery, man-in-the-middle & "Smart ID" (and (or) pharming site).
 ```
 
 ```
