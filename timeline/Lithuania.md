@@ -677,7 +677,7 @@ About 191 thousand chunks of Data of the e-Shop Clients were lost including name
 According Privacy Policy of the e-Shop [kilobaitas.lt](https://www.kilobaitas.lt/Pub/default.aspx?Page=privatumopolitika):
 * exists huge chance that Data of the Bank Account No. are leaked too.
 * Data, which are needed to protect the Homeland Security, with Criminal code related issues and etc. (i.e. IP address, device number and other) are in Question.
-* To retrieve goods anyone could identify themselves by providing name, surname, e-mail address.
+* By providing name, surname, e-mail address it are possible to retrieve goods.
 ```
 
 ```
@@ -1223,7 +1223,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Lithuania have around two organisations which cares for Copyright rights and defends the Authors of their Authorship.
 * Such organisations in long run could start to defend Authorship of Authors Voice (i.e. for AudioBooks) and Authors Face (i.e. against "Photoshoped" Pictures and Videos) as intelectual property of the Author in usage of various Technological Situations, unless Authors allows it.
 * In more early beginning people have to get Technological literacy which would help to distinguish which is real and which one is not (the impersonation).
-* In search of History Defending Sides. Usually smaller Side can't Protect themselves good enough, because they do not have capacity to do it and in example some Culture may drop Poorest ones.
+* In search of History Defending Sides. Usually smaller Side can't Protect himself good enough, because they do not have capacity to do it.
 * You need to pass the data, which are given to You, and if You know that the Site could be Trusted then try to search for specific Path for Yourself to the Object about which You are interested. Usual Law for Countries to offer Three Click rule to the access to the Sites Content.
 * By opening random documents they may lead into some (un-)known vulnerabilities. Your Desktop would be more Secure, if You would use Minimal Installation from the Start. Finding and responsibly reporting such vulnerabilities could help for some organisation to fix their poor Quality Products. Such vulnerabilities may harm Your own Products, if they are not prone to these vulnerabilities.    
 ```
@@ -1766,7 +1766,7 @@ By using imposing Sites there are extremely high chance to lose credentials and 
 
 From such incidents there are possible to learn a lot. I.e.:
 * The Website which are imposing as "vmi.lt" has ".net" domain. In contrast domains like ".net", ".gov", ".edu", ".mil" are in many times "stronger" stance as something as single ".lt" domain name.
-* The Portal of common domain purchase in U.S.A. is [GoDaddy](https://www.godaddy.com/en-ie/tlds/net-domain?countryview=1&isc=e1domgon1&countryview=1&currencyType=EUR), which allows to do World-Wide purchases and promotes original Country names on which they have been decided for themselves, in instance the "Türkiye".
+* The Portal of common domain purchase in U.S.A. is [GoDaddy](https://www.godaddy.com/en-ie/tlds/net-domain?countryview=1&isc=e1domgon1&countryview=1&currencyType=EUR), which allows to do World-Wide purchases and promotes original Country names on which they have been decided by the Country himself, in instance the "Türkiye".
 * Exists domain name forwarding, i.e. by going into "vmi.net" could be made Browser forwarding from Server side into a Site of "vmi.lt". In this case everything could end up better than described in the "R esults".
 * Bi-polar situation in the LTU, when there exists Site's like [Data Agency of the Country](https://www.stat.gov.lt/), when ".gov" domain name in use just after ".lt". And in the end we own normal domain ".gov.lt" for the Government domain + LTU domain. Now let us take the situation of sample domain of Lithuanian institution [IVPK](https://ivpk.lrv.lt/), which produce ".lrv" domain + ".lt" domain. This is equal situation of Government domain + LTU domain. Which one could be Trusted? or does they both (.gov.lt) and (.lrv.lt) are Trusted domains? where first represent TopLevelDomain + CountryCodeTopLevelDomain and second represent some simple Domain + CountryCodeTopLevelDomain.
 * If there would be poor Country with small amount of technical personnel and skills maybe would be greater to pass such situation into those who control ".net" TopLevelDomain and would handle it according their jurisdiction. Some Samples with SecondLevelDomains could be found in here [Wikipedia](https://en.wikipedia.org/wiki/Subdomain).
@@ -2456,7 +2456,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Read Terms of Use & Privacy Policy to understand what possibilities provide the social media account.
 * Providing your personal identity card to foreign service are the same as bank person would request You for passwords to Your account. Recommendation to not do that.
 * Other e.Services requests for Employee data, i.e. Linkedin. Employee card could be used in this place. Recommendation to not do that.
-* The use of the qualified digital signature are not wide-spread. The digital-signature for themself could include private information like personal identity code, home address & major of applications does not ask: what are required at minimum & what You are willing to share. Recommendation to not use for the social media accounts.
+* The use of the qualified digital signature are not wide-spread. The digital signature by himself could include private information like personal identity code, home address & major of applications does not ask: what are required at minimum & what You are willing to share. Recommendation to not use for the social media accounts.
 * Exists charity platforms who collect similar sponsorship & donation funds, so better use official & registered platforms instead. When the platform registered locally, then You could get better customer service.
 * The social media shown in the Article use Content Security Policy, so it provide security & are prone to phishing Sites. When You use non-standard browser this could be not true.
 
@@ -3976,7 +3976,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.tv3.lt/naujiena/lietuva/sostineje-google-darbuotojais-prisistate-sukciai-isviliojo-6-6-tukst-euru-n1370494) scammers who self-represent themselves as "Google" employee and somebody from Police scammed a person.
+According this Article [ELTA](https://www.tv3.lt/naujiena/lietuva/sostineje-google-darbuotojais-prisistate-sukciai-isviliojo-6-6-tukst-euru-n1370494) scammers who self-represent themselves as "Google" employee & Policeman conducted a Scam.
 ```
 
 ```
@@ -4178,7 +4178,7 @@ Plausible loss of Money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Exists notifications in number of journals about people who scam, i.e. by pretending themselves as victims relatives (or victims of those relatives) and in return want money. Article does not specify details about a situation. 
+* Exists notifications in number of journals about people who scam, i.e. by pretending themselves as relatives of victims (or victims of those relatives) and in return want money. Article does not specify details about a situation. 
 ```
 
 ```
@@ -4450,7 +4450,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2428373/mazeikiuose-nuo-telefoniniu-sukciu-nukentejo-asociacija-prarado-16-tukst-euru) scammers pretended themselves as "Google", Police, Bank Employees and conducted Fraud attack. Jurisdictional entity lost sixteen thousand euros.
+According this Article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2428373/mazeikiuose-nuo-telefoniniu-sukciu-nukentejo-asociacija-prarado-16-tukst-euru) scammers pretended themselves as "Google", Police, Bank Employees & conducted a Fraud attack. Jurisdictional entity lost sixteen thousand euros.
 ```
 
 ```
@@ -4703,7 +4703,7 @@ Plausible loss of Money
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Scammer is interested in any kind of currency in a cash, money in an bank account, a loan, any other type of valuables and is not different from regular person who is a criminal thief. Accordingly some persons could go to get employed with aim to scam weakest and vulnerable people & to use their privileges against others & use availability of information that they could get at any time. Scammer could destroy reputation of an organisation & would make damage to it's trust & reliability. Organisation that does not care about their own reputation & image, by having scammers between themselve link it to an corrupted organisation. More about corruption prevention at [stt.lt](https://www.stt.lt/korupcijos-prevencija/apie-korupcijos-prevencija/7742).
+* Scammer is interested in any kind of currency in a cash, money in an bank account, a loan, any other type of valuables and is not different from regular person who is a criminal thief. Accordingly some persons could go to get employed with aim to scam weakest and vulnerable people & to use their privileges against others & use availability of information that they could get at any time. Scammer could destroy reputation of an organisation & would make damage to it's trust & reliability. Organisation that does not care about their own reputation and image & by having scammers between themselve link it to an corrupted organisation. More about corruption prevention at [stt.lt](https://www.stt.lt/korupcijos-prevencija/apie-korupcijos-prevencija/7742).
 ```
 
 ```
@@ -5471,7 +5471,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2501158/sukciai-vilniuje-panevezyje-ir-klaipedoje-is-zmoniu-isviliojo-apie-52-tukst-euru) Scammers scams through telecommunication Technologies, pretends themselves as Employees of known company or institution.
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2501158/sukciai-vilniuje-panevezyje-ir-klaipedoje-is-zmoniu-isviliojo-apie-52-tukst-euru) Scammers conduct Scams through Telecommunication Technologies & pretends themselves as Employees of known Company or Institution.
 ```
 
 ```
@@ -5605,7 +5605,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2526792/vilniuje-sukciai-is-gyventoju-isviliojo-bene-30-tukst-euru) Scammers attack their victims using telecommunicaition means and by pretending themselves as Officials.
+According this Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2526792/vilniuje-sukciai-is-gyventoju-isviliojo-bene-30-tukst-euru) scammers attack their victims using telecommunicaition means and by pretending themselves as Officials.
 ```
 
 ```
@@ -5943,7 +5943,7 @@ Plausible loss of Integrity.
 
 From such incidents there are possible to learn a lot. I.e.:
 * In Lithuania no caller are usually talking in english language, so either there are no trust should be given for foreign language - russian language.
-* Article of the LRT.lt provide triple purpose meaning by representing hundred seventy banners, e.g. 1) "unknown origin", 2) "manipulation over sensitive topics", 3) "using Lithuanian public" figures who are "deepfaked". The Article contain wibe of manipulation over sensitive topic too & the results does not provide enough evidence of scams. The unknown origin from itself by default does not contain a negative meaning, unless you tend to use approach: block everything for everyone and allow only according of somebody decision, that shall be well-known. Adverstments are usualy dealt by Cybersecurity tools & bias to attach it into malicious negative perspective are left for themselves. Article does not question how to know, if some public person are "deepfaked", that when some person does not use inappropriate service for doing what he is doing, e.g. to Tag Content as Deepfake & w/o doing so, that public person could own all rights to shut down that content. When scammer reports are accepted by virtual patrol of Police, then analysis could be provided by him too.
+* Article of the LRT.lt provide triple purpose meaning by representing hundred seventy banners, e.g. 1) "unknown origin", 2) "manipulation over sensitive topics", 3) "using Lithuanian public" figures who are "deepfaked". The Article contain wibe of manipulation over sensitive topic too & the results does not provide enough evidence of scams. The unknown origin from itself by default does not contain a negative meaning, unless you tend to use approach: block everything for everyone and allow only according of somebody decision, that shall be well-known. Adverstments are usualy dealt by Cybersecurity tools & bias to attach it into malicious-negative perspective are left by entities themselves. Article does not question how to know, if some public person are "deepfaked", that when some person does not use inappropriate service for doing what he is doing, e.g. to Tag Content as Deepfake & w/o doing so, that public person could own all rights to shut down that content. When scammer reports are accepted by virtual patrol of Police, then analysis could be provided by him too.
 * Deepfakes regarding media shall be plausible to report using contacts at the bottom of this site [zeit.lt](https://zeit.lt/en/legal-information/259).
 ```
 
@@ -6350,7 +6350,8 @@ Loss of Authenticity.
 According following articles:
 * [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2732051/is-keturiu-zmoniu-sukciai-isviliojo-per-21-tukst-euru) scammers use telecommunication means, deploy vishing attack, impersonation, foreign tongue, targeted phishing and (or) fraud attack via social media's computer or mobile phone software app, pharming site;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2735032/sukciai-pasisavino-tukstancius-siusdami-fiktyvias-nuorodas-apsimesdami-bankininkais) scammers use telecommunication means, deploy vishing attack, impersonation, foreign tongue, targeted phishing, fake employment, fake delivery, man-in-the-middle & "Smart ID" (and (or) pharming site);
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2737035/gyventojai-sukciams-atidave-ir-12-tukst-ir-beveik-30-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, impersonation, foreign tongue, deploy fake financial site for pharming sensitive data, phishing & fake ads.
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2737035/gyventojai-sukciams-atidave-ir-12-tukst-ir-beveik-30-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, impersonation, foreign tongue, deploy fake financial site for pharming sensitive data, phishing & fake ads;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2738031/sukciai-pinigus-isviliojo-melagingai-skelbdami-apie-greita-uzdarbi-fiktyvius-fondus) scammers mass produce stored content with malicious articles, that contain phishing links for the way of earning money, activation of phishing links allows to set up a communication, that result in money loss, deploy vishing attack, foreign tongue, fake donation & pharming sites for withdrawing not approved amount of money & w/o clear consent for that amount, victim by himself try to use suspected web resource.
 ```
 
 ```
