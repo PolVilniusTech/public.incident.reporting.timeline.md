@@ -6363,3 +6363,43 @@ Plausible loss of Integrity.
 ```
 
 ```
+##### I ncident
+
+According following article [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2738061/prasideda-dideles-apimties-e-sveikatos-naujinimai-ka-svarbu-zinoti-pacientams) information system e.sveikata has upcoming update, so during this update their system gonna be unavailable.
+```
+
+```
+##### R esults
+Loss of availability for 6-8 hours.
+```
+
+```
+##### I ncident
+
+According following article [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2741424/registru-centras-atsipraso-del-e-sveikatos-trikdziu-ieskome-tikslios-priezasties) information system e.sveikata is not fully functional, has a lot of interruptions.
+```
+
+```
+##### R esults
+Partial loss of availability.
+```
+
+```
+##### I ncident
+
+According following articles:
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-vilniuje-isviliojo-daugiau-nei-364-tukst-euru/) scammers use telecommunication means, deploy vishing attack, foreign tongue, impersonation, pretexting, mobile phone links which withdrawn more than 25 thousand euros;
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/alytuje-ir-vilniuje-sukciai-is-zmoniu-isviliojo-117-tukst-euru/) scammers target elderly, use telecommunication means, impersonation, victim by himself try to use fake financial account.
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciu-grobis-vilniete-atidave-per-66-tukst-euru-klaipediete---65-tukst-euru/) scammers target elderly, use telecommunication means, deploy vishing attack, foreign tongue, impersonation, failed authentication to the financial bank account resulted loss of 65 thousand euros.
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2742023/sukciai-is-dvieju-gyventoju-isviliojo-po-65-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, impersonation, hacking, financial organization permit to withdrawn more than 65 thousand euros. 
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
