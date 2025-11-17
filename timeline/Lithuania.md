@@ -6395,6 +6395,7 @@ According following articles:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2743037/sukciai-is-telegram-per-tris-menesius-is-moters-isviliojo-per-25-tukst-euru) scammers deploy romantic scam & investment scam through social media, use telecommunication means, vishing attack, foreign tongue, impersonation, malicious advertisements, unknown way of grabbing physical asset (& credentials) to retrieve financial assets;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2744029/rusiskai-kalbeje-sukciai-is-panevezio-senjores-isviliojo-30-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, foreign tongue, impersonation, social engineering, probable decoy website & cross-site request forgery attack, actions w/o a trace;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2745030/is-keturiu-zmoniu-sukciai-isviliojo-71-6-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, social engineering, (e-)credential grabbing, the fake financial & pharming site for withdrawing money & w/o clear consent for that amount.
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2746033/sukciams-vel-pavyko-isvilioti-tukstancius-euru) scammers mostly target elderly, use telecommunication means, deploy vishing attack, impersonation, social engineering, (e-)credential grabbing, the fake financial & pharming site for withdrawing money & w/o clear consent for that amount.
 ```
 
 ```
