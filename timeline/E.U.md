@@ -322,3 +322,27 @@ Plausible loss of Integrity.
 ```
 
 ```
+##### I ncident
+
+According this [-](https://www.lrt.lt/naujienos/pasaulyje/6/2748357/danijos-partijos-rinkimu-isvakarese-patyre-kibernetine-ataka) some of web sites was unavailable in Denmark, because of Cyber-Attacks.
+```
+
+```
+##### R esults
+Loss of availability.
+```
+
+```
+##### I ncident
+
+According following articles a lot of web sites was unavailable & got interruptions becouse of "Cloudflare" issues:
+[-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2749238/kas-yra-svetainiu-sutrikimus-sukeles-cloudflare-ir-ar-ivykis-susijes-su-spalio-incidentu);
+[-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2749353/lrt-trumpai-kodel-neveike-naujienu-portalai-bei-kitos-interneto-svetaines).
+```
+
+```
+##### R esults
+Partial loss of availability.
+```
+
+```
