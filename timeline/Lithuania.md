@@ -6376,12 +6376,16 @@ Loss of availability for 6-8 hours.
 ```
 ##### I ncident
 
-According following article [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2741424/registru-centras-atsipraso-del-e-sveikatos-trikdziu-ieskome-tikslios-priezasties) information system e.sveikata is not fully functional, has a lot of interruptions.
+According following articles information system e.sveikata are not fully functional, does not have proffesional developers, it could not service their clients & it have a lot of interruptions:
+* [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2741424/registru-centras-atsipraso-del-e-sveikatos-trikdziu-ieskome-tikslios-priezasties);
+* [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2747147/4-milijonus-per-metus-kainuojancia-sistema-valdyti-nera-profesionalu);
+* [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2750220/ir-vel-stringa-e-sveikata).
 ```
 
 ```
 ##### R esults
 Partial loss of availability.
+Increased risk for information security, cybersecurity and privacy protection.
 ```
 
 ```
@@ -6394,8 +6398,9 @@ According following articles:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2742023/sukciai-is-dvieju-gyventoju-isviliojo-po-65-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, impersonation, hacking, financial organization through e.system permit to withdrawn more than 65 thousand euros;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2743037/sukciai-is-telegram-per-tris-menesius-is-moters-isviliojo-per-25-tukst-euru) scammers deploy romantic scam & investment scam through social media, use telecommunication means, vishing attack, foreign tongue, impersonation, malicious advertisements, unknown way of grabbing physical asset (& credentials) to retrieve financial assets;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2744029/rusiskai-kalbeje-sukciai-is-panevezio-senjores-isviliojo-30-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, foreign tongue, impersonation, social engineering, probable decoy website & cross-site request forgery attack, actions w/o a trace;
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2745030/is-keturiu-zmoniu-sukciai-isviliojo-71-6-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, social engineering, (e-)credential grabbing, the fake financial & pharming site for withdrawing money & w/o clear consent for that amount.
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2746033/sukciams-vel-pavyko-isvilioti-tukstancius-euru) scammers mostly target elderly, use telecommunication means, deploy vishing attack, impersonation, social engineering, (e-)credential grabbing, the fake financial & pharming site for withdrawing money & w/o clear consent for that amount.
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2745030/is-keturiu-zmoniu-sukciai-isviliojo-71-6-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, social engineering, (e-)credential grabbing, the fake financial & pharming site for withdrawing money & w/o clear consent for that amount;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2746033/sukciams-vel-pavyko-isvilioti-tukstancius-euru) scammers mostly target elderly, use telecommunication means, deploy vishing attack, impersonation, social engineering, (e-)credential grabbing, the fake financial & pharming site for withdrawing money & w/o clear consent for that amount;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2750022/sukciai-is-pabrades-gyventojo-isviliojo-13-tukst-euru) scammers high chance, that deploy skimming devices, use telecommunication means, deploy vishing attack, impersonation, social engineering, make offers of fake employment. 
 ```
 
 ```
@@ -6404,6 +6409,26 @@ Plausible loss of Money.
 Plausible loss of Privacy.
 Plausible loss of Confidentiality.
 Plausible loss of Integrity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Security Researchers [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2745171/ka-sukciai-daro-su-nutekintais-duomenimis-ir-ka-daryti-jei-jus-apgavo) suggests to begin using virtual cards, single use cards of a financial institution to decrease chance of direct threat to official bank account. Responsible communication with official financial institution, that is responsible for official "what you have" asset, could help to solve uncertainty of a client.
+```
+
+```
+##### I ncident
+
+According following articles a lot of web sites was unavailable & got interruptions becouse of "Cloudflare" issues:
+[LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2749238/kas-yra-svetainiu-sutrikimus-sukeles-cloudflare-ir-ar-ivykis-susijes-su-spalio-incidentu);
+[LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2749353/lrt-trumpai-kodel-neveike-naujienu-portalai-bei-kitos-interneto-svetaines).
+```
+
+```
+##### R esults
+Partial loss of availability.
 ```
 
 ```
