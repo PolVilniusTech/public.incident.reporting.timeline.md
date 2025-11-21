@@ -6432,3 +6432,24 @@ Partial loss of availability.
 ```
 
 ```
+##### I ncident
+
+Following article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2752040/sostineje-ir-svencioniu-rajone-sukciai-is-zmoniu-isviliojo-apie-37-2-tukst-euru) include locations as hot spots for scammers. At this point scammers use telecommunication means, deploy vishing attack, foreign tongue, impersonation, social engineering, fake web site with online authenticator.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Financial Institutions as usual must enumerate their Customer Sites and prohibid use of their Authenticator by unknown Entity Sites.
+```
+
+```
