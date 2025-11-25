@@ -6453,7 +6453,7 @@ Plausible loss of Integrity.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Financial Institutions as usual must enumerate their Customer Sites and prohibid use of their Authenticator by unknown Entity Sites.
-* Professional Social Media Services must deploy security measures against advertisements, that result with scamming.
+* Professional Social Media Services must deploy security measures against advertisements of scamming.
 ```
 
 ```
