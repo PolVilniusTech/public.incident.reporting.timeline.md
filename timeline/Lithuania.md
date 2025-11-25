@@ -6376,10 +6376,11 @@ Loss of availability for 6-8 hours.
 ```
 ##### I ncident
 
-According following articles information system e.sveikata are not fully functional, does not have proffesional developers, it could not service their clients & it have a lot of interruptions:
+According following articles information system e.sveikata are not fully functional, does not have proffesional developers, it could not service their clients & it have a lot of interruptions & hangups:
 * [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2741424/registru-centras-atsipraso-del-e-sveikatos-trikdziu-ieskome-tikslios-priezasties);
 * [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2747147/4-milijonus-per-metus-kainuojancia-sistema-valdyti-nera-profesionalu);
-* [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2750220/ir-vel-stringa-e-sveikata).
+* [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2750220/ir-vel-stringa-e-sveikata);
+* [LRT.lt](https://www.lrt.lt/naujienos/sveikata/682/2751410/registru-centras-e-sveikatos-trikdziai-gali-testis-iki-kaledu).
 ```
 
 ```
@@ -6434,7 +6435,9 @@ Partial loss of availability.
 ```
 ##### I ncident
 
-Following article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2752040/sostineje-ir-svencioniu-rajone-sukciai-is-zmoniu-isviliojo-apie-37-2-tukst-euru) include locations as hot spots for scammers. At this point scammers use telecommunication means, deploy vishing attack, foreign tongue, impersonation, social engineering, fake web site with online authenticator.
+According following articles:
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2752040/sostineje-ir-svencioniu-rajone-sukciai-is-zmoniu-isviliojo-apie-37-2-tukst-euru) scammers has usual locations as their hot spots. At this point scammers use telecommunication means, deploy vishing attack, foreign tongue, impersonation, social engineering, fake web site with online authenticator;
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2755052/klaipediete-pranese-apie-vasara-ids-jos-isviliotus-12-3-tukst-euru) scammers deploy advertisements, that are used for gaining contacts for their social engineering attacks, deploy vishing attack, foreign tongue, investment scam.
 ```
 
 ```
@@ -6450,6 +6453,7 @@ Plausible loss of Integrity.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Financial Institutions as usual must enumerate their Customer Sites and prohibid use of their Authenticator by unknown Entity Sites.
+* Professional Social Media Services must deploy security measures against advertisements, that result with scamming.
 ```
 
 ```
