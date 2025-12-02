@@ -346,3 +346,14 @@ Partial loss of availability.
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.lrt.lt/naujienos/pasaulyje/6/2752087/pasauliniai-interneto-sutrikimai-priklausomybe-nuo-amerikos-didziojo-trejeto) the service "Cloudflare" has issues.
+```
+
+```
+##### R esults
+Partial loss of availability.
+```
+
+```
