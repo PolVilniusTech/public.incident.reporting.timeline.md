@@ -852,6 +852,7 @@ Control Measures for Dual Purpose Software and Hardware Products
 From such innocents there are possible to learn a lot. I.e.:
 * The Regulation in the first Appendix (a.k.a. Annex) include list of Websites, that vary depending location of each E.U. Member. Each Member could have their own sanction list, so this Regulation include unified list of sanctions from transport, telecommunications, energy, actions with Earth resources & Earth resources.
 * Restrictions directly & indirectly gonna impact common persons, because Article fifteen (15) are related with persons inside & outside of the Union who is a national of a Member State, legal persons, entity or body inside & outside of the Union's territory. The High chance, that Services won't try to deal with either Side to not be sanctioned. Does it worth?
+* Aim of sanctions: [-](https://www.lrt.lt/ru/novosti/17/2759520/pentagon-predlozhil-vnesti-alibaba-v-reestr-voennykh-partniorov-kitaia) because of misusing IP addresses (IPs are distributed by IP address distribution authority), Wi-Fi information (depend mostly by telecommunication companies who distribute hardware), payers information (private information, that are collected by any e.service for proper payment of taxes and communication with a client)...
 ```
 
 ```
