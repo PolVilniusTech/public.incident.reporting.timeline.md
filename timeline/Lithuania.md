@@ -6436,8 +6436,10 @@ Partial loss of availability.
 ##### I ncident
 
 According following articles:
-* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2752040/sostineje-ir-svencioniu-rajone-sukciai-is-zmoniu-isviliojo-apie-37-2-tukst-euru) scammers has usual locations as their hot spots. At this point scammers use telecommunication means, deploy vishing attack, foreign tongue, impersonation, social engineering, fake web site with online authenticator;
-* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2755052/klaipediete-pranese-apie-vasara-ids-jos-isviliotus-12-3-tukst-euru) scammers deploy advertisements, that are used for gaining contacts for their social engineering attacks, deploy vishing attack, foreign tongue, investment scam.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2752040/sostineje-ir-svencioniu-rajone-sukciai-is-zmoniu-isviliojo-apie-37-2-tukst-euru) scammers has usual locations as their hot spots. At this point scammers use telecommunication means, deploy vishing attack, foreign tongue, impersonation, social engineering, fake web site with online authenticator;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2755052/klaipediete-pranese-apie-vasara-ids-jos-isviliotus-12-3-tukst-euru) scammers deploy advertisements, that are used for gaining contacts for their social engineering attacks, deploy vishing attack, foreign tongue, investment scam.
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2761017/sukciai-is-gyventoju-per-para-isviliojo-per-30-tukst-euru) scammers by just using telecommunication means, deploy vishing attack, foreign tongue, impersonation.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2763047/sukciai-is-sostines-ir-mazeikiu-rajono-gyventoju-isviliojo-beveik-13-tukst-euru)  scammers use telecommunication means, impersonation, pharming sites (incl. Man-in-the-Middle), financial asset robbing or skimming attack, social engineering, withdrawn financial assests w/o owners' consent.
 ```
 
 ```
