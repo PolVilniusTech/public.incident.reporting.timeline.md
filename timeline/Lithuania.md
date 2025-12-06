@@ -3486,7 +3486,7 @@ Plausible loss of money.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*  Elderly are delicious target for scammers. Elderly provide too huge trust for youngsters and younger adults. Take into the Account that this Year is a Scammer Year [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2198431/policija-siemet-fiksuoja-sukciavimo-buma-pradeta-per-500-ikiteisminiu-tyrimu).
+*  Elderly are delicious target for scammers. Elderly is trusting youngsters for too much. This is a Scammer Year [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2198431/policija-siemet-fiksuoja-sukciavimo-buma-pradeta-per-500-ikiteisminiu-tyrimu).
 ```
 
 ```
@@ -6437,9 +6437,12 @@ Partial loss of availability.
 
 According following articles:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2752040/sostineje-ir-svencioniu-rajone-sukciai-is-zmoniu-isviliojo-apie-37-2-tukst-euru) scammers has usual locations as their hot spots. At this point scammers use telecommunication means, deploy vishing attack, foreign tongue, impersonation, social engineering, fake web site with online authenticator;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2755052/klaipediete-pranese-apie-vasara-ids-jos-isviliotus-12-3-tukst-euru) scammers deploy advertisements, that are used for gaining contacts for their social engineering attacks, deploy vishing attack, foreign tongue, investment scam.
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2761017/sukciai-is-gyventoju-per-para-isviliojo-per-30-tukst-euru) scammers by just using telecommunication means, deploy vishing attack, foreign tongue, impersonation.
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2763047/sukciai-is-sostines-ir-mazeikiu-rajono-gyventoju-isviliojo-beveik-13-tukst-euru)  scammers use telecommunication means, impersonation, pharming sites (incl. Man-in-the-Middle), financial asset robbing or skimming attack, social engineering, withdrawn financial assests w/o owners' consent.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2755052/klaipediete-pranese-apie-vasara-ids-jos-isviliotus-12-3-tukst-euru) scammers deploy advertisements, that are used for gaining contacts for their social engineering attacks, deploy vishing attack, foreign tongue, investment scam;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2761017/sukciai-is-gyventoju-per-para-isviliojo-per-30-tukst-euru) scammers by just using telecommunication means, deploy vishing attack, foreign tongue, impersonation;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2763047/sukciai-is-sostines-ir-mazeikiu-rajono-gyventoju-isviliojo-beveik-13-tukst-euru)  scammers use telecommunication means, impersonation, pharming sites (incl. Man-in-the-Middle), financial asset robbing or skimming attack, social engineering, withdrawn financial assests w/o owners' consent;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2764019/sukciai-is-dvieju-sostines-gyventoju-isviliojo-daugiau-kaip-25-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue;
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-keturiu-salies-gyventoju-isviliojo-534-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, investment scam over social media;
+* [Verslo žinios](https://www.vz.lt/ziniasklaida/2025/12/02/a-valujaviciaus-ir-verslo-ziniu-vardais-bando-pasinaudoti-sukciai-siekia-isvilioti-pinigus-577556) official site of "Verslo žinios" does not trust ziniosverslo.lt website. This website could pretend itself as official site of "Verslo žinios" when in reality they are not. "Verslo žinios" is a registered trademark in red and white colors and should not be used w/o consent of "Verslo žinios". "Verslo žinios" has found a fake & forged news and try to inform their readers about scammers.
 ```
 
 ```
@@ -6456,6 +6459,7 @@ Plausible loss of Integrity.
 From such incidents there are possible to learn a lot. I.e.:
 * Financial Institutions as usual must enumerate their Customer Sites and prohibid use of their Authenticator by unknown Entity Sites.
 * Professional Social Media Services must deploy security measures against advertisements of scamming.
+* According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2763086/ijungus-nauja-apsauga-operatoriai-kas-savaite-sustabdo-apie-0-5-mln-sukciu-skambuciu) exists commitment for communication regarding use of legal and technical counter-scam measures, more clear registration and usability rules for SIM cards, improved data exchange between organizations and law enforcement.
 ```
 
 ```
