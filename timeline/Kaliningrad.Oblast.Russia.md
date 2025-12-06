@@ -328,3 +328,22 @@ In specific location the Global Positioning System is unavailable.
 ```
 
 ```
+##### I ncident
+
+According Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2765102/rusija-uzblokavo-populiaru-zaidimu-kureja-roblox-kaltina-priekabiavimu-prie-vaiku) online gaming service "Roblox" lost web access, because of poor service moderation.
+```
+
+```
+##### R esults
+Legal issues.
+```
+
+```
+##### L earning from Mistakes 
+
+From such incidents there are possible to learn a lot. I.e.:
+* According [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2765383/meta-pradeda-salinti-jaunesnius-nei-16-metu-asmenis-is-socialiniu-tinklu-australijoje) exist requests for extension of e.services, that are related to all teenagers who use these e.services. After the change e.service(s) should ask for consent from their parents, that they would allow for their kids to use e.service(s).
+* Professional e.services usually use automated tools for their e.service moderation.
+```
+
+```
