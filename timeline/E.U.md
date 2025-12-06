@@ -357,3 +357,14 @@ Partial loss of availability.
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2766157/del-cloudflare-sutrikimo-neveike-kai-kurios-interneto-svetaines) the service "Cloudflare" had issues for short duration of time.
+```
+
+```
+##### R esults
+Partial loss of availability.
+```
+
+```
