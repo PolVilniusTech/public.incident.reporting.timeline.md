@@ -368,3 +368,21 @@ Partial loss of availability.
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2772112/openai-patvirtino-duomenu-nutekejimo-fakta-labiausiai-paliete-verslus) there was Report about data leak from OpenAI, that result in loss of Client Data: First names, electronic mail addresses, identification data of organizations and approximate locations of those Clients and IP addresses. Plausible insecurity of Application Programming Interface (API).
+```
+
+```
+##### R esults
+Loss of Confidential information.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Insecurity situation from data collection in the Dark Net (or smaller - the Dark Web) could be huge. In this place could be found collections of unconfirmed data, that eventually could be collected from hacked regular companies, hacked users, that deploy specific APIs. This data could be used as ransomware attack, racketeering through deployed laws, e.g. privacy laws, by known or unknown entities for the same purpose of getting money. If big Enterprise could not have professionals in their ranks, then exists risk, that company does not have good enough resistance from this type of events. From the Article it is no idea, if company got data brach or does this somehow are linked with some data collection from the Dark Net? 
+```
+
+```
