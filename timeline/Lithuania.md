@@ -6443,7 +6443,8 @@ According following articles:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2764019/sukciai-is-dvieju-sostines-gyventoju-isviliojo-daugiau-kaip-25-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue;
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-keturiu-salies-gyventoju-isviliojo-534-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, investment scam over social media;
 * [Verslo žinios](https://www.vz.lt/ziniasklaida/2025/12/02/a-valujaviciaus-ir-verslo-ziniu-vardais-bando-pasinaudoti-sukciai-siekia-isvilioti-pinigus-577556) official site of "Verslo žinios" does not trust ziniosverslo.lt website. This website could pretend itself as official site of "Verslo žinios" when in reality they are not. "Verslo žinios" is a registered trademark in red and white colors and should not be used w/o consent of "Verslo žinios". "Verslo žinios" has found a fake & forged news and try to inform their readers about scammers;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2768039/sukciai-is-klaipedos-ir-vilniaus-gyventoju-pasisavino-68-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, refund scam.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2768039/sukciai-is-klaipedos-ir-vilniaus-gyventoju-pasisavino-68-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, refund scam;
+* [BNS, ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2773084/is-kedainiecio-sukciai-isviliojo-15-3-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, retrieve confidential data w/o owners' consent.
 ```
 
 ```
@@ -6461,6 +6462,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Financial Institutions as usual must enumerate their Customer Sites and prohibid use of their Authenticator by unknown Entity Sites.
 * Professional Social Media Services must deploy security measures against advertisements of scamming.
 * According [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2763086/ijungus-nauja-apsauga-operatoriai-kas-savaite-sustabdo-apie-0-5-mln-sukciu-skambuciu) exists commitment for communication regarding use of legal and technical counter-scam measures, more clear registration and usability rules for SIM cards, improved data exchange between organizations and law enforcement.
+* From number of Sites, e.g. [lrv.lt](https://policija.lrv.lt/lt/) could be found notifications about scammers who impersonate police officers, use psychological pressure. Scammers need money, data & when asking could provide forged License, Certificate Object. Regularly Police Forces remind: they never ask through phone for money; they don't send Short Message Service, email from unofficial contacts; Victims must call 112 or come directly to the Police Office (official); mostly most most vulnerable are seniors, elderly and immigrants (With increase of them, the possibility of this risk enlarge). And for seconds: Does regular web user surf Sites like this?
 ```
 
 ```
