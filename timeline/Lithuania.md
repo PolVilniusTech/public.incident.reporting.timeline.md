@@ -6444,7 +6444,8 @@ According following articles:
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-keturiu-salies-gyventoju-isviliojo-534-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, investment scam over social media;
 * [Verslo žinios](https://www.vz.lt/ziniasklaida/2025/12/02/a-valujaviciaus-ir-verslo-ziniu-vardais-bando-pasinaudoti-sukciai-siekia-isvilioti-pinigus-577556) official site of "Verslo žinios" does not trust ziniosverslo.lt website. This website could pretend itself as official site of "Verslo žinios" when in reality they are not. "Verslo žinios" is a registered trademark in red and white colors and should not be used w/o consent of "Verslo žinios". "Verslo žinios" has found a fake & forged news and try to inform their readers about scammers;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2768039/sukciai-is-klaipedos-ir-vilniaus-gyventoju-pasisavino-68-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, refund scam;
-* [BNS, ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2773084/is-kedainiecio-sukciai-isviliojo-15-3-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, retrieve confidential data w/o owners' consent.
+* [BNS, ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2773084/is-kedainiecio-sukciai-isviliojo-15-3-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, retrieve confidential data w/o owners' consent;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2778026/rusiskai-kalbeje-sukciai-is-visagino-ir-vilniaus-gyventoju-isviliojo-beveik-51-tukst-euru) scammers use telecommunication means, impersonation, deploy vishing attack, foreign tongue, collaborates with all sorts of gangsters for retrieving victim's assets.
 ```
 
 ```
