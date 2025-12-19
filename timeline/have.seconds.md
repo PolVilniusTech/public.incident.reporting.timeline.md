@@ -343,3 +343,21 @@ Lack of evaluation of objectiveness, independent & non-aligned & neutral news co
 ```
 
 ```
+##### I ncident
+
+The Check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2025-12-19%20REGITRA%20Privatumo%20politika.png) and [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2025-12-19%20REGITRA%20Search.png) provide idea, that not all Lithuanian Companies take care for Privacy Policy as much as needed. Common HTTP Cookies Web functionality now are treated as space for readme information regarding data categories, that are used by number of online functionalities, that use specific data of Surfer's Software (User). 
+```
+
+```
+##### R esults
+In Total: 5.
+1. Regitra is a state‑owned joint‑stock company in Lithuania responsible for nearly everything related to vehicle registration and driver licensing. It was established in 2000 and operates under the oversight of the Lithuanian government.
+2. The Company "Regitra" has empty information page in Lithuanian "Privacy policy".
+3. The Company "Regitra" has no page for "Privacy policy" in English, search page.
+4. Common Cookie Banner Provider include data categories, that are important for Privacy policy, e.g. "Google Tag Manager" works with following data categories:
+Mouse movement, Timestamp, IP, Tracking media, Location, Visitor behavior, User agent,
+Language, Visited website, Timezone.
+5. Best researchers in academia argue, that "User agent" by most of manufacturers are used for compatibility reason, include information about operating system of an user, operating system's version, operating system's architecture or just a lot of information, that could be used against the User who surf around the Web, that sometimes could be way dangerous for his own personal cybersecurity.
+```
+
+```
