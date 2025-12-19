@@ -1073,3 +1073,15 @@ Operating Systems, that are used in academia, research institutions, scientific 
 ```
 
 ```
+##### I nnocent 
+
+The Article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2780051/sostineje-sulaikyti-asmenys-naudoje-svetimas-elektronines-mokejimo-priemones) provide idea about group of people, that make Crimes by using stolen electronic payment tools and data. 
+```
+
+```
+##### R eseach
+The Data Set's Location(s) from where group of people get Electronic Payment Data:
+* The Darknet is a huge place where various senior hackers store leaked & breached data & information for a couple of dollars. Everyone who see easy choice for living could purchase stolen Data Sets (Private data), then they could begin to use it. Financial tools like cards, that are needed for building security around could be found in regular electronic shop, because of any business needs for deploying those cards for payments or so. Specific tools could need more specific Hardware & Software. Problem lies in various locations where common Consumer could pay for his goods and services, that could include evil Scammers skimming tools, webcams & fake keyboards just for cloning Consumer payment tool & data. Most dangerious Scammers who collect private information & data and later on share it and (or) sell it online. Knowledge about Jurisdictional regulation regarding Privacy Protection could be lacking.
+```
+
+```
