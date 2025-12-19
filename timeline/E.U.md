@@ -386,3 +386,14 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the check [europa.eu](https://webgate.ec.europa.eu/) a centralised electronic platform for E.U. Consumers are inaccessible.
+```
+
+```
+##### R esults
+Loss of availability.
+```
+
+```
