@@ -345,7 +345,7 @@ Lack of evaluation of objectiveness, independent & non-aligned & neutral news co
 ```
 ##### I ncident
 
-The Check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2025-12-19%20REGITRA%20Privatumo%20politika.png) and [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2025-12-19%20REGITRA%20Search.png) provide idea, that not all Lithuanian Companies take care for Privacy Policy as much as needed. Common HTTP Cookies Web functionality now are treated as space for readme information regarding data categories, that are used by number of online functionalities, that use specific data of Surfer's Software (User). 
+These checks [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2025-12-19%20REGITRA%20Privatumo%20politika.png) and [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/main/Lithuania/Images/2025-12-19%20REGITRA%20Search.png) provide idea, that not all Lithuanian Companies take care for Privacy Policy as much as needed. Common HTTP Cookies Web functionality now are treated as space for readme information regarding data categories, that are used by number of online functionalities, that use specific data of Surfer's Software (User). 
 ```
 
 ```
