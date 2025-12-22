@@ -6468,3 +6468,28 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2780124/lietuvos-nacionalinis-muziejus-patiria-kibernetine-ataka) Lithuanian National Museum (LNM) are getting Cyberattack. Plausible phishing emails.
+```
+
+```
+##### R esults
+Loss of Integrity
+```
+
+```
+##### I ncident
+
+According the following article [ELTA](https://www.lrt.lt/naujienos/%20lietuvoje/2/2781113/sukciai-is-triju-sostines-gyventoju-pasisavino-beveik-24-tukst-euru) scammers use telecommunication means, impersonation, induce & soft interrogation to obtain confidential information, deploy vishing attack, foreign tongue.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
