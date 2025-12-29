@@ -330,7 +330,8 @@ In specific location the Global Positioning System is unavailable.
 ```
 ##### I ncident
 
-According Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2765102/rusija-uzblokavo-populiaru-zaidimu-kureja-roblox-kaltina-priekabiavimu-prie-vaiku) online gaming service "Roblox" lost web access, because of poor service moderation.
+According Article [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2765102/rusija-uzblokavo-populiaru-zaidimu-kureja-roblox-kaltina-priekabiavimu-prie-vaiku) online gaming service "Roblox" lost web access, because of poor service moderation. Other:
+* [-](https://www.lrt.lt/naujienos/pasaulyje/6/2788057/rusija-stiprina-interneto-cenzura-uzdraude-populiaru-zaidima-roblox) "Roblox" agree for a cooperation.
 ```
 
 ```
