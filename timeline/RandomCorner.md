@@ -1085,3 +1085,16 @@ The Data Set's Location(s) from where group of people get Electronic Payment Dat
 ```
 
 ```
+##### I nnocent 
+
+The Article [Lrytas.lt](https://www.lrytas.lt/verslas/rinkos-pulsas/2026/01/04/news/sis-miestas-tampa-kriptovaliutu-sostine-stai-kokiam-eksperimentui-uzsimojo-40778799), that are directed at "market pulse" & "my money", provide ideas for evidence collection at workplace, that could be any of those: written papers, e-mails, short message service texts, testimonies of colleague &/ witness, audio records. The Labour Code of Republic of Lithuania could be found in here [lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/6eea48d294ea11eea70ce7cabd08f150). First point of the 30th article of the Labour Code prohibits attacks on the honour and dignity, physical or psychological integrity of an employee or group of employees or any of attacks that are aimed at intimidating, diminishing or putting an employee or group of employees in an unarmed and helpless situation. From the Year of 2019 introduced term of mobbing by the Mykolas Romeris University & afterwards by Ministry of Health of the Republic of Lithuania. The term of mobbing is related with a single person & it does not include the group of employees. Ref. [vlkk.lt](https://terminai.vlkk.lt/paieska?search=mobingas).
+```
+
+```
+##### R eseach
+In total: 02.
+01. Social Engineering aspects, that are aimed at use of Digital Evidence.
+02. Trend in percentage of illegal Job(s) for conducting mobbing.  
+```
+
+```
