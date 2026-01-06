@@ -348,3 +348,15 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According Article [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/2792312/rusija-planuoja-naujuju-metu-isvakarese-isjungti-mobiluji-interneta) mobile internet undergo or could undergo an Internet blackout process.
+
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
