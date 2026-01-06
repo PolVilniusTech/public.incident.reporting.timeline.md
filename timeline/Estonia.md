@@ -437,3 +437,15 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
+
+According the Article [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2792221/suomijoje-sulaikytas-laivas-itariamas-sugadines-dar-viena-povandenini-kabeli) exists issues with the undersea cable of telecommunications.
+
+```
+
+```
+##### R esults
+Plausible loss of Availability
+```
+
+```
