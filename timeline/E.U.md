@@ -397,3 +397,14 @@ Loss of availability.
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2792178/lietuvis-programisius-isduotas-pietu-korejai-pasisavino-daugiau-nei-milijona-doleriu) exists Trojan Horse and Crypto Scam tool "KMSAuto" who main target are crypto users.  
+```
+
+```
+##### R esults
+Loss of integrity.
+```
+
+```
