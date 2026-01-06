@@ -6483,7 +6483,10 @@ Loss of Integrity
 
 According following articles:
 * [ELTA](https://www.lrt.lt/naujienos/%20lietuvoje/2/2781113/sukciai-is-triju-sostines-gyventoju-pasisavino-beveik-24-tukst-euru) scammers use telecommunication means, impersonation, induce & soft interrogation to obtain confidential information, deploy vishing attack, foreign tongue;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2789018/paspaudes-nuoroda-del-neva-laimeto-prizo-vilnietis-prarado-23-7-tukst-euru) scammers conduct phishing using software application (e.g. electronic mail service).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2789018/paspaudes-nuoroda-del-neva-laimeto-prizo-vilnietis-prarado-23-7-tukst-euru) scammers conduct phishing using software application (e.g. electronic mail service);
+* [ELTA](https://www.lrt.lt/naujienos/eismas/7/2772102/regitra-internete-daugeja-siulymu-isigyti-suklastotus-vairuotojo-pazymejimus) scammers using social media offer forged documents;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2785034/pasiule-investuoti-i-kriptovaliuta-sukciai-is-vyro-isviliojo-per-19-tukst-euru) scammers using semi-social media are conducting cryptoscam;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2798043/sukciai-dviems-vilnieciams-padare-41-tukst-euru-zala) scammers through unknown means conduct social engineering, credential grabbing, impersonating as their victim.
 ```
 
 ```
