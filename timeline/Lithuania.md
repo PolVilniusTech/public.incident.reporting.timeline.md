@@ -6498,3 +6498,13 @@ Plausible loss of Integrity.
 ```
 
 ```
+According articles [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2796124/del-baltijos-juroje-prie-liepojos-pazeisto-kabelio-pradetas-baudziamasis-procesas) and [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2799060/rrt-baltijos-juroje-sugadintas-kabelis-tarp-lietuvos-ir-latvijos-sutvarkytas) for three days underwater telecommunication cable between Lithuania and Latvia was unavailable.
+
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
