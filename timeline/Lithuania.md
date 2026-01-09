@@ -6512,3 +6512,17 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According the article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2801033/is-dvieju-moteru-telefoniniai-sukciai-isviliojo-beveik-20-tukst-euru) scammers use telecommunication means, social media software app(s), impersonation & social engineering.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
