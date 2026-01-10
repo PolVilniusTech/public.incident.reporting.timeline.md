@@ -6526,3 +6526,14 @@ Plausible loss of Integrity.
 ```
 
 ```
+##### I ncident
+
+According the article [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2801157/lietuvos-kariuomenei-paskelbus-2026-metu-karo-prievolininku-sarasa-sutriko-sistema) for a shortwhile karys.lt site was unavailable.
+```
+
+```
+##### R esults
+Plausible natural denial of service.
+```
+
+```
