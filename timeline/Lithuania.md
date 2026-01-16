@@ -6551,3 +6551,14 @@ Plausible loss of Integrity.
 ```
 
 ```
+##### I ncident
+
+According the article [LRT](https://www.lrt.lt/naujienos/sveikata/682/2808077/respublikine-vilniaus-ligonine-pranesa-laikinai-sutriko-skambuciu-centro-veikla) & the check [-](https://github.com/PolVilniusTech/public.incident.reporting.timeline.md/blob/d2f63a1209a99e1806c71ee0f7ed6d0b16cd71ca/Lithuania/Images/2026-01-16%20LRT.LT%20Unavailable%20Applet%20%26%20Modal.jpg) exists availability loss of the Republican Vilnius University Hospital patient registration system and the Call Centre. LRT web page does not display social media's proof of an event.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
