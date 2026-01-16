@@ -336,3 +336,15 @@ From such incidents there are possible to learn a lot. I.e.:
 
 ```
 ### 2026
+
+##### I ncident
+
+By taking into account this Article [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/2806131/del-nepavykusios-kibernetines-atakos-prie-energetikos-imones-lenkija-itaria-rusija) Polish communication lines between energy production objects and energy network operators (energy critical infrastructure) had cyberattacks.
+```
+
+```
+##### R esults
+Informational.
+```
+
+```
