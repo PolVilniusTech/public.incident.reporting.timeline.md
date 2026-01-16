@@ -6539,7 +6539,9 @@ Plausible natural denial of service.
 ```
 ##### I ncident
 
-According the article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2806031/telefoninis-sukcius-is-vilniaus-rajono-gyventojo-isviliojo-11-4-tukst-euru) scammers use social engineering, online investment platform.
+According these articles:
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2806031/telefoninis-sukcius-is-vilniaus-rajono-gyventojo-isviliojo-11-4-tukst-euru) scammers use social engineering, online investment platform;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2808018/sukciai-is-penkiu-sostines-gyventoju-isviliojo-40-7-tukst-euru) scammers use telecommunication means, social engineering & impersonation, deploy vishing attack & foreign tongue, fraud.
 ```
 
 ```
