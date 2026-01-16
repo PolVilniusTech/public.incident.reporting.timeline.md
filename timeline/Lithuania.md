@@ -6537,3 +6537,17 @@ Plausible natural denial of service.
 ```
 
 ```
+##### I ncident
+
+According the article [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2806031/telefoninis-sukcius-is-vilniaus-rajono-gyventojo-isviliojo-11-4-tukst-euru) scammers use social engineering, online investment platform.
+```
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
