@@ -6569,7 +6569,8 @@ Loss of Availability.
 According these articles:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2810016/telefoniniai-sukciai-is-dvieju-gyventoju-pasisavino-53-5-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2812032/telefoniniai-sukciai-is-zmoniu-isviliojo-46-4-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, info stealer type of malware;
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2813046/is-bendroves-ir-dvieju-gyventoju-sukciai-isviliojo-beveik-55-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, phishing. 
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2813046/is-bendroves-ir-dvieju-gyventoju-sukciai-isviliojo-beveik-55-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, phishing;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2814033/telefoniniai-sukciai-is-dvieju-gyventoju-pasisavino-38-8-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, credential grabbing, forgery of electronic product or unallowed usage of electronic product, unallowed usage of electronic product, conduct scamming.
 ```
 
 ```
