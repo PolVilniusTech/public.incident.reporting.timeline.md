@@ -6569,10 +6569,11 @@ Loss of Availability.
 According these articles:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2810016/telefoniniai-sukciai-is-dvieju-gyventoju-pasisavino-53-5-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2812032/telefoniniai-sukciai-is-zmoniu-isviliojo-46-4-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, info stealer type of malware;
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2813046/is-bendroves-ir-dvieju-gyventoju-sukciai-isviliojo-beveik-55-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, phishing;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2813046/is-bendroves-ir-dvieju-gyventoju-sukciai-isviliojo-beveik-55-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, phishing, social engineering & impersonation;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2814033/telefoniniai-sukciai-is-dvieju-gyventoju-pasisavino-38-8-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, credential grabbing, forgery of electronic product or unallowed usage of electronic product, unallowed usage of electronic product, conduct scamming;
 * [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2824018/vilniuje-sukciai-is-moters-isviliojo-beveik-11-tukst-euru) scammers use telecommunication means, social engineering & impersonation;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2826024/sukciai-is-triju-zmoniu-isviliojo-daugiau-nei-50-tukst-euru) scammers use unknown means, phishing, pharming, telecommunication means, social engineering & impersonation, targeting software of financial institution(s).
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2826024/sukciai-is-triju-zmoniu-isviliojo-daugiau-nei-50-tukst-euru) scammers use unknown means, phishing, pharming, telecommunication means, social engineering & impersonation, targeting software of financial institution(s);
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2827032/is-kauniecio-ir-vilnietes-telefoniniai-sukciai-isviliojo-44-tukstancius-euru) scammers scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation. 
 ``` 
 
 ```
