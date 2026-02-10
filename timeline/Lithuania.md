@@ -6573,7 +6573,10 @@ According these articles:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2814033/telefoniniai-sukciai-is-dvieju-gyventoju-pasisavino-38-8-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, credential grabbing, forgery of electronic product or unallowed usage of electronic product, unallowed usage of electronic product, conduct scamming;
 * [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2824018/vilniuje-sukciai-is-moters-isviliojo-beveik-11-tukst-euru) scammers use telecommunication means, social engineering & impersonation;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2826024/sukciai-is-triju-zmoniu-isviliojo-daugiau-nei-50-tukst-euru) scammers use unknown means, phishing, pharming, telecommunication means, social engineering & impersonation, targeting software of financial institution(s);
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2827032/is-kauniecio-ir-vilnietes-telefoniniai-sukciai-isviliojo-44-tukstancius-euru) scammers scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation. 
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2827032/is-kauniecio-ir-vilnietes-telefoniniai-sukciai-isviliojo-44-tukstancius-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
+* [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/2826121/naujas-sukciu-taikinys-lietuvoje-vairuotojai-kasdien-atakuojama-desimtys-zmoniu) scammers use telecommunication means & conduct smishing attacks by impersonating "Unipark" parking service;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2835020/is-vilnietes-ir-kelmiskes-sukciai-isviliojo-28-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2832041/sukciai-is-gyventoju-lietuvoje-isviliojo-94-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, breaking financial terms of use between financial service(s) & clients, phishing, probable pharming & targeted attacks to a financial software. 
 ``` 
 
 ```
