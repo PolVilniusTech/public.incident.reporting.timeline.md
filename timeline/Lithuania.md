@@ -15,6 +15,7 @@
 * [2023](#2023)
 * [2024](#2024)
 * [2025](#2025)
+* [2026](#2026)
 
 ### 2016
 
@@ -6576,7 +6577,11 @@ According these articles:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2827032/is-kauniecio-ir-vilnietes-telefoniniai-sukciai-isviliojo-44-tukstancius-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
 * [LRT.lt](https://www.lrt.lt/naujienos/eismas/7/2826121/naujas-sukciu-taikinys-lietuvoje-vairuotojai-kasdien-atakuojama-desimtys-zmoniu) scammers use telecommunication means & conduct smishing attacks by impersonating "Unipark" parking service;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2835020/is-vilnietes-ir-kelmiskes-sukciai-isviliojo-28-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2832041/sukciai-is-gyventoju-lietuvoje-isviliojo-94-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, breaking financial terms of use between financial service(s) & clients, phishing, probable pharming & targeted attacks to a financial software. 
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2832041/sukciai-is-gyventoju-lietuvoje-isviliojo-94-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, breaking financial terms of use between financial service(s) & clients, phishing, probable pharming & targeted attacks to a financial software;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2838024/is-senjoru-vilniuje-ir-klaipedos-rajone-sukciai-isviliojo-per-173-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2839020/sukciai-is-vilniecio-isviliojo-daugiau-kaip-130-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2840013/po-sukciu-skambucio-vilniaus-r-gyventojas-prarado-turto-uz-daugiau-kaip-30-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2842031/sukciai-is-vilniecio-isviliojo-beveik-40-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation.
 ``` 
 
 ```
@@ -6585,6 +6590,24 @@ Plausible loss of Money.
 Plausible loss of Privacy.
 Plausible loss of Confidentiality.
 Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According the article [LRT](https://www.lrt.lt/naujienos/lietuvoje/2/2838384/pribloske-aptiktos-duomenu-spragos-sauktiniu-sarasuose-gali-tapti-nusikalteliu-taikiniu) exists flaws in the Lithuanian conscription web site.
+```
+
+```
+##### R esults
+Plausible loss of Privacy.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When Lithuanian citizen e.account is breached, the confirmation of available profile information could be completed through systems like Lithuanian conscription web site, even though, if it deploy anonymisation techniques.
 ```
 
 ```
