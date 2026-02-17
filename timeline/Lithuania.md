@@ -6611,3 +6611,22 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the article [ELTA](https://www.lrt.lt/naujienos/verslas/4/2835339/sutriko-mano-vmi-sistemos-veikla) the information system "Mano VMI" is functioning with interruptions.
+
+```
+
+```
+##### R esults
+Temporary loss of Availability.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Information security notifications for some institution(s) could be rarely updated for the end of issues.
+```
+
+```
