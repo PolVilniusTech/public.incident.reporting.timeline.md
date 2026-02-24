@@ -186,7 +186,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ### 2019
 
 ##### I ncident
-According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/244671/su-kinijos-valdzia-siejamus-isilauzelius-aptiko-vilniaus-it-imones-specialistai) this Article non-Local Origin Company Computer Network got breached by already known Hacker Group.
+According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/244671/su-kinijos-valdzia-siejamus-isilauzelius-aptiko-vilniaus-it-imones-specialistai) this Article non-Local Origin Company Computer Network got breached by already known IT Hacker Group.
 ```
 
 ```
@@ -1706,7 +1706,7 @@ From such incidents there are possible to learn a lot. I.e.:
 * Domain Name tells nothing, begause "vegele2024.lt" could be misstook/taken something as following URL https://www.vegeta.us.com
 * There exists chance that some huge Brand would move into some Continent/Region and somebody want be re-sellers of the Domain in higher sum of Money.
 * Usual price of a Domain could start from single one EUR'o, the Electricity prices and Administration cost increases it exponentialy.
-* The Main Problem for Domains - does they belong to UTF-8 Charset or by default American Standard Code for Information Interchange one. The "xn--" solution are a "hack", which helps people live with the same tech for some longer time and more Internationalization. Opening "raštija.lt" it does not feel like it even looks like this: "https://xn--ratija-ckb.lt/" or in some gibberish serialized syntax.
+* The Main Problem for Domains - does they belong to UTF-8 Charset or by default American Standard Code for Information Interchange one. The "xn--" solution are a IT "hack", which helps people live with the same tech for some longer time and more Internationalization. Opening "raštija.lt" it does not feel like it even looks like this: "https://xn--ratija-ckb.lt/" or in some gibberish serialized syntax.
 ```
 
 ```
@@ -2009,7 +2009,7 @@ Loss of Authentication. Human-Error in public data leak.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-*   Search Engine Hacks were known from the early days of Search Engine(s). Web Site Security could use ISO/IEC 27001 approach and to take Information Security, Cybersecurity, Privacy. Each of these Terms is at the same Level and important.
+*   Search Engine IT Hacks were known from the early days of Search Engine(s). Web Site Security could use ISO/IEC 27001 approach and to take Information Security, Cybersecurity, Privacy. Each of these Terms is at the same Level and important.
 *   If Web Site has number of Authentication Levels (i.e. public Site, Authenticated Site) then Web Administrator could get proper organizational requests, that explains on which Level the Job has to be done.
 *   If there were no extra Job, then the Audit Logs could answer to the Question: what happened? unless the Security incident happen which lead into loss of Integrity and Authenticity of Journaling Data Logs.  
 *   General Data protection Reglament only works in Private Sector. For Public Sector it would need to look into the local Regulations and to Report the Issue.
@@ -4985,7 +4985,7 @@ Informational
 
 From such incidents there are possible to learn a lot. I.e.:
 * Law Enforcement has specific use of Social Media Accounts, e.g. Facebook, through [faecbook.com](https://www.facebook.com/records/login/) portal. The Facebook aquired "WhatsApp" and currently their Brand is the company "META" Platform that control all their e.services. At the example of the Facebook other platforms could own similar Portals for Law Enforcement.
-* Now take an example of the Article [kauno.diena.lt](https://m.kauno.diena.lt/naujienos/lietuva/salies-pulsas/narkotiku-prekeiviai-telegrame-iesko-vaiku-talkininku-1179658), that show the Sample of illegal activity through a "Telegram" Social Media. The Social Media of "Telegram" are known of being the fishy platform with part of Community that conduct illegal activity, just like some electronic services, e.g. Onion services, that can only be accessed over Tor BROWSER. Through those services could happen non-minor amount of illegal activities, e.g. phishing, scamming, hacking, bullying, etc. One of a TREND has to be an ILLEGAL EMPLOYMENT. Person from various range of Age could be a Victim of this illegal EMPLOYMENT. This are illegal activity too. The Regulation and awareness of fake EMPLOYMENT has a huge concern by Country Officials. In some example, neighboring Countries for each other could make plausible illegal impact, that without (or in some cases even with) diplomatic relations are hard to fix. 
+* Now take an example of the Article [kauno.diena.lt](https://m.kauno.diena.lt/naujienos/lietuva/salies-pulsas/narkotiku-prekeiviai-telegrame-iesko-vaiku-talkininku-1179658), that show the Sample of illegal activity through a "Telegram" Social Media. The Social Media of "Telegram" are known of being the fishy platform with part of Community that conduct illegal activity, just like some electronic services, e.g. Onion services, that can only be accessed over Tor BROWSER. Through those services could happen non-minor amount of illegal activities, e.g. phishing, scamming, IT hacking, bullying, etc. One of a TREND has to be an ILLEGAL EMPLOYMENT. Person from various range of Age could be a Victim of this illegal EMPLOYMENT. This are illegal activity too. The Regulation and awareness of fake EMPLOYMENT has a huge concern by Country Officials. In some example, neighboring Countries for each other could make plausible illegal impact, that without (or in some cases even with) diplomatic relations are hard to fix. 
 ```
 
 ```
@@ -5871,7 +5871,7 @@ Plausible loss of Confidentiality.
 From such incidents there are possible to learn a lot. I.e.:
 * Exists a trend, that Scammers by getting Personal Information could use it for sending Parcels through self-parcel Service. In this occasion the Person gonna be trapped into countering fake or even dangerious Presents & some of them require for Pay first and Goods as second. Term of Investment must be more clear.
 * Second problem for electronic Space, that People just can't handle their Passwords, Passcodes, PINs or whatever, that should be 100% Confidential, e.g. [ve.lt](https://ve.lt/kriminalai/suzinojo-elementariausio-neatsargumo-kaina-piktavaliams-pin-kodo-spelioti-nereikejo).
-* Something as simple as "Prohibiting instant removal of email messages from email box" (Electronic Mail Service) at some point could prevent unnoticed Phishing campaigns over hacked Accounts. Complete take over of Service could be still vulnerable, but by giving at least three day period to review previous discarded email messages could make the Internet more trusted space around.
+* Something as simple as "Prohibiting instant removal of email messages from email box" (Electronic Mail Service) at some point could prevent unnoticed Phishing campaigns over IT hacked Accounts. Complete take over of Service could be still vulnerable, but by giving at least three day period to review previous discarded email messages could make the Internet more trusted space around.
 ```
 
 ```
@@ -6128,7 +6128,7 @@ Following articles are related to scammers:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2666074/sukciai-is-gyventoju-isviliojo-77-tukst-euru-apsimete-policijos-banko-darbuotojais) - social engineering (impersonation) using mobile phone and stealing victim's financial asset, credentials to an Internet banking account;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2667031/lietuvoje-per-para-is-gyventoju-isvilioti-40-tukst-euru) - social engineering (impersonation) using mobile phone and stealing victim's financial assets, credentials to an Internet banking account;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2669166/zarasu-rajone-is-moters-sukciai-isviliojo-27-7-tukst-euru) - investment scam (cryptocurrency);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2670115/is-vyro-banko-saskaitos-pasisavinta-daugiau-negu-27-tukst-euru) - loss of money by use of victim's financial asset (last year). Successful hacking into Internet banking account through financial phishing attack & stealing victim's financial assets;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2670115/is-vyro-banko-saskaitos-pasisavinta-daugiau-negu-27-tukst-euru) - loss of money by use of victim's financial asset (last year). Successful IT hacking into Internet banking account through financial phishing attack & stealing victim's financial assets;
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2675725/maxima-perspeja-apie-netikrus-imones-vardu-rengiamus-konkursus) - scammers using social media impersonate popular brand, conduct phishing attacks and try to steal private information from their victims;
 * [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2676042/sukciai-kone-masiskai-atakavo-gyventojus-po-skambuciu-tukstanciai-prarastu-euru) - social engineering (impersonation) using mobile phone and stealing victims' financial assets, credentials to an e.Banking account;
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/naujojoje-akmeneje-sukcius-is-senjoro-isviliojo-beveik-35-tukst-euru/) - scammers & social engineering (impersonation) using mobile phone;
@@ -6136,7 +6136,7 @@ Following articles are related to scammers:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2686094/sukciai-is-triju-sostines-gyventoju-apgaule-isviliojo-apie-107-tukst-euru) - scammers pretend themselves as real estate agents, fund investment agents using internet platform, that accept money in cash, social engineering (impersonation) using mobile phone;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2690196/rusiskai-ir-angliskai-kalbeje-sukciai-is-triju-moteru-isviliojo-apie-85-5-tukst-euru) - scammers use non-national tongue, does impersonation and social engineering & racketeering, steals victim's account's e.credentials of financial e.site;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2691150/rusiskai-ir-lietuviskai-kalbeje-sukciai-is-vilnietes-isviliojo-21-5-tukst-euru) - multiple of scammers complete impersonation and social engineering through unknown software and hardware (mobile phone);
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2693106/rusiskai-su-klaipedieciu-bendrave-sukciai-isviliojo-kortele-ir-isgrynino-15-2-tukst-euru) - scammers use, does impersonation and social engineering through telecommunication means, exists chance, that they could hold some knowledge as how to hack A.T.M.s;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2693106/rusiskai-su-klaipedieciu-bendrave-sukciai-isviliojo-kortele-ir-isgrynino-15-2-tukst-euru) - scammers use, does impersonation and social engineering through telecommunication means, exists chance, that they could hold some knowledge as how to IT hack A.T.M.s;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2695026/vilniuje-sukciai-is-senjores-isviliojo-17-5-tukst-euru) - scammers using telecommunication means brainwashed their victim into handing money, during communication non-national tongue was used;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2697075/sukciai-is-sostines-gyventoju-isviliojo-daugiau-nei-55-tukst-euru) - scammers deploy vishing attack, foreign tongue, impersonation and social engineering, investment platform as their toolset for stealing financial assest(s);
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2699058/visagino-gyventojas-sukciams-pervede-beveik-40-tukst-euru) - scammers use telecommunication means;
@@ -6160,7 +6160,7 @@ Plausible loss of Integrity.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Idea, that russian speaking telecommunication and police & bank employees could racket out money from people could only link to corrupted employees. In this case scenario it's strange, that everyone turning a blind eye, that something like that are allowed in the country. Understanding a foreign language is not a feat at all & not many moved persons to the Lithuania try to learn a new language.
-* For corrupted scammers who works or pretend as working in legal entity could be placed sanctions, that forbid their working career, e.g. computer hacker who made a huge cybersecurity incident has got forbidden to use an Internet.
+* For corrupted scammers who works or pretend as working in legal entity could be placed sanctions, that forbid their working career, e.g. IT computer hacker who made a huge cybersecurity incident has got forbidden to use an Internet.
 * Exists financial [ombudsman](https://www.britannica.com/topic/ombudsman) who are investigating citizens’ complaints of bureaucratic abuse, so those impersonators could be checked more in detail.
 * Exists new trend of refunding scammed money, so financial institutions could implement more strict countermeasures for protecting financial asset(s).
 * Risk Management could provide ideas, that scammers could use pretext by stealing money from bank accounts of their victims & in most cases of given roles are not related to official privilege of a "debt collector".
@@ -6397,7 +6397,7 @@ According following articles:
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-vilniuje-isviliojo-daugiau-nei-364-tukst-euru/) scammers use telecommunication means, deploy vishing attack, foreign tongue, impersonation, pretexting, mobile phone links which withdrawn more than 25 thousand euros;
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/alytuje-ir-vilniuje-sukciai-is-zmoniu-isviliojo-117-tukst-euru/) scammers target elderly, use telecommunication means, impersonation, victim by himself try to use fake financial account;
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciu-grobis-vilniete-atidave-per-66-tukst-euru-klaipediete---65-tukst-euru/) scammers target elderly, use telecommunication means, deploy vishing attack, foreign tongue, impersonation, failed authentication to the financial bank account resulted loss of 65 thousand euros;
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2742023/sukciai-is-dvieju-gyventoju-isviliojo-po-65-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, impersonation, hacking, financial organization through e.system permit to withdrawn more than 65 thousand euros;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2742023/sukciai-is-dvieju-gyventoju-isviliojo-po-65-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, impersonation, IT hacking, financial organization through e.system permit to withdrawn more than 65 thousand euros;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2743037/sukciai-is-telegram-per-tris-menesius-is-moters-isviliojo-per-25-tukst-euru) scammers deploy romantic scam & investment scam through social media, use telecommunication means, vishing attack, foreign tongue, impersonation, malicious advertisements, unknown way of grabbing physical asset (& credentials) to retrieve financial assets;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2744029/rusiskai-kalbeje-sukciai-is-panevezio-senjores-isviliojo-30-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, foreign tongue, impersonation, social engineering, probable decoy website & cross-site request forgery attack, actions w/o a trace;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2745030/is-keturiu-zmoniu-sukciai-isviliojo-71-6-tukst-euru) scammers target elderly, use telecommunication means, deploy vishing attack, social engineering, (e-)credential grabbing, the fake financial & pharming site for withdrawing money & w/o clear consent for that amount;
@@ -6627,20 +6627,20 @@ Temporary loss of Availability.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Information security notifications for some institution(s) could be rarely updated for the end of issues.
-* Scamming, hacking issues in the LRT.lt usually are distributed between Sections: Business, Technologies & In the Lithuania.
+* Scamming, IT hacking issues in the LRT.lt usually are distributed between Sections: Business, Technologies & In the Lithuania.
 ```
 
 ```
 ##### I ncident
 
 According these articles:
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2843089/sukciai-nesnaudzia-isviliojo-daugiau-nei-97-tukst-euru-taip-pat-aukso) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, phishing & pharming sites, hacking;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2843089/sukciai-nesnaudzia-isviliojo-daugiau-nei-97-tukst-euru-taip-pat-aukso) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, phishing & pharming sites, IT hacking;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2844018/per-para-fiksuota-sukciavimo-atveju-kuriu-metu-isviliota-beveik-150-tukst-euru) scammers use telecommunication means, social engineering & impersonation, investing platform;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2845107/sukciai-is-zmoniu-isviliojo-apie-105-7-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, forgery of electronic product or unallowed usage of electronic product, credential grabbing & accessing information system w/o owner's consent, phishing & pharming sites, breaking a financial institution's & client's agreement;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2846028/sukciai-vilniuje-is-gyventoju-isviliojo-daugiau-nei-50-tukst-euru), [BNS](https://www.lrt.lt/ru/novosti/17/2846036/moshenniki-v-vil-niuse-vymanili-u-zhitelei-bolee-50-tysiach-evro), [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2847015/sukciai-is-gyventoju-isviliojo-beveik-50-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2837436/antrosios-pensiju-pakopos-lesos-vilioja-sukcius-senjore-sulauke-desimciu-skambuciu) scammers target second pension's money funds;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2848024/sukciai-apsimete-mokesciu-inspektoriais-ir-isviliojo-daugiau-nei-29-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2849149/vilniuje-traku-ir-siauliu-rajonuose-sukciai-is-zmoniu-isviliojo-apie-36-8-tukst-euru) scammers use unknown means for withdrawing money, deploy vishing attack, foreign tongue, call through mobile software apps, social engineering & impersonation, phishing & pharming sites, hacking.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2849149/vilniuje-traku-ir-siauliu-rajonuose-sukciai-is-zmoniu-isviliojo-apie-36-8-tukst-euru) scammers use unknown means for withdrawing money, deploy vishing attack, foreign tongue, call through mobile software apps, social engineering & impersonation, phishing & pharming sites, IT hacking.
 ``` 
 
 ```
