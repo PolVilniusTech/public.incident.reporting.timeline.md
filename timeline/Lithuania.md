@@ -6640,7 +6640,8 @@ According these articles:
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2846028/sukciai-vilniuje-is-gyventoju-isviliojo-daugiau-nei-50-tukst-euru), [BNS](https://www.lrt.lt/ru/novosti/17/2846036/moshenniki-v-vil-niuse-vymanili-u-zhitelei-bolee-50-tysiach-evro), [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2847015/sukciai-is-gyventoju-isviliojo-beveik-50-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2837436/antrosios-pensiju-pakopos-lesos-vilioja-sukcius-senjore-sulauke-desimciu-skambuciu) scammers target second pension's money funds;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2848024/sukciai-apsimete-mokesciu-inspektoriais-ir-isviliojo-daugiau-nei-29-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2849149/vilniuje-traku-ir-siauliu-rajonuose-sukciai-is-zmoniu-isviliojo-apie-36-8-tukst-euru) scammers use unknown means for withdrawing money, deploy vishing attack, foreign tongue, call through mobile software apps, social engineering & impersonation, phishing & pharming sites, IT hacking.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2849149/vilniuje-traku-ir-siauliu-rajonuose-sukciai-is-zmoniu-isviliojo-apie-36-8-tukst-euru) scammers use unknown means for withdrawing money, deploy vishing attack, foreign tongue, call through mobile software apps, social engineering & impersonation, phishing & pharming sites, IT hacking;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2851036/vandens-kompanijos-atstovais-apsimete-sukciai-is-vilnietes-isviliojo-10-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, smishing & phishing & pharming sites, credential grabbing & accessing information system w/o owner's consent.
 ``` 
 
 ```
@@ -6649,6 +6650,13 @@ Plausible loss of Money.
 Plausible loss of Privacy.
 Plausible loss of Confidentiality.
 Plausible loss of Integrity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* News Aggregators are still in their own infancy regarding issues reporting. Legislations regarding Responsible Disclosure's over online means & Media itself does not make it any better. The Risks for self-miscommunication, sticking other issues to the top issue.
 ```
 
 ```
