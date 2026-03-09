@@ -6641,7 +6641,13 @@ According these articles:
 * [LRT.lt](https://www.lrt.lt/naujienos/verslas/4/2837436/antrosios-pensiju-pakopos-lesos-vilioja-sukcius-senjore-sulauke-desimciu-skambuciu) scammers target second pension's money funds;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2848024/sukciai-apsimete-mokesciu-inspektoriais-ir-isviliojo-daugiau-nei-29-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2849149/vilniuje-traku-ir-siauliu-rajonuose-sukciai-is-zmoniu-isviliojo-apie-36-8-tukst-euru) scammers use unknown means for withdrawing money, deploy vishing attack, foreign tongue, call through mobile software apps, social engineering & impersonation, phishing & pharming sites, IT hacking;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2851036/vandens-kompanijos-atstovais-apsimete-sukciai-is-vilnietes-isviliojo-10-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, smishing & phishing & pharming sites, credential grabbing & accessing information system w/o owner's consent.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2851036/vandens-kompanijos-atstovais-apsimete-sukciai-is-vilnietes-isviliojo-10-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, smishing & phishing & pharming sites, credential grabbing & accessing information system w/o owner's consent;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2856024/sukciai-is-vilnieciu-isviliojo-beveik-95-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, phishing & pharming sites, credential grabbing & accessing information system w/o owner's consent, breaking a financial institution's & client's agreement, phishing & pharming site and (or) e.payment system w/o consent & approval;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2857034/is-vilniaus-radviliskio-rajono-ir-panevezio-gyventoju-sukciai-isviliojo-25-7-tukst-euru) & [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2857034/sukciai-is-senjores-vilniuje-isviliojo-12-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, phishing & pharming site and (or) e.payment system w/o consent & approval, credential grabbing & accessing information system w/o owner's consent;
+* [-](https://www.lrt.lt/naujienos/lietuvoje/2/2858034/sostineje-ir-uostamiestyje-sukciai-is-senjoriu-isviliojo-16-3-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, credential grabbing & accessing information system w/o owner's consent;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2859022/per-para-sukciai-is-gyventoju-isviliojo-apie-120-tukst-euru) scammers use telecommunication means, chat software apps, deploy vishing attack, foreign tongue, social engineering & impersonation, targeted phishing & credential grabbing & accessing information system w/o owner's consent;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2860023/sukciai-keturiems-gyventojams-padare-zalos-uz-88-9-tukst-euru) & [BNS](https://www.lrt.lt/ru/novosti/17/2860089/moshenniki-nanesli-chetyriom-zhiteliam-ushcherb-na-88-9-tys-evro) scammers use telecommunication means, online social media, deploy vishing attack, foreign tongue, social engineering & impersonation, shady services;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2861026/is-triju-vilniaus-ir-klaipedos-gyventoju-sukciai-isviliojo-45-5-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation.
 ``` 
 
 ```
@@ -6657,6 +6663,7 @@ Plausible loss of Integrity.
 
 From such incidents there are possible to learn a lot. I.e.:
 * News Aggregators are still in their own infancy regarding issues reporting. Legislations regarding Responsible Disclosure's over online means & Media itself does not make it any better. The Risks for self-miscommunication, sticking other issues to the top issue.
+* Scarce training regarding official identification features of various X-collar job roles.
 ```
 
 ```
