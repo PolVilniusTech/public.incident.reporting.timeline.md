@@ -360,5 +360,16 @@ Loss of Availability.
 ```
 
 ```
-
 ### 2026
+##### I ncident
+
+According Article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2849450/vietoje-whatsapp-kremliaus-max-ka-atsijungimas-nuo-globalaus-tinklo-reiskia-rusams) exists restrictions for communication software, plausible traffic blocks of the VPN technology.
+
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
