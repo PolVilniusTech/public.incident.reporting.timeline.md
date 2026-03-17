@@ -6647,7 +6647,12 @@ According these articles:
 * [-](https://www.lrt.lt/naujienos/lietuvoje/2/2858034/sostineje-ir-uostamiestyje-sukciai-is-senjoriu-isviliojo-16-3-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, credential grabbing & accessing information system w/o owner's consent;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2859022/per-para-sukciai-is-gyventoju-isviliojo-apie-120-tukst-euru) scammers use telecommunication means, chat software apps, deploy vishing attack, foreign tongue, social engineering & impersonation, targeted phishing & credential grabbing & accessing information system w/o owner's consent;
 * [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2860023/sukciai-keturiems-gyventojams-padare-zalos-uz-88-9-tukst-euru) & [BNS](https://www.lrt.lt/ru/novosti/17/2860089/moshenniki-nanesli-chetyriom-zhiteliam-ushcherb-na-88-9-tys-evro) scammers use telecommunication means, online social media, deploy vishing attack, foreign tongue, social engineering & impersonation, shady services;
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2861026/is-triju-vilniaus-ir-klaipedos-gyventoju-sukciai-isviliojo-45-5-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation.
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2861026/is-triju-vilniaus-ir-klaipedos-gyventoju-sukciai-isviliojo-45-5-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2863030/per-para-pranesta-apie-keturis-sukciavimus-zmones-neteko-daugiau-nei-130-tukst-euru) scammers use telecommunication means & conduct social engineering & impersonation;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2866073/sukciai-is-dvieju-moteru-isviliojo-beveik-16-tukst-euru) scammers use look-a-like website, conduct phishing attack, deploy pharming sites;
+* [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2866060/kaip-is-74-eriu-plungiskes-isvilioti-99-tukst-euru-sukciai-moteri-veze-i-kita-miesta) & [LRT.lt](https://www.lrt.lt/en/news-in-english/19/2866255/senior-in-plunge-loses-nearly-eur100-000-to-phone-scammers) scammers use telecommunication means & conduct social engineering & impersonation, deploy look-a-like website...;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2867025/vilniuje-sukciai-is-senjores-isviliojo-40-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2870045/klaipedoje-ir-vilniuje-sukciai-apgavo-dvi-moteris-isviliojo-31-tukst-euru) scammers use telecommunication means, social engineering & impersonation, credential grabbing & breaking service agreement between client and financial institution.
 ``` 
 
 ```
@@ -6664,6 +6669,7 @@ Plausible loss of Integrity.
 From such incidents there are possible to learn a lot. I.e.:
 * News Aggregators are still in their own infancy regarding issues reporting. Legislations regarding Responsible Disclosure's over online means & Media itself does not make it any better. The Risks for self-miscommunication, sticking other issues to the top issue.
 * Scarce training regarding official identification features of various X-collar job roles.
+* Terms of use & e.Service Agreement(s) could be just decorative. E.service(s) could be lacking of secure communication channel with their client(s), if they don't contact them directly. In the following way, authentication means could be outdated and (or) not secure anymore too.
 ```
 
 ```
