@@ -410,3 +410,16 @@ Loss of integrity.
 ```
 
 ### 2026
+
+##### I ncident
+
+According the following article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2867022/ep-isjungus-di-irankius-darbuotoju-irenginiuose-lietuvos-institucijos-to-neplanuoja) the Public Sector of Republic of Lithuania could have gaps in the usage of the Artificial Intelligence.
+```
+
+```
+##### R esults
+Plausible loss of confidentiality.
+Plausible loss of privacy.
+```
+
+```
