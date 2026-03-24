@@ -1099,3 +1099,22 @@ In total: 02.
 ```
 
 ```
+##### I nnocent 
+
+The Article [ELTA](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2871410/bus-uzblokuota-simtai-interneto-platformu-neteisetai-siulanciu-filmus-ir-kita-turini) lists out some web resources, that must be forbidden for everyone, because of their business choice. More:
+* "123movies" according [rtk.lt](https://www.rtk.lt/lt/atviri-duomenys/neteisetos-veiklos-vykdytojai) could be ww4.123movies.com.pk (2025), 123movies.gl (2026), 123moviesfree.net (2026).
+* "Soap2day" according [rtk.lt](https://www.rtk.lt/lt/atviri-duomenys/neteisetos-veiklos-vykdytojai) could be soap2day.day, soap2day.guru, soap2day.life, soap2dayz.bz, soap2day.la, soaptoday.site, soap2day.host, soap2day.world, soap2day.wiki (2026).
+```
+
+```
+##### R eseach
+Mechanisms, that plausibly could be used against freedom of speech.
+```
+
+```
+##### L earning from Mistakes 
+
+* Somebody could purchase: similar domain with intend to attack reputation & capabilities to fabricate content.
+```
+
+```
