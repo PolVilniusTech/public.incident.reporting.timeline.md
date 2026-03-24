@@ -372,3 +372,14 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According Article [LRT.lt](https://www.lrt.lt/naujienos/pasaulyje/6/2871300/maskvoje-dusinama-interneto-laisve-nauji-trikdziai-paveike-net-baltojo-saraso-svetaines) exists interruptions in Telecommunications, Internet Payments & e.Services - (Web) Software Applications.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
