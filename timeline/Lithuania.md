@@ -6653,7 +6653,9 @@ According these articles:
 * [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2866060/kaip-is-74-eriu-plungiskes-isvilioti-99-tukst-euru-sukciai-moteri-veze-i-kita-miesta) & [LRT.lt](https://www.lrt.lt/en/news-in-english/19/2866255/senior-in-plunge-loses-nearly-eur100-000-to-phone-scammers) scammers use telecommunication means & conduct social engineering & impersonation, deploy look-a-like website...;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2867025/vilniuje-sukciai-is-senjores-isviliojo-40-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2870045/klaipedoje-ir-vilniuje-sukciai-apgavo-dvi-moteris-isviliojo-31-tukst-euru) scammers use telecommunication means, social engineering & impersonation, credential grabbing & breaking service agreement between client and financial institution;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2875022/telefoniniai-sukciai-is-vilnietes-ir-visaginietes-pasisavino-33-9-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2875022/telefoniniai-sukciai-is-vilnietes-ir-visaginietes-pasisavino-33-9-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2879085/sukciautoja-gatveje-uzkalbino-klaipediete-ir-is-jos-isviliojo-16-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, conduct phishing attack & deploy pharming site & unauthorized access;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2880030/sostineje-radviliskyje-ir-telsiu-rajone-sukciai-is-zmoniu-isviliojo-apie-25-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, conduct phishing attack & deploy pharming site & unauthorized access;
 ``` 
 
 ```
