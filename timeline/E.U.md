@@ -408,7 +408,25 @@ Loss of integrity.
 ```
 
 ```
+##### I ncident
 
+According following article [-](https://www.15min.lt/verslas/naujiena/mokslas-it/openai-duomenu-nutekejimas-kas-nutiko-ir-kaip-apsaugoti-versla-1290-2581802) there was a data leak from "ChatGPT" Large Language Model. Leak resulted: loss of first names, e-mails, unique identification numbers of clients and organizations, approximate locations, IP addresses.
+```
+
+```
+##### R esults
+Loss of privacy.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Article include some guidance as following: high chance, that common organizations just use Application Programming Interfaces to access models like ChatGPT & this could be deployed improperly & w/o best practice, so Supply Chain Attacks could be one of the risks, that organizations must assess; segmentation of information for correct management; depending by implementation Artifical Intelligence tools are potential threat to lose confidential & private information. Inventorization of Software Applications, that are allowed to function in organizations perimeter is not enough for securing Your organization environment fully; ChatGPT configuration for disallowing, that data would be used for ChatGPT training; Multi-factor Authentication.
+* Available Web Services must be managed, what, in one point, is done by Lithuanian NCSC for Users in Lithuania, who use specific DNS Firewall.
+```
+
+```
 ### 2026
 
 ##### I ncident
