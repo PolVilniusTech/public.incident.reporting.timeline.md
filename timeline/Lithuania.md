@@ -6655,7 +6655,8 @@ According these articles:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2870045/klaipedoje-ir-vilniuje-sukciai-apgavo-dvi-moteris-isviliojo-31-tukst-euru) scammers use telecommunication means, social engineering & impersonation, credential grabbing & breaking service agreement between client and financial institution;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2875022/telefoniniai-sukciai-is-vilnietes-ir-visaginietes-pasisavino-33-9-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2879085/sukciautoja-gatveje-uzkalbino-klaipediete-ir-is-jos-isviliojo-16-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, conduct phishing attack & deploy pharming site & unauthorized access;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2880030/sostineje-radviliskyje-ir-telsiu-rajone-sukciai-is-zmoniu-isviliojo-apie-25-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, conduct phishing attack & deploy pharming site & unauthorized access.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2880030/sostineje-radviliskyje-ir-telsiu-rajone-sukciai-is-zmoniu-isviliojo-apie-25-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, conduct phishing attack & deploy pharming site & get unauthorized access;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2893017/sukciai-apgavo-imone-pasisavino-beveik-48-tukst-euru) scammers concuct targeted phishing attack & deploy pharming site & get unauthorized access, use telecommunication means, social engineering & impersonation.
 ``` 
 
 ```
@@ -6673,6 +6674,24 @@ From such incidents there are possible to learn a lot. I.e.:
 * News Aggregators are still in their own infancy regarding issues reporting. Legislations regarding Responsible Disclosure's over online means & Media itself does not make it any better. The Risks for self-miscommunication, sticking other issues to the top issue.
 * Scarce training regarding official identification features of various X-collar job roles.
 * Terms of use & e.Service Agreement(s) could be just decorative. E.service(s) could be lacking of secure communication channel with their client(s), if they don't contact them directly. In the following way, authentication means could be outdated and (or) not secure anymore too.
+```
+
+```
+##### I ncident
+
+According the article [15min](https://www.15min.lt/verslas/naujiena/mokslas-it/ilgamete-infolex-problema-galejo-buti-atverti-tukstanciai-asmenu-duomenu-1290-2649158) was found security flaw in web portal "Infolex", that made authentication bypass possible, that could disclose following information: unhashed user credentials, email addresses, another set of user credentials, unique personal identification codes, confidential info.
+``` 
+
+```
+##### R esults
+Loss of Confidentiality.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* When properly set Sofware Application does not function as it must do, then, it does not mean, that this Software Application must get additional Higher Privileges for doing what it must do. Segmentation of Access Control with multiple roles & their privileges.
 ```
 
 ```
