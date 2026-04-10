@@ -6692,6 +6692,7 @@ Loss of Confidentiality.
 
 From such incidents there are possible to learn a lot. I.e.:
 * When properly set Sofware Application does not function as it must do, then, it does not mean, that this Software Application must get additional Higher Privileges for doing what it must do. Segmentation of Access Control with multiple roles & their privileges.
+* Taking care of security for data at rest are very important. User credentials is confidential information & data breach could easily break existing security for every user of information system. 
 ```
 
 ```
