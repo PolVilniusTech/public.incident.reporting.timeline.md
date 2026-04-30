@@ -737,7 +737,8 @@ According [npr.org](https://www.npr.org/2025/01/16/nx-s1-5259837/meteorite-strik
 Following list of Meteorites, that landed on Earth, for those who would be interested:
 * [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/1920195/desimt-metu-po-vieno-galingiausiu-stebetu-smugiu-celiabinske-kiek-esame-apsaugoti-nuo-galimos-katastrofos);
 * [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2641206/birzeli-i-amerikiecio-nama-pataike-meteoritas-tyrimai-atskleide-idomu-fakta-apie-jo-amziu);
-* [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2862104/vokietijos-policija-teigia-kad-meteoritas-netoli-koblenco-miesto-apgadino-namu-stogus).
+* [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2862104/vokietijos-policija-teigia-kad-meteoritas-netoli-koblenco-miesto-apgadino-namu-stogus);
+* [NP.pl](https://naukawpolsce.pl/aktualnosci/news%2C112704%2Cpod-lodzia-odnaleziono-nowy-meteoryt-zelazny-w-sobote-rusza-jego-badania).
 ```
 
 ```
