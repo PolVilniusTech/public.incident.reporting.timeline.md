@@ -441,3 +441,16 @@ Plausible loss of privacy.
 ```
 
 ```
+##### I ncident
+
+According the following article [-](https://www.lrt.lt/naujienos/pasaulyje/6/2909113/del-signal-sukciavimo-ataku-pries-parlamentarus-vokietija-kaltina-rusija) Messanger type Software Application "Signal" could be misused by scammers to leak files, pictures, chat history, or to steal identity & conduct further attacks.
+```
+
+```
+##### R esults
+Plausible loss of confidentiality.
+Plausible loss of integrity.
+Plausible loss of privacy.
+```
+
+```
