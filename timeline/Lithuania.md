@@ -6698,7 +6698,10 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According the article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2913030/is-kauniecio-ir-taurages-imones-sukciai-isviliojo-55-tukst-euru) scammers use telecommunication means, deploy hacking techniques to bypass security measures of organisational bank account through employee of that organization, deploy vishing attack, foreign tongue, social engineering & impersonation.
+According these articles:
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2901057/siauliuose-sukciai-is-imones-saskaitos-galimai-pasisavino-daugiau-negu-25-tukst-euru) scammers use telecommunication means, deploy hacking techniques to get into e-mail service & bypass security measures of organisational account of financial assets, social engineering & impersonation;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2902027/sukciai-is-dvieju-gyventoju-isviliojo-beveik-36-tukst-euru) & [BNS](https://www.lrt.lt/ru/novosti/17/2902045/moshenniki-vymanili-u-dvukh-zhitelei-pochti-36-tysiach-evro) scammers use telecommunication means, deploy vishing attack, foreign tongue, social engineering & impersonation, financial investment scam, unknown way of making transaction from personal bank account & bypassing authentication;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2913030/is-kauniecio-ir-taurages-imones-sukciai-isviliojo-55-tukst-euru) scammers use telecommunication means, deploy hacking techniques to bypass security measures of organisational bank account through employee of that organization, deploy vishing attack, foreign tongue, social engineering & impersonation.
 
 ``` 
 
