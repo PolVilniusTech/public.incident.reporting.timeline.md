@@ -6696,3 +6696,16 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the article [LRT.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2913030/is-kauniecio-ir-taurages-imones-sukciai-isviliojo-55-tukst-euru) scammers use telecommunication means, deploy hacking techniques to bypass security measures of organisational bank account through employee of that organization, deploy vishing attack, foreign tongue, social engineering & impersonation.
+
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
