@@ -454,3 +454,23 @@ Plausible loss of privacy.
 ```
 
 ```
+##### I ncident
+
+According the following article [-](https://www.lrt.lt/pl/wiadomosci/1261/2919264/vsd-serwis-filmai-in-stanowi-zagrozenie-dla-bezpieczenstwa-narodowego) "filmai.in" e.service is banned by Lithuanian Radio and Television Commision (LRTC), but it gets support for keeping up their availability of their e.service anyway.
+```
+
+```
+##### R esults
+Plausible loss of confidentiality.
+Plausible loss of integrity.
+Plausible loss of privacy.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* It shows a probable growth in e.services, that improve upkeep of clients' e.services. Regulation a.k.a. suited for Cybersecurity improvements must take into account, that Hosting Sites, Social Media must start diggin to the Moderation linked activities & Responsible disclosure.
+```
+
+```
