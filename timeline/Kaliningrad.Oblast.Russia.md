@@ -363,7 +363,7 @@ Loss of Availability.
 ### 2026
 ##### I ncident
 
-According Articles [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2849450/vietoje-whatsapp-kremliaus-max-ka-atsijungimas-nuo-globalaus-tinklo-reiskia-rusams) & [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/2869538/rusijoje-nustojo-veikti-susirasinejimo-programele-telegram) exists restrictions for communication software & e.services, plausible traffic blocks of the VPN technology.
+According Articles [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2849450/vietoje-whatsapp-kremliaus-max-ka-atsijungimas-nuo-globalaus-tinklo-reiskia-rusams) & [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/2869538/rusijoje-nustojo-veikti-susirasinejimo-programele-telegram) & [-](https://www.lrt.lt/ru/novosti/17/2918305/roskomnadzor-postavil-zadachu-zablokirovat-92-vpn-k-2030-godu) exists restrictions for communication software & e.services, plausible traffic blocks of the VPN technology.
 ```
 
 ```
