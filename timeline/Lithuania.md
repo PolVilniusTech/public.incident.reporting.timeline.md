@@ -6714,4 +6714,24 @@ Plausible loss of Money.
 Plausible loss of Privacy.
 Plausible loss of Confidentiality.
 Plausible loss of Integrity.
+``` 
+
+```
+##### I ncident
+
+According this article [Lrytas.lt](https://www.lrytas.lt/verslas/rinkos-pulsas/2026/05/06/news/vmi-sistema-buvo-sutrikusi-kas-atsitiko-42316694) the System of State Tax Inspectorate is having interruptions in their operations.
+``` 
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* E.services usually increase their open period for document submission, when they are having issues for their Clients on their own fault. E.training could help to increase Clients' awareness for correct use of a Custom System. Either way, an e.service could be misused by malicious actors too.
+``` 
+
 ```
