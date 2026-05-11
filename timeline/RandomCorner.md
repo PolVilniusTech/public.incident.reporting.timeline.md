@@ -1119,3 +1119,23 @@ Mechanisms, that plausibly could be used against freedom of speech.
 ```
 
 ```
+##### I nnocent 
+
+Some Articles who are trying to support the use of Virtual Private Networks (VPNs). As following:
+* [SDPI](https://vdai.lrv.lt/lt/naudinga-informacija/rekomendacijos-gaires-ir-kt/work/) include RECOMMENDATIONS regarding use of Wireless Networks (2024) for choice with "No logs policy" e.service, that provide VPN.
+* [LRV](https://lrv.lt/media/viesa/saugykla/2023/8/37kVLi0sM_I.pdf) include APPENDIX OF ORGANIZATIONAL AND TECHNICAL CYBERSECURITY REQUIREMENTS where VPN use through public networks is the REQUIREMENT for all Cybersecurity Subjects. Requirements include Audit Logs Requirements too: (a) Audit data, incl. logs collection, SHOULD be collected at minimum for 60 days; (b) Do You can make another interpretation: Data, that are collected by auditor, during audit, must be collected and kept for at least for 60 days? (c) Do You can make another interpretation: Audit data should be kept only 60 days and afterwards the collection of it could be dropped?
+```
+
+```
+##### R eseach
+RECOMMENDATIONS, REQUIREMETNS or smth else.
+SHOULD, SHALL or smth else.
+```
+
+```
+##### L earning from Mistakes 
+
+* Most of those entities probably are deploying ISO Vocalubry, so the [ISO.org](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:guide:2:ed-8:v1:en) define ISO/IEC Guide 2:2004 (or just Guide). This Guide include terms, whose are expressing specific concepts, that generally could be used to construct a combination of terms, which from now would be expressing more general concepts. The latter terms are "building blocks" for terms & definitions of this Guide, whose aim - equivalent combinations of terms & definitions for set of languages. The Guide include terms as following: STATEMENT, INSTRUCTION, RECOMMENDATION, REQUIREMENT where RECOMMENDATION goes with the keyword of SHOULD (not necessary), then REQUIREMENT goes with the keyword of SHALL (necessary). In other case, if there would be the keyword of MUST, then it would go with an absolute necessarily implementation.
+```
+
+```
