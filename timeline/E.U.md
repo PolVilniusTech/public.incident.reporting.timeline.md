@@ -474,3 +474,37 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According the following article [-](https://m.kauno.diena.lt/naujienos/verslas/imoniu-pulsas/sutriko-dalies-lietuvos-banku-veikla-paaiskino-priezastis-1757111) exists interruptions in the "EBA Clearing" infrastructure, unavailable momental-payments for couple of financial institutions.
+```
+
+```
+##### R esults
+Loss of availability.
+```
+
+```
+##### I ncident
+
+According the following article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2934111/po-oro-pavojaus-gyventoju-nuogastavimai-neveike-lt72-negalejo-surasti-priedangu) the Lithuanian Software LT72 has service interruptions, because of overflow of requests from their own web visitors.
+```
+
+```
+##### R esults
+Loss of availability.
+```
+
+```
+##### I ncident
+
+According the following article [-](https://www.lrt.lt/naujienos/verslas/4/2936321/duomenu-vagyste-is-registru-centro-nusiurbta-daugiau-nei-600-tukst-duomenu-irasu) through authorized account(s) of Information System of Lithuanian Centre of Registers was leaked up to 600 thousand records, that are related to registers of Real Estate, Legal Entities.
+```
+
+```
+##### R esults
+Loss of confidentiality.
+Loss of privacy.
+```
+
+```
