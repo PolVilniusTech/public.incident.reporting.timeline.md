@@ -2988,7 +2988,8 @@ More information regarding GPS jamming:
 * [Lrt.lt](https://www.lrt.lt/naujienos/verslas/4/2462795/neraminantys-duomenys-gps-trikdziu-skaicius-yra-padidejes-6-kartus);
 * [Lrt.lt](https://www.lrt.lt/naujienos/lietuvoje/2/2618008/birzeli-pilotu-pranesimu-apie-gps-trikdzius-rekordas-22-kartus-daugiau-nei-pries-metus);
 * [BNS](https://www.lrt.lt/naujienos/pasaulyje/6/2664581/svedija-pranesa-jog-baltijos-juros-regione-staigiai-padidejo-aviacijos-gps-trukdziu);
-* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2690460/i-lietuva-skrides-ispanu-gynybos-ministres-lektuvas-prie-rusijos-patyre-gps-trukdziu).
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2690460/i-lietuva-skrides-ispanu-gynybos-ministres-lektuvas-prie-rusijos-patyre-gps-trukdziu);
+* [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/2939014/lektuvui-skraidinusiam-jk-ministra-netoli-rusijos-sienos-buvo-slopinamas-gps-signalas).
 ```
 
 ```
