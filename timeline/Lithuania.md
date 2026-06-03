@@ -6761,3 +6761,68 @@ Plausible loss of Integrity.
 ``` 
 
 ```
+##### I ncident
+
+According this article [15min.lt](https://www.15min.lt/verslas/naujiena/bendroves/sutriko-mano-dienynas-veikla-vartotojai-pranesa-negalintys-prisijungti-663-2691466) the web site "Mano dienynas" is unavailable.
+``` 
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### I ncident
+
+According these articles:
+* [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/sukciai-is-jonaviecio-isviliojo-25-tukst-euru-59-2691862) unavailable for major public.
+* [-](https://www.alfa.lt/aktualijos/nusikaltimai-ir-nelaimes/sukciai-isviliojo-1500-euru-vyras-patikejo-zinute-apie-tariama-siuntos-mokesti/325477/) scammers use "WhatsApp" for sending concealed fake invoices.
+* [-](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/05/27/news/sekminga-diena-sukciams-viena-sostines-viesoji-istaiga-prarado-ketvirti-milijono-euru-42590478) money transfer from organizational financial bank account(s), that are unauthorized by organization superiors & scammer's attacks using telecommunication means, vishing attack, impersonation & social engineering. 
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According this article [rinkosaikste.lt](https://rinkosaikste.lt/sukciu-irankiu-tapo-e-sveikata-kedainiete-neteko-pinigu/) the "e.sveikata" System are misused by scammers. Probable existance of a look-a-like site copy.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Public electronic services, that are joined from various different e.solutions usually could be more weak to scammers & hackers intervention.
+``` 
+
+```
+##### I ncident
+
+According these articles:
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/vilniete-sukciams-pervede-14-tukst-euru/) scammers use telecommunication means, impersonation & social engineering, "Facebook" to offer malicious services, unauthorized asset grabbing from e.bank accounts, deploy concealed fake services & pharming sites & get unauthorized access.
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-dvieju-moteru-vilniuje-ir-vilniaus-rajone-isviliojo-per-216-tukst-euru/) scammers use telecommunication means, impersonation & social engineering.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
