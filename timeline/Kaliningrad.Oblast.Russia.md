@@ -383,3 +383,14 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According Article [ELTA](https://www.lrt.lt/naujienos/pasaulyje/6/2951242/rusijos-interneto-prieziuros-institucija-nuo-vpn-blokavimo-pereina-i-puolima) VPN e.service got interruptions by DDoS attacks.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
