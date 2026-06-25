@@ -6986,7 +6986,7 @@ According these articles:
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2969034/sukciai-is-gyventoju-visoje-salyje-isviliojo-320-5-tukst-euru) scammers use telecommunication means, impersonation & social engineering, investment scam, pharming site, fake employment & social media scam, smishing, unlawful share of a bank asset;
 * [-](https://ve.lt/kriminalai/smalsumas-nugalejo-atsarguma-sms-zinute-kainavo-tukstancius) scammers use telecommunication means, smishing, pharming site, credential grabbing;
 * [BNS](https://www.tv3.lt/naujiena/lietuva/vilniuje-sukciai-is-senjoro-isviliojo-21-tukst-euru-n1530685) scammers use telecommunication means, deploy vishing attack, foreign tongue, impersonation & social engineering;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2971041/vilniuje-sukciai-is-moters-isviliojo-10-tukstanciu-euru) scammers use telecommunication means, impersonation & social engineering;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2971041/vilniuje-sukciai-is-moters-isviliojo-10-tukstanciu-euru) scammers use telecommunication means, impersonation & social engineering.
 ``` 
 
 ```
