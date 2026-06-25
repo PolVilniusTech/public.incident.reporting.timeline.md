@@ -535,7 +535,7 @@ Plausible loss of integrity.
 ```
 ##### I ncident
 
-According the following article [-](https://www.tv3.lt/naujiena/uzsienis/google-perspeja-milijonus-chrome-vartotoju-ragina-skubiai-atlikti-1-veiksma-n1526818) the Browser Software vulnerability CVE-2026-11645 was fixed & require immediate upgrade for it's Clients.
+According the following article [-](https://www.tv3.lt/naujiena/uzsienis/google-perspeja-milijonus-chrome-vartotoju-ragina-skubiai-atlikti-1-veiksma-n1526818) the Browser Software vulnerability CVE-2026-11645 was fixed & require immediate upgrade for its Clients.
 ```
 
 ```
