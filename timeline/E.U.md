@@ -508,3 +508,65 @@ Loss of privacy.
 ```
 
 ```
+##### I ncident
+
+According the following article [-](https://www.kaipkada.lt/idomybes/nutekejo-24-mlrd-prisijungimo-duomenu-kaip-patikrinti-ar-tarp-ju-nera-jusu-el-pasto-209594) 24 billions credentials database got found on an "Elasticsearch" server.
+```
+
+```
+##### R esults
+Loss of confidentiality.
+Loss of privacy.
+```
+
+```
+##### I ncident
+
+According the following article [ELTA](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2965370/ziniasklaida-per-kibernetini-ispuoli-pries-pasaulines-imones-pasiekti-ir-lt-domenai) was found a "FortiBleed" attack, which could find unprotected "Fortinet" Firewalls & VPN's. 
+```
+
+```
+##### R esults
+Loss of confidentiality.
+Loss of privacy.
+Plausible loss of integrity.
+```
+
+```
+##### I ncident
+
+According the following article [-](https://www.tv3.lt/naujiena/uzsienis/google-perspeja-milijonus-chrome-vartotoju-ragina-skubiai-atlikti-1-veiksma-n1526818) the Browser Software vulnerability CVE-2026-11645 was fixed & require immediate upgrade for it's Clients.
+```
+
+```
+##### R esults
+Plausible loss of confidentiality.
+Plausible loss of privacy.
+Plausible loss of integrity.
+```
+
+```
+##### I ncident
+
+According the following article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2958363/atkurta-penktadieni-sutrikusi-facebook-messenger-ir-instagram-veikla) number of social media services has interruptions.
+```
+
+```
+##### R esults
+Loss of availability.
+```
+
+```
+##### I ncident
+
+According the following article [-](https://www.delfi.lt/mokslas/mokslas/pavogti-itin-jautrus-ozempic-gamintojo-ir-jo-klientu-duomenys-reikalavo-21-mln-euru-ispirkos-120265028) "Ozempic" data breach. Leaked "Ozempic" Information & "Ozempic" Clients Information. Hackers requested for a ransom for not leaking that Information.
+```
+
+```
+##### R esults
+Loss of confidentiality.
+Loss of privacy.
+Plausible loss of integrity.
+```
+
+```
