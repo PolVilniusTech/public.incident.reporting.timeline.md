@@ -570,3 +570,41 @@ Plausible loss of integrity.
 ```
 
 ```
+##### I ncident
+
+According the following article [-](https://www.delfi.lt/mokslas/mokslas/pries-apple-kibernetine-ataka-nutekinti-jautrus-iphone-duomenys-120270754) final disclosure of Apple Inc. supplier information from Ransomware group. 
+```
+
+```
+##### R esults
+Plausible loss of confidentiality.
+Plausible loss of integrity.
+```
+
+```
+##### I ncident
+
+According the following article [-](https://www.lrt.lt/naujienos/pasaulyje/6/2989094/es-ir-jungtine-karalyste-del-kibernetiniu-ataku-ivede-bendras-sankcijas-rusijai) cyberattacks of critical infrastructure & ministries of France.
+```
+
+```
+##### R esults
+Plausible loss of confidentiality.
+Plausible loss of availability.
+Plausible loss of integrity.
+```
+
+```
+##### I ncident
+
+According the following article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2990168/lidl-duomenu-nutekinimas-prekybos-tinklas-ramina-klientus-lietuvoje) data brach & data leak (name, phone no., email, date of birthday) from "Lidl" supermarket.
+```
+
+```
+##### R esults
+Loss of confidentiality.
+Loss of privacy.
+Plausible loss of integrity.
+```
+
+```
