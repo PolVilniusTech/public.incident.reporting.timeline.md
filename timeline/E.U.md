@@ -584,7 +584,7 @@ Plausible loss of integrity.
 ```
 ##### I ncident
 
-According the following article [-](https://www.lrt.lt/naujienos/pasaulyje/6/2989094/es-ir-jungtine-karalyste-del-kibernetiniu-ataku-ivede-bendras-sankcijas-rusijai) cyberattacks of critical infrastructure & ministries of France.
+According the following article [-](https://www.lrt.lt/naujienos/pasaulyje/6/2989094/es-ir-jungtine-karalyste-del-kibernetiniu-ataku-ivede-bendras-sankcijas-rusijai) cyberattacks to critical infrastructure & ministries of France.
 ```
 
 ```
