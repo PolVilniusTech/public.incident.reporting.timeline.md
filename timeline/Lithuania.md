@@ -7058,3 +7058,124 @@ Plausible loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According these articles:
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/2992044/sukciai-is-utenos-rajono-kauno-bei-vilniaus-gyventoju-pasisavino-beveik-68-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, smishing, credential grabbing thanks to a pharming site, unauthorized use of a service;
+* [-](https://kaunas.kasvyksta.lt/112/kauniete-patikejo-investavimo-konsultantu-ir-prarado-beveik-29-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, investment scam;
+* [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/sukciai-is-vyro-vilniuje-isviliojo-daugiau-nei-10-tukst-euru-59-2726706) scammers use telecommunication means, conduct impersonation & social engineering;
+* [-](https://ve.lt/kriminalai/itarimu-sukele-ir-buto-kaina-ir-skubinimas-pervesti-pinigus) scammers use telecommunication means, social media scam.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According the article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2996310/nksc-ataka-pries-mobilizacijosmokykla-lt-surengta-panaudojus-vartotojo-prisijungimus) one user account of mobilizacijosmokykla.lt web site was compromised & actively used to disseminate false information.
+``` 
+
+```
+##### R esults
+Plausible loss of Availability (one account).
+Loss of Confidentiality (set of email addresses).
+Loss of Integrity (unauthorized use of one account).
+```
+
+```
+##### I ncident
+
+According these articles:
+* [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/telefoniniai-sukciai-is-vilniecio-isviliojo-beveik-235-tukst-euru-59-2727714) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering;
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-siauteja-is-zmoniu-isviliojo-apie-463-tukst-euru/) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, fake and (or) out-dated advertisements.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According the article [-](https://www.delfi.lt/verslas/naujienos/sutrikimas-vmi-deklaravimo-sistemoje-dingo-dalis-lietuvisku-raidziu-120280151) the System of State Tax Inspectorate is having interruptions in their operations.
+``` 
+
+```
+##### R esults
+Loss of Integrity.
+```
+
+```
+##### I ncident
+
+According these articles:
+* [-](https://ve.lt/kriminalai/bendrove-skaiciuoja-nuostolius-suklastota-interneto-svetaine-atrode-labai-tikroviskai) scammers use telecommunication means, look-a-like site scam, credential grabbing thanks to a pharming site, unauthorized use of a service;
+* [-](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/suvalkietei-atsirugo-rusakalbes-abrakadabra-apie-euru-investavima-doleriu-konvertavima-59-2729196) scammers use telecommunication means, social media app, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, investment scam;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/2999022/per-pastaraja-para-pareigunams-pranesta-apie-sukciavimus-uz-daugiau-nei-60-tukst-euru)  scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering;
+* [-](https://alytusplius.lt/blog/2026/07/22/policijos-pareigunu-apsimetes-sukcius-is-moters-isviliojo-stambia-pinigu-suma) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According these articles [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2999224/ziniasklaida-nutekejo-elektronines-parduotuves-skirgesa-klientu-duomenys) & [ELTA](https://madeinvilnius.lt/naujienos/lietuvos-naujienos/po-kibernetines-atakos-nutekejo-lietuviskos-e-parduotuves-duomenys/) "Skirgesa" e.site breach. Lost client information include: first name, last name, phone number, electronic mail address.
+``` 
+
+```
+##### R esults
+Loss of Privacy.
+Loss of Confidentiality.
+Loss of Integrity.
+```
+
+```
+##### I ncident
+
+According these articles:
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3000029/telefoniniai-sukciai-is-dvieju-vilnieciu-pasisavino-25-tukst-euru) & [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/telefoniniai-sukciai-is-dvieju-vilnieciu-isviliojo-25-tukst-euru-59-2730082) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, malware, unauthorized use of service;
+* [-](https://ve.lt/kriminalai/brandaus-amziaus-damai-paskambino-is-google-liko-be-asmenines-paskyros) scammers use telecommunication means, phishing, unauthorized use of a service;
+* [-](https://www.delfi.lt/naujienos/kriminalai/kupiskyje-vyras-neteko-pinigu-paspaude-sukciu-atsiusta-nuoroda-120281425) scammers use telecommunication means, lottery scam, unauthorized use of a service;
+* [-](https://ve.lt/kriminalai/sukciu-nuoroda-paspaudes-silutiskis-prarado-nemaza-suma-pinigu) scammers use telecommunication means, fake investment offer;
+* [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/sukciai-is-vilniaus-rajono-gyventojos-isviliojo-56-tukst-euru-59-2732044) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3005026/i-telefoniniu-sukciu-pinkles-ikliuve-gyventojai-prarado-74-3-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, unlawful sharing of physical financial asset, loan scam, phishing, unauthorized use of a service.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According the article [-](https://www.vz.lt/verslo-aplinka/2026/07/28/is-registru-centro-bedu-istorijos-uzlieti-serveriai-sutrike-duomenys-bet-kompensuota-per-mazai-587948) e.systems of State Enterprise Centre of Registers & e.Sveikata are having interruptions in their operations.
+``` 
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
