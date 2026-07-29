@@ -608,3 +608,43 @@ Plausible loss of integrity.
 ```
 
 ```
+##### I ncident
+
+According the following article [BNS](https://www.15min.lt/verslas/naujiena/mokslas-it/openai-di-agentai-savarankiskai-isilauze-i-programuotojams-skirta-platforma-1290-2728612) Artificial Intelligence automation for penetration testing does not know its boundaries of operation.
+```
+
+```
+##### R esults
+Loss of integrity.
+```
+
+```
+##### I ncident
+
+According the following article [LRT.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2999152/auditas-96-proc-lietuvisku-svetainiu-turi-bdar-ar-privatumo-spragu) 104 033 units of Lithuanian domain sites with only of 4 percent support for General Data Protection Regulation.
+```
+
+```
+##### R esults
+Plausible loss of money.
+```
+
+```
+##### I ncident
+
+According following articles [BNS](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3000360/trumpas-tvirtina-kad-es-sumokes-labai-didele-kaina-uz-bauda-google) & [-](https://www.delfi.lt/verslas/naujienos/es-skyre-google-890-mln-euru-bauda-120280632) fines to [Google](https://about.google/) for limitations regarding E.U. users.
+```
+
+```
+##### R esults
+Increased amount of scam.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Only some Software, Hardware brands may have their personal Software Application Managers for their only Software downloads & updates. Placing company brand in further pages gonna results in decreased security of its users. Decreasing ranking of brand Software is against any security policy & security practice that move into direction of less scam. 
+```
+
+```
