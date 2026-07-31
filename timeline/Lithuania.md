@@ -7154,8 +7154,8 @@ According these articles:
 * [-](https://ve.lt/kriminalai/brandaus-amziaus-damai-paskambino-is-google-liko-be-asmenines-paskyros) scammers use telecommunication means, phishing, unauthorized use of a service;
 * [-](https://www.delfi.lt/naujienos/kriminalai/kupiskyje-vyras-neteko-pinigu-paspaude-sukciu-atsiusta-nuoroda-120281425) scammers use telecommunication means, lottery scam, unauthorized use of a service;
 * [-](https://ve.lt/kriminalai/sukciu-nuoroda-paspaudes-silutiskis-prarado-nemaza-suma-pinigu) scammers use telecommunication means, fake investment offer;
-* [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/sukciai-is-vilniaus-rajono-gyventojos-isviliojo-56-tukst-euru-59-2732044) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3005026/i-telefoniniu-sukciu-pinkles-ikliuve-gyventojai-prarado-74-3-tukst-euru) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, unlawful sharing of physical financial asset, loan scam, phishing, unauthorized use of a service.
+* [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/sukciai-is-vilniaus-rajono-gyventojos-isviliojo-56-tukst-euru-59-2732044) & [ELTA](https://www.tv3.lt/naujiena/lietuva/sukciu-gudrybe-is-moters-pasisavino-56-4-tukst-euru-n1539433) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3005026/i-telefoniniu-sukciu-pinkles-ikliuve-gyventojai-prarado-74-3-tukst-euru) & [-](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/07/29/news/rusiskai-kalbantys-sukciai-siauteja-kaisiadoriu-jonavos-r-ir-vilniaus-gyventojai-neteko-dideliu-sumu-43302432) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, cash mule, unlawful sharing of physical financial asset, loan scam, phishing, unauthorized use of a service.
 ``` 
 
 ```
@@ -7176,6 +7176,23 @@ According the article [-](https://www.vz.lt/verslo-aplinka/2026/07/28/is-registr
 ```
 ##### R esults
 Loss of Availability.
+```
+
+```
+##### I ncident
+
+According these articles:
+* [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/kaune-is-moters-sukciai-isviliojo-10-tukst-euru-59-2733558) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering;
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/telefoniniai-sukciai-is-kaunietes-isviliojo-10-tukst-euru/) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, social media scam, smishing, credential grabbing via pharming sites, unauthorized use of a service.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
 ```
 
 ```
