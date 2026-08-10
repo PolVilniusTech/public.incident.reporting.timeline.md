@@ -611,6 +611,7 @@ Plausible loss of integrity.
 ##### I ncident
 
 According the following article [BNS](https://www.15min.lt/verslas/naujiena/mokslas-it/openai-di-agentai-savarankiskai-isilauze-i-programuotojams-skirta-platforma-1290-2728612) Artificial Intelligence automation for penetration testing does not know its boundaries of operation.
+More similar news: [-](https://www.delfi.lt/mokslas/mokslas/meta-dirbtinio-intelekto-agentas-isilauze-i-kitos-imones-sistemas-120286450).
 ```
 
 ```
@@ -645,6 +646,20 @@ Increased amount of scam.
 
 From such incidents there are possible to learn a lot. I.e.:
 * Only some Software, Hardware brands may have their personal Software Application Managers for their only Software downloads & updates. Placing company brand in further pages gonna results in decreased security of its users. Decreasing ranking of brand Software is against any security policy & security practice that move into direction of less scam. 
+```
+
+```
+##### I ncident
+
+According following article [-](https://www.vz.lt/statyba-ir-nt/2026/08/05/bonava-patyre-kibernetine-ataka-galejo-nuteketi-klientu-lietuvoje-duomenys-588401) data leak from the company "Bonava".
+```
+
+```
+##### R esults
+Loss of privacy.
+Loss of confidentiality.
+Plausible loss of availability.
+Plausible loss of integrity.
 ```
 
 ```
