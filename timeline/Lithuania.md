@@ -179,13 +179,14 @@ From such incidents there are possible to learn a lot. I.e.:
 
 #### I ncident
 
-@2021 Flaw of the System of e.sveikata 
-```
+@2021 Flaw of the System of e.sveikata.
+``` 
 
 ```
 ### 2019
 
 ##### I ncident
+
 According [@Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/244671/su-kinijos-valdzia-siejamus-isilauzelius-aptiko-vilniaus-it-imones-specialistai) this Article non-Local Origin Company Computer Network got breached by already known IT Hacker Group.
 ```
 
@@ -7183,7 +7184,68 @@ Loss of Availability.
 
 According these articles:
 * [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/kaune-is-moters-sukciai-isviliojo-10-tukst-euru-59-2733558) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering;
-* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/telefoniniai-sukciai-is-kaunietes-isviliojo-10-tukst-euru/) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, social media scam, smishing, credential grabbing via pharming sites, unauthorized use of a service.
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/telefoniniai-sukciai-is-kaunietes-isviliojo-10-tukst-euru/) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, social media scam, smishing, credential grabbing via pharming sites, unauthorized use of a service;
+* [-](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/08/01/news/sukciu-tinkle-naujos-aukos-nuostoliai-siekia-beveik-30-000-euru-43339754) scammers use telecommunication means, deploy vishing attack, foreign tongue, conduct impersonation & social engineering, fake investment offer;
+* [-](https://reidasofficial.lt/kriminalai/sukciu-zinutes-regitra-neteisetas-pastatymas-apgaule/) scammers use telecommunication means, smishing.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According the article [-](https://www.tv3.lt/naujiena/verslas/demesio-neveiks-dalis-registru-centro-sistemu-n1540934) some of e.systems of State Enterprise Centre of Registers are undergoing maintenance.
+``` 
+
+```
+##### R esults
+Loss of Availability.
+``` 
+
+```
+##### I ncident
+
+According these articles:
+* [-](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/susidomejo-investavimu-internete-sukciams-pervede-daugiau-nei-22-tukst-euru-59-2736448) scammers use telecommunication means, fake investment offer;
+* [-](https://alytusplius.lt/blog/2026/08/04/alytaus-rajono-savivaldybes-mere-ispeja-susikure-netikra-anketa-sukciai-jos-vardu-siuntineja-zinutes/) scammers use telecommunication means, social media scam, conduct impersonation & social engineering;
+* [-](https://www.15min.lt/verslas/naujiena/nt-ir-interjeras/sukciai-isisuko-i-bustu-nuomos-sriti-spastai-spendziami-socialiniuose-tinkluose-971-2737744) scammers use telecommunication means, social media scam, conduct impersonation & social engineering;
+* [-](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/kaktuso-pirkeju-apsimetes-sukcius-is-panevezietes-isviliojo-beveik-1000-euru-59-2695966) scammers use telecommunication means, phishing, conduct impersonation & social engineering.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According articles [-](https://madeinvilnius.lt/verslas/vilniaus-rinka/swedbank-perspeja-klientus-gali-sutrikti-dalis-banko-paslaugu/) & [-](https://www.delfi.lt/verslas/naujienos/sutriko-swedbank-programeles-veikla-120287353) there is a planned maintenance of "Swedbank" e.systems.
+``` 
+
+```
+##### R esults
+Loss of Availability.
+``` 
+
+```
+##### I ncident
+
+According these articles:
+* [ELTA](https://www.tv3.lt/naujiena/lietuva/sukciai-is-dvieju-zmoniu-ir-imones-isviliojo-beveik-25-tukst-euru-n1541745) & [-](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/08/06/news/investuoti-internetu-norejes-vilnietis-prarado-13-4-tukst-euru-43413307) scammers use telecommunication means, deploy vishing attack, foreign tongue, fake investment offer, smishing, pharming site, unauthorized access;
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-triju-zmoniu-apgaule-isviliojo-apie-156-tukst-euru/) scammers use telecommunication means, conduct impersonation & social engineering, unauthorized access, Trojan horse Software, pharming site;
+* [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/08/10/news/sukciu-atsiusta-nuoroda-paspaudes-vilnietis-neteko-13-7-tukst-euru-43474268) scammers use telecommunication means, phishing, pharming site & credential theft, unauthorized access, fake website.
 ``` 
 
 ```
