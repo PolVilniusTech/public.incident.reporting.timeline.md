@@ -663,3 +663,50 @@ Plausible loss of integrity.
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.delfi.lt/naujienos/uzsienyje/beprecedentis-incidentas-nutekejo-19-mln-lenkijos-pilieciu-duomenys-120289281) data leak in Poland, 19 million of private information was lost.
+```
+
+```
+##### R esults
+Loss of privacy.
+Loss of confidentiality.
+```
+
+```
+##### I ncident
+
+According following article [-](https://www.delfi.lt/naujienos/uzsienyje/latvijoje-pavogti-1-2-mln-asmenu-duomenys-120291726) data leak in Latvia, 1.2 million of private information & 200 thousand of company information was lost.
+```
+
+```
+##### R esults
+Loss of privacy.
+Loss of confidentiality.
+```
+
+```
+##### I ncident
+
+According following article [-](https://madeinvilnius.lt/verslas/vilniaus-rinka/swedbank-perspeja-klientus-gali-sutrikti-dalis-banko-paslaugu/) "Swedbank" gonna undergo short maintenance & update, so their systems depending by situation could not be reachable.
+```
+
+```
+##### R esults
+Loss of availability.
+```
+
+```
+##### I ncident
+
+According following article [-](https://www.tv3.lt/naujiena/uzsienis/berlynas-programisiu-kibernetine-ataka-miestui-pareiksti-reikalavimai-del-2-mln-euru-ispirkos-n1547385) e.Ransom attack in Capital of Germany.
+```
+
+```
+##### R esults
+Loss of privacy.
+Loss of confidentiality.
+```
+
+```
