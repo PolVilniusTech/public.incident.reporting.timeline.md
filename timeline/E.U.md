@@ -710,3 +710,18 @@ Loss of confidentiality.
 ```
 
 ```
+##### I ncident
+
+According following article [-]([BNS](https://www.15min.lt/verslas/naujiena/mokslas-it/tyrejai-tukstanciai-openai-di-agentu-pereme-vokietijos-interneto-svetaine-1290-2758198) OpenAI AI agentic tech used Web site from Germany as command-&-control data exchange. Robots exclusion standard might not be enforced.
+
+```
+
+```
+##### R esults
+Loss of availability.
+Loss of integrity.
+Loss of privacy.
+Loss of confidentiality.
+```
+
+```
