@@ -7291,8 +7291,8 @@ According these articles:
 * [-](https://ve.lt/kriminalai/sukciai-ir-toliau-israsineja-baudas-gavai-itartina-sms-zinute-trink) scammers use telecommunication means, smishing, fake site, pharming site, unauthorized access;
 * [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/draugo-suklaidinto-vyro-vardu-neteisetos-finansines-operacijos-59-2756728) scammers use telecommunication means, identity theft, conduct impersonation & social engineering, unauthorized agreements;
 * [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/09/04/news/sukciai-vel-pasismagino---is-gyventoju-i-savo-kisenes-susizere-284-4-tukst-euru-43862642) scammers use telecommunication means, investment scam, unlawful share of personal identity card, conduct impersonation & social engineering;
-* [ELTA](https://ve.lt/kriminalai/kaunietis-papilde-sukciu-saskaitas-is-vyro-apgaules-budu-isviliota-804-tukst-euru) & [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/09/10/news/kaune-sukciai-is-vyro-isviliojo-80-4-tukst-euru-43925532) scammers use telecommunication means, social media app, investment scam, phishing, smishing, pharming site, unauthorized access, authorized fraud.
-
+* [ELTA](https://ve.lt/kriminalai/kaunietis-papilde-sukciu-saskaitas-is-vyro-apgaules-budu-isviliota-804-tukst-euru) & [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/09/10/news/kaune-sukciai-is-vyro-isviliojo-80-4-tukst-euru-43925532) scammers use telecommunication means, social media app, investment scam, phishing, smishing, pharming site, unauthorized access, authorized fraud;
+* [-](https://sekunde.lt/paspaude-nuoroda-zinuteje-ir-neteko-beveik-10-tukst-euru/) scammers use telecommunication means, phishing, pharming site, unauthorized access.
 ``` 
 
 ```
@@ -7309,6 +7309,56 @@ Plausible loss of Availability.
 
 According [ELTA](https://madeinvilnius.lt/naujienos/lietuvos-naujienos/dar-vienas-milziniskas-duomenu-nutekejimas-lietuvoje/) leaked 158 thousand personal information units from Lithuanian conscription site.
 ``` 
+
+```
+##### R esults
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According these articles:
+* [-](https://ve.lt/kriminalai/pensininkas-prisijunge-prie-banko-internetines-svetaines-klasta-paaiskejo-tik-istirpus) scammers use telecommunication means, fake site, pharming site, unauthorized access;
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/internetineje-platformoje-investaves-kaunietis-prarado-314-tukst-euru/) investment scam.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* One of countermeasures for evading fake sites could be a simple one — it's time to learn what a specific software - web browser could offer to. Usage of shortcuts via browser for most important sites could be way better, than googling out something, or - no search engine, then no miss for what's important. Usually agreement between client & organization include something as organization's official email on it. You have to use it for the service anyway.
+``` 
+
+```
+##### I ncident
+
+According [-](https://www.lrytas.lt/it/ismanyk/2026/09/14/news/imone-pranesa-patyrusi-kibernetine-ataka-pavogta-dalis-duomenu-43985015) from TSC web site was leaked clients information, which are equal to seven percent of all clients.
+ ``` 
+
+```
+##### R esults
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According [-](https://www.15min.lt/verslas/naujiena/mokslas-it/ispeja-klientus-galejo-nuteketi-zinomos-parduotuves-pirkeju-duomenys-1290-2765522) there was unauthorized access to "Armijai ir civiliams" web system. During this access could be leaked personal information of clients of this entity.
+ ``` 
 
 ```
 ##### R esults
