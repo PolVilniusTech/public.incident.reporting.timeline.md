@@ -7245,7 +7245,54 @@ Loss of Availability.
 According these articles:
 * [ELTA](https://www.tv3.lt/naujiena/lietuva/sukciai-is-dvieju-zmoniu-ir-imones-isviliojo-beveik-25-tukst-euru-n1541745) & [-](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/08/06/news/investuoti-internetu-norejes-vilnietis-prarado-13-4-tukst-euru-43413307) scammers use telecommunication means, deploy vishing attack, foreign tongue, fake investment offer, smishing, pharming site, unauthorized access;
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-triju-zmoniu-apgaule-isviliojo-apie-156-tukst-euru/) scammers use telecommunication means, conduct impersonation & social engineering, unauthorized access, Trojan horse Software, pharming site;
-* [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/08/10/news/sukciu-atsiusta-nuoroda-paspaudes-vilnietis-neteko-13-7-tukst-euru-43474268) scammers use telecommunication means, phishing, pharming site & credential theft, unauthorized access, fake website.
+* [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/08/10/news/sukciu-atsiusta-nuoroda-paspaudes-vilnietis-neteko-13-7-tukst-euru-43474268) scammers use telecommunication means, phishing, pharming site & credential theft, unauthorized access, fake website;
+* [-](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/08/11/news/dvi-vilnietes-pinigu-neteko-internetu-prisijungusios-prie-netikros-banko-svetaines-43491048) scammers use telecommunication means, look-a-like pharming sites, unauthorized access;
+* [!](https://alytus.policija.lrv.lt/lt/naujienos/alytaus-policija-ispeja-sukciai-nesnaudzia-gyventojai-patyre-tukstantinius-nuostolius-RPVA/) scammers use telecommunication means, conduct impersonation & social engineering, smishing, pharming site, fake site, unauthorized access;
+* [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/is-klaipedietes-saskaitos-dingo-47-tukst-euru-59-2743702) scammers gain unauthorized access;
+* [ELTA](https://www.tv3.lt/naujiena/lietuva/internetineje-platformoje-investaves-gyventojas-prarado-daugiau-virs-15-tukst-euru-n1545158) scammers & investment scam.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According the article [BNS](https://www.15min.lt/verslas/naujiena/finansai/rrt-dar-vis-neveikia-72-mobiliojo-rysio-stotys-rysio-neturi-apie-12-tukst-vartotoju-662-2751484) 517 telecommunication stations was unavailable.
+``` 
+
+```
+##### R esults
+Loss of Availability.
+``` 
+
+```
+##### I ncident
+
+According the article [-](https://m.kauno.diena.lt/naujienos/kaunas/miesto-pulsas/kauno-vandenys-atnaujins-informacine-sistema-ka-svarbu-zinoti-klientams-1771830) for eight day period information system of "Kauno vandenys" gonna be under maintenance.
+``` 
+
+```
+##### R esults
+Loss of Availability.
+``` 
+
+```
+##### I ncident
+
+According these articles:
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/internetineje-platformoje-investavusi-klaipediete-prarado-20-tukst-euru/) scammers use telecommunication means, social media app, investment scam, smishing, pharming site, unauthorized access;
+* [-](https://ve.lt/kriminalai/sukciai-ir-toliau-israsineja-baudas-gavai-itartina-sms-zinute-trink) scammers use telecommunication means, smishing, fake site, pharming site, unauthorized access;
+* [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/draugo-suklaidinto-vyro-vardu-neteisetos-finansines-operacijos-59-2756728) scammers use telecommunication means, identity theft, conduct impersonation & social engineering, unauthorized agreements;
+* [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/09/04/news/sukciai-vel-pasismagino---is-gyventoju-i-savo-kisenes-susizere-284-4-tukst-euru-43862642) scammers use telecommunication means, investment scam, unlawful share of personal identity card, conduct impersonation & social engineering;
+* 
+
 ``` 
 
 ```
