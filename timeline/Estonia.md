@@ -449,5 +449,19 @@ Plausible loss of Availability
 ```
 
 ```
+### 2026
 
+##### I ncident
+
+According [-](https://www.lrytas.lt/it/ismanyk/2026/09/14/news/imone-pranesa-patyrusi-kibernetine-ataka-pavogta-dalis-duomenu-43985015) from TSC web site was leaked clients information, which are equal to seven percent of all clients.
+ ``` 
+
+```
+##### R esults
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
 ### 2026
