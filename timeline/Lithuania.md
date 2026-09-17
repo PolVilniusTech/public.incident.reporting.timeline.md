@@ -7291,7 +7291,7 @@ According these articles:
 * [-](https://ve.lt/kriminalai/sukciai-ir-toliau-israsineja-baudas-gavai-itartina-sms-zinute-trink) scammers use telecommunication means, smishing, fake site, pharming site, unauthorized access;
 * [BNS](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/draugo-suklaidinto-vyro-vardu-neteisetos-finansines-operacijos-59-2756728) scammers use telecommunication means, identity theft, conduct impersonation & social engineering, unauthorized agreements;
 * [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/09/04/news/sukciai-vel-pasismagino---is-gyventoju-i-savo-kisenes-susizere-284-4-tukst-euru-43862642) scammers use telecommunication means, investment scam, unlawful share of personal identity card, conduct impersonation & social engineering;
-* 
+* [ELTA](https://ve.lt/kriminalai/kaunietis-papilde-sukciu-saskaitas-is-vyro-apgaules-budu-isviliota-804-tukst-euru) & [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/09/10/news/kaune-sukciai-is-vyro-isviliojo-80-4-tukst-euru-43925532) scammers use telecommunication means, social media app, investment scam, phishing, smishing, pharming site, unauthorized access, authorized fraud.
 
 ``` 
 
@@ -7302,6 +7302,19 @@ Plausible loss of Privacy.
 Plausible loss of Confidentiality.
 Plausible loss of Integrity.
 Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According [ELTA](https://madeinvilnius.lt/naujienos/lietuvos-naujienos/dar-vienas-milziniskas-duomenu-nutekejimas-lietuvoje/) leaked 158 thousand personal information units from Lithuanian conscription site.
+``` 
+
+```
+##### R esults
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
 ```
 
 ```
