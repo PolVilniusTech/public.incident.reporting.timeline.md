@@ -712,13 +712,25 @@ Loss of confidentiality.
 ```
 ##### I ncident
 
-According following article [BNS](https://www.15min.lt/verslas/naujiena/mokslas-it/tyrejai-tukstanciai-openai-di-agentu-pereme-vokietijos-interneto-svetaine-1290-2758198) OpenAI AI agentic tech used Web site from Germany as command-&-control data exchange. Robots exclusion standard might not be enforced.
+According following article [-](https://www.15min.lt/verslas/naujiena/mokslas-it/tyrejai-tukstanciai-openai-di-agentu-pereme-vokietijos-interneto-svetaine-1290-2758198) OpenAI AI agentic tech used Web site from Germany as command-&-control data exchange. Robots exclusion standard might not be enforced.
 
 ```
 
 ```
 ##### R esults
-Loss of availability.
+Loss of integrity.
+Loss of privacy.
+Loss of confidentiality.
+```
+
+```
+##### I ncident
+
+According following articles [-](https://www.delfi.lt/mokslas/technologijos/revolut-sukciams-atskleide-klientu-asmeninius-duomenis-120303621) & [-](https://www.15min.lt/verslas/naujiena/bendroves/paaiskejo-kiek-revolut-klientu-europoje-nukentejo-del-duomenu-saugumo-pazeidimo-663-2765256) circumstances of "Revolut" financial organization lead into loss of personal information of their 700 clients.
+```
+
+```
+##### R esults
 Loss of integrity.
 Loss of privacy.
 Loss of confidentiality.
