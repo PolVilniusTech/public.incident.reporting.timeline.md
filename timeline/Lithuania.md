@@ -7368,3 +7368,73 @@ Plausible loss of Integrity.
 ```
 
 ```
+##### I ncident
+
+According this article [-](https://ve.lt/kriminalai/imone-patikejo-suklastota-saskaita-sukciai-nuskausmino-ir-asociacija) scammers using telecommunication means deployed spear phishing.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According these articles [-](https://www.lrt.lt/naujienos/lietuvoje/2/3063327/pries-vrm-informacine-sistema-ivykdyta-hibridine-kibernetine-ataka) & [-](https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/09/25/news/pries-vrm-informacine-sistema-ivykdyta-hibridine-kibernetine-ataka-44160455) attack against a system of Lithuania’s Interior Ministry, unauthorized access, affected data of local & foreign citizens.
+``` 
+
+```
+##### R esults
+Loss of Privacy.
+Loss of Confidentiality.
+```
+
+```
+##### I ncident
+
+According the article [Lrt.lt](https://www.lrt.lt/naujienos/eismas/7/3069058/vilniaus-viesajame-transporte-buvo-sutrikes-dalies-bilietu-skaitytuvu-veikimas) validators of public transport got interruptions in their operations.
+``` 
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### I ncident
+
+According the article [Lrt.lt](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3070307/is-viesbucio-holiday-inn-pavogti-ir-nesumokejus-ispirkos-paviesinti-500-klientu-duomenys) plausible ransomware attack where in process was lost employees & clients information of the company "Holiday Inn".
+``` 
+
+```
+##### R esults
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+```
+
+```
+##### I ncident
+
+According these articles:
+* [-](https://alytusplius.lt/blog/2026/09/25/sukciai-is-moters-isviliojo-daugiau-kaip-35-tukstancius-euru/) scammers use telecommunication means, investment scam, vishing attack, foreign tongue;
+* [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-zmoniu-isviliojo-daugiau-nei-225-tukst-euru---itikino-investuoti-ejo-i-namus-ir-melavo-apie-avarijas/) scammers use telecommunication means, social media app, investment scam, vishing attack, foreign tongue, conduct impersonation & social engineering, unauthorized access, fake service;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3064015/vilniuje-sukciai-is-moters-apgaule-isviliojo-15-6-tukst-euru) scammers use telecommunication means, investment scam, vishing attack, foreign tongue;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3067145/telsiu-ir-taurages-apskrityse-sukciai-is-zmoniu-isviliojo-apie-5-5-tukst-euru) scammers use telecommunication means, fake agreement, pharming site, unauthorized access;
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3071020/sukciai-is-traku-rajono-imones-isviliojo-daugiau-nei-54-tukst-euru) scammers using telecommunication means deployed spear phishing.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
