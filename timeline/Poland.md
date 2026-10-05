@@ -348,3 +348,27 @@ Informational.
 ```
 
 ```
+##### I ncident
+
+According this Article [BNS](https://www.15min.lt/naujiena/aktualu/pasaulis/lenkijoje-kibernetine-ataka-pries-sveikatos-sistemos-platforma-57-2771658) the Polish Health Platform was breached by cyberattack. During this attack there was leaked contact information & unique personal identification numbers. 
+```
+
+```
+##### R esults
+Loss of Confidentiality.
+Loss of Privacy.
+```
+
+```
+##### I ncident
+
+According this Article [-](https://www.delfi.lt/verslas/naujienos/lenkijos-kelioniu-svetaine-tapo-kibernetines-atakos-auka-nutekejo-klientu-duomenys-120313748) Polish Travel Company "Wakacje.pl" was breached by cyberattack. During this attack there was leaked private information of Company's clients: first names, birthdays, phone numbers, home addresses, e-mail addresses, information of passports.
+```
+
+```
+##### R esults
+Loss of Confidentiality.
+Loss of Privacy.
+```
+
+```
