@@ -394,3 +394,25 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According Article [-](https://ve.lt/aktualijos/lietuva/lrtk-uzblokuos-12-svetainiu-transliuojanciu-sankcionuota-sputnik-programa) exists white noise measure against Russian Radio "Sputnik". There was blocked number of websites, that are related to operations of "Sputnik" in the Lithuania.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### I ncident
+
+According Article [-](https://www.15min.lt/naujiena/aktualu/pasaulis/rusijos-rinkimu-infrastruktura-uzgriuvo-masines-kibernetines-atakos-57-2767722) the official polling system are getting DDoS attacks.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
