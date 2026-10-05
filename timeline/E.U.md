@@ -737,3 +737,29 @@ Loss of confidentiality.
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3057020/google-di-modelis-gemini-vykde-kibernetines-atakas-atspejo-slaptazodzius) few systems was breached by "Gemini" w/o system's consent.
+```
+
+```
+##### R esults
+Loss of integrity.
+Loss of privacy.
+Loss of confidentiality.
+```
+
+```
+##### I ncident
+
+According following article [-](https://www.15min.lt/verslas/naujiena/mokslas-it/openai-teigia-kad-jos-di-agentai-per-klaida-internete-paskelbe-vartotoju-nuotraukas-1290-2772710) unknown private pictures, that was uploaded by clients of "ChatGPT" was leaked by AI.
+```
+
+```
+##### R esults
+Loss of integrity.
+Loss of privacy.
+Loss of confidentiality.
+```
+
+```
