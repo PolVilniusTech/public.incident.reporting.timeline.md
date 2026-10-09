@@ -3682,7 +3682,7 @@ Clients lost Availability to the Service.
 ##### L earning from Mistakes
 
 From such incidents there are possible to learn a lot. I.e.:
-* Exists plausibility to purchase Phone with multiple SIM slots. In this case Client has a chance to select more than one Telecommunication company as provider of Telecommunication Services. 
+* Exists plausibility to purchase Phone with multiple SIM slots. These Users gonna have a chance to select more than one Telecommunication company as desired provider of Telecommunication Services. 
 ```
 
 ```
