@@ -7425,7 +7425,8 @@ According these articles:
 * [ELTA](https://www.respublika.lt/lt/naujienos/lietuva/nusikaltimai_ir_nelaimes/sukciai-is-zmoniu-isviliojo-daugiau-nei-225-tukst-euru---itikino-investuoti-ejo-i-namus-ir-melavo-apie-avarijas/) scammers use telecommunication means, social media app, investment scam, vishing attack, foreign tongue, conduct impersonation & social engineering, unauthorized access, fake service;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3064015/vilniuje-sukciai-is-moters-apgaule-isviliojo-15-6-tukst-euru) scammers use telecommunication means, investment scam, vishing attack, foreign tongue;
 * [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3067145/telsiu-ir-taurages-apskrityse-sukciai-is-zmoniu-isviliojo-apie-5-5-tukst-euru) scammers use telecommunication means, fake agreement, pharming site, unauthorized access;
-* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3071020/sukciai-is-traku-rajono-imones-isviliojo-daugiau-nei-54-tukst-euru) scammers using telecommunication means deployed spear phishing.
+* [ELTA](https://www.lrt.lt/naujienos/lietuvoje/2/3071020/sukciai-is-traku-rajono-imones-isviliojo-daugiau-nei-54-tukst-euru) scammers using telecommunication means deployed spear phishing;
+* [-](https://ve.lt/kriminalai/patikejo-kad-zinutes-atsiustos-is-epolicijos-imoniu-saskaitos-liko-tuscios) scammers use telecommunication means, pretending themselves as "ePolice" by using fake website, unauthorized access, smishing, credentials grabbing.
 ``` 
 
 ```
@@ -7435,6 +7436,18 @@ Plausible loss of Privacy.
 Plausible loss of Confidentiality.
 Plausible loss of Integrity.
 Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According the Article [BNS](https://www.lrt.lt/naujienos/verslas/4/3073230/telia-pasalino-sutrikimus-skambuciai-ir-trumpieji-numeriai-vel-veikia-atnaujintas) telecom company "Telia" had issues with their phone network for up to 4 hours.
+``` 
+
+```
+##### R esults
+
+Loss of Availability.
 ```
 
 ```
