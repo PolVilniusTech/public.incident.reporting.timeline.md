@@ -372,3 +372,14 @@ Hardware availability persist.
 ```
 
 ```
+##### I ncident
+
+The Article [-](https://www.lrt.lt/naujienos/pasaulyje/6/3076263/lenkijos-oro-erdve-pazeidusiuose-rusijos-dronuose-prokurorai-rado-lenkisku-sim-korteliu) include idea about Polish SIM cards, that was been used against Polish soil.
+```
+
+```
+##### R esults
+Assets of Telecommunication companies are used far more than scamming. Telecommunication companies lack of control in Terms of Use of their Goods while cost of SIMs are cheap, e.g. Lithuanian scenario SIM card take up between 1 and 5.5 EUR.
+```
+
+```
