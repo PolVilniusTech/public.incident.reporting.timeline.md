@@ -763,3 +763,16 @@ Loss of confidentiality.
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.tv3.lt/naujiena/uzsienis/kibernetine-ataka-danijoje-programisiai-pavoge-8-8-mln-zmoniu-duomenis-n1556913) National Authority of Registrar of Denmark was breached. Leaked information include 8.8 mln. records of people: first name, last name, home address, unique personal identification number of the Country.
+```
+
+```
+##### R esults
+Loss of integrity.
+Loss of privacy.
+Loss of confidentiality.
+```
+
+```
