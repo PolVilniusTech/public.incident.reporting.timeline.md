@@ -776,3 +776,21 @@ Loss of confidentiality.
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.lrt.lt/naujienos/verslas/4/3081390/kibernetine-ataka-prancuzijoje-programisiai-nulauze-saldytuvus-maistas-sugedo-per-nakti) single SCADA system of France got hacked. Issues with "Danfoss" Software, that was available over Internet.
+```
+
+```
+##### R esults
+Loss of operations.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* SCADA systems, that are connected to the Internet must meet higher security requirements. Specialists must be aware of plausible Internet-ready configuration by default, which are not best practice for security, but plausible choice of higher availability.
+```
+
+```
