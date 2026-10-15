@@ -7451,3 +7451,33 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According these articles:
+* [-](https://alytusplius.lt/blog/2026/10/09/sukciai-is-alytiskio-isviliojo-daugiau-kaip-16-tukstanciu-euru/) scammers use telecommunication means, smishing, social engineering & impersonation, credential leak & unauthorized access;
+* [-](https://ve.lt/kriminalai/sukciai-istrauke-laiminga-bilieta-is-banko-saskaitu-sluoja-imoniu-pinigus) scammers use telecommunication means, smishing, social engineering & impersonation, credential leak & unauthorized access;
+* [BNS](https://www.lrt.lt/naujienos/lietuvoje/2/3078078/uz-du-automobilius-pervede-beveik-200-tukst-euru-bet-liko-ir-be-pinigu-ir-be-masinu) scammers use telecommunication means, crypto scam.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According the Article [ELTA](https://www.lrytas.lt/gamta/gamtaorai/2026/10/10/news/po-neramaus-penktadienio-naujausia-tarnybu-zinia-elektros-neturi-keli-tukstanciai-vartotoju-44413239) small amount of clients does not have electricity.
+``` 
+
+```
+##### R esults
+
+Loss of Availability.
+```
+
+```
