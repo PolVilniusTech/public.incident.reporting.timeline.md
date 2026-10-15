@@ -416,3 +416,14 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According Article [-](https://www.lrt.lt/naujienos/lietuvoje/2/3080363/smugiai-yandex-centrams-rusijoje-sutriko-paslaugos-bet-lietuvoje-botu-nesumazejo) "Yandex" services does not operate as usual & their clients got issues using their services.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
