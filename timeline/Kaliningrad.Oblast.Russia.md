@@ -427,3 +427,14 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According Article [-](https://www.delfi.lt/m360/naujausi-straipsniai/lrtk-blokuos-7-domenus-per-kuriuos-transliuoti-sankcionuoti-rusijos-tv-kanalai-120322974) re-translation of sanctioned Russian content for Lithuanian audience was stopped.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
