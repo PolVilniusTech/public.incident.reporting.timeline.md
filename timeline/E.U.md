@@ -794,3 +794,47 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.delfi.lt/verslas/naujienos/sutriko-revolut-veikla-120321673) "Revolut" Software got interruptions in their operations, "Google Cloud" services got interruptions in their operations.
+```
+
+```
+##### R esults
+Loss of availability.
+```
+
+```
+##### I ncident
+
+According following article [-](https://www.15min.lt/verslas/naujiena/mokslas-it/kibernetinio-saugumo-centro-vadovas-1290-2790424) PHP pre-processor has critical issues, so most of websites could be affected around the globe. up to 90 percent of Web sites of Lithuania could be vulnerable.
+```
+
+```
+##### R esults
+Loss of operations.
+Plausible loss of Integrity.
+Plausible loss of Confidentiality.
+Plausible loss of Availability.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* Exists number or pre-processors, that could be used for the web, but hosting companies provide scarce support for other reliable pre-processors. It results as there is a monopoly of web technology, e.g. for small — medium enterprises.
+```
+
+```
+##### I ncident
+
+According the following article [ELTA](https://www.delfi.lt/mokslas/mokslas/openai-di-agentai-patys-isjunge-veikla-stebincias-saugumo-sistemas-120322730) Artificial Intelligence has rights to control security posture of organization(s).
+```
+
+```
+##### R esults
+Plausible loss of operations.
+Plausible loss of integrity.
+```
+
+```
