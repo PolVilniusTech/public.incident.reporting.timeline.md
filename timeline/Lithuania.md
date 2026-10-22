@@ -7481,3 +7481,88 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According the article [-](https://ve.lt/kriminalai/kriminaliniu-ivykiu-suvestine-sukciai-isviliojo-tukstancius-tiriamos-mirties-aplinkybes) scammers use telecommunication means, deploy fake investment platform.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According the article [-](https://www.lrt.lt/naujienos/verslas/4/3087146/pirmadieni-buvo-sutrikusi-vmi-interneto-svetaines-veikla) the System of State Tax Inspectorate has interruptions in their operations.
+``` 
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### I ncident
+
+According the article [-](https://www.lrt.lt/naujienos/svietimas/45/3087514/nsa-skelbia-apie-galima-asmens-duomenu-pazeidima-egzaminu-svetaineje) the site of National Agency for Education was closed after notice, that authenticated users could find out too big amount of information about other users as following: first name, last name, personal identification code, mobile phone number, email address, home address, other information & file uploads.
+```
+
+```
+##### R esults
+Loss of Availability.
+Loss of Confidentiality.
+Loss of Privacy.
+```
+
+```
+##### I ncident
+
+According these articles:
+* [-](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/pakruojiete-uz-bilietus-i-koncerta-sumokejo-160-euru-taciau-ju-negavo-59-2788368) scammers use telecommunication means, social media, fake ads;
+* [ELTA](https://www.tv3.lt/naujiena/lietuva/sukciai-is-salies-gyventoju-isviliojo-apie-26-5-tukst-euru-n1561182) & [-](https://ve.lt/kriminalai/suklastotu-internetiniu-svetainiu-spastai-neteko-simtu-euru) scammers use telecommunication means, social media, pharming sites, fake sites, fake ads, identity authentication software, loss of credentials, unauthorized access, smishing.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According these articles [ELTA](https://www.lrytas.lt/verslas/rinkos-pulsas/2026/10/21/news/reaguojant-i-ispejimus-registru-centras-laikinai-isjunge-dali-paslaugu-44563497) & [-](https://www.15min.lt/verslas/naujiena/mokslas-it/kibernetinio-saugumo-centro-vadovas-1290-2790424) the State Enterprise Centre of Registers have been closed their online services & yet, no notification about it in their site's English version [-](https://www.registrucentras.lt/en).
+``` 
+
+```
+##### R esults
+Loss of Availability.
+``` 
+
+```
+##### I ncident
+
+According these articles:
+* [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/10/22/news/sukciai-is-siaulietes-isviliojo-apie-90-tukst-euru-44568706) scammers use telecommunication means, investment scam, fake site, pharming site, loss of credentials, unauthorized access;
+* [-](https://www.lrytas.lt/verslas/mano-pinigai/2026/10/20/news/-sodra-skubiai-kreipesi-i-gyventojus-nedarykite-to-44538583) scammers use telecommunication means, social engineering, vishing attack;
+* [-](https://www.delfi.lt/verslas/mano-eurai/sukciai-siaucia-toliau-sodra-vel-ispeja-gyventojus-120323111) scammers use telecommunication means, smishing, fake sites.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
