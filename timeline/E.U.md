@@ -796,7 +796,7 @@ From such incidents there are possible to learn a lot. I.e.:
 ```
 ##### I ncident
 
-According following article [-](https://www.delfi.lt/verslas/naujienos/sutriko-revolut-veikla-120321673) "Revolut" Software got interruptions in their operations, "Google Cloud" services got interruptions in their operations.
+According following articles [-](https://www.15min.lt/verslas/naujiena/finansai/sutrikus-mokejimams-visoje-europoje-lietuvos-bankas-ispeja-pasirupinkite-tuo-is-anksto-662-2791264), [-](https://www.delfi.lt/verslas/naujienos/sutriko-revolut-veikla-120321673), [-](https://www.15min.lt/verslas/naujiena/finansai/vel-sutriko-revolut-banko-veikla-662-2794712) "Revolut" Software got interruptions in their operations, data center's uses make issues for financial tech, "Google Cloud" services got interruptions in their operations.
 ```
 
 ```
@@ -835,6 +835,19 @@ According the following article [ELTA](https://www.delfi.lt/mokslas/mokslas/open
 ##### R esults
 Plausible loss of operations.
 Plausible loss of integrity.
+```
+
+```
+##### I ncident
+
+According the following article [ELTA](https://www.lrt.lt/naujienos/verslas/4/3098047/binance-patvirtino-kad-pries-ja-ivykdyta-6-3-mlrd-doleriu-vertes-kibernetine-ataka) crypto company "Binance" freezed their crypto assets after cyberattack on their infrastructure, that resulted in loss of crypto assets. Extra information about "Bybit" platform's loss of crypto assets. 
+```
+
+```
+##### R esults
+Plausible loss of Integrity.
+Plausible loss of Confidentiality.
+Plausible loss of Availability.
 ```
 
 ```
