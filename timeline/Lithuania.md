@@ -7539,7 +7539,7 @@ Plausible loss of Availability.
 ```
 ##### I ncident
 
-According these articles [ELTA](https://www.lrytas.lt/verslas/rinkos-pulsas/2026/10/21/news/reaguojant-i-ispejimus-registru-centras-laikinai-isjunge-dali-paslaugu-44563497) & [-](https://www.15min.lt/verslas/naujiena/mokslas-it/kibernetinio-saugumo-centro-vadovas-1290-2790424) the State Enterprise Centre of Registers have been closed their online services & yet, no notification about it in their site's English version [-](https://www.registrucentras.lt/en).
+According these articles [ELTA](https://www.lrytas.lt/verslas/rinkos-pulsas/2026/10/21/news/reaguojant-i-ispejimus-registru-centras-laikinai-isjunge-dali-paslaugu-44563497) & [-](https://www.15min.lt/verslas/naujiena/mokslas-it/kibernetinio-saugumo-centro-vadovas-1290-2790424) the State Enterprise Centre of Registers have been closed their online services & yet, no notification about it in their site's English version [-](https://www.registrucentras.lt/en). Final response regarding availability of their services [BNS](https://www.lrt.lt/naujienos/verslas/4/3095087/registru-centras-pranese-atkures-visas-paslaugas).
 ``` 
 
 ```
@@ -7554,6 +7554,37 @@ According these articles:
 * [ELTA](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/10/22/news/sukciai-is-siaulietes-isviliojo-apie-90-tukst-euru-44568706) scammers use telecommunication means, investment scam, fake site, pharming site, loss of credentials, unauthorized access;
 * [-](https://www.lrytas.lt/verslas/mano-pinigai/2026/10/20/news/-sodra-skubiai-kreipesi-i-gyventojus-nedarykite-to-44538583) scammers use telecommunication means, social engineering, vishing attack;
 * [-](https://www.delfi.lt/verslas/mano-eurai/sukciai-siaucia-toliau-sodra-vel-ispeja-gyventojus-120323111) scammers use telecommunication means, smishing, fake sites.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According the article [ELTA](https://www.delfi.lt/verslas/naujienos/kibernetine-ataka-patyres-nuotykiu-parkas-ispejo-lankytojus-galejo-nuteketi-korteliu-duomenys-120323317) "DeadTown"'s  website got malicious unauthorized add-on, that could affect its clients & endanger their private information, financial assets. 
+``` 
+
+```
+##### R esults
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+```
+
+```
+##### I ncident
+
+According these articles:
+* [-](https://ve.lt/kriminalai/du-paspaude-atsiustas-nuorodos-vienas-pasitikejo-pardaveju-apgavo-visus-tris) scammers use telecommunication means, social engineering & impersonation, fake ads, smishing, pharming site, unauthorized access;
+* [-](https://www.lrt.lt/naujienos/lietuvoje/2/3091039/sukciai-itikino-investuoti-is-gyventoju-isviliota-daugiau-nei-124-tukst-euru) scammers use telecommunication means, social media software app, social engineering & impersonation, smishing, pharming site, unauthorized access, vishing attack, investment scam;
+* [-](https://www.lrt.lt/naujienos/lietuvoje/2/3096044/sukciu-apgautos-vilniete-ir-jurbarkiete-neteko-beveik-33-tukst-euru) scammers use telecommunication means, social media software app, fake site, pharming site, unauthorized access, vishing attack, investment scam.
 ``` 
 
 ```
