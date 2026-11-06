@@ -7584,7 +7584,11 @@ Plausible loss of Integrity.
 According these articles:
 * [-](https://ve.lt/kriminalai/du-paspaude-atsiustas-nuorodos-vienas-pasitikejo-pardaveju-apgavo-visus-tris) scammers use telecommunication means, social engineering & impersonation, fake ads, smishing, pharming site, unauthorized access;
 * [-](https://www.lrt.lt/naujienos/lietuvoje/2/3091039/sukciai-itikino-investuoti-is-gyventoju-isviliota-daugiau-nei-124-tukst-euru) scammers use telecommunication means, social media software app, social engineering & impersonation, smishing, pharming site, unauthorized access, vishing attack, investment scam;
-* [-](https://www.lrt.lt/naujienos/lietuvoje/2/3096044/sukciu-apgautos-vilniete-ir-jurbarkiete-neteko-beveik-33-tukst-euru) scammers use telecommunication means, social media software app, fake site, pharming site, unauthorized access, vishing attack, investment scam.
+* [-](https://www.lrt.lt/naujienos/lietuvoje/2/3096044/sukciu-apgautos-vilniete-ir-jurbarkiete-neteko-beveik-33-tukst-euru) scammers use telecommunication means, social media software app, fake site, pharming site, unauthorized access, vishing attack, investment scam;
+* [-](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/vilniete-investavimo-platformoje-prarado-apie-20-tukst-euru-59-2796532) scammers use telecommunication means, investment scam;
+* [-](https://alytusplius.lt/blog/2026/11/04/jungdamasis-prie-interneto-banko-vyras-neteko-beveik-7-tukst-euru/) scammers use telecommunication means, fake site, pharming site, unauthorized access;
+* [-](https://sodra.lt/naujienos/sukciai-tobulina-metodus-siuncia-laiskus-sodros-vardu-ragindami-patvirtinti-tapatybe) scammers use telecommunication means, social engineering & impersonation;
+* [-](https://ve.lt/kriminalai/sukciai-siaucia-nestabdydami-pinigu-apgavikams-negaili-nei-moterys-nei-vyrai) scammers use telecommunication means, fake site(s), pharming site, unauthorized access. 
 ``` 
 
 ```
@@ -7594,6 +7598,28 @@ Plausible loss of Privacy.
 Plausible loss of Confidentiality.
 Plausible loss of Integrity.
 Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According the article [BNS](https://www.lrt.lt/naujienos/verslas/4/3105176/lb-uzblokuotos-27-svetaines-neteisetai-siuliusios-kriptovaliutu-paslaugas) businesses lose their access to market, because of not having proper licensing of their crypto services.
+``` 
+
+```
+##### R esults
+Informational
+```
+
+```
+##### I ncident
+
+According the article [-](https://www.delfi.lt/verslas/naujienos/del-sistemu-atnaujinimo-darbu-neveiks-dalis-vmi-paslaugu-120329438) some systems of State Tax Inspectorate for full month gonna be under maintenance and (or) unavailable.
+``` 
+
+```
+##### R esults
+Loss of Availability
 ```
 
 ```
