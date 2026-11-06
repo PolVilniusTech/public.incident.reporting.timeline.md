@@ -438,3 +438,27 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According Article [-](https://www.delfi.lt/naujienos/uzsienyje/kaliningrado-srityje-sutriko-elektros-tiekimas-ufoje-pranesama-apie-sprogimus-120327515) there are electricity losses in the perimeter.
+```
+
+```
+##### R esults
+Loss of Availability.
+```
+
+```
+##### I ncident
+
+According Articles [-](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3101008/rusija-ir-ukraina-patyre-kibernetines-atakas) & [-](https://www.15min.lt/naujiena/aktualu/pasaulis/pasibaigus-paliauboms-rusija-ir-ukraina-supurte-kibernetines-atakos-57-2797144) there was huge cyber-attack in an Infrastructure, that control Software Application for response against disaster(s) & false information was left after it's breach.
+```
+
+```
+##### R esults
+Loss of Confidentiality.
+Loss of Integrity.
+Loss of Availability.
+```
+
+```
