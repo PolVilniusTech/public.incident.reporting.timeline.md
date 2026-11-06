@@ -851,3 +851,48 @@ Plausible loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According the following article [ELTA](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3101117/kibernetiniai-nusikalteliai-nusitaike-i-prekybos-centru-saldytuvus-belgijoje-ir-svedijoje) SCADA systems of Sweden & Belgium got hacked. 
+```
+
+```
+##### R esults
+Loss of operations.
+```
+
+```
+##### I ncident
+
+According the following article [-](https://www.alfa.lt/verslas/technologijos/mirties-sms-ataka-pries-android-viena-nematoma-zinute-gali-visiskai-blokuoti-siuos-ismaniuosius-telefonus/415571/) Android operating system of mobile phones got zero-click attack vector, that is related to text messages from Short Message Service.
+```
+
+```
+##### R esults
+Informational.
+```
+
+```
+##### I ncident
+
+According the following article [-](https://www.delfi.lt/naujienos/uzsienyje/lenkijoje-kibernetine-ataka-isilauze-i-saldymo-irangos-sistemas-120329004) SCADA systems of Poland got hacked. 
+```
+
+```
+##### R esults
+Loss of operations.
+```
+
+```
+##### I ncident
+
+According following articles [ELTA](https://www.lrt.lt/naujienos/verslas/4/3105156/prancuzijos-bankas-pranese-apie-kibernetine-ataka-per-kuria-pavogta-apie-100-mln-euru) & [ELTA](https://www.respublika.lt/lt/naujienos/pasaulis/kitos_pasaulio_naujienos/kibernetine-ataka-pries-banka-pavogta-apie-100-mln-euru) Financial Bank Company "Crédit Mutuel Arkéa" got cyber-attack on their own automated Infrastructure, that control their own Web Bank Account. 
+```
+
+```
+##### R esults
+Loss of integrity.
+Loss of confidentiality.
+```
+
+```
