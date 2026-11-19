@@ -7623,3 +7623,62 @@ Loss of Availability
 ```
 
 ```
+##### I ncident
+
+According these articles:
+* [-](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/11/07/news/neitiketina-sukciu-sekme-kaunietis-jiems-atidave-217-tukst-euru-44824787) scammers use telecommunication means, investment scam (crypto);
+* [-](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/11/08/news/prie-fiktyvios-interneto-svetaines-prisijunges-palangos-gyventojas-prarado-8-tukst-euru-44833861) scammers use telecommunication means, social engineering & impersonation, fake site, credentials pharming;
+* [-](https://sekunde.lt/sukciai-slave-panevezieciu-saskaitas/) scammers use telecommunication means, social engineering & impersonation, fake site(s), credentials pharming, unauthorized access, smishing;
+* [-](https://www.delfi.lt/naujienos/kriminalai/bande-prisijungti-prie-netikros-regitros-svetaines-vilnieciai-prarado-17-tukst-euru-120332229) scammers use telecommunication means, social engineering & impersonation, fake site, plausible look-a-like site of "Regitra", credentials pharming, unauthorized access;
+* [-](https://alytus.policija.lrv.lt/lt/naujienos/sukciai-atranda-nauju-budu-alytuje-uzfiksuotas-sukciavimas-pasitelkiant-qr-kodus-QChy/) scammers use qr codes, that link to fake site(s) for credentials pharming, unauthorized access;
+* [-](https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/11/13/news/sukciai-varenos-gyventojui-taip-susuko-galva-kad-atiduoti-50-tukst-euru-jis-vaziavo-net-i-varsuva-44909565) scammers use telecommunication means, social engineering & impersonation;
+* [ELTA](https://www.delfi.lt/verslas/naujienos/rc-ispeja-apie-apgaulingas-zinutes-siunciamas-prisidengiant-esveikatos-vardu-120333601) scammers use telecommunication means, smishing, plausible look-a-like site of "e.sveikata", credentials pharming, unauthorized access;
+* [ELTA](https://muge.eu/sukciai-apsimete-regitra-is-vyro-isviliojo-41-tukst-euru/) scammers use telecommunication means, social engineering & impersonation, smishing, scam using search engine by getting better evaluation than official entities, fake site, plausible look-a-like site of "Regitra", credentials pharming, unauthorized access.
+``` 
+
+```
+##### R esults
+Plausible loss of Money.
+Plausible loss of Privacy.
+Plausible loss of Confidentiality.
+Plausible loss of Integrity.
+Plausible loss of Availability.
+```
+
+```
+##### I ncident
+
+According the article [-](https://muitine.lrv.lt/lt/naujienos/tiriant-kibernetini-incidenta-muitineje-nustatytas-galimas-asmens-duomenu-saugumo-pazeidimas-dOy/) plausible manipulation of information, its leak of Customs Services Portal BAP, plausible phishing using its data.
+``` 
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+Plausible loss of Integrity
+```
+
+```
+##### I ncident
+
+According the article [-](https://kaunas.kasvyksta.lt/miestas/tai-gali-kartotis-kauno-savivaldybeje-atskleistas-neteisetas-asmens-duomenu-tikrinimo-atvejis) Municipality of Kaunas got malicious employee. This employee collected sensitive information for undisclosed purpose.
+``` 
+
+```
+##### R esults
+Plausible loss of Confidentiality
+Plausible loss of Privacy
+```
+
+```
+##### I ncident
+
+According the articles [-](https://www.delfi.lt/verslas/energetika/dalis-kaunieciu-liko-be-elektros-120331212) & [-](https://www.lrytas.lt/verslas/rinkos-pulsas/2026/11/17/news/dalyje-kauno-dingo-elektra-44949675) loss of electricity in Kaunas, that happened between two weeks. 
+``` 
+
+```
+##### R esults
+Loss of Availability
+```
+
+```
