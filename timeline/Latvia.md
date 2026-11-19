@@ -370,3 +370,29 @@ Loss of Availability.
 ```
 
 ```
+##### I ncident
+
+According following article [-](https://www.delfi.lt/mokslas/mokslas/kibernetines-atakos-metu-nutekinta-125-mln-zinuciu-tarp-auku-dideles-lietuvos-imones-120332414) data leak in the Telecom company "CSCTelecom", lost 125 million of messages of Short Message Service.
+```
+
+```
+##### R esults
+Loss of integrity.
+Loss of confidentiality.
+Loss of privacy.
+```
+
+```
+##### I ncident
+
+According following article [-](https://www.15min.lt/verslas/naujiena/transportas/air-baltic-isorinio-it-tiekejo-sistemose-618-tukst-keleiviu-duomenu-nutekejimas-667-2806460) external system(s) of "airBaltic" got unauthorized access to 618 thousand of requests. Affected information include: first name, last name & request number & non-sensitive information of clients.
+
+```
+
+```
+##### R esults
+Loss of integrity.
+Loss of privacy.
+```
+
+```
