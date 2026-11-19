@@ -778,7 +778,7 @@ Loss of confidentiality.
 ```
 ##### I ncident
 
-According following article [-](https://www.lrt.lt/naujienos/verslas/4/3081390/kibernetine-ataka-prancuzijoje-programisiai-nulauze-saldytuvus-maistas-sugedo-per-nakti) single SCADA system of France got hacked. Issues with "Danfoss" Software, that was available over Internet.
+According following article [-](https://www.lrt.lt/naujienos/verslas/4/3081390/kibernetine-ataka-prancuzijoje-programisiai-nulauze-saldytuvus-maistas-sugedo-per-nakti) single SCADA system of France got hacked. Issues with "Danfoss" Software, that was available over Internet. More: [-](https://www.delfi.lt/naujienos/uzsienyje/prancuzija-apkaltino-irana-surengus-precedento-neturincia-kibernetine-ataka-120331426).
 ```
 
 ```
@@ -840,7 +840,7 @@ Plausible loss of integrity.
 ```
 ##### I ncident
 
-According the following article [ELTA](https://www.lrt.lt/naujienos/verslas/4/3098047/binance-patvirtino-kad-pries-ja-ivykdyta-6-3-mlrd-doleriu-vertes-kibernetine-ataka) crypto company "Binance" freezed their crypto assets after cyberattack on their infrastructure, that resulted in loss of crypto assets. Extra information about "Bybit" platform's loss of crypto assets. 
+According the following article [ELTA](https://www.lrt.lt/naujienos/verslas/4/3098047/binance-patvirtino-kad-pries-ja-ivykdyta-6-3-mlrd-doleriu-vertes-kibernetine-ataka) crypto company "Binance" freezed their crypto assets after cyberattack on their infrastructure, that resulted in loss of crypto assets. Extra information about "Bybit" platform's loss of crypto assets. More: [ELTA](https://www.delfi.lt/verslas/naujienos/jav-arestavo-is-binance-pavogtos-kriptovaliutos-uz-1-2-mlrd-doleriu-120333727).
 ```
 
 ```
@@ -893,6 +893,65 @@ According following articles [ELTA](https://www.lrt.lt/naujienos/verslas/4/31051
 ##### R esults
 Loss of integrity.
 Loss of confidentiality.
+```
+
+```
+##### I ncident
+
+According following article [-](https://www.delfi.lt/mokslas/mokslas/kibernetines-atakos-metu-nutekinta-125-mln-zinuciu-tarp-auku-dideles-lietuvos-imones-120332414) data leak in Telecom company, lost 125 million of messages of Short Message Service.
+```
+
+```
+##### R esults
+Loss of integrity.
+Loss of confidentiality.
+Loss of privacy.
+```
+
+```
+##### I ncident
+
+According following article [-](https://www.delfi.lt/mokslas/mokslas/naudojates-chatgpt-zmones-iki-siol-ne-neitare-ka-slapta-daro-bendrove-120332019) ChatGPT builds personalized content about its users. Communication of Terms of Service, Working Controls & Preferences for users could be unavailable.
+```
+
+```
+##### R esults
+Loss of integrity.
+Loss of confidentiality.
+Loss of privacy.
+```
+
+```
+##### L earning from Mistakes
+
+From such incidents there are possible to learn a lot. I.e.:
+* If Artificial Intelligence via chat provide idea, that he gonna change his behavior, then its only matter of fact when cyber incident could poison its training data. 
+```
+
+```
+##### I ncident
+
+According following articles [-](https://www.delfi.lt/mokslas/technologijos/gosign-dokobit-ir-kitose-el-paraso-sistemose-buvo-aptiktos-dideles-saugumo-spragos-120332968) & [-](https://www.15min.lt/verslas/naujiena/mokslas-it/po-pranesimo-apie-saugumo-spraga-registru-centras-atnaujino-gosign-platforma-1290-2804766) exist critical issues in systems, which deploy digital signature. Institutions, that deploy specific means, i.e. "GoSign", must update their Software to fix them.  
+```
+
+```
+##### R esults
+Plausible loss of integrity.
+Plausible loss of confidentiality.
+Plausible loss of privacy.
+```
+
+```
+##### I ncident
+
+According following article [-](https://www.15min.lt/verslas/naujiena/transportas/air-baltic-isorinio-it-tiekejo-sistemose-618-tukst-keleiviu-duomenu-nutekejimas-667-2806460) external system(s) of "airBaltic" got unauthorized access to 618 thousand of requests. Affected information include: first name, last name & request number & non-sensitive information of clients.
+
+```
+
+```
+##### R esults
+Loss of integrity.
+Loss of privacy.
 ```
 
 ```
